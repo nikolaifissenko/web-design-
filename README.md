@@ -3,6 +3,44 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
+## Status (2026-08-25)
+
+**GitHub Pages is live on this repo** (Settings → Pages → Deploy from
+branch `main` / root) — every push to `main` auto-deploys. Each client's
+demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
+
+6 client demos built and live, none sold yet:
+
+| Client | Neighborhood | Contact channel | Outreach sent? |
+|---|---|---|---|
+| `barbagianni` | Pigneto | Instagram DM / phone | no |
+| `monego-pigneto` | Pigneto | Instagram DM / phone | no |
+| `tinto-lavanderia` | — | email | no |
+| `autofficina-pisino` | Collatino | email | no |
+| `tanto-pe-magna` | Garbatella | Facebook Messenger / phone | no |
+| `da-carlone` | Trastevere | Instagram DM / phone | no |
+
+Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
+angle: Nikolai as a new web designer practicing, not a sales pitch) in
+both DM/phone and email form. Barbagianni, Monego Pigneto, and Tanto pè
+Magnà have their real Instagram logo/branding applied instead of an
+invented palette (crop it from a screenshot Nikolai sends — Instagram
+and Facebook block automated fetching, confirmed repeatedly).
+
+**Next up (in progress, interrupted mid-search):** looking for more leads
+in Rome's centro storico (Monti, Campo de' Fiori, etc.) with a genuinely
+bad/dated website — was checking "Bottega dell'Artigianaio" (a watchmaker
+in Monti) when the session ended. Pick up there or start a fresh search.
+
+**Lead-finding approach that actually worked**, vs. what's below: manual
+web search (business type + neighborhood), then verify no website /
+website is bad by fetching it, then check for a public email or
+Instagram/Facebook handle before building. A dead domain (was once
+listed, no longer resolves) counts as a strong lead — check with
+`curl`/DNS, it's arguably a worse look than never having had a site.
+`find_leads.py` (Google Places API) was never actually used this way —
+requires an API key that was never set up.
+
 ## Structure
 
 - **`template/`** — the reusable site: single page, mobile-first, sections
