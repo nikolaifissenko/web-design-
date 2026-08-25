@@ -3,9 +3,10 @@
 // Luciano Pignataro Wine Blog), Facebook.
 // Sito attuale (tantopemagna.it) risulta MORTO — il dominio non si
 // risolve più (verificato via DNS/curl). Peggio che non averne uno.
-// FOTO: stock (Unsplash, licenza libera), non del locale reale —
-// sostituire con foto vere se/quando il cliente compra il sito (vedi
-// _lead.md per i crediti fonte). Prezzi non pubblicati online:
+// Logo e palette (nero/bianco) presi dal vero profilo Instagram — vedi
+// _lead.md. FOTO: stock (Unsplash, licenza libera), non del locale
+// reale — sostituire con foto vere se/quando il cliente compra il sito
+// (vedi _lead.md per i crediti fonte). Prezzi non pubblicati online:
 // confermare in loco.
 
 const SITE_CONFIG = {
@@ -13,14 +14,14 @@ const SITE_CONFIG = {
     name: "Tanto pè Magnà",
     tagline: "Cucina romana tradizionale nel cuore della Garbatella",
     logoText: "TM",
-    logoImage: "",
+    logoImage: "images/logo.jpg",
   },
 
   theme: {
-    primary: "#b5502f",
-    accent: "#2e2620",
+    primary: "#161616",
+    accent: "#2b2b2b",
     font: "'Poppins', sans-serif",
-    headingFont: "'Fraunces', serif",
+    headingFont: "'Permanent Marker', cursive",
   },
 
   hero: {
