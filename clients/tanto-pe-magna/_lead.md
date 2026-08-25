@@ -31,3 +31,20 @@ Same approach as the other 5 leads — leads with Nikolai's real story instead o
 > Nikolai
 
 Send via Facebook Messenger to the page, or call 06 5160 7422 and follow up with a message so they have the link to click.
+
+## Outreach draft — email version (no address confirmed yet)
+
+Ready to use if an email turns up (calling and asking, a business registry, etc).
+
+Subject: Un sito rifatto per Tanto pè Magnà (giusto per farvi vedere)
+
+> Buongiorno,
+>
+> Mi chiamo Nikolai. Di recente ho scoperto una vera passione per il web design — è una cosa nuova per me, ma ci sto mettendo il cuore perché spero un giorno di riuscire a farne il mio lavoro e lasciare il mio impiego attuale.
+>
+> Per fare pratica, ho scelto alcune attività di Roma che mi piacciono e ho provato a rifare i loro siti, solo per esercitarmi e imparare. Ho visto che il sito di Tanto pè Magnà non è più raggiungibile, così ve ne ho preparato uno nuovo per farvi vedere come potrebbe venire online: https://nikolaifissenko.github.io/web-design-/clients/tanto-pe-magna/
+>
+> Non c'è nessun obbligo, l'ho fatto principalmente per esercitarmi. Ma se vi piace il risultato, sarei felicissimo di completarlo con le foto vere del locale e metterlo online per voi (500€, con hosting e social media disponibili come opzione mensile se interessa). Anche solo un parere sincero mi farebbe molto piacere!
+>
+> Grazie mille per il vostro tempo,
+> Nikolai
