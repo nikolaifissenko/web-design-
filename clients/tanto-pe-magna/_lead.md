@@ -15,6 +15,7 @@
   - Sunday hours not explicitly confirmed (source only gave "Lunedì/Sabato"); assumed closed Sunday, a common pattern for a Roman trattoria — confirm before finalizing.
   - Dish prices not published anywhere — left blank in `js/config.js`, confirm in person.
   - **Photos are stock, not the real trattoria.** Free Unsplash License, no attribution required. Source photo IDs: hero `photo-1671453359294-573a40fa1921`, about `photo-1517686469429-8bdb88b9f907`, gallery `photo-1755594461640-b800c6bafdfa` / `photo-1541401154946-62f8d84bd284` / `photo-1756831567129-a7f9e6ecb436`. Swap for real photos if/when the client buys.
+  - **Aesthetic refreshed** (per Nikolai, 2026-08-25): switched off the generic template palette to a warmer terracotta/dark-brown scheme (`#b5502f` / `#2e2620`), a warm cream background instead of cold gray, and a Fraunces serif heading font — bolder and more characterful, fitting a lively affordable neighborhood trattoria.
 
 ## Outreach draft — personal story angle
 

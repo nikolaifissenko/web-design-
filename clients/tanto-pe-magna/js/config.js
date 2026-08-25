@@ -17,9 +17,10 @@ const SITE_CONFIG = {
   },
 
   theme: {
-    primary: "#7a2b28",
-    accent: "#2b211c",
+    primary: "#b5502f",
+    accent: "#2e2620",
     font: "'Poppins', sans-serif",
+    headingFont: "'Fraunces', serif",
   },
 
   hero: {

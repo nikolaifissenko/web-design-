@@ -15,6 +15,7 @@
   - One review mentioned a possible move to Via della Cisterna — current address (Via della Luce 5) is what's confirmed across most sources as of this search; worth double-checking before sending if possible.
   - Dish prices not published anywhere — left blank in `js/config.js`, confirm in person.
   - **Photos are stock, not the real trattoria.** Free Unsplash License, no attribution required. Source photo IDs: hero `photo-1671453359166-a8a2e755e20a`, about `photo-1677061856780-79db306d9e83`, gallery `photo-1683827449087-ccf5a9e6283c` / `photo-1647773254170-1369cef936a1` / `photo-1761662826410-3218852da3bf`. Swap for real photos if/when the client buys.
+  - **Aesthetic refreshed** (per Nikolai, 2026-08-25): switched off the generic template palette to a deep brick-red/dark-brown scheme (`#8f2f22` / `#26201b`), a warm cream background instead of cold gray, and a Cormorant Garamond serif heading font — classic and elegant, fitting a 20+ year heritage trattoria in Trastevere.
 
 ## Outreach draft — personal story angle
 
