@@ -1,9 +1,9 @@
 // Demo per Barbagianni — dati verificati: nome, indirizzo, telefono, orari,
 // Instagram/Facebook (RomaToday, Pigneto.it, Instagram/Facebook ufficiali).
-// PLACEHOLDER: nessuna foto reale disponibile — le immagini in images/ sono
-// segnaposto (etichettate "FOTO REALE QUI"). Sostituire prima di inviare il
-// link al cliente. Prezzi dei servizi non pubblicati online: confermare in
-// negozio prima di pubblicarli (vedi _lead.md).
+// FOTO: stock (Unsplash, licenza libera) scelte per stile barbiere, non del
+// locale reale — sostituire con foto vere del negozio se/quando il cliente
+// compra il sito (vedi _lead.md per i crediti fonte). Prezzi dei servizi non
+// pubblicati online: confermare in negozio prima di pubblicarli.
 
 const SITE_CONFIG = {
   business: {
@@ -22,7 +22,7 @@ const SITE_CONFIG = {
   hero: {
     heading: "Benvenuti da {{business.name}}",
     subheading: "Taglio, barba e tanto altro a due passi dall'isola pedonale del Pigneto",
-    backgroundImage: "images/hero-placeholder.svg",
+    backgroundImage: "images/hero.jpg",
     ctaText: "Prenota un taglio",
     ctaLink: "#contact",
   },
@@ -30,7 +30,7 @@ const SITE_CONFIG = {
   about: {
     heading: "La nostra storia",
     text: "Barbagianni è la barberia di Alì Can, rifugiato politico curdo che da anni vive nel quartiere Pigneto. Insieme a un altro giovane barbiere curdo, taglia capelli e barbe per uomini e donne. Con il tempo il negozio è diventato un punto di ritrovo per il quartiere, tra eventi e iniziative di comunità.",
-    image: "images/about-placeholder.svg",
+    image: "images/about.jpg",
   },
 
   offerings: {
@@ -45,7 +45,7 @@ const SITE_CONFIG = {
 
   gallery: {
     heading: "Galleria",
-    images: ["images/gallery-1.svg", "images/gallery-2.svg", "images/gallery-3.svg"],
+    images: ["images/gallery-1.jpg", "images/gallery-2.jpg", "images/gallery-3.jpg"],
   },
 
   hours: {

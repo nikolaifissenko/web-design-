@@ -1,10 +1,10 @@
 // Demo per Autofficina Pisino (Novacar Service Pisino Srl) — dati
 // verificati: nome, indirizzo, telefono, email, orari, servizi (dal sito
 // attuale autofficinapisino.com e schede DEKRA/Virgilio).
-// PLACEHOLDER: nessuna foto reale disponibile — le immagini in images/ sono
-// segnaposto (etichettate "FOTO REALE QUI"). Sostituire prima di inviare il
-// link al cliente. Prezzi non pubblicati online: confermare in officina
-// (vedi _lead.md).
+// FOTO: stock (Unsplash, licenza libera) scelte per stile officina, non del
+// locale reale — sostituire con foto vere se/quando il cliente compra il
+// sito (vedi _lead.md per i crediti fonte). Prezzi non pubblicati online:
+// confermare in officina.
 
 const SITE_CONFIG = {
   business: {
@@ -23,7 +23,7 @@ const SITE_CONFIG = {
   hero: {
     heading: "Benvenuti da {{business.name}}",
     subheading: "Diagnosi elettronica, riparazioni meccaniche, gomme e revisioni in zona Collatina",
-    backgroundImage: "images/hero-placeholder.svg",
+    backgroundImage: "images/hero.jpg",
     ctaText: "Prenota un intervento",
     ctaLink: "#contact",
   },
@@ -31,7 +31,7 @@ const SITE_CONFIG = {
   about: {
     heading: "Chi siamo",
     text: "Autofficina Pisino (Novacar Service Pisino) è un'officina storica del quartiere Collatino, con diagnosi elettronica e computerizzata, riparazione e manutenzione di impianti GPL, servizio gommista, revisioni e noleggio auto.",
-    image: "images/about-placeholder.svg",
+    image: "images/about.jpg",
   },
 
   offerings: {
@@ -48,7 +48,7 @@ const SITE_CONFIG = {
 
   gallery: {
     heading: "Galleria",
-    images: ["images/gallery-1.svg", "images/gallery-2.svg", "images/gallery-3.svg"],
+    images: ["images/gallery-1.jpg", "images/gallery-2.jpg", "images/gallery-3.jpg"],
   },
 
   hours: {

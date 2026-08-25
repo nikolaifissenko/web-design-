@@ -1,10 +1,11 @@
 // Demo per Tinto Lavanderia — dati verificati: nome, indirizzo, telefono,
 // email, elenco servizi (dal sito attuale tintolavanderia.it/contatti/).
-// PLACEHOLDER: nessuna foto reale disponibile — le immagini in images/ sono
-// segnaposto (etichettate "FOTO REALE QUI"). Sostituire prima di inviare il
-// link al cliente. Orari NON confermati online: chiedere in negozio e
-// compilare hours.schedule prima di pubblicare (vedi _lead.md) — lasciato
-// vuoto per ora, la sezione orari resta nascosta finché non lo si compila.
+// FOTO: stock (Unsplash, licenza libera) scelte per stile lavanderia, non
+// del locale reale — sostituire con foto vere se/quando il cliente compra
+// il sito (vedi _lead.md per i crediti fonte). Orari NON confermati online:
+// chiedere in negozio e compilare hours.schedule prima di pubblicare —
+// lasciato vuoto per ora, la sezione orari resta nascosta finché non lo si
+// compila.
 
 const SITE_CONFIG = {
   business: {
@@ -23,7 +24,7 @@ const SITE_CONFIG = {
   hero: {
     heading: "Benvenuti da {{business.name}}",
     subheading: "Lavaggio, tintoria, riparazioni sartoriali e lavaggio tendaggi — ritiro e consegna a domicilio",
-    backgroundImage: "images/hero-placeholder.svg",
+    backgroundImage: "images/hero.jpg",
     ctaText: "Contattaci",
     ctaLink: "#contact",
   },
@@ -31,7 +32,7 @@ const SITE_CONFIG = {
   about: {
     heading: "Chi siamo",
     text: "Tinto Lavanderia è un punto di riferimento per la cura dei tessuti a Roma: lavaggio, tintoria, riparazioni sartoriali e lavaggio tendaggi, con servizio di ritiro e consegna a domicilio.",
-    image: "images/about-placeholder.svg",
+    image: "images/about.jpg",
   },
 
   offerings: {
@@ -47,7 +48,7 @@ const SITE_CONFIG = {
 
   gallery: {
     heading: "Galleria",
-    images: ["images/gallery-1.svg", "images/gallery-2.svg", "images/gallery-3.svg"],
+    images: ["images/gallery-1.jpg", "images/gallery-2.jpg", "images/gallery-3.jpg"],
   },
 
   hours: {

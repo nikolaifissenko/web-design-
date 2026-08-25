@@ -1,10 +1,10 @@
 // Demo per Monego Pigneto — dati verificati: nome, indirizzo, telefono,
 // orari, elenco trattamenti, Instagram/Facebook ufficiali (Treatwell,
 // EsteticaELavoro, directory locali).
-// PLACEHOLDER: nessuna foto reale disponibile — le immagini in images/ sono
-// segnaposto (etichettate "FOTO REALE QUI"). Sostituire prima di inviare il
-// link al cliente. Prezzi trattamenti non pubblicati online: confermare in
-// negozio (vedi _lead.md).
+// FOTO: stock (Unsplash, licenza libera) scelte per stile centro estetico,
+// non del locale reale — sostituire con foto vere se/quando il cliente
+// compra il sito (vedi _lead.md per i crediti fonte). Prezzi trattamenti
+// non pubblicati online: confermare in negozio.
 
 const SITE_CONFIG = {
   business: {
@@ -23,7 +23,7 @@ const SITE_CONFIG = {
   hero: {
     heading: "Benvenuti da {{business.name}}",
     subheading: "Trattamenti viso, corpo e benessere nel quartiere Pigneto",
-    backgroundImage: "images/hero-placeholder.svg",
+    backgroundImage: "images/hero.jpg",
     ctaText: "Prenota un trattamento",
     ctaLink: "#contact",
   },
@@ -31,7 +31,7 @@ const SITE_CONFIG = {
   about: {
     heading: "Chi siamo",
     text: "Monego Pigneto è un centro estetico di riferimento nel quartiere, con trattamenti viso e corpo, manicure, pedicure e solarium, pensati per la cura e il benessere di ogni cliente.",
-    image: "images/about-placeholder.svg",
+    image: "images/about.jpg",
   },
 
   offerings: {
@@ -46,7 +46,7 @@ const SITE_CONFIG = {
 
   gallery: {
     heading: "Galleria",
-    images: ["images/gallery-1.svg", "images/gallery-2.svg", "images/gallery-3.svg"],
+    images: ["images/gallery-1.jpg", "images/gallery-2.jpg", "images/gallery-3.jpg"],
   },
 
   hours: {
