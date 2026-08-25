@@ -17,7 +17,24 @@
   - Service prices not published — left blank in `js/config.js`.
   - **Photos are stock, not the real shop.** Free Unsplash License, no attribution required. Source photo IDs: hero `photo-1757252872525-01d7703533d9`, about `photo-1760939064986-3c375dab7b49`, gallery `photo-1775210727648-9456f74dee90` / `photo-1737748612418-e39bcd6503a2` / `photo-1741176504815-75b0b79dc3c6`. Swap for real shop photos if/when the client buys.
 
-## Outreach draft (email — hevelynyuliana@hotmail.com)
+## Outreach draft — personal story angle (recommended, per Nikolai)
+
+Same approach as Barbagianni/Monego's DMs, adapted for email — leads with the real "new web designer chasing a passion" story instead of a straight sales pitch.
+
+Subject: Un sito rifatto per Tinto Lavanderia (giusto per farvi vedere)
+
+> Buongiorno,
+>
+> Mi chiamo Nikolai. Di recente ho scoperto una vera passione per il web design — è una cosa nuova per me, ma ci sto mettendo il cuore perché spero un giorno di riuscire a farne il mio lavoro e lasciare il mio impiego attuale.
+>
+> Per fare pratica, ho scelto alcune attività di Roma e ho provato a rifare i loro siti, solo per esercitarmi e imparare. Ho visto il sito di Tinto Lavanderia e ve ne ho preparato una versione più moderna e ottimizzata per il cellulare, giusto per farvi vedere come potrebbe apparire: https://nikolaifissenko.github.io/web-design-/clients/tinto-lavanderia/
+>
+> Non c'è nessun obbligo, l'ho fatto principalmente per esercitarmi. Ma se vi piace il risultato, sarei felicissimo di completarlo con foto reali dell'attività e metterlo online per voi (500€, con hosting e gestione social disponibili come opzione mensile se interessa). Anche solo un parere sincero mi farebbe molto piacere!
+>
+> Grazie mille per il vostro tempo,
+> Nikolai
+
+## Outreach draft — business pitch angle (alternate)
 
 Subject: Una proposta di rinnovo per il sito di Tinto Lavanderia
 
@@ -30,6 +47,6 @@ Subject: Una proposta di rinnovo per il sito di Tinto Lavanderia
 > Fatemi sapere se siete interessati, sarei felice di parlarne.
 >
 > Cordiali saluti,
-> [Nome]
+> Nikolai
 
-Note: their current site (tintolavanderia.it) is not bad enough to be embarrassing, so lead with "moderna e ottimizzata per il cellulare" (modern, mobile-optimized) rather than implying theirs is broken.
+Note: their current site (tintolavanderia.it) is not bad enough to be embarrassing, so both drafts lead with "moderna e ottimizzata per il cellulare" (modern, mobile-optimized) rather than implying theirs is broken.
