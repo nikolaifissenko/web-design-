@@ -16,6 +16,7 @@
     root.setProperty("--primary", cfg.theme.primary);
     root.setProperty("--accent", cfg.theme.accent);
     root.setProperty("--font", cfg.theme.font);
+    root.setProperty("--heading-font", cfg.theme.headingFont || cfg.theme.font);
     document.title = cfg.business.name;
     const desc = document.querySelector('meta[name="description"]');
     if (desc) desc.setAttribute("content", `${cfg.business.name} — ${cfg.hero.subheading || ""}`);

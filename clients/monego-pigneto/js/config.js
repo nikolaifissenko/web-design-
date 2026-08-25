@@ -5,19 +5,22 @@
 // non del locale reale — sostituire con foto vere se/quando il cliente
 // compra il sito (vedi _lead.md per i crediti fonte). Prezzi trattamenti
 // non pubblicati online: confermare in negozio.
+// Logo, palette (nero/bianco) e tagline presi dal vero profilo Instagram
+// @monegopigneto — vedi _lead.md.
 
 const SITE_CONFIG = {
   business: {
     name: "Monego Pigneto",
-    tagline: "Centro estetico nel cuore del Pigneto",
+    tagline: "L'evoluzione della bellezza",
     logoText: "MP",
-    logoImage: "",
+    logoImage: "images/logo.jpg",
   },
 
   theme: {
-    primary: "#8a3f5c",
-    accent: "#2e2230",
+    primary: "#161616",
+    accent: "#2b2b2b",
     font: "'Poppins', sans-serif",
+    headingFont: "'Playfair Display', serif",
   },
 
   hero: {

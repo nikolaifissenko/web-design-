@@ -4,19 +4,22 @@
 // locale reale — sostituire con foto vere del negozio se/quando il cliente
 // compra il sito (vedi _lead.md per i crediti fonte). Prezzi dei servizi non
 // pubblicati online: confermare in negozio prima di pubblicarli.
+// Logo e palette (nero/bianco) presi dal vero profilo Instagram
+// @barbagianni_haircuts_shaves_ — vedi _lead.md.
 
 const SITE_CONFIG = {
   business: {
     name: "Barbagianni",
     tagline: "Barbiere e parrucchiere nel cuore del Pigneto",
     logoText: "BG",
-    logoImage: "",
+    logoImage: "images/logo.jpg",
   },
 
   theme: {
-    primary: "#8a3a26",
-    accent: "#2b2019",
+    primary: "#161616",
+    accent: "#2e2b28",
     font: "'Poppins', sans-serif",
+    headingFont: "'Oswald', sans-serif",
   },
 
   hero: {

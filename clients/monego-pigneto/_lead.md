@@ -14,6 +14,7 @@
   - No email found anywhere public — outreach needs to be by phone or Instagram DM.
   - Treatment prices are not published anywhere online — confirm in person, currently left blank in `js/config.js`.
   - **Photos are stock, not the real salon.** Free Unsplash License, no attribution required. Source photo IDs: hero `photo-1781450090585-1a511b7066d9`, about `photo-1552693673-1bf958298935`, gallery `photo-1731514771613-991a02407132` / `photo-1727199433231-346fd8101839` / `photo-1761718209794-e0588aafbcc4`. Swap for real salon photos if/when the client buys.
+  - **Logo, palette, and tagline ARE real** — cropped from the actual @monegopigneto Instagram profile picture (Nikolai sent a screenshot since the page itself is login-walled to automated requests). Saved as `images/logo.jpg`. Tagline updated to their real one, "L'evoluzione della bellezza." Theme switched to true black/white (`#161616` / `#2b2b2b`) to match, plus a Playfair Display heading font to echo the logo's elegant script feel.
 
 ## Outreach draft (Instagram DM or phone — no email found)
 

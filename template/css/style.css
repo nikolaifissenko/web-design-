@@ -2,6 +2,7 @@
   --primary: #c0392b;
   --accent: #2c3e50;
   --font: 'Poppins', sans-serif;
+  --heading-font: 'Poppins', sans-serif;
   --text: #222;
   --text-light: #666;
   --bg: #fff;
@@ -57,7 +58,7 @@ img { max-width: 100%; display: block; }
   gap: 8px;
 }
 
-.logo-image { height: 40px; width: auto; }
+.logo-image { height: 40px; width: 40px; border-radius: 50%; object-fit: cover; }
 
 .nav {
   display: flex;
@@ -107,6 +108,7 @@ img { max-width: 100%; display: block; }
 }
 
 .hero h1 {
+  font-family: var(--heading-font);
   font-size: clamp(2rem, 6vw, 3.2rem);
   font-weight: 700;
   margin-bottom: 16px;
@@ -145,6 +147,7 @@ img { max-width: 100%; display: block; }
 }
 
 .section h2 {
+  font-family: var(--heading-font);
   font-size: clamp(1.6rem, 4vw, 2.2rem);
   color: var(--accent);
   margin-bottom: 30px;

@@ -15,6 +15,7 @@
   - Service prices are not published anywhere online — confirm in person before finalizing the site, they're currently left blank in `js/config.js`.
   - Good pitch angle: the shop's community story (opened by a Kurdish refugee, became a neighborhood hub) — worth a line in the outreach message.
   - **Photos are stock, not the real shop** (Nikolai's call — this demo is meant to show what the site *could* look like, not a finished product). Free Unsplash License, no attribution required. Source photo IDs: hero `photo-1675599193990-33d71150902b`, about `photo-1770253980732-dfed1cfdfa43`, gallery `photo-1759134248487-e8baaf31e33e` / `photo-1682989356229-a244c8903492` / `photo-1764712784236-7019d1565cb7`. Swap for real shop photos if/when the client buys.
+  - **Logo and palette ARE real** — cropped from the actual @barbagianni_haircuts_shaves_ Instagram profile picture (Nikolai sent a screenshot since the page itself is login-walled to automated requests). Saved as `images/logo.jpg`. Theme switched to true black/white (`#161616` / `#2e2b28`) to match, plus an Oswald heading font to echo the logo's bold vintage-barbershop type.
 
 ## Outreach draft (Instagram DM or phone — no email found)
 
