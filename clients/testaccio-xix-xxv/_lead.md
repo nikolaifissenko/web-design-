@@ -7,9 +7,9 @@
 - **Current website:** testaccio19-25.com — returns **HTTP 503 Service Unavailable** on two separate checks. Domain is registered but the server isn't serving pages right now. Worse than a bad design: it's currently invisible to anyone searching for the place.
 - **⚠️ IMPORTANT — found 2026-08-26, after the outreach email was already sent:** they also have **testaccio19-25.it** (note: `.it`, not `.com`), and that one is alive and working (HTTP 200, modern site, real photos). The outreach email sent to info@testaccio19-25.com only mentions the dead `.com` — if they reply pointing at the working `.it` site, that's expected and not a mistake on our end (the `.com` genuinely is down), but acknowledge it gracefully rather than being caught off guard. Might be worth a brief non-defensive follow-up noting we know about `.it` too if a reply raises it.
 - **Sources:** bed-and-breakfast.it, PagineBianche (name, address, phone). Direct site check via WebFetch (503 both times).
-- **Status:** outreach-sent (email sent 2026-08-26 to info@testaccio19-25.com — Gmail message ID `1a03c23e015009d6`)
+- **Status:** replied-not-interested (see Response below)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/testaccio-xix-xxv/
-- **Response:** no reply yet (re-checked 2026-08-26, ~40-50 min after sending)
+- **Response:** **Replied 2026-08-26, ~1h45m after sending.** Polite decline, not hostile, door left open: "Grazie Nikolai, al momento stiamo bene così, se dovessimo avere necessità dei tuoi servizi, ora abbiamo il tuo contatto. In bocca al lupo! Grazie e buona giornata!" (from info@testaccio19-25.com). Translation: "Thanks Nikolai, we're doing fine as-is for now, if we ever need your services we have your contact. Good luck! Thanks and have a good day!" No mention of the `.it`/`.com` domain mix-up flagged above — they didn't push back on the "your site is down" framing, just weren't interested. Nothing further to do here unless Nikolai wants a brief non-pushy thank-you reply; otherwise treat as closed for now.
 - **Sold:** no
 - **Notes:**
   - Room count/interior details not confirmed anywhere public — copy kept generic in `config.js`, confirm with owner before finalizing a sale.

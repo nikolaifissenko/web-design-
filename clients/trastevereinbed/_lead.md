@@ -8,7 +8,7 @@
 - **Sources:** bed-and-breakfast.it (name, address, phone, email). Fetched the live site directly to confirm design quality and pull brand color.
 - **Status:** outreach-sent (email sent 2026-08-26 to trastevereinbed@hotmail.com — Gmail message ID `1a03c244357ac998`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/trastevereinbed/
-- **Response:** no reply yet (re-checked 2026-08-26, ~40-50 min after sending)
+- **Response:** no reply yet (re-checked 2026-08-26, ~1h45m after sending)
 - **Sold:** no
 - **Notes:**
   - **No real photos available.** The site's only other image asset (`bg.jpg`) returns 404 — removed from their server. Used the same Unsplash stock set as the earlier Testaccio B&B batch.

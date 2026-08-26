@@ -19,7 +19,7 @@ demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 | `autofficina-pisino` | autofficina | Collatino | email | **yes** (2026-08-26) |
 | `tanto-pe-magna` | trattoria | Garbatella | Facebook Messenger / phone | no |
 | `da-carlone` | trattoria | Trastevere | Instagram DM / phone | no |
-| `testaccio-xix-xxv` | B&B | Testaccio | email (site was 503, own domain) | **yes** (2026-08-26) |
+| `testaccio-xix-xxv` | B&B | Testaccio | email (site was 503, own domain) | **replied — not interested** (2026-08-26) |
 | `a-testaccio-da-max` | B&B | Testaccio | WhatsApp/phone (no site at all) | no |
 | `la-casa-sugli-alberi` | B&B | Testaccio | phone only (no email/site found) | no |
 | `trastevereinbed` | B&B | Trastevere | email (verified) | **yes** (2026-08-26) |
@@ -155,16 +155,23 @@ like a professional web designer"):
    Screenshots + exact text are ready in each `_lead.md`.
 2. **Nikolai to call** La Casa sugli Alberi (landline only) and
    A Testaccio da Max (WhatsApp) — drafts ready.
-3. **Check the 6 sent-email threads for replies when Nikolai asks — not on
-   an automated schedule.** A Routine was set up to auto-check periodically
-   but its Gmail connector didn't attach (confirmed via a warning at
-   creation, and the trigger-management tools to fix/delete it weren't
-   available in a later session — environment-dependent, may or may not
-   be there next time). Don't assume it's running. When asked, use
-   `get_thread` on the 6 IDs logged in each `_lead.md`'s Status line,
-   update `Response:` there + `leads.csv` the moment a reply comes in,
-   whatever the answer. Last manually checked 2026-08-26 ~50 min after
-   sending — all 6 still silent.
+3. **First real reply came in — Testaccio XIX-XXV declined.** "Grazie
+   Nikolai, al momento stiamo bene così... In bocca al lupo!" — polite,
+   not interested right now, door left open ("ora abbiamo il tuo
+   contatto"). No pushback on the `.com`/`.it` domain mix-up noted above.
+   `Status`/`Response` updated to `replied-not-interested`; treat as
+   closed unless Nikolai wants to send a brief thank-you. The other 5
+   threads (Autofficina Pisino, Tinto Lavanderia, Trastevereinbed, Una
+   Finestra su Monti, Roma Trasteverina) are still silent as of this
+   check (~1h45m after sending).
+   Correction to an earlier note in this file: the auto-check Routine
+   ("Check Rome outreach email replies", fires every 4h) was flagged
+   earlier as possibly broken (a connector warning at creation time made
+   it look like it wouldn't have Gmail access) — it actually fired and
+   worked correctly, catching this exact reply. So it may be running
+   fine after all; still worth a manual check with `get_thread` on the 6
+   IDs logged in each `_lead.md` if you want certainty, rather than
+   assuming either way.
 4. Real photos still wanted for Monego Pigneto, A Testaccio da Max, La
    Casa sugli Alberi — the automated routes are exhausted and documented;
    next real progress there needs a screenshot from Nikolai (Instagram) or
