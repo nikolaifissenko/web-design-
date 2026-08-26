@@ -155,9 +155,16 @@ like a professional web designer"):
    Screenshots + exact text are ready in each `_lead.md`.
 2. **Nikolai to call** La Casa sugli Alberi (landline only) and
    A Testaccio da Max (WhatsApp) — drafts ready.
-3. Check the 6 sent-email threads for replies periodically (`get_thread`/
-   `search_threads`), update `Response:` in the relevant `_lead.md` +
-   `leads.csv` the moment one comes in, whatever the answer.
+3. **Check the 6 sent-email threads for replies when Nikolai asks — not on
+   an automated schedule.** A Routine was set up to auto-check periodically
+   but its Gmail connector didn't attach (confirmed via a warning at
+   creation, and the trigger-management tools to fix/delete it weren't
+   available in a later session — environment-dependent, may or may not
+   be there next time). Don't assume it's running. When asked, use
+   `get_thread` on the 6 IDs logged in each `_lead.md`'s Status line,
+   update `Response:` there + `leads.csv` the moment a reply comes in,
+   whatever the answer. Last manually checked 2026-08-26 ~50 min after
+   sending — all 6 still silent.
 4. Real photos still wanted for Monego Pigneto, A Testaccio da Max, La
    Casa sugli Alberi — the automated routes are exhausted and documented;
    next real progress there needs a screenshot from Nikolai (Instagram) or
