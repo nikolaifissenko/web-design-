@@ -9,7 +9,8 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 branch `main` / root) — every push to `main` auto-deploys. Each client's
 demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 
-12 client demos built and live, none sold yet:
+11 client demos built and live, none sold yet (1 more — Testaccio XIX-XXV —
+declined and demo removed, see below):
 
 | Client | Sector | Neighborhood | Contact channel | Outreach sent? |
 |---|---|---|---|---|
@@ -19,7 +20,6 @@ demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 | `autofficina-pisino` | autofficina | Collatino | email | **yes** (2026-08-26) |
 | `tanto-pe-magna` | trattoria | Garbatella | Facebook Messenger / phone | no |
 | `da-carlone` | trattoria | Trastevere | Instagram DM / phone | no |
-| `testaccio-xix-xxv` | B&B | Testaccio | email (site was 503, own domain) | **replied — not interested** (2026-08-26) |
 | `a-testaccio-da-max` | B&B | Testaccio | WhatsApp/phone (no site at all) | no |
 | `la-casa-sugli-alberi` | B&B | Testaccio | phone only (no email/site found) | no |
 | `trastevereinbed` | B&B | Trastevere | email (verified) | **yes** (2026-08-26) |
