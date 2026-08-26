@@ -14,9 +14,9 @@
   candidati scartati: Arduini Artigiani del Ferro (WordPress 7.1, già
   moderno — falso positivo) e un tentativo di verificare Liuteria
   Ranieri (HTTP 202, non caricato).
-- **Status:** demo-built
-- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/il-fabbro-artigiano/
-- **Response:** n/a — outreach not sent yet
+- **Status:** outreach-sent (email sent 2026-08-26 to varmricciardella@gmail.com — Gmail message ID `1a0402299dd76f83`)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/il-fabbro-artigiano/ (verified live immediately before sending)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - **Solo 1 foto reale disponibile, usata in `about`.** La vera galleria
@@ -48,7 +48,7 @@
     email trovata**, solo un modulo di contatto. Non costruito per
     questo — vedi la lista "no-email leads" nel README principale.
 
-## Outreach draft — email (not sent yet)
+## Outreach email (sent 2026-08-26)
 
 > Buongiorno, sono Nikolai, web designer freelance qui a Roma.
 >

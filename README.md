@@ -32,7 +32,7 @@ declined and demo removed, see below):
 | `antica-cappelleria-lombardi` | cappelleria (artisan) | Esquilino | email (verified) | **yes** (2026-08-26) |
 | `fratelli-anzilotti` | restauro mobili (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 | `tappezzeria-de-matthaeis` | tappezziere (artisan) | Montesacro | email (verified) | **yes** (2026-08-26) |
-| `il-fabbro-artigiano` | fabbro (artisan) | zona Sassonegro | email (verified) | no |
+| `il-fabbro-artigiano` | fabbro (artisan) | zona Sassonegro | email (verified) | **yes** (2026-08-26) |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -378,26 +378,45 @@ legitimate documented stock use this session:**
   Checked and skipped Arduini Artigiani del Ferro (WordPress 7.1,
   already modern) as a false positive.
 
-**Next up:**
-1. **Nikolai to actually send the 4 DM messages** (Barbagianni, Monego
-   Pigneto, Da Carlone, Tanto pè Magnà) — Claude can't send Instagram DMs.
+## Session closed 2026-08-26 — status as of here, pick up from this list
+
+**19 demos built, 12 of them emailed** (every client with a verified
+email now has outreach sent — nothing pending on Claude's side).
+**1 reply so far**: Testaccio XIX-XXV declined, demo removed. The other
+11 sent threads are all still silent as of this session's last check.
+
+**Next up (in priority order):**
+1. **Nikolai to send the 4 DM messages** (Barbagianni, Monego Pigneto,
+   Da Carlone, Tanto pè Magnà) — Claude cannot send Instagram DMs.
    Screenshots + exact text are ready in each `_lead.md`.
-2. **Nikolai to call** La Casa sugli Alberi (landline only), A Testaccio
-   da Max (WhatsApp), and **Artigianaio Orologi** (phone only, no other
-   channel exists) — drafts ready in each `_lead.md`.
-3. Sartoria Carbone and Antica Legatoria Del Vico outreach emails are
-   sent — just waiting on replies now, same as the earlier 5.
+2. **Nikolai to call/WhatsApp the phone-only clients**: La Casa sugli
+   Alberi (landline), A Testaccio da Max (WhatsApp), Artigianaio Orologi
+   (phone only, no other channel found) — drafts ready in each `_lead.md`.
+3. **Nikolai to work the 4 no-email leads found but not built** (see
+   "No-email leads found, not built" above): Ombrelli Domizio,
+   Gioielleria Marcelli, Gloves Alberta, Amenio Raponi. Find an
+   Instagram/email or call directly — once a channel exists, a future
+   session can build the demo.
 4. Real photos still wanted for Monego Pigneto, A Testaccio da Max, La
-   Casa sugli Alberi — the automated routes are exhausted and documented;
-   next real progress there needs a screenshot from Nikolai (Instagram) or
-   from someone who can actually load Tripadvisor.
-5. Artisan sector is now 3-for-5 on leads found via plain web search
-   (sartoria, orologiaio, legatoria hit; calzoleria and a second
-   legatoria were false positives — already-good sites, skipped) — still
-   worth continuing here (orafo, corniciaio) or returning to B&Bs/
-   trattorie in new neighborhoods. Branding extraction (real
-   logo/colors/photos before stock, "design one from scratch if nothing
-   real exists at all" for logos) stays automatic for every new client.
+   Casa sugli Alberi — automated routes exhausted and documented; next
+   progress needs a screenshot from Nikolai (Instagram) or from someone
+   who can load Tripadvisor.
+5. **Next session: a new session should re-check all 11 silent threads
+   first** (`get_thread` on the Gmail message IDs in each `_lead.md`)
+   before doing anything else — a reply may change what's worth building
+   next.
+6. Artisan sector has been productive via plain web search (sartoria,
+   orologiaio, legatoria, corniciaio, cappelleria, restauro mobili,
+   tappezziere, fabbro all hit; several false positives skipped along
+   the way, listed inline above) — worth continuing (orafo, calzolaio,
+   ceramista) or returning to B&Bs/trattorie in new neighborhoods.
+   Branding extraction (real logo/colors/photos before stock, design one
+   from scratch if nothing real exists, stock only when a real source is
+   checked and either absent or technically unreachable) stays automatic
+   for every new client. **Always verify the actual
+   `nikolaifissenko.github.io` URL returns 200 before sending outreach —
+   a demo committed only to a feature branch will 404 even though it
+   renders fine locally** (see the incident logged above).
 
 **Lead-finding approach that actually worked**, vs. what's below: manual
 web search (business type + neighborhood), then verify no website /
