@@ -6,19 +6,21 @@ serves from `main` only; a demo sitting on an unmerged branch will 404
 even though it renders fine locally — check the real URL with `curl` before
 sending, every time). Keep it short — the demo does the selling.
 
-**Persona (updated 2026-08-26, per Nikolai): professional, not a beginner.**
-Earlier drafts on this repo opened with "I just discovered a passion for
-web design, it's new to me, I hope to make it my job someday" — a
-practicing-beginner framing. Nikolai asked to drop that: present as a
-working web designer who does this for a living, keeping the genuine
-passion/care but losing the "noob/still learning" angle entirely. Below is
-the current standard opening in both languages.
+**Persona (updated 2026-08-26, refined same day): professional, full stop
+— no justification clause either.** First pass: earlier drafts opened
+with "I just discovered a passion for web design, it's new to me, I hope
+to make it my job someday" — a practicing-beginner framing. Nikolai asked
+to drop that in favor of "web designer freelance... è un lavoro che
+faccio con cura, perché ci credo" — better, but still explaining/
+justifying the job, which reads a little like someone building a case
+for themselves. **Second pass, Nikolai's actual instruction: just say
+"I'm a web designer." No preamble about passion or care — a real
+professional states what he does and moves straight to the point.**
+Below is the current standard opening in both languages.
 
 ---
 
-Buongiorno, sono Nikolai, web designer freelance qui a Roma. Lavoro con
-piccole attività della città per portarle online con un sito che le
-rappresenti davvero — è un lavoro che faccio con cura, perché ci credo.
+Buongiorno, sono Nikolai, web designer freelance qui a Roma.
 
 [1-2 frasi sul problema specifico riscontrato sul loro sito attuale — es.
 non si carica da telefono, è fermo a 10 anni fa, contiene ancora testo
@@ -43,9 +45,7 @@ Nikolai
 
 English equivalent:
 
-Hi [Owner Name], I'm Nikolai, a freelance web designer in Rome. I work
-with small local businesses to get them online with a site that actually
-represents them well.
+Hi [Owner Name], I'm Nikolai, a freelance web designer in Rome.
 
 [1-2 sentences on the specific, verifiable problem with their current
 site.]
@@ -68,10 +68,10 @@ Thanks for your time,
 
 ## Notes
 
-- **Professional tone, not beginner/practicing** (see persona note above)
-  — still warm and personal, not corporate, just not framed as a student
-  project. Lead with the specific, checkable problem on their current
-  site, not a vague "I noticed your site could be better."
+- **State the role, then move on — no beginner framing, no justification
+  clause either** (see persona note above). "Sono Nikolai, web designer
+  freelance qui a Roma." Full stop, straight into the specific observation
+  about their site. Not a vague "I noticed your site could be better."
 - Lead with the live link, not a pitch — most owners will click before reading.
 - If no reply in ~4-5 days, one polite follow-up, then move on.
 - **For Instagram/Facebook DM outreach specifically: attach a screenshot of
