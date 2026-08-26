@@ -9,8 +9,9 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 branch `main` / root) — every push to `main` auto-deploys. Each client's
 demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 
-19 client demos built and live, none sold yet (1 more — Testaccio XIX-XXV —
-declined and demo removed, see below):
+18 client demos built and live, none sold yet (2 more removed: Testaccio
+XIX-XXV — declined; Artigianaio Orologi — pulled since it had no contact
+channel at all, see below):
 
 | Client | Sector | Neighborhood | Contact channel | Outreach sent? |
 |---|---|---|---|---|
@@ -26,7 +27,6 @@ declined and demo removed, see below):
 | `roma-trasteverina` | B&B | Trastevere | email (found 2026-08-26) | **yes** (2026-08-26) |
 | `una-finestra-su-monti` | B&B | Monti | email (verified) | **yes** (2026-08-26) |
 | `sartoria-carbone` | sartoria (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
-| `artigianaio-orologi` | orologiaio (artisan) | Rione Monti | phone only (no email/site/social found) | no |
 | `antica-legatoria-del-vico` | legatoria (artisan) | Centro storico (Navona) | email (verified) | **yes** (2026-08-26) |
 | `consorti-cornici` | corniciaio (artisan) | Balduina | email (verified) | **yes** (2026-08-26) |
 | `antica-cappelleria-lombardi` | cappelleria (artisan) | Esquilino | email (verified) | **yes** (2026-08-26) |
@@ -203,14 +203,14 @@ both fully real or honestly-substituted branding, zero shortcuts:**
   drew a new one from scratch: a navy-and-antique-gold pocket-watch face
   icon (PIL `ImageDraw`), deliberately circular so it fills the
   template's logo slot with zero cropping compromise.
-- Both `_lead.md`s document exactly what's real vs. substituted, same
-  convention as every prior client. Neither outreach email/DM sent yet —
-  Sartoria Carbone has a verified email, Artigianaio Orologi has phone
-  only. Both nav bars localized to Italian (Chi siamo/Galleria/Orari/
-  Contatti) — the shared template ships these 4 words hardcoded in
-  English in `index.html` (not driven by `config.js`), true of every
-  existing client too; fixed on just these two rather than scope-creeping
-  into the other 11.
+  **Removed 2026-08-26 (later same session)** — see the removal note
+  after Round 8 below; kept here as a record of the work.
+- Sartoria Carbone's `_lead.md` documents exactly what's real vs.
+  substituted, same convention as every client. Both nav bars were
+  localized to Italian (Chi siamo/Galleria/Orari/Contatti) — the shared
+  template ships these 4 words hardcoded in English in `index.html` (not
+  driven by `config.js`), true of every existing client too; fixed on
+  just these two rather than scope-creeping into the other 11.
 
 **Round 5 (2026-08-26, same day) — 1 more artisan demo:**
 
@@ -378,20 +378,39 @@ legitimate documented stock use this session:**
   Checked and skipped Arduini Artigiani del Ferro (WordPress 7.1,
   already modern) as a false positive.
 
+**Artigianaio Orologi removed (2026-08-26, later same session).** Built
+in Round 4 (see above) as a genuinely strong lead — zero digital
+presence at all, a real story — but it turned out to have no contact
+channel whatsoever: no email, no Instagram/Facebook, no website, and no
+phone/WhatsApp number Nikolai had actually confirmed reachable. Nikolai
+asked for a DM draft, then decided to pull the client rather than leave
+a demo sitting live with no realistic path to delivering it. Removed the
+whole `clients/artigianaio-orologi/` folder — nothing of it survives
+except this note and the Round 4 write-up above (kept as a record of the
+work, including the custom pocket-watch logo design, in case the lead is
+revisited later with an actual number in hand). Same treatment as
+Testaccio XIX-XXV: delete outright rather than leave a dead demo live.
+If Nikolai does get a number for Daniele Merelli (06 4742284) later,
+rebuilding is quick — the branding/photo research in the old Round 4
+notes above is all still valid, only the files need recreating.
+
 ## Session closed 2026-08-26 — status as of here, pick up from this list
 
-**19 demos built, 12 of them emailed** (every client with a verified
-email now has outreach sent — nothing pending on Claude's side).
-**1 reply so far**: Testaccio XIX-XXV declined, demo removed. The other
-11 sent threads are all still silent as of this session's last check.
+**18 demos built, all 12 with a verified email have been emailed**
+(nothing pending on Claude's side for any client that has a working
+contact channel). **1 reply so far**: Testaccio XIX-XXV declined, demo
+removed. The other 11 sent threads are all still silent as of this
+session's last check. Artigianaio Orologi was built, then removed later
+the same session (no usable contact channel — see note above) — it is
+**not** one of the 18 live demos.
 
 **Next up (in priority order):**
 1. **Nikolai to send the 4 DM messages** (Barbagianni, Monego Pigneto,
    Da Carlone, Tanto pè Magnà) — Claude cannot send Instagram DMs.
    Screenshots + exact text are ready in each `_lead.md`.
 2. **Nikolai to call/WhatsApp the phone-only clients**: La Casa sugli
-   Alberi (landline), A Testaccio da Max (WhatsApp), Artigianaio Orologi
-   (phone only, no other channel found) — drafts ready in each `_lead.md`.
+   Alberi (landline), A Testaccio da Max (WhatsApp) — drafts ready in
+   each `_lead.md`.
 3. **Nikolai to work the 4 no-email leads found but not built** (see
    "No-email leads found, not built" above): Ombrelli Domizio,
    Gioielleria Marcelli, Gloves Alberta, Amenio Raponi. Find an
