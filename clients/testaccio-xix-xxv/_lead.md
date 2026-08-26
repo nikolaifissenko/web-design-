@@ -9,7 +9,7 @@
 - **Sources:** bed-and-breakfast.it, PagineBianche (name, address, phone). Direct site check via WebFetch (503 both times).
 - **Status:** outreach-sent (email sent 2026-08-26 to info@testaccio19-25.com — Gmail message ID `1a03c23e015009d6`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/testaccio-xix-xxv/
-- **Response:** no reply yet (checked 2026-08-26, shortly after sending — too early to expect one)
+- **Response:** no reply yet (re-checked 2026-08-26, ~40-50 min after sending)
 - **Sold:** no
 - **Notes:**
   - Room count/interior details not confirmed anywhere public — copy kept generic in `config.js`, confirm with owner before finalizing a sale.
