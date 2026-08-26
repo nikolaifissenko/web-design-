@@ -9,7 +9,7 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 branch `main` / root) — every push to `main` auto-deploys. Each client's
 demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 
-17 client demos built and live, none sold yet (1 more — Testaccio XIX-XXV —
+18 client demos built and live, none sold yet (1 more — Testaccio XIX-XXV —
 declined and demo removed, see below):
 
 | Client | Sector | Neighborhood | Contact channel | Outreach sent? |
@@ -31,6 +31,7 @@ declined and demo removed, see below):
 | `consorti-cornici` | corniciaio (artisan) | Balduina | email (verified) | **yes** (2026-08-26) |
 | `antica-cappelleria-lombardi` | cappelleria (artisan) | Esquilino | email (verified) | **yes** (2026-08-26) |
 | `fratelli-anzilotti` | restauro mobili (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
+| `tappezzeria-de-matthaeis` | tappezziere (artisan) | Montesacro | email (verified) | no |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -327,6 +328,26 @@ directly, per his request this round:**
   blocked (Cloudflare challenge, HTTP 202 with no content), so site
   quality/email presence couldn't be confirmed from here. Worth a manual
   look or call: gioielleriamarcelli.it.
+- **Gloves Alberta** (Alberta Migliaccio) — historic handmade leather
+  glove shop, Corso Vittorio Emanuele II 18/A (central Rome, a major
+  street). Phone: 06 6785753. No website, no email found anywhere —
+  Facebook page only (facebook.com/GlovesAlbertaRoma). A rare, dying
+  trade — strong personal-story potential.
+
+**Round 7 (2026-08-26, same day) — 1 more artisan demo:**
+
+- **`tappezzeria-de-matthaeis`** (Tappezzeria De Matthaeis, Via Gran
+  Sasso, Montesacro) — upholstery/curtain workshop, founded in the 1960s
+  by Vittorio De Matthaeis, now run by his sons Marco and Stefano. Real
+  site is visually stuck in early-2000s static-HTML style, but sits on
+  top of 100+ real job photos (EXIF-verified, genuine client cameras)
+  plus a great showroom shot — none of it given any real design
+  treatment. Used 5 of those real photos for the demo (one cropped to
+  remove a watermark). No usable logo existed — the only graphic on
+  their site is an outdated "60 Anni 2020" anniversary badge, not a
+  business mark — so a new armchair icon was drawn using the maroon/gold
+  sampled from their real CSS. Checked and skipped Claudio Radicchi
+  (tappezziere) as a false positive — already a well-designed site.
 
 **Next up:**
 1. **Nikolai to actually send the 4 DM messages** (Barbagianni, Monego
