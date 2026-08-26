@@ -2,10 +2,13 @@
 // telefono, orari (RomaToday, TrovaAperto, Tripadvisor/Yelp), Instagram.
 // Sito attuale (dacarlonetrastevere.it) risulta MORTO — il dominio non
 // si risolve più (verificato via DNS/curl). Peggio che non averne uno.
-// FOTO: stock (Unsplash, licenza libera), non del locale reale —
-// sostituire con foto vere se/quando il cliente compra il sito (vedi
-// _lead.md per i crediti fonte). Prezzi non pubblicati online:
-// confermare in loco.
+// FOTO: reali (non stock). Instagram è irraggiungibile da fetch
+// automatico (SPA lato client, conferma ulteriore del blocco già noto),
+// quindi trovate tramite un servizio editoriale dedicato a questo
+// locale (flawless.life — foto scattate con Canon EOS, EXIF verificato):
+// hero = tavoli all'aperto in Via della Luce, about = pasta saltata in
+// padella, gallery-1 = cacio e pepe impiattata. Vedi _lead.md per URL
+// sorgente. Prezzi non pubblicati online: confermare in loco.
 
 const SITE_CONFIG = {
   business: {
@@ -49,7 +52,7 @@ const SITE_CONFIG = {
 
   gallery: {
     heading: "Galleria",
-    images: ["images/gallery-1.jpg", "images/gallery-2.jpg", "images/gallery-3.jpg"],
+    images: ["images/gallery-1.jpg"],
   },
 
   hours: {

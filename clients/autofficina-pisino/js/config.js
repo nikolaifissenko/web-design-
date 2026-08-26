@@ -8,13 +8,15 @@
 // l'icona o il testo, quindi non riutilizzato come logoImage. COLORE
 // reale ripreso dal CSS del loro sito: teal/ciano #68ccd1 (qui leggermente
 // scurito per contrasto testo) e il carbone/nero del logo come accent —
-// non inventati. FOTO: controllate le foto del sito reale (meccanico sotto
-// il ponte sollevatore, dettaglio ruota) — sono anch'esse stock generico
-// (stile fotografia da agenzia), non foto vere dell'officina. Restano
-// quindi le foto stock (Unsplash, licenza libera) già scelte in precedenza
-// — sostituire con foto vere se/quando il cliente compra il sito (vedi
-// _lead.md per i crediti fonte). Prezzi non pubblicati online: confermare
-// in officina.
+// non inventati. FOTO hero/about: le stesse foto presenti sul loro sito
+// reale (meccanico sotto il ponte sollevatore, dettaglio ruota) — per
+// stile sono fotografia da agenzia/stock, non scatti dell'officina reale,
+// ma sono letteralmente le immagini che il cliente ha scelto per
+// rappresentarsi online, quindi riprese qui su indicazione di Nikolai
+// (coerenza con la loro identità visiva attuale). Gallery resta stock
+// (Unsplash, licenza libera) — sostituire tutto con foto vere se/quando
+// il cliente compra il sito (vedi _lead.md per i crediti fonte). Prezzi
+// non pubblicati online: confermare in officina.
 
 const SITE_CONFIG = {
   business: {

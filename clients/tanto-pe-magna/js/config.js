@@ -4,10 +4,15 @@
 // Sito attuale (tantopemagna.it) risulta MORTO — il dominio non si
 // risolve più (verificato via DNS/curl). Peggio che non averne uno.
 // Logo e palette (nero/bianco) presi dal vero profilo Instagram — vedi
-// _lead.md. FOTO: stock (Unsplash, licenza libera), non del locale
-// reale — sostituire con foto vere se/quando il cliente compra il sito
-// (vedi _lead.md per i crediti fonte). Prezzi non pubblicati online:
-// confermare in loco.
+// _lead.md. Instagram stesso è irraggiungibile da fetch automatico (SPA
+// lato client, nessuna foto statica recuperabile) — confermato di nuovo
+// in questa sessione. FOTO about.jpg: reale (non stock), un piatto di
+// cacio e pepe / gricia scattato per un articolo RomaToday dedicato a
+// questo locale, ritagliato per rimuovere il watermark "ROMATODAY".
+// hero/gallery restano stock (Unsplash, licenza libera) — nessun'altra
+// foto verificabile del locale trovata. Sostituire con foto vere
+// se/quando il cliente compra il sito (vedi _lead.md per i crediti
+// fonte). Prezzi non pubblicati online: confermare in loco.
 
 const SITE_CONFIG = {
   business: {
