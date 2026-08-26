@@ -31,7 +31,7 @@ declined and demo removed, see below):
 | `consorti-cornici` | corniciaio (artisan) | Balduina | email (verified) | **yes** (2026-08-26) |
 | `antica-cappelleria-lombardi` | cappelleria (artisan) | Esquilino | email (verified) | **yes** (2026-08-26) |
 | `fratelli-anzilotti` | restauro mobili (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
-| `tappezzeria-de-matthaeis` | tappezziere (artisan) | Montesacro | email (verified) | no |
+| `tappezzeria-de-matthaeis` | tappezziere (artisan) | Montesacro | email (verified) | **yes** (2026-08-26) |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in

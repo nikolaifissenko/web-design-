@@ -15,9 +15,9 @@
   direttamente per contatti/immagini/colori. Un candidato collegato
   scartato come falso positivo: Claudio Radicchi (già un sito
   professionale ben curato).
-- **Status:** demo-built
-- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/tappezzeria-de-matthaeis/
-- **Response:** n/a — outreach not sent yet
+- **Status:** outreach-sent (email sent 2026-08-26 to info@tappezzeriadematthaeis.it — Gmail message ID `1a040187ac7b0ae7`)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/tappezzeria-de-matthaeis/ (verified live immediately before sending)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - **Foto reali, EXIF-verificate** (fotocamere reali dei titolari, non
@@ -44,7 +44,7 @@
     valore da un sito curato — un taglio positivo, non solo "il sito è
     rotto."
 
-## Outreach draft — email (not sent yet)
+## Outreach email (sent 2026-08-26)
 
 > Buongiorno, sono Nikolai, web designer freelance qui a Roma.
 >
