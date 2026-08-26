@@ -9,6 +9,7 @@
 - **Sources:** PagineBianche/PagineGialle (address, phone, hours), RomaToday/Groupon/Luciano Pignataro Wine Blog (family-run, traditional Roman dishes, low prices).
 - **Status:** demo-live
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/tanto-pe-magna/
+- **Response:** n/a — outreach not sent yet (DM/call pending, see Outreach draft below)
 - **Sold:** no
 - **Notes:**
   - No email found — outreach by phone or Facebook.

@@ -9,6 +9,7 @@
 - **Sources:** RomaToday and Pigneto.it articles on the shop (opened by Ali Can, Kurdish refugee); Pigneto.it business listing for address/hours.
 - **Status:** demo-live
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/barbagianni/
+- **Response:** n/a — outreach not sent yet (DM/call pending, see Outreach draft below)
 - **Sold:** no
 - **Notes:**
   - No email found anywhere public — outreach needs to be by phone or Instagram DM.

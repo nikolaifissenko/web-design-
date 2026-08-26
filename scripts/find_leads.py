@@ -32,7 +32,18 @@ SEARCH_URL = "https://places.googleapis.com/v1/places:searchText"
 FIELD_MASK = "places.displayName,places.formattedAddress,places.nationalPhoneNumber,places.websiteUri,places.rating,places.userRatingCount"
 
 LEADS_CSV = Path(__file__).parent / "leads.csv"
-CSV_FIELDS = ["business_name", "address", "phone", "website", "rating", "review_count", "needs_review", "status"]
+CSV_FIELDS = [
+    "business_name",
+    "address",
+    "phone",
+    "website",
+    "rating",
+    "review_count",
+    "needs_review",
+    "status",
+    "outreach_sent",
+    "response",
+]
 
 
 def search_places(query: str, area: str, max_results: int):
@@ -84,6 +95,8 @@ def append_leads(places):
                     "review_count": place.get("userRatingCount", ""),
                     "needs_review": "yes" if not website else "check-quality",
                     "status": "new",
+                    "outreach_sent": "",
+                    "response": "",
                 }
             )
             added += 1

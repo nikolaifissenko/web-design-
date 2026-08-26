@@ -7,6 +7,7 @@
 - **Sources:** bed-and-breakfast.it, Expedia, Tripadvisor (address, phone, 3 rooms, wired wifi, kitchens, balcony/patio, breakfast with coffee/cakes/yogurt, free train station pickup).
 - **Status:** demo-live
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/a-testaccio-da-max/
+- **Response:** n/a — outreach not sent yet (DM/call pending, see Outreach draft below)
 - **Sold:** no
 - **Notes:**
   - No email found — outreach by phone/WhatsApp only.

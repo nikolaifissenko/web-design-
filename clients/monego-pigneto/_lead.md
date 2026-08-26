@@ -9,6 +9,7 @@
 - **Sources:** EsteticaELavoro professional listing (services), Virgilio/PagineGialle (address, hours, phone).
 - **Status:** demo-live
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/monego-pigneto/
+- **Response:** n/a — outreach not sent yet (DM/call pending, see Outreach draft below)
 - **Sold:** no
 - **Notes:**
   - No email found anywhere public — outreach needs to be by phone or Instagram DM.

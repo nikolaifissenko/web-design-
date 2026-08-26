@@ -7,6 +7,7 @@
 - **Sources:** PagineBianche, Tripadvisor (name, address confirmed at coordinates in Testaccio).
 - **Status:** demo-live
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/la-casa-sugli-alberi/
+- **Response:** n/a — outreach not sent yet (DM/call pending, see Outreach draft below)
 - **Sold:** no
 - **Notes:**
   - No email or mobile/WhatsApp found — landline only, outreach by phone call.
