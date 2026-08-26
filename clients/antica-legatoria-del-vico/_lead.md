@@ -12,9 +12,9 @@
 - **Sources:** web search ("legatoria artigianale Roma negozio storico
   rilegatura libri"), poi il loro sito attuale fetchato direttamente per
   contatti/immagini/colori.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-08-26 to delvicomaurizio@gmail.com — Gmail message ID `1a03fe2deb4a8bac`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-legatoria-del-vico/
-- **Response:** n/a — outreach not sent yet
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - **Tutte le foto sono reali**, scaricate direttamente dal loro sito —
@@ -46,7 +46,7 @@
     verificabili, in linea con l'approccio già usato per Roma
     Trasteverina/Sartoria Carbone.
 
-## Outreach draft — email (not sent yet)
+## Outreach email (sent 2026-08-26)
 
 > Buongiorno, mi chiamo Nikolai. Di recente ho scoperto una vera passione
 > per il web design — è una cosa nuova per me, ma ci sto mettendo il

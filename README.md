@@ -25,9 +25,9 @@ declined and demo removed, see below):
 | `trastevereinbed` | B&B | Trastevere | email (verified) | **yes** (2026-08-26) |
 | `roma-trasteverina` | B&B | Trastevere | email (found 2026-08-26) | **yes** (2026-08-26) |
 | `una-finestra-su-monti` | B&B | Monti | email (verified) | **yes** (2026-08-26) |
-| `sartoria-carbone` | sartoria (artisan) | Prati | email (verified) | no |
+| `sartoria-carbone` | sartoria (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 | `artigianaio-orologi` | orologiaio (artisan) | Rione Monti | phone only (no email/site/social found) | no |
-| `antica-legatoria-del-vico` | legatoria (artisan) | Centro storico (Navona) | email (verified) | no |
+| `antica-legatoria-del-vico` | legatoria (artisan) | Centro storico (Navona) | email (verified) | **yes** (2026-08-26) |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -207,8 +207,7 @@ both fully real or honestly-substituted branding, zero shortcuts:**
   existing client too; fixed on just these two rather than scope-creeping
   into the other 11.
 
-**Round 5 (2026-08-26, same day) — 1 more artisan demo, and outreach-sending
-is now blocked in this environment:**
+**Round 5 (2026-08-26, same day) — 1 more artisan demo:**
 
 - **`antica-legatoria-del-vico`** (Antica Legatoria Del Vico, Vicolo del
   Governo Vecchio, a Piazza Navona) — a bookbinding/restoration artisan.
@@ -230,18 +229,21 @@ is now blocked in this environment:**
   icon using colors sampled pixel-for-pixel from their real stamp
   (`#b0a14e` gold, `#fff090` cream, `#2b2418` near-black), not an
   invented palette. Verified email, no socials found.
-- **Attempted to send Sartoria Carbone's outreach email this round —
-  blocked.** The auto-mode permission classifier in this environment
-  denies `Gmail__send_message` for a new cold-outreach email (as opposed
-  to `reply`, used earlier for the Testaccio thank-you, which went
-  through fine). Sending new emails to businesses appears to need
-  explicit human approval in this session; did not attempt to work
-  around it. All three new artisan clients (Sartoria Carbone,
-  Artigianaio Orologi, Antica Legatoria Del Vico) have ready-to-send
-  drafts in their `_lead.md` but nothing has actually gone out.
-- Re-checked the 5 silent outreach threads (Autofficina Pisino, Tinto
-  Lavanderia, Trastevereinbed, Una Finestra su Monti, Roma Trasteverina)
-  — still no replies as of this round.
+- **Outreach emails sent 2026-08-26 to the 2 artisan clients with a
+  verified address**: Sartoria Carbone (`info@sartoriacarbone.it`,
+  Gmail message ID `1a03fe2d410d54c4`) and Antica Legatoria Del Vico
+  (`delvicomaurizio@gmail.com`, Gmail message ID `1a03fe2deb4a8bac`).
+  A first attempt this round to send Sartoria Carbone's email was
+  denied by the auto-mode permission classifier (it allows `reply` on
+  an existing thread, used earlier for the Testaccio thank-you, but not
+  a brand-new cold-outreach `send_message` without explicit approval);
+  once Nikolai explicitly said to send, it went through normally on
+  retry — noting this in case the same block resurfaces on a future
+  cold-outreach batch. Artigianaio Orologi still has no email/social —
+  phone-only, nothing to send.
+- Re-checked the 5 older silent outreach threads (Autofficina Pisino,
+  Tinto Lavanderia, Trastevereinbed, Una Finestra su Monti, Roma
+  Trasteverina) — still no replies as of this round.
 
 **Next up:**
 1. **Nikolai to actually send the 4 DM messages** (Barbagianni, Monego
@@ -250,12 +252,8 @@ is now blocked in this environment:**
 2. **Nikolai to call** La Casa sugli Alberi (landline only), A Testaccio
    da Max (WhatsApp), and **Artigianaio Orologi** (phone only, no other
    channel exists) — drafts ready in each `_lead.md`.
-3. **3 artisan clients have ready outreach drafts but nothing sent**:
-   Sartoria Carbone and Antica Legatoria Del Vico both have verified
-   emails; sending is currently blocked for Claude in this environment
-   (see above) — needs Nikolai to send directly, or to grant the Bash/Gmail
-   permission the classifier is asking for if he wants Claude to keep
-   doing it.
+3. Sartoria Carbone and Antica Legatoria Del Vico outreach emails are
+   sent — just waiting on replies now, same as the earlier 5.
 4. Real photos still wanted for Monego Pigneto, A Testaccio da Max, La
    Casa sugli Alberi — the automated routes are exhausted and documented;
    next real progress there needs a screenshot from Nikolai (Instagram) or

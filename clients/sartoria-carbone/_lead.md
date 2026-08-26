@@ -18,9 +18,9 @@
   both sites fetched directly (HTML + Wix media CDN) to confirm quality
   and pull real branding/photos. Hours confirmed via Yelp/Trova Aperto
   listings (Lun-Sab 09:00-14:00, 15:00-20:00; Dom chiuso).
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-08-26 to info@sartoriacarbone.it — Gmail message ID `1a03fe2d410d54c4`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/sartoria-carbone/
-- **Response:** n/a — outreach not sent yet
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - **Everything on this demo is real — zero stock.** Rare case where a
@@ -59,7 +59,7 @@
   - No Instagram/Facebook handle found in the time spent — email is the
     only confirmed channel. Worth a quick human check before outreach.
 
-## Outreach draft — email (not sent yet)
+## Outreach email (sent 2026-08-26)
 
 > Buongiorno, mi chiamo Nikolai. Di recente ho scoperto una vera passione
 > per il web design — è una cosa nuova per me, ma ci sto mettendo il
