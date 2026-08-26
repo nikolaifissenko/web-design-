@@ -48,24 +48,26 @@
   - No pricing published anywhere — expected for a repair/restoration
     business, left blank per template convention.
 
-## Outreach draft — phone / in-person (no email or social found)
+## Outreach draft — WhatsApp/SMS (no email or social found) — updated 2026-08-26, professional tone
 
-> Buongiorno, mi chiamo Nikolai. Di recente ho scoperto una vera passione
-> per il web design — è una cosa nuova per me, ma ci sto mettendo il
-> cuore perché spero un giorno di riuscire a farne il mio lavoro.
+> Buongiorno, sono Nikolai, web designer freelance qui a Roma.
 >
-> Ho notato che L'Artigianaio Orologi non ha un sito web, e ho pensato
-> fosse una bella occasione per fare pratica: ve ne ho preparato uno
-> gratis, giusto per farvi vedere come potrebbe apparire online. Se vi va
-> di dare un'occhiata, posso mandarvi il link via SMS o WhatsApp.
+> Ho visto che L'Artigianaio Orologi non ha un sito — ve ne ho preparato
+> uno gratis, giusto per farvi vedere come potrebbe venire:
+> 👉 [link]
 >
-> Non c'è nessun obbligo, l'ho fatto principalmente per esercitarmi. Ma se
-> vi piace il risultato, sarei felicissimo di completarlo e metterlo
-> online per voi (500€, con hosting e gestione social disponibili come
-> opzione mensile se interessa).
+> Nessun obbligo. Se vi piace il risultato, sarei felice di completarlo
+> e metterlo online per voi (500€, con hosting e gestione social
+> disponibili come opzione mensile se interessa). Fatemi sapere cosa ne
+> pensate!
 >
-> Grazie mille per il tempo,
 > Nikolai
+
+*(No phone/WhatsApp number confirmed yet on our side — this needs an
+actual call or visit first to get a number to send the link to.
+Suggested opening line if calling instead: "Buongiorno, sono un web
+designer e ho preparato un sito di esempio per la vostra bottega, visto
+che non ne avete uno online — posso mandarvelo via SMS?")*
 
 No email/WhatsApp confirmed yet — this needs an actual visit or phone
 call to get a number to send the link to. Suggested opening line if
