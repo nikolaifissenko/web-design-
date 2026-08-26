@@ -9,7 +9,7 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 branch `main` / root) — every push to `main` auto-deploys. Each client's
 demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 
-18 client demos built and live, none sold yet (1 more — Testaccio XIX-XXV —
+19 client demos built and live, none sold yet (1 more — Testaccio XIX-XXV —
 declined and demo removed, see below):
 
 | Client | Sector | Neighborhood | Contact channel | Outreach sent? |
@@ -32,6 +32,7 @@ declined and demo removed, see below):
 | `antica-cappelleria-lombardi` | cappelleria (artisan) | Esquilino | email (verified) | **yes** (2026-08-26) |
 | `fratelli-anzilotti` | restauro mobili (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 | `tappezzeria-de-matthaeis` | tappezziere (artisan) | Montesacro | email (verified) | **yes** (2026-08-26) |
+| `il-fabbro-artigiano` | fabbro (artisan) | zona Sassonegro | email (verified) | no |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -333,6 +334,12 @@ directly, per his request this round:**
   street). Phone: 06 6785753. No website, no email found anywhere —
   Facebook page only (facebook.com/GlovesAlbertaRoma). A rare, dying
   trade — strong personal-story potential.
+- **Amenio Raponi** (luthier/liutaio) — Via della Magliana Nuova 196.
+  Phone: 06 55268600 / cell 339 8675177. Real site has an excellent
+  photo portfolio (guitars, violins, mandolas, a hurdy-gurdy
+  reproduction, a maker's label) but genuinely **no email anywhere** —
+  only a contact form, checked directly in the raw HTML, no `mailto:`
+  link at all. A rare craft with great material once contact is made.
 
 **Round 7 (2026-08-26, same day) — 1 more artisan demo:**
 
@@ -348,6 +355,28 @@ directly, per his request this round:**
   business mark — so a new armchair icon was drawn using the maroon/gold
   sampled from their real CSS. Checked and skipped Claudio Radicchi
   (tappezziere) as a false positive — already a well-designed site.
+
+**Round 8 (2026-08-26, same day) — 1 more artisan demo, first case of
+legitimate documented stock use this session:**
+
+- **`il-fabbro-artigiano`** (Il Fabbro Artigiano / Varm di Ricciardella
+  Angelo, zona Sassonegro) — family blacksmith. Real site runs
+  **CMSimple 4.6.1** (a niche flat-file CMS, 2016) with a Facebook SDK
+  pinned at v2.5 — concrete, dated signals. Their real work gallery uses
+  a JS-driven lightbox plugin (sfPhotoGallery) that loads images via
+  JavaScript, not present in the static HTML — genuinely unreachable
+  with the tools available in this session, not just unchecked. Only 1
+  real photo was recoverable (a homepage welcome image: a wrought-iron
+  gate + a blacksmith hammering hot metal), used for `about`. The other
+  3 images are well-matched Unsplash stock (a real blacksmith at an
+  anvil with sparks, a forging-detail close-up, an ornate scrollwork
+  gate) — documented explicitly as the first case this session where
+  stock was used because a real source exists but is technically
+  unreachable, not because it wasn't checked. Their real logo is a
+  low-res 2000s bevel-clipart wordmark, so a new anvil-and-hammer icon
+  was drawn using the orange (`#ff6600`) from their site's own CSS.
+  Checked and skipped Arduini Artigiani del Ferro (WordPress 7.1,
+  already modern) as a false positive.
 
 **Next up:**
 1. **Nikolai to actually send the 4 DM messages** (Barbagianni, Monego
