@@ -9,7 +9,7 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 branch `main` / root) — every push to `main` auto-deploys. Each client's
 demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 
-9 client demos built and live, none sold yet:
+12 client demos built and live, none sold yet:
 
 | Client | Sector | Neighborhood | Contact channel | Outreach sent? |
 |---|---|---|---|---|
@@ -22,6 +22,9 @@ demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 | `testaccio-xix-xxv` | B&B | Testaccio | email (site was 503, own domain) | no |
 | `a-testaccio-da-max` | B&B | Testaccio | WhatsApp/phone (no site at all) | no |
 | `la-casa-sugli-alberi` | B&B | Testaccio | phone only (no email/site found) | no |
+| `trastevereinbed` | B&B | Trastevere | email (verified) | no |
+| `roma-trasteverina` | B&B | Trastevere | phone/email not yet found | no |
+| `una-finestra-su-monti` | B&B | Monti | email (verified) | no |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -40,9 +43,27 @@ Testaccio XIX-XXV — own domain returns HTTP 503, site is effectively down),
 1 dropped as a false positive (El Dorado Prati turned out genuinely modern),
 1 inconclusive (Etere in Prati blocks automated fetching, needs a real
 browser check). Built demos for the 3 strongest of these (site down, or no
-site at all) — see table above. The other 3 confirmed-bad B&B leads
-(Trastevereinbed, Roma Trasteverina, Una Finestra su Monti) still need
-demos built.
+site at all) — see table above.
+
+**Round 2:** built the remaining 3 confirmed-bad B&B demos (Trastevereinbed,
+Roma Trasteverina, Una Finestra su Monti), this time checking each one's
+existing site for real branding to reuse instead of generic stock:
+- **Roma Trasteverina** and **Una Finestra su Monti** — pulled real interior
+  photos and real brand colors directly from their own (outdated) sites.
+  Roma Trasteverina's photos needed cropping to remove baked-in caption
+  text ("Comfort & Relax at Rome") from the originals.
+- **Trastevereinbed** — no reusable assets exist: their only other image
+  asset 404s (removed from the server), and their "logo" is actually the
+  entire nav graphic with unfinished placeholder text baked into the
+  pixels ("Copyright information Goes Here") — not a real mark. Fell back
+  to the shared stock set for this one, and used their real background
+  color instead.
+- None of the three had a logo shaped for the template's circular 40×40
+  logo slot (all wide wordmarks) — skipped `logoImage` on all three rather
+  than force an unreadable crop; real colors carry the brand instead.
+- Two of the three (Trastevereinbed, Una Finestra su Monti) have their own
+  leftover placeholder text still live on their site — a very concrete,
+  quotable opening line for outreach, used in both `_lead.md` drafts.
 
 **Sector prioritization for further outreach** (see full reasoning in
 session notes): B&Bs and family trattorie are Tier 1 (clear ROI pitch —
