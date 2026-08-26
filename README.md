@@ -72,10 +72,25 @@ artisan shops (sartorie, calzolai, orologiai) are Tier 1 for low
 competition/high authenticity but lower volume; parrucchieri/barbieri,
 autofficine, lavanderie are Tier 2; bars/chains are lowest priority.
 
-**Next up:** build demos for the remaining 3 confirmed-bad B&B leads, then
-either expand the B&B batch to more neighborhoods or move to the artisan
-sector (was mid-search on "Bottega dell'Artigianaio", a Monti watchmaker,
-when a previous session ended — pick up there or start fresh).
+**Branding extraction is now a standard, mandatory workflow step** (see
+`scripts/branding-extraction.md`), not just something done for B&Bs.
+Retroactively applied it to `tinto-lavanderia` and `autofficina-pisino`
+(the two non-B&B clients with a live-but-dated site that had never been
+checked): Tinto Lavanderia's real logo (a droplets icon, actually
+square-shaped — unlike every B&B wordmark so far) is now used as
+`logoImage`, and both got their real CSS brand colors swapped in in place
+of invented ones. Neither had real photos to reuse — both businesses'
+own sites turned out to be using generic stock too, same as ours, so the
+Unsplash sets are unchanged there. `barbagianni`, `monego-pigneto`, and
+`tanto-pe-magna` were already compliant (real Instagram branding, done in
+an earlier session); `da-carlone` has a dead domain with nothing to
+extract, also already correctly stock-only.
+
+**Next up:** either expand the B&B batch to more neighborhoods or move to
+the artisan sector (was mid-search on "Bottega dell'Artigianaio", a Monti
+watchmaker, when a previous session ended — pick up there or start
+fresh). Applying the branding-extraction step is now automatic for every
+new client going forward, not a separate task to remember.
 
 **Lead-finding approach that actually worked**, vs. what's below: manual
 web search (business type + neighborhood), then verify no website /
@@ -102,11 +117,17 @@ requires an API key that was never set up.
    → appends candidates to `scripts/leads.csv`.
 2. Pick a lead with a missing/bad website, eyeball it.
 3. `./scripts/new_client.sh <business-slug>` → scaffolds `clients/<business-slug>/`.
-4. Edit `clients/<business-slug>/js/config.js`, drop in real photos.
-5. Deploy (`scripts/deploy.md` — Cloudflare Pages or Vercel, both free,
+4. **Branding pass (mandatory) — see `scripts/branding-extraction.md`.**
+   Before touching stock photos, check the lead's existing site/socials for
+   a real logo, real brand colors, and real photos worth reusing. Only fall
+   back to generic Unsplash stock for whatever isn't found real. Document
+   what's real vs. stock in both `config.js` (comment) and `_lead.md`.
+5. Edit `clients/<business-slug>/js/config.js` with the real info + assets
+   from step 4.
+6. Deploy (`scripts/deploy.md` — Cloudflare Pages or Vercel, both free,
    both instant since there's no build step).
-6. Send the demo link (`scripts/pitch_template.md`).
-7. Track status in `clients/<business-slug>/_lead.md`.
+7. Send the demo link (`scripts/pitch_template.md`).
+8. Track status in `clients/<business-slug>/_lead.md`.
 
 ## Why no framework
 

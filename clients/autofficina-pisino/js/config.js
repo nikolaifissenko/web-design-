@@ -1,10 +1,20 @@
 // Demo per Autofficina Pisino (Novacar Service Pisino Srl) — dati
 // verificati: nome, indirizzo, telefono, email, orari, servizi (dal sito
 // attuale autofficinapisino.com e schede DEKRA/Virgilio).
-// FOTO: stock (Unsplash, licenza libera) scelte per stile officina, non del
-// locale reale — sostituire con foto vere se/quando il cliente compra il
-// sito (vedi _lead.md per i crediti fonte). Prezzi non pubblicati online:
-// confermare in officina.
+// LOGO reale scaricato dal loro sito (icona auto stilizzata + scritta
+// "AUTOFFICINA PISINO" in nero/giallo-senape) — è un marchio largo
+// (477x290, icona e testo affiancati senza spazio pulito da ritagliare):
+// nel cerchio-logo 40x40 del template qualsiasi ritaglio taglia a metà
+// l'icona o il testo, quindi non riutilizzato come logoImage. COLORE
+// reale ripreso dal CSS del loro sito: teal/ciano #68ccd1 (qui leggermente
+// scurito per contrasto testo) e il carbone/nero del logo come accent —
+// non inventati. FOTO: controllate le foto del sito reale (meccanico sotto
+// il ponte sollevatore, dettaglio ruota) — sono anch'esse stock generico
+// (stile fotografia da agenzia), non foto vere dell'officina. Restano
+// quindi le foto stock (Unsplash, licenza libera) già scelte in precedenza
+// — sostituire con foto vere se/quando il cliente compra il sito (vedi
+// _lead.md per i crediti fonte). Prezzi non pubblicati online: confermare
+// in officina.
 
 const SITE_CONFIG = {
   business: {
@@ -15,8 +25,8 @@ const SITE_CONFIG = {
   },
 
   theme: {
-    primary: "#c0392b",
-    accent: "#20242b",
+    primary: "#3a9ca3",
+    accent: "#242220",
     font: "'Poppins', sans-serif",
   },
 

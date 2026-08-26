@@ -16,6 +16,7 @@
   - Hours confirmed from their current site: Mon-Fri 08:00-19:30, Sat 08:00-13:00, Sun closed.
   - Service prices not published — left blank in `js/config.js`.
   - **Photos are stock, not the real garage.** Free Unsplash License, no attribution required. Source photo IDs: hero `photo-1577801343081-0053b24f62c7`, about `photo-1643700973089-baa86a1ab9ee`, gallery `photo-1645445522156-9ac06bc7a767` / `photo-1543618208-03ccf87da0ef` / `photo-1477333183135-292dd5b3910f`. Swap for real garage photos if/when the client buys.
+  - **2026-08-26 branding pass:** checked their live site for reusable real assets (see `scripts/branding-extraction.md` for the standard process). Their logo (stylized car silhouette + "AUTOFFICINA PISINO" wordmark, black + mustard-yellow `#dcd221`) is real but wide (477×290) with icon and text touching — no clean square crop exists for the template's circular logo slot, so `logoImage` was left unset. Their real CSS brand color, teal `#68ccd1` (deepened slightly to `#3a9ca3` for text contrast), replaced the previously invented red theme. Their own site photos (mechanic under a lift, wheel-inspection close-up) turned out to be generic stock too — no real garage photos existed to swap in, so the Unsplash set above is unchanged.
 
 ## Outreach draft — personal story angle (recommended, per Nikolai)
 

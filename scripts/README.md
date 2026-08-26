@@ -6,6 +6,7 @@
 | `new_client.sh` | Clone `../template/` into `../clients/<slug>/` with a `_lead.md` tracker. |
 | `deploy.md` | How to push a client folder live on Cloudflare Pages or Vercel (no build step, drag-and-drop or one CLI command). |
 | `pitch_template.md` | Outreach message to send once a demo is live. |
+| `branding-extraction.md` | **Mandatory step 4 below.** How to check a lead's existing site/socials for a real logo, real brand colors, and real photos before falling back to stock. |
 
 ## Typical workflow
 
@@ -20,9 +21,13 @@ python find_leads.py "trattoria" --area "Trastevere, Roma"
 # 3. Scaffold their site
 ./new_client.sh trattoria-da-marco
 
-# 4. Customize clients/trattoria-da-marco/js/config.js + images/
+# 4. Branding pass FIRST (see branding-extraction.md) — check their
+#    existing site/socials for a real logo, real colors, real photos.
+#    Only fall back to stock for whatever isn't found real.
 
-# 5. Deploy (see deploy.md) and send the pitch (see pitch_template.md)
+# 5. Customize clients/trattoria-da-marco/js/config.js + images/
+
+# 6. Deploy (see deploy.md) and send the pitch (see pitch_template.md)
 ```
 
 `leads.csv` and `.env` are gitignored (leads are a working list, not code;

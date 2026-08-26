@@ -1,23 +1,29 @@
 // Demo per Tinto Lavanderia — dati verificati: nome, indirizzo, telefono,
 // email, elenco servizi (dal sito attuale tintolavanderia.it/contatti/).
-// FOTO: stock (Unsplash, licenza libera) scelte per stile lavanderia, non
-// del locale reale — sostituire con foto vere se/quando il cliente compra
-// il sito (vedi _lead.md per i crediti fonte). Orari NON confermati online:
-// chiedere in negozio e compilare hours.schedule prima di pubblicare —
-// lasciato vuoto per ora, la sezione orari resta nascosta finché non lo si
-// compila.
+// LOGO reale: scaricato da tintolavanderia.it (wp-content/uploads/2020/08/lt.png)
+// — icona circolare a bollicine/gocce, già quasi quadrata (69x68), si adatta
+// bene al cerchio-logo del template. COLORI reali ripresi dal CSS del loro
+// sito: blu navy #1a1e32 e rosso-arancio #e34a32 (non inventati).
+// FOTO: controllate le foto del sito reale (q.jpg, L-18.jpg, serie a-3x) —
+// sono anch'esse stock generico (camicie piegate, lavatrici in fila), non
+// foto vere del negozio. Restano quindi le foto stock (Unsplash, licenza
+// libera) già scelte in precedenza — sostituire con foto vere se/quando il
+// cliente compra il sito (vedi _lead.md per i crediti fonte). Orari NON
+// confermati online: chiedere in negozio e compilare hours.schedule prima
+// di pubblicare — lasciato vuoto per ora, la sezione orari resta nascosta
+// finché non lo si compila.
 
 const SITE_CONFIG = {
   business: {
     name: "Tinto Lavanderia",
     tagline: "Lavanderia, tintoria e riparazioni sartoriali a Roma",
     logoText: "TL",
-    logoImage: "",
+    logoImage: "images/logo.png",
   },
 
   theme: {
-    primary: "#1f6f8b",
-    accent: "#1c2b33",
+    primary: "#1a1e32",
+    accent: "#e34a32",
     font: "'Poppins', sans-serif",
   },
 

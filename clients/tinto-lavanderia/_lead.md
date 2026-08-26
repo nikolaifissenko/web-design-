@@ -16,6 +16,7 @@
   - Opening hours were NOT found anywhere public — `hours.schedule` is left empty in `js/config.js` (hours section auto-hides). Call and ask, then fill in before sending the link.
   - Service prices not published — left blank in `js/config.js`.
   - **Photos are stock, not the real shop.** Free Unsplash License, no attribution required. Source photo IDs: hero `photo-1757252872525-01d7703533d9`, about `photo-1760939064986-3c375dab7b49`, gallery `photo-1775210727648-9456f74dee90` / `photo-1737748612418-e39bcd6503a2` / `photo-1741176504815-75b0b79dc3c6`. Swap for real shop photos if/when the client buys.
+  - **2026-08-26 branding pass:** checked their live site for reusable real assets (see `scripts/branding-extraction.md` for the standard process). Their logo (`wp-content/uploads/2020/08/lt.png`, a bubbles/droplets icon, 69×68) IS real and near-square — downloaded and set as `logoImage` in `config.js`. Their real CSS colors — navy `#1a1e32` and orange-red `#e34a32` — replaced the previously invented theme colors. Their own photos (folded shirts, a row of washing machines) turned out to be generic stock too, same as ours — no real shop photos existed to swap in, so the Unsplash set above is unchanged.
 
 ## Outreach draft — personal story angle (recommended, per Nikolai)
 
