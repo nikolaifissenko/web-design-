@@ -9,7 +9,7 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 branch `main` / root) — every push to `main` auto-deploys. Each client's
 demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 
-14 client demos built and live, none sold yet (1 more — Testaccio XIX-XXV —
+17 client demos built and live, none sold yet (1 more — Testaccio XIX-XXV —
 declined and demo removed, see below):
 
 | Client | Sector | Neighborhood | Contact channel | Outreach sent? |
@@ -28,6 +28,9 @@ declined and demo removed, see below):
 | `sartoria-carbone` | sartoria (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 | `artigianaio-orologi` | orologiaio (artisan) | Rione Monti | phone only (no email/site/social found) | no |
 | `antica-legatoria-del-vico` | legatoria (artisan) | Centro storico (Navona) | email (verified) | **yes** (2026-08-26) |
+| `consorti-cornici` | corniciaio (artisan) | Balduina | email (verified) | no |
+| `antica-cappelleria-lombardi` | cappelleria (artisan) | Esquilino | email (verified) | no |
+| `fratelli-anzilotti` | restauro mobili (artisan) | Prati | email (verified) | no |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -275,6 +278,55 @@ emails sent above already use the new tone. Existing `_lead.md` outreach
 drafts elsewhere in the repo still have the old wording; update a given
 client's draft to the new tone if/when sending it (not worth a bulk
 find-and-replace across already-sent threads).
+
+**Round 6 (2026-08-26, same day) — 3 more artisan demos (all verified
+live on `main` before moving on, per the incident above), plus a
+no-email leads list for Nikolai to work Instagram/phone himself:**
+
+- **`consorti-cornici`** (Consorti Cornici, Via Marziale, Balduina) —
+  frame-maker/gilder since 1970. Real site is live and technically
+  responsive but almost all text, no photos on the homepage — despite
+  having a full gallery of great real photos sitting unused. All 5 demo
+  photos and the logo (a clean "C" monogram, already square) are pulled
+  directly from that real gallery, no redesign needed.
+- **`antica-cappelleria-lombardi`** (Antica Cappelleria dell'Urbe
+  Lombardi, Via Merulana) — family-run hat shop with a working online
+  store, but a dated design. All demo photos are real catalog product
+  shots (Borsalino, Stetson, Seeberger). Their real logo (125×96,
+  wordmark+icon combined) was too small/rectangular to crop cleanly, so
+  a new fedora icon was drawn using colors sampled from their site's own
+  CSS.
+- **`fratelli-anzilotti`** (Fratelli Anzilotti, Via Lungotevere dei
+  Mellini, Prati) — antique furniture restoration since 1968. Real site
+  still runs **WordPress 4.6** (a 2016 release, never upgraded in ~10
+  years) and the real photo EXIF confirms the same era (Sony camera,
+  Lightroom 5.4, dated 2016). Used all 4 available real photos; a 5th
+  candidate photo (a 2022 group dinner, uploaded to the same gallery)
+  was correctly excluded — not relevant to the craft and shows
+  identifiable people in a private context, not something to use in a
+  sales pitch. Their real logo is a pure wordmark with no icon at all to
+  isolate, so a hand-plane icon was drawn from scratch using the site's
+  real gold tones.
+- Checked and skipped as false positives (already modern/well-designed,
+  not worth competing with): Procopio Calzature, Legatoria Rumori,
+  Antica Cappelleria Troncarelli, Cornici Roma Nord (WordPress 6.7,
+  actively maintained), Restauro Gianferro (WP 6.6.7), La Bottega Antica
+  (WP 6.4.10).
+
+**No-email leads found, not built — for Nikolai to check Instagram/call
+directly, per his request this round:**
+- **Ombrelli Domizio** (Luca Domizio) — umbrella-maker/leather goods,
+  artisan since 1989, Via Prenestina (two conflicting street numbers
+  turned up across directories, 273 vs 388 — worth confirming on the
+  call). Phone: 06 6400 0428. Their own domain
+  (ombrellidomizio.com) redirects but fails to actually load — connection
+  error, not just a bad design, so effectively no working site. No email
+  found. A genuinely rare trade (very few umbrella-makers left in Rome)
+  — good personal-story angle.
+- **Gioielleria Marcelli** (goldsmith, Orafi dal 1950) — automated fetch
+  blocked (Cloudflare challenge, HTTP 202 with no content), so site
+  quality/email presence couldn't be confirmed from here. Worth a manual
+  look or call: gioielleriamarcelli.it.
 
 **Next up:**
 1. **Nikolai to actually send the 4 DM messages** (Barbagianni, Monego
