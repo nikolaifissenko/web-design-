@@ -70,7 +70,7 @@ const SITE_CONFIG = {
     address: "Via Luigi Santini 21, Trastevere, 00153 Roma",
     phone: "",
     whatsapp: "",
-    email: "",
+    email: "info@romatrasteverina.com",
   },
 
   map: {

@@ -5,7 +5,7 @@
 - **Phone:** 06 5160 7422 (landline — no WhatsApp field set, unconfirmed if mobile-enabled)
 - **Current website:** tantopemagna.it — **domain is dead**, does not resolve (verified via DNS/curl). Worse than never having had one: anyone who finds the old listed URL gets nothing.
 - **Facebook:** https://www.facebook.com/146635089389434 ("Tanto Pè Magnà A Garbatella," page created 2018)
-- **Instagram:** found by Nikolai (logo sourced from their profile) — exact @handle not yet recorded here, add once known
+- **Instagram:** https://www.instagram.com/tanto.pe.magna/ (handle found 2026-08-26 via web search — 396 followers, 18 posts, matches this business; logo was already sourced from this profile by Nikolai earlier, handle just wasn't recorded until now)
 - **Sources:** PagineBianche/PagineGialle (address, phone, hours), RomaToday/Groupon/Luciano Pignataro Wine Blog (family-run, traditional Roman dishes, low prices).
 - **Status:** demo-live
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/tanto-pe-magna/
@@ -34,7 +34,7 @@ Same approach as the other 5 leads — leads with Nikolai's real story instead o
 > Grazie mille,
 > Nikolai
 
-Send via Facebook Messenger to the page, or call 06 5160 7422 and follow up with a message so they have the link to click.
+Send via Instagram DM to @tanto.pe.magna (now confirmed — this is likely the best channel, matches the pattern of the other trattorie), or Facebook Messenger to the page, or call 06 5160 7422 and follow up with a message so they have the link to click.
 
 ## Outreach draft — email version (no address confirmed yet)
 

@@ -86,7 +86,7 @@ const SITE_CONFIG = {
   },
 
   socials: {
-    instagram: "",
+    instagram: "https://www.instagram.com/tanto.pe.magna/",
     facebook: "https://www.facebook.com/146635089389434",
     tiktok: "",
     website: "",
