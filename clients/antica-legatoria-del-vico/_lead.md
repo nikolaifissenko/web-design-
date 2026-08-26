@@ -12,8 +12,8 @@
 - **Sources:** web search ("legatoria artigianale Roma negozio storico
   rilegatura libri"), poi il loro sito attuale fetchato direttamente per
   contatti/immagini/colori.
-- **Status:** outreach-sent (email sent 2026-08-26 to delvicomaurizio@gmail.com — Gmail message ID `1a03fe2deb4a8bac`)
-- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-legatoria-del-vico/
+- **Status:** outreach-sent (email sent 2026-08-26 to delvicomaurizio@gmail.com — Gmail message ID `1a03fe2deb4a8bac`; **that first email linked to a demo URL that was 404 at send time** — the client folder existed only on an unmerged branch, GitHub Pages serves `main` only. Caught and corrected same day: merged to `main`, verified the URL actually returns 200, then sent a follow-up with the working link — Gmail message ID `1a03ff0486a7a173`)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-legatoria-del-vico/ (verified live 2026-08-26)
 - **Response:** no reply yet
 - **Sold:** no
 - **Notes:**

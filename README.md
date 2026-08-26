@@ -245,6 +245,37 @@ both fully real or honestly-substituted branding, zero shortcuts:**
   Tinto Lavanderia, Trastevereinbed, Una Finestra su Monti, Roma
   Trasteverina) — still no replies as of this round.
 
+**Incident (2026-08-26): two outreach emails sent with dead demo links,
+caught and fixed same day.** The 3 artisan clients built this session
+(Sartoria Carbone, Artigianaio Orologi, Antica Legatoria Del Vico) were
+committed only to the `claude/email-responses-check-jc26qs` working
+branch — never merged into `main`. GitHub Pages serves `main` only, so
+`sartoriacarbone`'s and `antica-legatoria-del-vico`'s demo URLs were
+returning 404 at the moment their outreach emails went out (the Testaccio
+XIX-XXV removal was similarly not live — its old demo was still up).
+Nikolai caught it immediately. Fixed by merging the branch into `main`
+and pushing; confirmed all 3 new URLs return 200 (and the removed one
+correctly 404s) before doing anything else. Sent a short follow-up email
+to both affected businesses with the now-working link. **Lesson for every
+future session**: after any client add/remove, verify the actual
+`nikolaifissenko.github.io/...` URL with `curl` — not just the local
+`file://` render — before telling anyone (Nikolai or a business) that a
+demo is ready, and before sending any outreach. `main` is the only branch
+that matters for whether a link is real.
+
+**Outreach persona updated 2026-08-26 (Nikolai's call): professional, not
+a beginner.** Every outreach draft on this repo up to this point opened
+with "I recently discovered a passion for web design, it's new to me, I
+hope to make it my job one day" — a practicing-beginner framing. Nikolai
+asked to drop that and present as a working freelance web designer
+instead, keeping the genuine warmth/care but losing the "still learning"
+angle. `scripts/pitch_template.md` has the updated standard opening in
+both languages — use it for all outreach from now on. The two correction
+emails sent above already use the new tone. Existing `_lead.md` outreach
+drafts elsewhere in the repo still have the old wording; update a given
+client's draft to the new tone if/when sending it (not worth a bulk
+find-and-replace across already-sent threads).
+
 **Next up:**
 1. **Nikolai to actually send the 4 DM messages** (Barbagianni, Monego
    Pigneto, Da Carlone, Tanto pè Magnà) — Claude can't send Instagram DMs.
