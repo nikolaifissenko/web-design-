@@ -5,6 +5,7 @@
 - **Phone:** 06 57285417 / mobile 351 3772230
 - **Email:** info@testaccio19-25.com
 - **Current website:** testaccio19-25.com — returns **HTTP 503 Service Unavailable** on two separate checks. Domain is registered but the server isn't serving pages right now. Worse than a bad design: it's currently invisible to anyone searching for the place.
+- **⚠️ IMPORTANT — found 2026-08-26, after the outreach email was already sent:** they also have **testaccio19-25.it** (note: `.it`, not `.com`), and that one is alive and working (HTTP 200, modern site, real photos). The outreach email sent to info@testaccio19-25.com only mentions the dead `.com` — if they reply pointing at the working `.it` site, that's expected and not a mistake on our end (the `.com` genuinely is down), but acknowledge it gracefully rather than being caught off guard. Might be worth a brief non-defensive follow-up noting we know about `.it` too if a reply raises it.
 - **Sources:** bed-and-breakfast.it, PagineBianche (name, address, phone). Direct site check via WebFetch (503 both times).
 - **Status:** outreach-sent (email sent 2026-08-26 to info@testaccio19-25.com — Gmail message ID `1a03c23e015009d6`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/testaccio-xix-xxv/
@@ -12,7 +13,7 @@
 - **Sold:** no
 - **Notes:**
   - Room count/interior details not confirmed anywhere public — copy kept generic in `config.js`, confirm with owner before finalizing a sale.
-  - **Photos are stock** (Unsplash, free license), shared with the other two Testaccio B&B demos built in this batch. Swap for real photos on sale.
+  - ~~Photos are stock~~ — **2026-08-26: all replaced with real photos**, found on their actually-live `.it` site (see note above): `hero.jpg` = a room with a church view, `about.jpg` = breakfast (pastries, coffee), `gallery-1.jpg` = a reception corner with their own branded card visible, `gallery-2.jpg` = a desk/balcony corner. All genuinely theirs, not stock.
   - Strongest pitch angle of this batch: "your own website doesn't load right now" is concrete and verifiable — invite them to try it themselves.
 
 ## Outreach draft — email (primary channel, has a real address)

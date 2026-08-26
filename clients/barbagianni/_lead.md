@@ -15,16 +15,18 @@
   - No email found anywhere public — outreach needs to be by phone or Instagram DM.
   - Service prices are not published anywhere online — confirm in person before finalizing the site, they're currently left blank in `js/config.js`.
   - Good pitch angle: the shop's community story (opened by a Kurdish refugee, became a neighborhood hub) — worth a line in the outreach message.
-  - **Photos are stock, not the real shop** (Nikolai's call — this demo is meant to show what the site *could* look like, not a finished product). Free Unsplash License, no attribution required. Source photo IDs: hero `photo-1675599193990-33d71150902b`, about `photo-1770253980732-dfed1cfdfa43`, gallery `photo-1759134248487-e8baaf31e33e` / `photo-1682989356229-a244c8903492` / `photo-1764712784236-7019d1565cb7`. Swap for real shop photos if/when the client buys.
+  - ~~Photos are stock, not the real shop~~ — **2026-08-26: hero/about replaced with real photos.** Found via RomaToday's dedicated feature on Ali Can (`romatoday.it/zone/pigneto/pigneto/barbagianni-barbiere-curdo-pigneto.html`): `hero.jpg` is the shop's actual entrance (barber pole, "BARBAGIANNI" poster on the door), `about.jpg` is a real portrait of Ali Can sitting inside the shop — genuinely the person and place this whole pitch is about. Gallery images (`gallery-1/2/3.jpg`) remain stock, Free Unsplash License, no attribution required — IDs `photo-1759134248487-e8baaf31e33e` / `photo-1682989356229-a244c8903492` / `photo-1764712784236-7019d1565cb7`. Swap for real shop photos if/when the client buys.
   - **Logo and palette ARE real** — cropped from the actual @barbagianni_haircuts_shaves_ Instagram profile picture (Nikolai sent a screenshot since the page itself is login-walled to automated requests). Saved as `images/logo.jpg`. Theme switched to true black/white (`#161616` / `#2e2b28`) to match, plus an Oswald heading font to echo the logo's bold vintage-barbershop type.
 
 ## Outreach draft — personal story angle (recommended, per Nikolai)
 
 Leads with the real "new web designer chasing a passion" story instead of a sales pitch — softer ask, more likely to get a warm reply than a pure business pitch would.
 
+**Send the screenshot with this message, not just the bare link** — a link alone doesn't preview well in an Instagram DM, a screenshot does. Attach `clients/barbagianni/screenshots/demo-preview.png` (a real screenshot of the live demo, taken 2026-08-26).
+
 > Ciao! Mi chiamo Nikolai. Da poco ho scoperto una vera passione per il web design — è una cosa nuova per me, ma ci sto mettendo il cuore perché spero un giorno di riuscire a farne il mio lavoro e lasciare il mio impiego attuale.
 >
-> Per fare pratica, ho scelto alcune attività di Roma che mi piacciono e ho costruito loro un sito gratis, solo per il gusto di farlo e imparare. Barbagianni è una di queste — mi ha colpito la vostra storia, così ve ne ho preparato uno per farvi vedere come potrebbe venire online: https://nikolaifissenko.github.io/web-design-/clients/barbagianni/
+> Per fare pratica, ho scelto alcune attività di Roma che mi piacciono e ho costruito loro un sito gratis, solo per il gusto di farlo e imparare. Barbagianni è una di queste — mi ha colpito la vostra storia. Nell'immagine ho fatto una demo di come potrebbe venire il sito — il link completo è qui: https://nikolaifissenko.github.io/web-design-/clients/barbagianni/
 >
 > Non c'è nessun obbligo, l'ho fatto principalmente per esercitarmi. Ma se vi piace il risultato e volete tenerlo, sarei felicissimo di completarlo con le foto vere del negozio e portarlo online per voi (500€, con hosting e social media disponibili come opzione mensile se interessa). Anche solo un parere sincero mi farebbe piacere!
 >

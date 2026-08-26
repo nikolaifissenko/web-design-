@@ -1,9 +1,14 @@
 // Demo per Barbagianni — dati verificati: nome, indirizzo, telefono, orari,
 // Instagram/Facebook (RomaToday, Pigneto.it, Instagram/Facebook ufficiali).
-// FOTO: stock (Unsplash, licenza libera) scelte per stile barbiere, non del
-// locale reale — sostituire con foto vere del negozio se/quando il cliente
-// compra il sito (vedi _lead.md per i crediti fonte). Prezzi dei servizi non
-// pubblicati online: confermare in negozio prima di pubblicarli.
+// FOTO hero/about: reali (non stock) — da un servizio di RomaToday su Ali
+// Can/Barbagianni (barbagianni-barbiere-curdo-pigneto.html): hero = l'ingresso
+// vero del negozio con l'insegna a bandiera, about = un ritratto reale di
+// Ali Can seduto dentro al negozio (le pareti verde/senape sullo sfondo sono
+// le vere pareti del locale). Gallery resta stock (Unsplash, licenza
+// libera) — nessun'altra foto verificabile trovata. Sostituire tutto con
+// foto vere se/quando il cliente compra il sito (vedi _lead.md per i
+// crediti fonte). Prezzi dei servizi non pubblicati online: confermare in
+// negozio prima di pubblicarli.
 // Logo e palette (nero/bianco) presi dal vero profilo Instagram
 // @barbagianni_haircuts_shaves_ — vedi _lead.md.
 

@@ -95,12 +95,78 @@ Max, La Casa sugli Alberi, Roma Trasteverina) — those need a human to
 actually send the Instagram DM/call, or a found email/phone confirmed
 first for Roma Trasteverina.
 
-**Next up:** watch for replies to the 5 emails sent, either expand the
-B&B batch to more neighborhoods or move to the artisan sector (was
-mid-search on "Bottega dell'Artigianaio", a Monti watchmaker, when a
-previous session ended — pick up there or start fresh). Applying the
-branding-extraction step is now automatic for every
-new client going forward, not a separate task to remember.
+**Round 3 (2026-08-26, later same day) — real-photo push + DM screenshots.**
+Two follow-up emails sent this round too: Roma Trasteverina
+(info@romatrasteverina.com, found directly in their own homepage HTML) —
+**6 emails sent total now**, one per client with a verified address.
+Then, per explicit feedback ("stop using stock, use real images" / "act
+like a professional web designer"):
+
+- **Redesigned Autofficina Pisino's logo from scratch** instead of leaving
+  it as text initials — their real logo has icon and text touching with
+  no clean square crop anywhere (checked pixel-by-pixel), so a first pass
+  had skipped `logoImage` entirely. Wrong call: drew a clean flat-style
+  car-silhouette icon using their real brand colors (black + mustard-yellow
+  `#dcd221`), sized for the template's circular slot. Live now as
+  `clients/autofficina-pisino/images/logo.png`. **This is now the
+  documented standard** (`CLAUDE.md`, `scripts/branding-extraction.md`):
+  adapt a real asset that doesn't fit rather than falling back to
+  initials/stock as a first resort.
+- **Found real photos for Tanto pè Magnà** (real exterior, real customer
+  dish photos, a table shot with their own branded placemat) from
+  piatti.menu's public listing — zero stock left on that client.
+- **Found real photos for Barbagianni** (real shop entrance + a real
+  portrait of the owner, Ali Can) from a dedicated RomaToday feature —
+  `hero`/`about` now real, gallery still stock.
+- **Found real photos for Testaccio XIX-XXV** (room, breakfast, reception,
+  desk corner) — turns out they have **two domains**: `testaccio19-25.com`
+  (dead, 503 — what the outreach email referenced) and `testaccio19-25.it`
+  (alive, modern, real photos). All photos on this client are now real,
+  pulled from the `.it` site. **Flagged in `_lead.md`**: if they reply
+  pointing at the working `.it` site, that's expected, not a mistake — the
+  `.com` genuinely is down.
+- **Checked but blocked, still stock (documented why, so it's not
+  re-attempted blindly next time):** Monego Pigneto (Treatwell is a
+  client-rendered SPA, no static photos — same dead end as Instagram);
+  A Testaccio da Max and La Casa sugli Alberi (both have real Tripadvisor
+  photos, but Tripadvisor returns HTTP 403 to both `curl` and `WebFetch`
+  on every page tried — harder block than anything else this session hit).
+  Trastevereinbed stays stock too, confirmed in an earlier round (their
+  only other image asset genuinely 404s).
+- **New response-tracking system**: every `_lead.md` now has a `Response:`
+  line next to `Status:` (checked against Gmail directly, not assumed —
+  all 6 sent threads had zero replies as of this round), and `leads.csv`
+  got matching `outreach_sent`/`response` columns. Convention documented
+  in `scripts/README.md`.
+- **New: real screenshots for DM outreach.** For the 4 businesses contacted
+  by DM (no email exists), a bare link doesn't preview in Instagram DMs —
+  screenshotted each live demo with Playwright instead (against the local
+  `index.html` via `file://`, not the live URL — hitting the live GitHub
+  Pages URL directly ran into proxy/connection issues in this sandbox; see
+  `scripts/branding-extraction.md` for the exact setup that worked). Saved
+  to `clients/<slug>/screenshots/demo-preview.png` for Barbagianni, Monego
+  Pigneto, Da Carlone, Tanto pè Magnà. Each `_lead.md` draft now says to
+  attach the screenshot and includes the line "nell'immagine ho fatto una
+  demo di come potrebbe venire il sito" before the link.
+
+**Next up:**
+1. **Nikolai to actually send the 4 DM messages** (Barbagianni, Monego
+   Pigneto, Da Carlone, Tanto pè Magnà) — Claude can't send Instagram DMs.
+   Screenshots + exact text are ready in each `_lead.md`.
+2. **Nikolai to call** La Casa sugli Alberi (landline only) and
+   A Testaccio da Max (WhatsApp) — drafts ready.
+3. Check the 6 sent-email threads for replies periodically (`get_thread`/
+   `search_threads`), update `Response:` in the relevant `_lead.md` +
+   `leads.csv` the moment one comes in, whatever the answer.
+4. Real photos still wanted for Monego Pigneto, A Testaccio da Max, La
+   Casa sugli Alberi — the automated routes are exhausted and documented;
+   next real progress there needs a screenshot from Nikolai (Instagram) or
+   from someone who can actually load Tripadvisor.
+5. Either expand the B&B batch to more neighborhoods or move to the
+   artisan sector (was mid-search on "Bottega dell'Artigianaio", a Monti
+   watchmaker, when an earlier session ended — pick up there or start
+   fresh). Branding extraction (real logo/colors/photos before stock) is
+   now automatic for every new client, not a separate task to remember.
 
 **Lead-finding approach that actually worked**, vs. what's below: manual
 web search (business type + neighborhood), then verify no website /

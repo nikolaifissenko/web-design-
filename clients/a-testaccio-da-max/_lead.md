@@ -12,6 +12,7 @@
 - **Notes:**
   - No email found — outreach by phone/WhatsApp only.
   - **Photos are stock** (Unsplash, free license), shared with the other two Testaccio B&B demos built in this batch. Swap for real photos on sale.
+  - **2026-08-26: checked for real photos, blocked.** Tripadvisor has 23 real guest photos of this exact property, but both `curl` (with browser headers) and `WebFetch` get HTTP 403 on every Tripadvisor page tried — a harder block than the sites that worked elsewhere this session (RomaToday, piatti.menu, testaccio19-25.it). Booking.com returned a 202 bot-challenge page. If picking this up again: try Google's cached/image-search route, or ask Nikolai to screenshot a couple of Tripadvisor photos directly.
   - Genuine "missing website" lead — currently 100% dependent on OTAs (Booking/Airbnb-style aggregators) and their commission cut.
 
 ## Outreach draft — WhatsApp / phone (no email found)

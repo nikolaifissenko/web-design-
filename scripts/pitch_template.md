@@ -27,3 +27,12 @@ Let me know what you think!
   better to a personal, informal tone than a corporate one.
 - Lead with the live link, not a pitch — most owners will click before reading.
 - If no reply in ~4-5 days, one polite follow-up, then move on.
+- **For Instagram/Facebook DM outreach specifically: attach a screenshot of
+  the demo, don't rely on a bare link.** A link alone often doesn't preview
+  in a DM, so the recipient sees a paste of text and no idea what it points
+  to. Screenshot the live demo (Playwright against the local `index.html`
+  works reliably in this environment — going straight at the live GitHub
+  Pages URL can hit proxy/network issues; see any `clients/<slug>/screenshots/`
+  folder for a worked example) and say explicitly in the message *"nell'immagine
+  ho fatto una demo di come potrebbe venire il sito"* before the link — the
+  image is the pitch, the link is just for them to click through afterward.

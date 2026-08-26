@@ -78,6 +78,16 @@ nice-to-have, in the client workflow (see `README.md` → Workflow, step 4).
      re-hosted on one of the sources above (this consistently works: the
      same customer photos that get posted to Instagram usually also end up
      on Tripadvisor/piatti.menu/Google, which are actually fetchable).
+   - **Tripadvisor is a harder block than the rest** — unlike RomaToday,
+     piatti.menu, or a business's own dated site (all fetchable with the
+     UA/Referer trick below), Tripadvisor returns HTTP 403 to both `curl`
+     and `WebFetch` on every page tried, including individual
+     `LocationPhotoDirectLink-...` photo pages. Don't burn time retrying
+     it with different headers — it didn't work across several attempts on
+     two different B&Bs. Treatwell (salon/spa booking) is a similar dead
+     end but for a different reason: it's a client-rendered SPA like
+     Instagram, zero static image URLs in the raw response. For either,
+     move on to another source or ask for a screenshot.
 
    Only once those are actually checked (not just the business's own site)
    does a stock photo become acceptable for whatever slot still has
@@ -120,6 +130,27 @@ old `source.unsplash.com` redirect service is dead (503). Instead, find a
 specific photo via web search (`unsplash.com/photos/<slug>-<id>`), fetch that
 page for its `og:image`/CDN URL (`images.unsplash.com/photo-<hash>?w=1600...`),
 and `curl` that directly.
+
+## Screenshotting a demo (for DM outreach)
+
+For Instagram/Facebook DM outreach, attach a screenshot of the demo rather
+than relying on a bare link (see `pitch_template.md`). Playwright + the
+pre-installed Chromium works, with two gotchas specific to this environment:
+
+- Going straight at the live GitHub Pages URL can hit `net::ERR_CONNECTION_RESET`
+  even with the proxy configured on the browser launch — more reliable to
+  screenshot the **local** `clients/<slug>/index.html` via a `file://` URL
+  instead (no network needed at all, since the template has no build step).
+- Use `executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome'`
+  (adjust the version folder if it differs) with `args: ['--no-sandbox',
+  '--disable-dev-shm-usage']`, and `waitUntil: 'domcontentloaded'` rather
+  than `'load'` — `'load'` can hang waiting on the Google Fonts request,
+  which may not resolve in this sandbox.
+
+Save the result to `clients/<slug>/screenshots/demo-preview.png` — see any
+of the four DM-channel clients (Barbagianni, Monego Pigneto, Da Carlone,
+Tanto pè Magnà) for a working example, including the `node` one-liner in
+their `_lead.md` outreach sections.
 
 ## Documenting it
 

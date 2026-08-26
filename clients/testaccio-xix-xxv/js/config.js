@@ -3,10 +3,16 @@
 // ha restituito HTTP 503 (Service Unavailable) su due tentativi separati —
 // il dominio esiste ma il server non risponde. Anche peggio di un sito
 // datato: chi cerca il B&B online oggi non riesce proprio a vedere il sito.
-// FOTO: stock (Unsplash, licenza libera), non della struttura reale —
-// sostituire con foto vere se/quando il cliente compra il sito.
-// Numero di camere e dettagli interni non confermati: testo tenuto
-// generico, da confermare col titolare.
+// FOTO: tutte reali (non stock), scaricate direttamente dal loro sito
+// effettivamente in funzione, testaccio19-25.it (NON il .com — vedi nota
+// importante in _lead.md: il dominio .com usato nell'email di outreach
+// risultava down, ma il .it è vivo e funzionante). hero.jpg = camera con
+// vista sulla chiesa, about.jpg = colazione con cornetti e caffè,
+// gallery-1.jpg = angolo reception con dettagli decorativi (foglietto con
+// il nome "Testaccio XIX & XXV" visibile), gallery-2.jpg = angolo scrivania
+// con vista balcone. Numero di camere e dettagli interni non confermati
+// oltre a quanto visibile nelle foto: testo tenuto generico, da confermare
+// col titolare.
 
 const SITE_CONFIG = {
   business: {
@@ -47,7 +53,7 @@ const SITE_CONFIG = {
 
   gallery: {
     heading: "Galleria",
-    images: ["images/gallery-1.jpg", "images/gallery-2.jpg", "images/gallery-3.jpg"],
+    images: ["images/gallery-1.jpg", "images/gallery-2.jpg"],
   },
 
   hours: {

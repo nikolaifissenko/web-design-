@@ -13,6 +13,7 @@
   - No email or mobile/WhatsApp found — landline only, outreach by phone call.
   - Interior/room details not confirmed anywhere public — copy kept generic in `config.js`, confirm with owner before finalizing a sale.
   - **Photos are stock** (Unsplash, free license), shared with the other two Testaccio B&B demos built in this batch. Swap for real photos on sale.
+  - **2026-08-26: checked for real photos, blocked.** Tripadvisor lists 67 real guest photos of this exact property, but every Tripadvisor page returns HTTP 403 to both `curl` and `WebFetch` (same block as A Testaccio da Max — see that file's note). If picking this up again: try Google's cached/image-search route, or ask Nikolai to screenshot a couple of Tripadvisor photos directly.
   - Genuine "missing website" lead. No digital channel found besides directories — a call is the only realistic first contact.
 
 ## Outreach approach — phone only (no email/mobile found)
