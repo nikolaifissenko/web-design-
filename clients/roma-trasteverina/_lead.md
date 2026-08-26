@@ -6,7 +6,7 @@
 - **Email:** info@romatrasteverina.com (found 2026-08-26, directly in their own homepage HTML — verified, not third-party-sourced)
 - **Current website:** romatrasteverina.com — confirmed bad. Built on ASP.NET WebForms (`__doPostBack`, abandoned framework since ~2015), no viewport meta tag (not mobile-responsive), and the **Contacts page currently returns HTTP 500** — broken right now, verified twice. Booking also redirects out to a third-party platform (booking.expert) instead of being handled on-site.
 - **Sources:** bed-and-breakfast.it (name, address). Fetched the live site directly (homepage + CSS) to confirm quality and pull real brand colors/photos.
-- **Status:** demo-live
+- **Status:** outreach-sent (email sent 2026-08-26 to info@romatrasteverina.com — Gmail message ID `1a03c2b8e605caaf`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/roma-trasteverina/
 - **Sold:** no
 - **Notes:**

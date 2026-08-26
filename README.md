@@ -23,7 +23,7 @@ demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 | `a-testaccio-da-max` | B&B | Testaccio | WhatsApp/phone (no site at all) | no |
 | `la-casa-sugli-alberi` | B&B | Testaccio | phone only (no email/site found) | no |
 | `trastevereinbed` | B&B | Trastevere | email (verified) | **yes** (2026-08-26) |
-| `roma-trasteverina` | B&B | Trastevere | phone/email not yet found | no |
+| `roma-trasteverina` | B&B | Trastevere | email (found 2026-08-26) | **yes** (2026-08-26) |
 | `una-finestra-su-monti` | B&B | Monti | email (verified) | **yes** (2026-08-26) |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
