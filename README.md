@@ -9,7 +9,8 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 branch `main` / root) — every push to `main` auto-deploys. Each client's
 demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 
-12 client demos built and live, none sold yet:
+14 client demos built and live, none sold yet (1 more — Testaccio XIX-XXV —
+declined and demo removed, see below):
 
 | Client | Sector | Neighborhood | Contact channel | Outreach sent? |
 |---|---|---|---|---|
@@ -19,12 +20,14 @@ demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 | `autofficina-pisino` | autofficina | Collatino | email | **yes** (2026-08-26) |
 | `tanto-pe-magna` | trattoria | Garbatella | Facebook Messenger / phone | no |
 | `da-carlone` | trattoria | Trastevere | Instagram DM / phone | no |
-| `testaccio-xix-xxv` | B&B | Testaccio | email (site was 503, own domain) | **replied — not interested** (2026-08-26) |
 | `a-testaccio-da-max` | B&B | Testaccio | WhatsApp/phone (no site at all) | no |
 | `la-casa-sugli-alberi` | B&B | Testaccio | phone only (no email/site found) | no |
 | `trastevereinbed` | B&B | Trastevere | email (verified) | **yes** (2026-08-26) |
 | `roma-trasteverina` | B&B | Trastevere | email (found 2026-08-26) | **yes** (2026-08-26) |
 | `una-finestra-su-monti` | B&B | Monti | email (verified) | **yes** (2026-08-26) |
+| `sartoria-carbone` | sartoria (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
+| `artigianaio-orologi` | orologiaio (artisan) | Rione Monti | phone only (no email/site/social found) | no |
+| `antica-legatoria-del-vico` | legatoria (artisan) | Centro storico (Navona) | email (verified) | **yes** (2026-08-26) |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -149,38 +152,119 @@ like a professional web designer"):
   attach the screenshot and includes the line "nell'immagine ho fatto una
   demo di come potrebbe venire il sito" before the link.
 
+**Testaccio XIX-XXV declined (2026-08-26), demo removed.** "Grazie
+Nikolai, al momento stiamo bene così... In bocca al lupo!" — polite, not
+interested, door left open. Sent a brief thank-you reply and deleted
+`clients/testaccio-xix-xxv/` — no point leaving a live demo for a
+declined lead. The other 5 outreach threads (Autofficina Pisino, Tinto
+Lavanderia, Trastevereinbed, Una Finestra su Monti, Roma Trasteverina)
+were still silent as of the last check.
+
+**Round 4 (2026-08-26) — moved into the artisan sector, 2 new demos,
+both fully real or honestly-substituted branding, zero shortcuts:**
+
+- **`sartoria-carbone`** (Sartoria Carbone, Via Leone IV, Prati) — a
+  bespoke menswear tailor since 1957. Found via web search for artisan
+  sartorie. **Rare case: everything on the demo is real, nothing stock.**
+  They have two live sites — an ancient `.it` domain (mootools,
+  `swfobject`, `html5shiv` loaded from the long-dead googlecode.com, no
+  viewport tag: confirmed not mobile-responsive) and a newer, generic
+  free Wix site. The Wix site's own media CDN turned out to hold a full
+  set of real, professionally shot photos of the actual tailors and shop
+  — Giuseppe Carbone fitting a client, a black-and-white photo of both
+  the founder (Cavalier Domenicoantonio) and his son Giuseppe together,
+  a macro shot of a jacket's hand-basting, a runway photo of a
+  Carbone-tailored coat — all pulled down and used directly. Logo is
+  their real "Carbone — Dal 1957" script mark, already square, just
+  center-cropped (no redesign needed, unlike Autofficina Pisino). Colors
+  (black/white + a warm gold accent) drawn from that same real logo and
+  photography, not invented.
+- **`artigianaio-orologi`** (L'Artigianaio Orologi di Daniele Merelli,
+  Via Urbana, Rione Monti) — a watch-repair artisan active since 1999,
+  found via web search for Monti's historic watchmakers (the lead the
+  previous session was mid-searching when it ended). **The strongest
+  kind of lead: zero digital presence at all** — no domain, no
+  Facebook/Instagram found anywhere, confirmed across 6+ directory
+  listings. No real photos were recoverable either: the one third-party
+  directory with photos attached to their listing (nicelocal.it, via
+  zoon.ru) turned out to be a mixed-up listing — downloaded and checked,
+  the "photos" were Red Square in Moscow and an unrelated dental office,
+  not this business. Used well-chosen, specifically-relevant Unsplash
+  stock instead (a real watchmaker at work with a loupe, genuine macro
+  shots of mechanical watch movements, a museum photo of antique pocket
+  watches) rather than generic filler. **No existing logo to adapt at
+  all**, so — per Nikolai's standing instruction to design one rather
+  than fall back to initials when there's nothing real to work from —
+  drew a new one from scratch: a navy-and-antique-gold pocket-watch face
+  icon (PIL `ImageDraw`), deliberately circular so it fills the
+  template's logo slot with zero cropping compromise.
+- Both `_lead.md`s document exactly what's real vs. substituted, same
+  convention as every prior client. Neither outreach email/DM sent yet —
+  Sartoria Carbone has a verified email, Artigianaio Orologi has phone
+  only. Both nav bars localized to Italian (Chi siamo/Galleria/Orari/
+  Contatti) — the shared template ships these 4 words hardcoded in
+  English in `index.html` (not driven by `config.js`), true of every
+  existing client too; fixed on just these two rather than scope-creeping
+  into the other 11.
+
+**Round 5 (2026-08-26, same day) — 1 more artisan demo:**
+
+- **`antica-legatoria-del-vico`** (Antica Legatoria Del Vico, Vicolo del
+  Governo Vecchio, a Piazza Navona) — a bookbinding/restoration artisan.
+  Found via web search for Rome's historic legatorie, alongside two other
+  candidates (Procopio Calzature, Legatoria Rumori) that turned out to
+  already have modern, well-designed sites — false positives, skipped,
+  same as El Dorado Prati before them. Del Vico's real site is live but
+  built on **WordPress 5.7.1** (a 2021 release, now stale) with a photo
+  gallery that's literally unedited WhatsApp exports (filenames like
+  `WhatsApp-Image-2021-03-02-at-17.14.33.jpeg`, never renamed or curated)
+  — real, good material, zero design work applied to it. **All photos on
+  the demo are real**, pulled from that gallery: a red leather-bound
+  liturgical volume, an antique gilding tool resting on two finished
+  bindings, a book mid-restoration with hand-sewn ribbon bookmarks, a
+  drawer of gilding stamps/type. **Logo:** their real stamp/badge (an
+  arched oval with the shop name, address, and phone all baked into one
+  image) doesn't fit a circular slot any better than Trastevereinbed's
+  did, so — instead of falling back to initials — redrew an open-book
+  icon using colors sampled pixel-for-pixel from their real stamp
+  (`#b0a14e` gold, `#fff090` cream, `#2b2418` near-black), not an
+  invented palette. Verified email, no socials found.
+- **Outreach emails sent 2026-08-26 to the 2 artisan clients with a
+  verified address**: Sartoria Carbone (`info@sartoriacarbone.it`,
+  Gmail message ID `1a03fe2d410d54c4`) and Antica Legatoria Del Vico
+  (`delvicomaurizio@gmail.com`, Gmail message ID `1a03fe2deb4a8bac`).
+  A first attempt this round to send Sartoria Carbone's email was
+  denied by the auto-mode permission classifier (it allows `reply` on
+  an existing thread, used earlier for the Testaccio thank-you, but not
+  a brand-new cold-outreach `send_message` without explicit approval);
+  once Nikolai explicitly said to send, it went through normally on
+  retry — noting this in case the same block resurfaces on a future
+  cold-outreach batch. Artigianaio Orologi still has no email/social —
+  phone-only, nothing to send.
+- Re-checked the 5 older silent outreach threads (Autofficina Pisino,
+  Tinto Lavanderia, Trastevereinbed, Una Finestra su Monti, Roma
+  Trasteverina) — still no replies as of this round.
+
 **Next up:**
 1. **Nikolai to actually send the 4 DM messages** (Barbagianni, Monego
    Pigneto, Da Carlone, Tanto pè Magnà) — Claude can't send Instagram DMs.
    Screenshots + exact text are ready in each `_lead.md`.
-2. **Nikolai to call** La Casa sugli Alberi (landline only) and
-   A Testaccio da Max (WhatsApp) — drafts ready.
-3. **First real reply came in — Testaccio XIX-XXV declined.** "Grazie
-   Nikolai, al momento stiamo bene così... In bocca al lupo!" — polite,
-   not interested right now, door left open ("ora abbiamo il tuo
-   contatto"). No pushback on the `.com`/`.it` domain mix-up noted above.
-   `Status`/`Response` updated to `replied-not-interested`; treat as
-   closed unless Nikolai wants to send a brief thank-you. The other 5
-   threads (Autofficina Pisino, Tinto Lavanderia, Trastevereinbed, Una
-   Finestra su Monti, Roma Trasteverina) are still silent as of this
-   check (~1h45m after sending).
-   Correction to an earlier note in this file: the auto-check Routine
-   ("Check Rome outreach email replies", fires every 4h) was flagged
-   earlier as possibly broken (a connector warning at creation time made
-   it look like it wouldn't have Gmail access) — it actually fired and
-   worked correctly, catching this exact reply. So it may be running
-   fine after all; still worth a manual check with `get_thread` on the 6
-   IDs logged in each `_lead.md` if you want certainty, rather than
-   assuming either way.
+2. **Nikolai to call** La Casa sugli Alberi (landline only), A Testaccio
+   da Max (WhatsApp), and **Artigianaio Orologi** (phone only, no other
+   channel exists) — drafts ready in each `_lead.md`.
+3. Sartoria Carbone and Antica Legatoria Del Vico outreach emails are
+   sent — just waiting on replies now, same as the earlier 5.
 4. Real photos still wanted for Monego Pigneto, A Testaccio da Max, La
    Casa sugli Alberi — the automated routes are exhausted and documented;
    next real progress there needs a screenshot from Nikolai (Instagram) or
    from someone who can actually load Tripadvisor.
-5. Either expand the B&B batch to more neighborhoods or move to the
-   artisan sector (was mid-search on "Bottega dell'Artigianaio", a Monti
-   watchmaker, when an earlier session ended — pick up there or start
-   fresh). Branding extraction (real logo/colors/photos before stock) is
-   now automatic for every new client, not a separate task to remember.
+5. Artisan sector is now 3-for-5 on leads found via plain web search
+   (sartoria, orologiaio, legatoria hit; calzoleria and a second
+   legatoria were false positives — already-good sites, skipped) — still
+   worth continuing here (orafo, corniciaio) or returning to B&Bs/
+   trattorie in new neighborhoods. Branding extraction (real
+   logo/colors/photos before stock, "design one from scratch if nothing
+   real exists at all" for logos) stays automatic for every new client.
 
 **Lead-finding approach that actually worked**, vs. what's below: manual
 web search (business type + neighborhood), then verify no website /
