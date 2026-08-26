@@ -16,9 +16,9 @@
   contatti/immagini/colori. Due candidati collegati controllati e
   scartati come falsi positivi (siti già moderni/ben fatti): Ercoli
   Cornici, Cornici Mita Roma.
-- **Status:** demo-built
-- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/consorti-cornici/
-- **Response:** n/a — outreach not sent yet
+- **Status:** outreach-sent (email sent 2026-08-26 to andreaconsorticornici@hotmail.com — Gmail message ID `1a0400b0a3818759`)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/consorti-cornici/ (verified live before sending)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - **Tutte le foto sono reali**, scaricate direttamente dalla galleria
@@ -41,7 +41,7 @@
     laboratorio — sono semplicemente inutilizzate sulla homepage attuale,
     che mostra solo testo. Un fatto concreto e non offensivo da citare.
 
-## Outreach draft — email (not sent yet, professional tone)
+## Outreach email (sent 2026-08-26, professional-but-passionate tone)
 
 > Buongiorno, sono Nikolai, web designer freelance qui a Roma. Lavoro
 > con piccole attività della città per portarle online con un sito che

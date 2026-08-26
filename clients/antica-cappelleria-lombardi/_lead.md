@@ -12,9 +12,9 @@
 - **Sources:** web search ("cappellaio artigiano Roma negozio storico
   cappelli su misura"), poi il loro sito attuale fetchato direttamente
   per contatti/immagini/colori.
-- **Status:** demo-built
-- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-cappelleria-lombardi/
-- **Response:** n/a — outreach not sent yet
+- **Status:** outreach-sent (email sent 2026-08-26 to cappellerialombardi@tiscali.it — Gmail message ID `1a0400b152349c5f`)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-cappelleria-lombardi/ (verified live before sending)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - **Foto reali** — prese dal loro catalogo prodotti online (non stock
@@ -36,7 +36,7 @@
     quindi il taglio giusto è "il vostro sito ha tutti gli strumenti giusti
     ma l'aspetto è invecchiato" piuttosto che "il sito è rotto."
 
-## Outreach draft — email (not sent yet, professional tone)
+## Outreach email (sent 2026-08-26, professional-but-passionate tone)
 
 > Buongiorno, sono Nikolai, web designer freelance qui a Roma. Lavoro
 > con piccole attività della città per portarle online con un sito che

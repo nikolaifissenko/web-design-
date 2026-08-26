@@ -17,9 +17,9 @@
   contatti/immagini/colori. Altri due candidati dalla stessa ricerca
   scartati per WordPress già aggiornato (Restauro Gianferro: 6.6.7; La
   Bottega Antica: 6.4.10 — entrambi mantenuti attivamente, non lead validi).
-- **Status:** demo-built
-- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/fratelli-anzilotti/
-- **Response:** n/a — outreach not sent yet
+- **Status:** outreach-sent (email sent 2026-08-26 to info@fratellianzilotti.it — Gmail message ID `1a0400b2061e81b1`)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/fratelli-anzilotti/ (verified live before sending)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - **Foto reali, EXIF-verificate** (fotocamera Sony reale, non stock):
@@ -43,7 +43,7 @@
     anni indietro) è un fatto tecnico concreto e verificabile, stesso
     approccio usato con Roma Trasteverina/Sartoria Carbone/Del Vico.
 
-## Outreach draft — email (not sent yet, professional tone)
+## Outreach email (sent 2026-08-26, professional-but-passionate tone)
 
 > Buongiorno, sono Nikolai, web designer freelance qui a Roma. Lavoro
 > con piccole attività della città per portarle online con un sito che

@@ -28,9 +28,9 @@ declined and demo removed, see below):
 | `sartoria-carbone` | sartoria (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 | `artigianaio-orologi` | orologiaio (artisan) | Rione Monti | phone only (no email/site/social found) | no |
 | `antica-legatoria-del-vico` | legatoria (artisan) | Centro storico (Navona) | email (verified) | **yes** (2026-08-26) |
-| `consorti-cornici` | corniciaio (artisan) | Balduina | email (verified) | no |
-| `antica-cappelleria-lombardi` | cappelleria (artisan) | Esquilino | email (verified) | no |
-| `fratelli-anzilotti` | restauro mobili (artisan) | Prati | email (verified) | no |
+| `consorti-cornici` | corniciaio (artisan) | Balduina | email (verified) | **yes** (2026-08-26) |
+| `antica-cappelleria-lombardi` | cappelleria (artisan) | Esquilino | email (verified) | **yes** (2026-08-26) |
+| `fratelli-anzilotti` | restauro mobili (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
