@@ -8,7 +8,7 @@
 - **Facebook:** https://www.facebook.com/autofficinapisino/
 - **Instagram:** none found
 - **Sources:** autofficinapisino.com (services, hours, contact); DEKRA revisione centri listing and Virgilio business directory (confirms Novacar Service Pisino S.R.L. name, also offers car rental per a Facebook post).
-- **Status:** demo-live
+- **Status:** outreach-sent (email sent 2026-08-26 to novacarservicepisino@gmail.com — Gmail message ID `1a03c23762875a7d`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/autofficina-pisino/
 - **Sold:** no
 - **Notes:**

@@ -6,7 +6,7 @@
 - **Email:** trastevereinbed@hotmail.com
 - **Current website:** trastevereinbed.com — confirmed bad. The entire homepage is a single 2010-era image-map (one `<img>` with clickable coordinates, no real HTML layout), with a leftover Web Agency credit link and, inside the logo graphic itself, unfinished placeholder text: "Copyright information Goes Here". The site has no mobile support at all.
 - **Sources:** bed-and-breakfast.it (name, address, phone, email). Fetched the live site directly to confirm design quality and pull brand color.
-- **Status:** demo-live
+- **Status:** outreach-sent (email sent 2026-08-26 to trastevereinbed@hotmail.com — Gmail message ID `1a03c244357ac998`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/trastevereinbed/
 - **Sold:** no
 - **Notes:**

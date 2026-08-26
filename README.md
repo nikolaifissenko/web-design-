@@ -15,16 +15,16 @@ demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 |---|---|---|---|---|
 | `barbagianni` | bar | Pigneto | Instagram DM / phone | no |
 | `monego-pigneto` | bar | Pigneto | Instagram DM / phone | no |
-| `tinto-lavanderia` | lavanderia | — | email | no |
-| `autofficina-pisino` | autofficina | Collatino | email | no |
+| `tinto-lavanderia` | lavanderia | — | email | **yes** (2026-08-26) |
+| `autofficina-pisino` | autofficina | Collatino | email | **yes** (2026-08-26) |
 | `tanto-pe-magna` | trattoria | Garbatella | Facebook Messenger / phone | no |
 | `da-carlone` | trattoria | Trastevere | Instagram DM / phone | no |
-| `testaccio-xix-xxv` | B&B | Testaccio | email (site was 503, own domain) | no |
+| `testaccio-xix-xxv` | B&B | Testaccio | email (site was 503, own domain) | **yes** (2026-08-26) |
 | `a-testaccio-da-max` | B&B | Testaccio | WhatsApp/phone (no site at all) | no |
 | `la-casa-sugli-alberi` | B&B | Testaccio | phone only (no email/site found) | no |
-| `trastevereinbed` | B&B | Trastevere | email (verified) | no |
+| `trastevereinbed` | B&B | Trastevere | email (verified) | **yes** (2026-08-26) |
 | `roma-trasteverina` | B&B | Trastevere | phone/email not yet found | no |
-| `una-finestra-su-monti` | B&B | Monti | email (verified) | no |
+| `una-finestra-su-monti` | B&B | Monti | email (verified) | **yes** (2026-08-26) |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -86,10 +86,20 @@ Unsplash sets are unchanged there. `barbagianni`, `monego-pigneto`, and
 an earlier session); `da-carlone` has a dead domain with nothing to
 extract, also already correctly stock-only.
 
-**Next up:** either expand the B&B batch to more neighborhoods or move to
-the artisan sector (was mid-search on "Bottega dell'Artigianaio", a Monti
-watchmaker, when a previous session ended — pick up there or start
-fresh). Applying the branding-extraction step is now automatic for every
+**First outreach sent 2026-08-26.** Emailed the 5 clients with a verified
+address: Tinto Lavanderia, Autofficina Pisino, Testaccio XIX-XXV,
+Trastevereinbed, Una Finestra su Monti. Each `_lead.md` has the Gmail
+message ID sent. Nothing sent yet for the DM/phone-only leads
+(Barbagianni, Monego Pigneto, Tanto pè Magnà, Da Carlone, A Testaccio da
+Max, La Casa sugli Alberi, Roma Trasteverina) — those need a human to
+actually send the Instagram DM/call, or a found email/phone confirmed
+first for Roma Trasteverina.
+
+**Next up:** watch for replies to the 5 emails sent, either expand the
+B&B batch to more neighborhoods or move to the artisan sector (was
+mid-search on "Bottega dell'Artigianaio", a Monti watchmaker, when a
+previous session ended — pick up there or start fresh). Applying the
+branding-extraction step is now automatic for every
 new client going forward, not a separate task to remember.
 
 **Lead-finding approach that actually worked**, vs. what's below: manual

@@ -8,7 +8,7 @@
 - **Facebook:** https://www.facebook.com/100079617430821 (numeric-ID URL, no vanity handle)
 - **Instagram:** none found
 - **Sources:** tintolavanderia.it/contatti/ (services, address, phone, email).
-- **Status:** demo-live
+- **Status:** outreach-sent (email sent 2026-08-26 to hevelynyuliana@hotmail.com — Gmail message ID `1a03c243dbf61044`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/tinto-lavanderia/
 - **Sold:** no
 - **Notes:**

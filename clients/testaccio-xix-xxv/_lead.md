@@ -6,7 +6,7 @@
 - **Email:** info@testaccio19-25.com
 - **Current website:** testaccio19-25.com — returns **HTTP 503 Service Unavailable** on two separate checks. Domain is registered but the server isn't serving pages right now. Worse than a bad design: it's currently invisible to anyone searching for the place.
 - **Sources:** bed-and-breakfast.it, PagineBianche (name, address, phone). Direct site check via WebFetch (503 both times).
-- **Status:** demo-live
+- **Status:** outreach-sent (email sent 2026-08-26 to info@testaccio19-25.com — Gmail message ID `1a03c23e015009d6`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/testaccio-xix-xxv/
 - **Sold:** no
 - **Notes:**

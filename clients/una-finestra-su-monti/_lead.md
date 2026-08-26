@@ -6,7 +6,7 @@
 - **Email:** info@bbromamonti.com
 - **Current website:** bbromamonti.com — confirmed bad (eyeballed in an earlier session): static, repetitive layout; broken/dead Google+ share buttons (Google+ shut down in 2019); leftover unfinished placeholder text "You can add any HTML here" still visible on the live page.
 - **Sources:** bbromamonti.com (name, address, phone, email, real photos, real theme color — pulled directly from their own site and stylesheet).
-- **Status:** demo-live
+- **Status:** outreach-sent (email sent 2026-08-26 to info@bbromamonti.com — Gmail message ID `1a03c2448da37a88`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/una-finestra-su-monti/
 - **Sold:** no
 - **Notes:**
