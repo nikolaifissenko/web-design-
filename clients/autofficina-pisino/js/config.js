@@ -1,11 +1,18 @@
 // Demo per Autofficina Pisino (Novacar Service Pisino Srl) — dati
 // verificati: nome, indirizzo, telefono, email, orari, servizi (dal sito
 // attuale autofficinapisino.com e schede DEKRA/Virgilio).
-// LOGO reale scaricato dal loro sito (icona auto stilizzata + scritta
-// "AUTOFFICINA PISINO" in nero/giallo-senape) — è un marchio largo
-// (477x290, icona e testo affiancati senza spazio pulito da ritagliare):
-// nel cerchio-logo 40x40 del template qualsiasi ritaglio taglia a metà
-// l'icona o il testo, quindi non riutilizzato come logoImage. COLORE
+// LOGO: il loro logo reale (icona auto stilizzata + scritta "AUTOFFICINA
+// PISINO" in nero/giallo-senape, 477x290) non ha un punto di taglio pulito
+// tra icona e testo — qualsiasi ritaglio rettangolare nel cerchio-logo
+// 40x40 del template mostra un pezzo di testo tranciato (verificato
+// pixel per pixel: nessuna colonna è "solo icona"). Invece di rinunciare
+// al logo, ridisegnata una versione icon-only: una silhouette di auto
+// pulita in stile flat, stessi colori reali del marchio (nero `#1a1818`
+// carrozzeria, cerchi ruota nel giallo-senape reale `#dcd221` preso dal
+// loro logo) — non una foto/ritaglio ma un'icona ridisegnata da zero
+// apposta per lo spazio circolare, come farebbe un designer con un
+// marchio che non si adatta al formato richiesto. File: images/logo.png.
+// COLORE
 // reale ripreso dal CSS del loro sito: teal/ciano #68ccd1 (qui leggermente
 // scurito per contrasto testo) e il carbone/nero del logo come accent —
 // non inventati. FOTO hero/about: le stesse foto presenti sul loro sito
@@ -23,7 +30,7 @@ const SITE_CONFIG = {
     name: "Autofficina Pisino",
     tagline: "Officina meccanica ed elettrauto a Roma, zona Collatina",
     logoText: "AP",
-    logoImage: "",
+    logoImage: "images/logo.png",
   },
 
   theme: {

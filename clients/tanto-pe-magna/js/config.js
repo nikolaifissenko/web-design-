@@ -4,15 +4,16 @@
 // Sito attuale (tantopemagna.it) risulta MORTO — il dominio non si
 // risolve più (verificato via DNS/curl). Peggio che non averne uno.
 // Logo e palette (nero/bianco) presi dal vero profilo Instagram — vedi
-// _lead.md. Instagram stesso è irraggiungibile da fetch automatico (SPA
-// lato client, nessuna foto statica recuperabile) — confermato di nuovo
-// in questa sessione. FOTO about.jpg: reale (non stock), un piatto di
-// cacio e pepe / gricia scattato per un articolo RomaToday dedicato a
-// questo locale, ritagliato per rimuovere il watermark "ROMATODAY".
-// hero/gallery restano stock (Unsplash, licenza libera) — nessun'altra
-// foto verificabile del locale trovata. Sostituire con foto vere
-// se/quando il cliente compra il sito (vedi _lead.md per i crediti
-// fonte). Prezzi non pubblicati online: confermare in loco.
+// _lead.md. Instagram stesso resta irraggiungibile da fetch automatico
+// (SPA lato client, nessuna foto statica nell'HTML) — confermato di
+// nuovo. TUTTE le foto sono ora reali (nessuna foto stock rimasta):
+// hero.jpg = esterno vero della trattoria (insegna "TRATTORIA", tavoli
+// all'aperto), about.jpg = piatto da un articolo RomaToday dedicato al
+// locale, gallery-1/2 = foto reali di clienti (cacio e pepe, polpette)
+// da piatti.menu, gallery-3 = tavolo con la tovaglietta di carta
+// stampata "TANTO PE MAGNA" ben visibile. Tutte scaricate da fonti
+// pubbliche (recensioni/aggregatori), non da Instagram direttamente.
+// Prezzi non pubblicati online: confermare in loco.
 
 const SITE_CONFIG = {
   business: {
