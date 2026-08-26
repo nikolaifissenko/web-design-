@@ -3,22 +3,25 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Status (2026-08-25)
+## Status (2026-08-26)
 
 **GitHub Pages is live on this repo** (Settings → Pages → Deploy from
 branch `main` / root) — every push to `main` auto-deploys. Each client's
 demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 
-6 client demos built and live, none sold yet:
+9 client demos built and live, none sold yet:
 
-| Client | Neighborhood | Contact channel | Outreach sent? |
-|---|---|---|---|
-| `barbagianni` | Pigneto | Instagram DM / phone | no |
-| `monego-pigneto` | Pigneto | Instagram DM / phone | no |
-| `tinto-lavanderia` | — | email | no |
-| `autofficina-pisino` | Collatino | email | no |
-| `tanto-pe-magna` | Garbatella | Facebook Messenger / phone | no |
-| `da-carlone` | Trastevere | Instagram DM / phone | no |
+| Client | Sector | Neighborhood | Contact channel | Outreach sent? |
+|---|---|---|---|---|
+| `barbagianni` | bar | Pigneto | Instagram DM / phone | no |
+| `monego-pigneto` | bar | Pigneto | Instagram DM / phone | no |
+| `tinto-lavanderia` | lavanderia | — | email | no |
+| `autofficina-pisino` | autofficina | Collatino | email | no |
+| `tanto-pe-magna` | trattoria | Garbatella | Facebook Messenger / phone | no |
+| `da-carlone` | trattoria | Trastevere | Instagram DM / phone | no |
+| `testaccio-xix-xxv` | B&B | Testaccio | email (site was 503, own domain) | no |
+| `a-testaccio-da-max` | B&B | Testaccio | WhatsApp/phone (no site at all) | no |
+| `la-casa-sugli-alberi` | B&B | Testaccio | phone only (no email/site found) | no |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -27,10 +30,31 @@ Magnà have their real Instagram logo/branding applied instead of an
 invented palette (crop it from a screenshot Nikolai sends — Instagram
 and Facebook block automated fetching, confirmed repeatedly).
 
-**Next up (in progress, interrupted mid-search):** looking for more leads
-in Rome's centro storico (Monti, Campo de' Fiori, etc.) with a genuinely
-bad/dated website — was checking "Bottega dell'Artigianaio" (a watchmaker
-in Monti) when the session ended. Pick up there or start a fresh search.
+**New this round: B&B sector.** Seeded `scripts/leads.csv` with 8 Rome B&Bs
+(sourced from bed-and-breakfast.it, Tripadvisor, PagineBianche, Expedia —
+manual search, no Google Places API key set up). Eyeballed the ones with an
+existing site: 4 confirmed bad/broken (Trastevereinbed — dated, no mobile
+support; Roma Trasteverina — ASP.NET WebForms, contact page 500s; Una
+Finestra su Monti — dead Google+ buttons, leftover placeholder text;
+Testaccio XIX-XXV — own domain returns HTTP 503, site is effectively down),
+1 dropped as a false positive (El Dorado Prati turned out genuinely modern),
+1 inconclusive (Etere in Prati blocks automated fetching, needs a real
+browser check). Built demos for the 3 strongest of these (site down, or no
+site at all) — see table above. The other 3 confirmed-bad B&B leads
+(Trastevereinbed, Roma Trasteverina, Una Finestra su Monti) still need
+demos built.
+
+**Sector prioritization for further outreach** (see full reasoning in
+session notes): B&Bs and family trattorie are Tier 1 (clear ROI pitch —
+OTA commissions for B&Bs, authentic personal-story angle for trattorie);
+artisan shops (sartorie, calzolai, orologiai) are Tier 1 for low
+competition/high authenticity but lower volume; parrucchieri/barbieri,
+autofficine, lavanderie are Tier 2; bars/chains are lowest priority.
+
+**Next up:** build demos for the remaining 3 confirmed-bad B&B leads, then
+either expand the B&B batch to more neighborhoods or move to the artisan
+sector (was mid-search on "Bottega dell'Artigianaio", a Monti watchmaker,
+when a previous session ended — pick up there or start fresh).
 
 **Lead-finding approach that actually worked**, vs. what's below: manual
 web search (business type + neighborhood), then verify no website /
