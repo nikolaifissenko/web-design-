@@ -54,21 +54,28 @@
 
 ## Outreach script (phone/in-person — not yet used; Claude cannot make calls)
 
-> Buongiorno, mi chiamo Nikolai. Di recente ho scoperto una vera passione
-> per il web design — è una cosa nuova per me, ma ci sto mettendo il
-> cuore perché spero un giorno di riuscire a farne il mio lavoro.
+Rewritten 2026-08-27 to a more formal, heritage-respectful register (the
+original "student practicing" framing undersold a business with this
+much history) — see CLAUDE.md/README for why this angle changed for the
+Round 9 clients specifically.
+
+> Buongiorno,
 >
-> Ho visto che il forno non ha un sito, nonostante sia uno dei posti più
-> famosi e fotografati di Roma. Ve ne ho preparato uno con le vostre vere
-> foto (prese dagli articoli che vi hanno dedicato), per farvi vedere
-> come potrebbe venire:
+> la Pasticceria Boccione è uno dei luoghi più amati e riconoscibili del
+> Ghetto di Roma, custode di una tradizione dolciaria ebraica che dura da
+> generazioni. Eppure, oggi, non ha ancora un sito che la rappresenti.
+>
+> Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho
+> preparato una versione dimostrativa che racconta la vostra storia con
+> le vostre vere fotografie — anche quelle apparse sulla stampa — per
+> mostrarvi come potrebbe essere un sito degno del forno. La trovate
+> qui:
 > https://nikolaifissenko.github.io/web-design-/clients/pasticceria-boccione/
 >
-> Non c'è nessun obbligo, l'ho fatto principalmente per esercitarmi. Ma se
-> vi piace il risultato, sarei felicissimo di completarlo e portarlo
-> online per voi (500€, con hosting e gestione social disponibili come
-> opzione mensile se interessa). Anche solo un parere sincero mi farebbe
-> piacere!
+> Non c'è alcun impegno: l'ho fatto per proporvelo. Se vi piace, sarei
+> felice di completarlo e portarlo online per voi (500€, con hosting
+> disponibile come opzione mensile). Anche un vostro parere sincero mi
+> farebbe molto piacere.
 >
-> Grazie mille per il vostro tempo,
+> Con stima,
 > Nikolai

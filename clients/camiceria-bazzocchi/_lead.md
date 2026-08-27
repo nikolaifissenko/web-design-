@@ -42,23 +42,29 @@
 
 ## Outreach email (not yet sent — draft only)
 
-> Buongiorno, mi chiamo Nikolai. Di recente ho scoperto una vera passione
-> per il web design — è una cosa nuova per me, ma ci sto mettendo il
-> cuore perché spero un giorno di riuscire a farne il mio lavoro.
+Rewritten 2026-08-27 to a more formal, heritage-respectful register (the
+original "student practicing" framing undersold a business with this
+much history) — see CLAUDE.md/README for why this angle changed for the
+Round 9 clients specifically.
+
+> Gentile Camiceria Bazzocchi,
 >
-> Ho visitato il sito della Camiceria Bazzocchi e ho notato che è
-> costruito su un tema WordPress piuttosto datato, poco adatto agli
-> schermi dei telefoni. Con una storia così — dal 1908, con una clientela
-> che ha incluso Re Farouk e Burt Lancaster — mi è sembrato un peccato,
-> così ve ne ho preparato uno nuovo con le vostre vere foto, per farvi
-> vedere come potrebbe venire oggi:
+> dal 1908 vestite Roma con la stessa cura artigianale che vi ha portato
+> ad avere tra i vostri clienti nomi come Re Farouk e Burt Lancaster —
+> una storia che racconta più di qualsiasi vetrina.
+>
+> Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho notato
+> che il vostro sito attuale non rende pienamente giustizia a questa
+> eredità, soprattutto per chi lo consulta da telefono. Per questo ho
+> preparato una versione dimostrativa, con le vostre vere fotografie e la
+> vostra storia, per mostrarvi come potrebbe presentarsi oggi Camiceria
+> Bazzocchi online:
 > https://nikolaifissenko.github.io/web-design-/clients/camiceria-bazzocchi/
 >
-> Non c'è nessun obbligo, l'ho fatto principalmente per esercitarmi. Ma se
-> vi piace il risultato, sarei felicissimo di completarlo e portarlo
-> online per voi (500€, con hosting e gestione social disponibili come
-> opzione mensile se interessa). Anche solo un parere sincero mi farebbe
-> piacere!
+> Non c'è alcun impegno: l'ho realizzato per proporvelo. Se vi piace,
+> sarei lieto di completarlo e portarlo online per voi (500€, con
+> hosting e gestione social disponibili come opzione mensile). Anche
+> solo un parere sincero sarebbe molto gradito.
 >
-> Grazie mille per il vostro tempo,
+> Con stima,
 > Nikolai

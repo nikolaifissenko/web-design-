@@ -56,22 +56,32 @@
 
 ## Outreach message (not yet sent — draft only)
 
-> Buongiorno, mi chiamo Nikolai. Di recente ho scoperto una vera passione
-> per il web design — è una cosa nuova per me, ma ci sto mettendo il
-> cuore perché spero un giorno di riuscire a farne il mio lavoro.
+Rewritten 2026-08-27 to a more formal, heritage-respectful register (the
+original "student practicing" framing undersold a business with this
+much history) — see CLAUDE.md/README for why this angle changed for the
+Round 9 clients specifically.
+
+> Gentili Signori Franchi,
 >
-> Ho visto il vostro sito (franchiargentieri.it) ed è chiaro che dietro
-> c'è una storia straordinaria — dalla bottega di Valadier fino a oggi.
-> Ho pensato fosse un peccato che una storia così non fosse raccontata su
-> un sito più moderno, così ve ne ho preparato uno nuovo con le vostre
-> vere foto, per farvi vedere come potrebbe venire oggi:
+> la vostra bottega custodisce un'eredità che pochi a Roma possono
+> vantare: dalla scuola orafa e argentiera che risale a Luigi Valadier
+> fino al lavoro che portate avanti oggi, restaurando argenti e oggetti
+> sacri per collezioni private e istituzioni. È una storia che merita di
+> essere raccontata con la stessa cura con cui lavorate l'argento.
+>
+> Mi chiamo Nikolai e mi occupo di progettazione di siti web: sto
+> dedicando questo periodo a costruire, per alcune realtà storiche di
+> Roma, siti che uniscano il carattere della tradizione a una presenza
+> online moderna e curata, pensata anche per chi vi cerca dal telefono.
+> Ho preparato una versione dimostrativa per Franchi Argentieri, con le
+> vostre vere fotografie, che potete vedere qui:
 > https://nikolaifissenko.github.io/web-design-/clients/franchi-argentieri/
 >
-> Non c'è nessun obbligo, l'ho fatto principalmente per esercitarmi. Ma se
-> vi piace il risultato, sarei felicissimo di completarlo e portarlo
-> online per voi (500€, con hosting e gestione social disponibili come
-> opzione mensile se interessa). Anche solo un parere sincero mi farebbe
-> piacere!
+> Non c'è alcun impegno da parte vostra: è un progetto che ho realizzato
+> per proporvelo, non per venderlo a tutti i costi. Se il risultato vi
+> convince, sarei lieto di completarlo e portarlo online (500€, con
+> hosting e, se interessa, gestione dei social come opzione mensile). In
+> ogni caso, un vostro parere sincero mi farebbe molto piacere.
 >
-> Grazie mille per il vostro tempo,
+> Con stima,
 > Nikolai

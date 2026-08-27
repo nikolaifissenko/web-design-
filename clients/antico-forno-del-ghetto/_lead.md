@@ -61,21 +61,28 @@
 
 ## Outreach script (phone/in-person — not yet used; Claude cannot make calls)
 
-> Buongiorno, mi chiamo Nikolai. Di recente ho scoperto una vera passione
-> per il web design — è una cosa nuova per me, ma ci sto mettendo il
-> cuore perché spero un giorno di riuscire a farne il mio lavoro.
+Rewritten 2026-08-27 to a more formal, heritage-respectful register (the
+original "student practicing" framing undersold a business with this
+much history) — see CLAUDE.md/README for why this angle changed for the
+Round 9 clients specifically.
+
+> Buongiorno,
 >
-> Ho visto che il forno non ha un sito, nonostante sia uno dei punti di
-> riferimento del Ghetto da quasi cent'anni. Ve ne ho preparato uno per
-> farvi vedere come potrebbe venire:
+> dal 1927 l'Antico Forno del Ghetto sforna pane e pizza secondo la
+> tradizione kosher, un punto di riferimento per il quartiere da quasi
+> cent'anni. Una storia così meriterebbe una vetrina online che le
+> somigli.
+>
+> Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho
+> preparato una versione dimostrativa del vostro sito, pensata per
+> raccontare questa storia in modo semplice e moderno. La trovate qui:
 > https://nikolaifissenko.github.io/web-design-/clients/antico-forno-del-ghetto/
 >
-> Non c'è nessun obbligo, l'ho fatto principalmente per esercitarmi. Ma se
-> vi piace il risultato, sarei felicissimo di completarlo e portarlo
-> online per voi (500€, con hosting e gestione social disponibili come
-> opzione mensile se interessa). Anche solo un parere sincero mi farebbe
-> piacere — e se avete altre foto del forno da darmi, il sito verrebbe
-> anche meglio!
+> Non c'è alcun impegno: è un progetto che vi propongo, non un obbligo.
+> Se vi piace, sarei felice di completarlo e portarlo online per voi
+> (500€, con hosting disponibile come opzione mensile). Se avete altre
+> fotografie del forno da condividere, il sito potrebbe venire ancora
+> meglio. Un vostro parere sincero mi farebbe comunque molto piacere.
 >
-> Grazie mille per il vostro tempo,
+> Con stima,
 > Nikolai

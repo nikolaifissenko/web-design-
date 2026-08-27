@@ -63,21 +63,29 @@
 
 ## Outreach email (not yet sent — draft only; verify the email address by phone first)
 
-> Buongiorno, mi chiamo Nikolai. Di recente ho scoperto una vera passione
-> per il web design — è una cosa nuova per me, ma ci sto mettendo il
-> cuore perché spero un giorno di riuscire a farne il mio lavoro.
+Rewritten 2026-08-27 to a more formal, heritage-respectful register (the
+original "student practicing" framing undersold a business with this
+much history) — see CLAUDE.md/README for why this angle changed for the
+Round 9 clients specifically.
+
+> Gentile Sig. Franci,
 >
-> Ho letto la vostra storia — dal 1780, la stamperia più antica di Roma —
-> e mi sembra incredibile che non abbiate un sito che la racconti. Ve ne
-> ho preparato uno con le vostre vere foto, per farvi vedere come
-> potrebbe venire:
+> dal 1780 la Stamperia Trevi porta avanti, nello stesso luogo a due
+> passi dalla Fontana, un mestiere che ha attraversato tre epoche della
+> storia italiana. È un patrimonio raro, ed è un peccato che oggi non
+> abbia ancora una presenza online che gli renda onore.
+>
+> Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho
+> preparato una versione dimostrativa per l'Antica Stamperia Trevi,
+> pensata per raccontare la vostra storia con la stessa eleganza dei
+> vostri stampati, e per funzionare bene anche su un telefono. Potete
+> vederla qui:
 > https://nikolaifissenko.github.io/web-design-/clients/antica-stamperia-trevi/
 >
-> Non c'è nessun obbligo, l'ho fatto principalmente per esercitarmi. Ma se
-> vi piace il risultato, sarei felicissimo di completarlo e portarlo
-> online per voi (500€, con hosting e gestione social disponibili come
-> opzione mensile se interessa). Anche solo un parere sincero mi farebbe
-> piacere!
+> Non c'è alcun impegno: è un progetto che vi propongo, non un obbligo.
+> Se il risultato vi piace, sarei lieto di completarlo e portarlo online
+> per voi (500€, con hosting disponibile come opzione mensile). Anche
+> solo un parere sincero mi farebbe molto piacere.
 >
-> Grazie mille per il vostro tempo,
+> Con stima,
 > Nikolai
