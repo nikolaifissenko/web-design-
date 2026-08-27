@@ -70,10 +70,10 @@ and the €500 price was dropped from the script itself.
 
 > Buongiorno,
 >
-> vengo spesso da voi a comprare la pizza, ed è sempre uno dei momenti
-> migliori della giornata. Dal 1927 l'Antico Forno del Ghetto sforna pane
-> e pizza secondo la tradizione kosher, un punto di riferimento per il
-> quartiere da quasi cent'anni.
+> vengo spesso da voi a comprare la pizza rossa, ed è sempre uno dei
+> momenti migliori della giornata. Dal 1927 l'Antico Forno del Ghetto
+> sforna pane e pizza secondo la tradizione kosher, un punto di
+> riferimento per il quartiere da quasi cent'anni.
 >
 > Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho
 > preparato una versione dimostrativa del vostro sito, pensata per
