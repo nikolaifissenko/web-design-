@@ -11,15 +11,27 @@
     }
   }
 
+  const OVERLINES = {
+    "about-heading": "Chi siamo",
+    "offerings-heading": "Cosa offriamo",
+    "gallery-heading": "Galleria",
+    "hours-heading": "Informazioni",
+    "contact-heading": "Contatti",
+  };
+
   function applyTheme() {
     const root = document.documentElement.style;
     root.setProperty("--primary", cfg.theme.primary);
     root.setProperty("--accent", cfg.theme.accent);
     root.setProperty("--font", cfg.theme.font);
     root.setProperty("--heading-font", cfg.theme.headingFont || cfg.theme.font);
+    document.documentElement.setAttribute("data-mood", cfg.theme.mood || "classic");
     document.title = cfg.business.name;
     const desc = document.querySelector('meta[name="description"]');
     if (desc) desc.setAttribute("content", `${cfg.business.name} — ${cfg.hero.subheading || ""}`);
+    Object.entries(OVERLINES).forEach(([id, label]) => {
+      document.getElementById(id)?.setAttribute("data-overline", label);
+    });
   }
 
   function renderHeader() {
