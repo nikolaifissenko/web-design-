@@ -61,26 +61,27 @@
 
 ## Outreach script (phone/in-person — not yet used; Claude cannot make calls)
 
-Rewritten 2026-08-27 to a more formal, heritage-respectful register (the
-original "student practicing" framing undersold a business with this
-much history) — see CLAUDE.md/README for why this angle changed for the
-Round 9 clients specifically.
+Rewritten 2026-08-27 (first pass) to a more formal, heritage-respectful
+register — see CLAUDE.md/README for why this angle changed for the
+Round 9 clients specifically. Rewritten again same day: Nikolai
+confirmed he's actually a regular customer who comes often for pizza, so
+that's now referenced genuinely (confirmed true by Nikolai directly),
+and the €500 price was dropped from the script itself.
 
 > Buongiorno,
 >
-> dal 1927 l'Antico Forno del Ghetto sforna pane e pizza secondo la
-> tradizione kosher, un punto di riferimento per il quartiere da quasi
-> cent'anni. Una storia così meriterebbe una vetrina online che le
-> somigli.
+> vengo spesso da voi a comprare la pizza, ed è sempre uno dei momenti
+> migliori della giornata. Dal 1927 l'Antico Forno del Ghetto sforna pane
+> e pizza secondo la tradizione kosher, un punto di riferimento per il
+> quartiere da quasi cent'anni.
 >
 > Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho
 > preparato una versione dimostrativa del vostro sito, pensata per
 > raccontare questa storia in modo semplice e moderno. La trovate qui:
 > https://nikolaifissenko.github.io/web-design-/clients/antico-forno-del-ghetto/
 >
-> Non c'è alcun impegno: è un progetto che vi propongo, non un obbligo.
-> Se vi piace, sarei felice di completarlo e portarlo online per voi
-> (500€, con hosting disponibile come opzione mensile). Se avete altre
+> Non c'è alcun impegno: è un progetto che vi propongo. Se vi piace,
+> sarei felice di parlarne insieme e completarlo per voi. Se avete altre
 > fotografie del forno da condividere, il sito potrebbe venire ancora
 > meglio. Un vostro parere sincero mi farebbe comunque molto piacere.
 >

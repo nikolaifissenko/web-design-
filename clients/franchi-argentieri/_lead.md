@@ -56,18 +56,21 @@
 
 ## Outreach message (not yet sent — draft only)
 
-Rewritten 2026-08-27 to a more formal, heritage-respectful register (the
-original "student practicing" framing undersold a business with this
-much history) — see CLAUDE.md/README for why this angle changed for the
-Round 9 clients specifically.
+Rewritten 2026-08-27 (first pass) to a more formal, heritage-respectful
+register — see CLAUDE.md/README for why this angle changed for the
+Round 9 clients specifically. Rewritten again same day: Nikolai
+confirmed he's actually been to Franchi Argentieri and bought a gift
+there, so that's now referenced genuinely (not invented — confirmed
+true by Nikolai directly), and the €500 price was dropped from the
+email itself (still the going rate, just not stated up front).
 
 > Gentili Signori Franchi,
 >
-> la vostra bottega custodisce un'eredità che pochi a Roma possono
-> vantare: dalla scuola orafa e argentiera che risale a Luigi Valadier
-> fino al lavoro che portate avanti oggi, restaurando argenti e oggetti
-> sacri per collezioni private e istituzioni. È una storia che merita di
-> essere raccontata con la stessa cura con cui lavorate l'argento.
+> sono stato da voi qualche tempo fa per un regalo, e ricordo ancora la
+> cura con cui mi avete seguito nella scelta — si sente, in negozio, che
+> dietro c'è una storia vera: dalla scuola orafa e argentiera che risale
+> a Luigi Valadier fino al lavoro che portate avanti oggi, restaurando
+> argenti e oggetti sacri per collezioni private e istituzioni.
 >
 > Mi chiamo Nikolai e mi occupo di progettazione di siti web: sto
 > dedicando questo periodo a costruire, per alcune realtà storiche di
@@ -78,10 +81,9 @@ Round 9 clients specifically.
 > https://nikolaifissenko.github.io/web-design-/clients/franchi-argentieri/
 >
 > Non c'è alcun impegno da parte vostra: è un progetto che ho realizzato
-> per proporvelo, non per venderlo a tutti i costi. Se il risultato vi
-> convince, sarei lieto di completarlo e portarlo online (500€, con
-> hosting e, se interessa, gestione dei social come opzione mensile). In
-> ogni caso, un vostro parere sincero mi farebbe molto piacere.
+> per proporvelo. Se il risultato vi convince, sarei felice di parlarne
+> insieme e completarlo per voi. In ogni caso, un vostro parere sincero
+> mi farebbe molto piacere.
 >
 > Con stima,
 > Nikolai

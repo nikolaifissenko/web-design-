@@ -54,16 +54,22 @@
 
 ## Outreach script (phone/in-person — not yet used; Claude cannot make calls)
 
-Rewritten 2026-08-27 to a more formal, heritage-respectful register (the
-original "student practicing" framing undersold a business with this
-much history) — see CLAUDE.md/README for why this angle changed for the
-Round 9 clients specifically.
+Rewritten 2026-08-27 (first pass) to a more formal, heritage-respectful
+register — see CLAUDE.md/README for why this angle changed for the
+Round 9 clients specifically. Rewritten again same day: Nikolai
+confirmed he's actually a regular customer and has bought the torta di
+ricotta e visciole there, so that's now referenced genuinely (confirmed
+true by Nikolai directly), and the €500 price was dropped from the
+script itself.
 
 > Buongiorno,
 >
-> la Pasticceria Boccione è uno dei luoghi più amati e riconoscibili del
-> Ghetto di Roma, custode di una tradizione dolciaria ebraica che dura da
-> generazioni. Eppure, oggi, non ha ancora un sito che la rappresenti.
+> sono cliente anch'io — la vostra torta di ricotta e visciole è una
+> delle cose migliori che si mangino a Roma, e ci torno ogni volta che
+> posso. La Pasticceria Boccione è uno dei luoghi più amati e
+> riconoscibili del Ghetto di Roma, custode di una tradizione dolciaria
+> ebraica che dura da generazioni. Eppure, oggi, non ha ancora un sito
+> che la rappresenti.
 >
 > Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho
 > preparato una versione dimostrativa che racconta la vostra storia con
@@ -73,9 +79,8 @@ Round 9 clients specifically.
 > https://nikolaifissenko.github.io/web-design-/clients/pasticceria-boccione/
 >
 > Non c'è alcun impegno: l'ho fatto per proporvelo. Se vi piace, sarei
-> felice di completarlo e portarlo online per voi (500€, con hosting
-> disponibile come opzione mensile). Anche un vostro parere sincero mi
-> farebbe molto piacere.
+> felice di parlarne insieme e completarlo per voi. Anche un vostro
+> parere sincero mi farebbe molto piacere.
 >
 > Con stima,
 > Nikolai

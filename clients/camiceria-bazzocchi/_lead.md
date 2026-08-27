@@ -42,16 +42,20 @@
 
 ## Outreach email (not yet sent — draft only)
 
-Rewritten 2026-08-27 to a more formal, heritage-respectful register (the
-original "student practicing" framing undersold a business with this
-much history) — see CLAUDE.md/README for why this angle changed for the
-Round 9 clients specifically.
+Rewritten 2026-08-27 (first pass) to a more formal, heritage-respectful
+register — see CLAUDE.md/README for why this angle changed for the
+Round 9 clients specifically. Rewritten again same day: Nikolai
+confirmed he actually owns a shirt from Camiceria Bazzocchi, so that's
+now referenced genuinely (confirmed true by Nikolai directly), and the
+€500 price was dropped from the email itself.
 
 > Gentile Camiceria Bazzocchi,
 >
-> dal 1908 vestite Roma con la stessa cura artigianale che vi ha portato
-> ad avere tra i vostri clienti nomi come Re Farouk e Burt Lancaster —
-> una storia che racconta più di qualsiasi vetrina.
+> ho ancora una vostra camicia nell'armadio, ed è tra quelle che porto
+> più volentieri — si sente la differenza quando qualcosa è fatto
+> davvero su misura. Dal 1908 vestite Roma con questa stessa cura
+> artigianale, quella che vi ha portato ad avere tra i vostri clienti
+> nomi come Re Farouk e Burt Lancaster.
 >
 > Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho notato
 > che il vostro sito attuale non rende pienamente giustizia a questa
@@ -62,9 +66,8 @@ Round 9 clients specifically.
 > https://nikolaifissenko.github.io/web-design-/clients/camiceria-bazzocchi/
 >
 > Non c'è alcun impegno: l'ho realizzato per proporvelo. Se vi piace,
-> sarei lieto di completarlo e portarlo online per voi (500€, con
-> hosting e gestione social disponibili come opzione mensile). Anche
-> solo un parere sincero sarebbe molto gradito.
+> sarei felice di parlarne insieme e completarlo per voi. Anche solo un
+> parere sincero sarebbe molto gradito.
 >
 > Con stima,
 > Nikolai

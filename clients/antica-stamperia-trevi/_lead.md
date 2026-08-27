@@ -63,17 +63,20 @@
 
 ## Outreach email (not yet sent — draft only; verify the email address by phone first)
 
-Rewritten 2026-08-27 to a more formal, heritage-respectful register (the
-original "student practicing" framing undersold a business with this
-much history) — see CLAUDE.md/README for why this angle changed for the
-Round 9 clients specifically.
+Rewritten 2026-08-27 (first pass) to a more formal, heritage-respectful
+register — see CLAUDE.md/README for why this angle changed for the
+Round 9 clients specifically. Rewritten again same day: Nikolai
+confirmed he's actually visited the shop in person, so that's now
+referenced genuinely (confirmed true by Nikolai directly), and the €500
+price was dropped from the email itself.
 
 > Gentile Sig. Franci,
 >
-> dal 1780 la Stamperia Trevi porta avanti, nello stesso luogo a due
-> passi dalla Fontana, un mestiere che ha attraversato tre epoche della
-> storia italiana. È un patrimonio raro, ed è un peccato che oggi non
-> abbia ancora una presenza online che gli renda onore.
+> sono passato in bottega qualche tempo fa, e mi è rimasta impressa
+> l'atmosfera — i torchi, la carta, il modo in cui si respira la storia
+> lavorando lì dentro. Dal 1780 la Stamperia Trevi porta avanti, nello
+> stesso luogo a due passi dalla Fontana, un mestiere che ha attraversato
+> tre epoche della storia italiana.
 >
 > Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho
 > preparato una versione dimostrativa per l'Antica Stamperia Trevi,
@@ -82,10 +85,9 @@ Round 9 clients specifically.
 > vederla qui:
 > https://nikolaifissenko.github.io/web-design-/clients/antica-stamperia-trevi/
 >
-> Non c'è alcun impegno: è un progetto che vi propongo, non un obbligo.
-> Se il risultato vi piace, sarei lieto di completarlo e portarlo online
-> per voi (500€, con hosting disponibile come opzione mensile). Anche
-> solo un parere sincero mi farebbe molto piacere.
+> Non c'è alcun impegno: è un progetto che vi propongo. Se il risultato
+> vi piace, sarei felice di parlarne insieme e completarlo per voi.
+> Anche solo un parere sincero mi farebbe molto piacere.
 >
 > Con stima,
 > Nikolai
