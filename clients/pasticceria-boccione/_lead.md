@@ -54,26 +54,24 @@
 
 ## Outreach script (phone/in-person — not yet used; Claude cannot make calls)
 
-Rewritten twice on 2026-08-27 already (see git history for those
-passes). Rewritten a third time same day, purely for quality — tighter
-prose, less boilerplate rhythm shared word-for-word across all 5 Round
-9 drafts. No content change: still no price, still the real confirmed
-detail (Nikolai is a regular, buys the ricotta e visciole cake), still
-heritage-respectful.
+Rewritten a fourth time 2026-08-27: no em dashes anywhere (standing
+repo rule now, see CLAUDE.md), and the personal connection is stated
+outright. Still no price, still the real confirmed detail (Nikolai is a
+regular, buys the ricotta e visciole cake), still heritage-respectful.
 
 > Buongiorno,
 >
-> sono un cliente, e la vostra torta di ricotta e visciole è tra le
-> poche cose per cui vale la pena fare la fila al mattino. La
-> Pasticceria Boccione è un pezzo di storia del Ghetto che tutta Roma
-> conosce, eppure online non esiste ancora.
+> sono un vostro cliente e conosco bene il forno: la vostra torta di
+> ricotta e visciole è tra le poche cose per cui vale la pena fare la
+> fila al mattino. La Pasticceria Boccione è un pezzo di storia del
+> Ghetto che tutta Roma conosce, eppure online non esiste ancora.
 >
 > Mi chiamo Nikolai, progetto siti web, e ho provato a immaginare come
-> potrebbe essere un sito che vi rappresentasse davvero — con le vostre
+> potrebbe essere un sito che vi rappresentasse davvero, con le vostre
 > foto, anche quelle uscite sui giornali. Lo trovate qui:
 > https://nikolaifissenko.github.io/web-design-/clients/pasticceria-boccione/
 >
-> Non c'è alcun impegno, l'ho fatto perché mi sembrava giusto che un
+> Non c'è alcun impegno. L'ho fatto perché mi sembrava giusto che un
 > posto così l'avesse. Se vi piace, ne parliamo; altrimenti, anche solo
 > sapere cosa ne pensate mi farebbe piacere.
 >

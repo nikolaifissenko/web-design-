@@ -61,27 +61,25 @@
 
 ## Outreach script (phone/in-person — not yet used; Claude cannot make calls)
 
-Rewritten twice on 2026-08-27 already (see git history for those
-passes). Rewritten a third time same day, purely for quality — tighter
-prose, less boilerplate rhythm shared word-for-word across all 5 Round
-9 drafts. No content change: still no price, still the real confirmed
-detail (Nikolai is a regular, buys pizza rossa there), still
-heritage-respectful.
+Rewritten a fourth time 2026-08-27: no em dashes anywhere (standing
+repo rule now, see CLAUDE.md), and the personal connection is stated
+outright. Still no price, still the real confirmed detail (Nikolai is a
+regular, buys pizza rossa there), still heritage-respectful.
 
 > Buongiorno,
 >
-> vengo spesso a comprare la pizza rossa da voi, ed è uno dei piaceri
-> semplici che mi sono rimasti di questo quartiere. Dal 1927 sfornate
-> pane e pizza secondo la tradizione, ed è un punto fermo per chiunque
-> viva o passi dal Ghetto.
+> conosco bene il forno perché vengo spesso a comprare la pizza rossa da
+> voi, ed è uno dei piaceri semplici che mi sono rimasti di questo
+> quartiere. Dal 1927 sfornate pane e pizza secondo la tradizione, ed è
+> un punto fermo per chiunque viva o passi dal Ghetto.
 >
 > Mi chiamo Nikolai, progetto siti web, e ho preparato una versione del
 > vostro sito che raccontasse questa storia in modo semplice e moderno:
 > https://nikolaifissenko.github.io/web-design-/clients/antico-forno-del-ghetto/
 >
 > Non c'è alcun impegno: è un'idea che vi propongo. Se avete altre foto
-> del forno da condividere, il sito potrebbe venire ancora meglio — e in
-> ogni caso, un vostro parere sincero mi farebbe piacere.
+> del forno da condividere, il sito potrebbe venire ancora meglio, e in
+> ogni caso un vostro parere sincero mi farebbe piacere.
 >
 > Con stima,
 > Nikolai

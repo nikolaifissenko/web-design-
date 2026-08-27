@@ -56,27 +56,27 @@
 
 ## Outreach message (not yet sent — draft only)
 
-Rewritten twice on 2026-08-27 already (see git history for those
-passes). Rewritten a third time same day, purely for quality — tighter
-prose, less boilerplate rhythm shared word-for-word across all 5 Round
-9 drafts. No content change: still no price, still the real confirmed
+Rewritten a fourth time 2026-08-27: no em dashes anywhere (standing
+repo rule now, see CLAUDE.md), and the personal connection is stated
+outright ("conosco la vostra bottega di persona") rather than implied
+only through the anecdote. Still no price, still the real confirmed
 detail (Nikolai bought a gift there), still heritage-respectful.
 
 > Gentili Signori Franchi,
 >
-> qualche tempo fa sono venuto in negozio per un regalo, e mi è rimasta
-> impressa la cura con cui mi avete aiutato a scegliere — si sente
-> subito che dietro c'è una vera scuola, quella che parte da Luigi
-> Valadier e arriva fino a voi, tra restauri di argenti e oggetti sacri
-> per collezioni e istituzioni.
+> conosco la vostra bottega di persona: qualche tempo fa sono venuto per
+> un regalo, e mi è rimasta impressa la cura con cui mi avete aiutato a
+> scegliere. Si sente subito che dietro c'è una vera scuola, quella che
+> parte da Luigi Valadier e arriva fino a voi, tra restauri di argenti e
+> oggetti sacri per collezioni e istituzioni.
 >
 > Faccio progettazione di siti web, mi chiamo Nikolai, e ho voluto
 > provare a costruire per Franchi Argentieri un sito che raccontasse
-> questa storia con la stessa cura — moderno, semplice da guardare
-> anche dal telefono, con le vostre vere fotografie. Potete vederlo qui:
+> questa storia con la stessa cura. Moderno, semplice da guardare anche
+> dal telefono, con le vostre vere fotografie. Potete vederlo qui:
 > https://nikolaifissenko.github.io/web-design-/clients/franchi-argentieri/
 >
-> Non ve lo propongo per venderlo a tutti i costi: è un progetto che ho
+> Non ve lo propongo per venderlo a tutti i costi. È un progetto che ho
 > fatto perché mi sembrava che lo meritaste. Se vi piace, ne parliamo
 > volentieri; altrimenti anche solo un vostro parere sarebbe già un
 > regalo per me.

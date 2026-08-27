@@ -63,22 +63,22 @@
 
 ## Outreach email (not yet sent — draft only; verify the email address by phone first)
 
-Rewritten twice on 2026-08-27 already (see git history for those
-passes). Rewritten a third time same day, purely for quality — tighter
-prose, less boilerplate rhythm shared word-for-word across all 5 Round
-9 drafts. No content change: still no price, still the real confirmed
-detail (Nikolai visited in person), still heritage-respectful.
+Rewritten a fourth time 2026-08-27: no em dashes anywhere (standing
+repo rule now, see CLAUDE.md), and the personal connection is stated
+outright. Still no price, still the real confirmed detail (Nikolai
+visited in person), still heritage-respectful.
 
 > Gentile Sig. Franci,
 >
-> sono passato in bottega qualche tempo fa, e ricordo ancora l'odore di
-> carta e inchiostro, i torchi, il modo in cui tutto lì dentro sembra
-> fermo nel tempo eppure vivo. Dal 1780 portate avanti un mestiere che ha
-> attraversato tre epoche della storia italiana — è raro trovare
-> qualcosa di così autentico ancora in attività.
+> conosco la vostra bottega di persona: sono passato qualche tempo fa, e
+> ricordo ancora l'odore di carta e inchiostro, i torchi, il modo in cui
+> tutto lì dentro sembra fermo nel tempo eppure vivo. Dal 1780 portate
+> avanti un mestiere che ha attraversato tre epoche della storia
+> italiana, ed è raro trovare qualcosa di così autentico ancora in
+> attività.
 >
 > Mi chiamo Nikolai, progetto siti web, e ho pensato che una storia come
-> la vostra meritasse una presenza online che le somigliasse — elegante
+> la vostra meritasse una presenza online che le somigliasse: elegante
 > come i vostri stampati, semplice da consultare anche da telefono. Il
 > risultato lo trovate qui:
 > https://nikolaifissenko.github.io/web-design-/clients/antica-stamperia-trevi/

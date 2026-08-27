@@ -42,23 +42,23 @@
 
 ## Outreach email (not yet sent — draft only)
 
-Rewritten twice on 2026-08-27 already (see git history for those
-passes). Rewritten a third time same day, purely for quality — tighter
-prose, less boilerplate rhythm shared word-for-word across all 5 Round
-9 drafts. No content change: still no price, still the real confirmed
+Rewritten a fourth time 2026-08-27: no em dashes anywhere (standing
+repo rule now, see CLAUDE.md), and the personal connection is stated
+outright rather than implied. Still no price, still the real confirmed
 detail (Nikolai owns a shirt from there), still heritage-respectful.
 
 > Gentile Camiceria Bazzocchi,
 >
-> ho ancora nell'armadio una vostra camicia, ed è quella che scelgo
-> quando voglio essere sicuro di come mi sta — si sente la differenza di
-> una vera su misura. Dal 1908 vestite Roma con questa cura, la stessa
-> che vi ha portato clienti come Re Farouk e Burt Lancaster.
+> sono un vostro cliente: ho ancora nell'armadio una vostra camicia, ed
+> è quella che scelgo quando voglio essere sicuro di come mi sta. Si
+> sente la differenza di una vera su misura. Dal 1908 vestite Roma con
+> questa cura, la stessa che vi ha portato clienti come Re Farouk e Burt
+> Lancaster.
 >
 > Mi chiamo Nikolai e progetto siti web. Guardando il vostro sito mi
 > sono accorto che non rende giustizia a questa storia, specialmente da
-> telefono — così ne ho costruito uno nuovo, con le vostre vere foto,
-> per farvi vedere come potrebbe essere:
+> telefono. Così ne ho costruito uno nuovo, con le vostre vere foto, per
+> farvi vedere come potrebbe essere:
 > https://nikolaifissenko.github.io/web-design-/clients/camiceria-bazzocchi/
 >
 > Nessun obbligo da parte vostra. Se il risultato vi convince, sarei

@@ -4,6 +4,17 @@ This is a lead-gen tool: free demo sites for real Rome businesses, used to
 land paying clients. Every demo is a sample of Nikolai's actual design work
 — treat it that way, not as a placeholder exercise.
 
+## Writing style: no em dashes, anywhere
+
+Outreach emails/scripts, `_lead.md` notes, commit messages, README
+prose — none of it should use the em dash ("—"). Restructure into two
+sentences, or use a comma/colon, instead. This applies everywhere, not
+just outreach copy, and it's a standing rule, not a one-off request:
+don't wait to be asked again on the next client. Outreach text
+specifically also needs to read like it was actually typed by Nikolai,
+not generated — plain punctuation is part of that, not just a style
+preference.
+
 ## Act like a professional web designer, not a form-filler
 
 A professional doesn't drop a client's branding because the source file is
