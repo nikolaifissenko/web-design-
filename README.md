@@ -28,7 +28,7 @@ channel at all, see below):
 | `una-finestra-su-monti` | B&B | Monti | email (verified) | **yes** (2026-08-26) |
 | `sartoria-carbone` | sartoria (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 | `antica-legatoria-del-vico` | legatoria (artisan) | Centro storico (Navona) | email (verified) | **yes** (2026-08-26) |
-| `consorti-cornici` | corniciaio (artisan) | Balduina | email (verified) | **yes** (2026-08-26) |
+| `consorti-cornici` | corniciaio (artisan) | Balduina | email — **bounced, dead address** | attempted, undelivered |
 | `antica-cappelleria-lombardi` | cappelleria (artisan) | Esquilino | email (verified) | **yes** (2026-08-26) |
 | `fratelli-anzilotti` | restauro mobili (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 | `tappezzeria-de-matthaeis` | tappezziere (artisan) | Montesacro | email (verified) | **yes** (2026-08-26) |

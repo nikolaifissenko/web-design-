@@ -16,9 +16,9 @@
   contatti/immagini/colori. Due candidati collegati controllati e
   scartati come falsi positivi (siti già moderni/ben fatti): Ercoli
   Cornici, Cornici Mita Roma.
-- **Status:** outreach-sent (email sent 2026-08-26 to andreaconsorticornici@hotmail.com — Gmail message ID `1a0400b0a3818759`)
+- **Status:** email-bounced — **the address is dead.** Sent 2026-08-26 to andreaconsorticornici@hotmail.com (Gmail message ID `1a0400b0a3818759`), but it hard-bounced back within the same minute: `550 5.5.0 Requested action not taken: mailbox unavailable`. The email listed on their own website no longer exists. Not caught until a later session's re-check (2026-08-27) — worth checking Gmail's own bounce notice on every send going forward, not just waiting for a reply that will never come.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/consorti-cornici/ (verified live before sending)
-- **Response:** no reply yet
+- **Response:** n/a — message never delivered. **Real channel needed: call 06 39749127 / 347 2942182** (both already on file above) and mention the demo link directly, or ask for a working email during the call.
 - **Sold:** no
 - **Notes:**
   - **Tutte le foto sono reali**, scaricate direttamente dalla galleria

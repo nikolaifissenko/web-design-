@@ -53,3 +53,14 @@ Check for replies before re-contacting a lead (`get_thread`/`search_threads`
 for email, actually checking the DM/call yourself for the rest) — don't
 just assume silence. When a reply comes in, update both files immediately,
 regardless of whether the answer is "not interested."
+
+**Check the thread for a bounce, not just a reply.** A hard bounce
+(`mailer-daemon@...`, "mailbox unavailable"/"address not found") lands in
+the same Gmail thread as a real reply would and is trivially missed if you
+only ask "did they reply yet" — `get_thread` returns it as a second
+message same as a real one, so read what it actually says. This happened
+once already (Consorti Cornici's own listed email was dead, caught a day
+later rather than immediately) — a message never delivered isn't
+"pending," it's a dead channel: mark the lead `email-bounced`, not
+`outreach-sent`, and find a different way to reach them (phone/call is
+usually already on file) rather than waiting for a reply that can't come.
