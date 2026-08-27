@@ -35,8 +35,16 @@
 
     const toggle = document.getElementById("nav-toggle");
     const nav = document.getElementById("nav");
-    toggle.addEventListener("click", () => nav.classList.toggle("open"));
-    nav.querySelectorAll("a").forEach((a) => a.addEventListener("click", () => nav.classList.remove("open")));
+    toggle.addEventListener("click", () => {
+      nav.classList.toggle("open");
+      toggle.classList.toggle("active");
+    });
+    nav.querySelectorAll("a").forEach((a) =>
+      a.addEventListener("click", () => {
+        nav.classList.remove("open");
+        toggle.classList.remove("active");
+      })
+    );
   }
 
   function renderHero() {
@@ -46,7 +54,7 @@
     cta.textContent = cfg.hero.ctaText || "Contact Us";
     cta.href = cfg.hero.ctaLink || "#contact";
     if (cfg.hero.backgroundImage) {
-      document.getElementById("hero").style.backgroundImage = `url('${cfg.hero.backgroundImage}')`;
+      document.getElementById("hero-bg").style.backgroundImage = `url('${cfg.hero.backgroundImage}')`;
     }
   }
 
@@ -71,8 +79,8 @@
     }
     list.innerHTML = cfg.offerings.items
       .map(
-        (item) => `
-      <div class="offering-item">
+        (item, i) => `
+      <div class="offering-item reveal" style="--i:${i}">
         <div class="offering-top">
           <h3>${item.name}</h3>
           ${item.price ? `<span class="price">${item.price}</span>` : ""}
@@ -91,8 +99,14 @@
       return;
     }
     grid.innerHTML = cfg.gallery.images
-      .map((src) => `<img src="${src}" alt="${cfg.business.name} gallery" loading="lazy" />`)
+      .map(
+        (src, i) => `
+      <button type="button" class="gallery-item reveal" style="--i:${i}" data-index="${i}" aria-label="Open image ${i + 1}">
+        <img src="${src}" alt="${cfg.business.name} gallery" loading="lazy" />
+      </button>`
+      )
       .join("");
+    initLightbox(cfg.gallery.images);
   }
 
   function renderHours() {
@@ -146,6 +160,112 @@
     fillText("footer-text", cfg.footer.text || `© ${new Date().getFullYear()} ${cfg.business.name}`);
   }
 
+  function initLightbox(images) {
+    const lightbox = document.getElementById("lightbox");
+    const lightboxImg = document.getElementById("lightbox-image");
+    const closeBtn = document.getElementById("lightbox-close");
+    const prevBtn = document.getElementById("lightbox-prev");
+    const nextBtn = document.getElementById("lightbox-next");
+    const grid = document.getElementById("gallery-grid");
+    let current = 0;
+
+    function show(index) {
+      current = (index + images.length) % images.length;
+      lightboxImg.src = images[current];
+      lightboxImg.alt = `${cfg.business.name} gallery ${current + 1}`;
+    }
+
+    function open(index) {
+      show(index);
+      lightbox.classList.add("open");
+    }
+
+    function close() {
+      lightbox.classList.remove("open");
+    }
+
+    grid.addEventListener("click", (e) => {
+      const btn = e.target.closest(".gallery-item");
+      if (!btn) return;
+      open(Number(btn.dataset.index));
+    });
+
+    closeBtn.addEventListener("click", close);
+    prevBtn.addEventListener("click", () => show(current - 1));
+    nextBtn.addEventListener("click", () => show(current + 1));
+    lightbox.addEventListener("click", (e) => {
+      if (e.target === lightbox) close();
+    });
+    document.addEventListener("keydown", (e) => {
+      if (!lightbox.classList.contains("open")) return;
+      if (e.key === "Escape") close();
+      if (e.key === "ArrowLeft") show(current - 1);
+      if (e.key === "ArrowRight") show(current + 1);
+    });
+  }
+
+  function initScrollReveal() {
+    const items = document.querySelectorAll(".reveal");
+    if (!("IntersectionObserver" in window)) {
+      items.forEach((el) => el.classList.add("in-view"));
+      return;
+    }
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("in-view");
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.15, rootMargin: "0px 0px -40px 0px" }
+    );
+    items.forEach((el) => observer.observe(el));
+  }
+
+  function initHeaderScroll() {
+    const header = document.querySelector(".site-header");
+    let ticking = false;
+    function update() {
+      header.classList.toggle("scrolled", window.scrollY > 10);
+      ticking = false;
+    }
+    window.addEventListener(
+      "scroll",
+      () => {
+        if (!ticking) {
+          requestAnimationFrame(update);
+          ticking = true;
+        }
+      },
+      { passive: true }
+    );
+    update();
+  }
+
+  function initActiveNav() {
+    const navLinks = Array.from(document.querySelectorAll('.nav a[href^="#"]'));
+    if (!navLinks.length || !("IntersectionObserver" in window)) return;
+    const sections = navLinks
+      .map((a) => document.querySelector(a.getAttribute("href")))
+      .filter(Boolean);
+    if (!sections.length) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            const id = `#${entry.target.id}`;
+            navLinks.forEach((a) => a.classList.toggle("active-link", a.getAttribute("href") === id));
+          }
+        });
+      },
+      { rootMargin: "-40% 0px -55% 0px" }
+    );
+    sections.forEach((section) => observer.observe(section));
+  }
+
   applyTheme();
   renderHeader();
   renderHero();
@@ -155,4 +275,7 @@
   renderHours();
   renderContact();
   renderFooter();
+  initScrollReveal();
+  initHeaderScroll();
+  initActiveNav();
 })();
