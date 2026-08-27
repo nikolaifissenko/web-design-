@@ -54,33 +54,28 @@
 
 ## Outreach script (phone/in-person — not yet used; Claude cannot make calls)
 
-Rewritten 2026-08-27 (first pass) to a more formal, heritage-respectful
-register — see CLAUDE.md/README for why this angle changed for the
-Round 9 clients specifically. Rewritten again same day: Nikolai
-confirmed he's actually a regular customer and has bought the torta di
-ricotta e visciole there, so that's now referenced genuinely (confirmed
-true by Nikolai directly), and the €500 price was dropped from the
-script itself.
+Rewritten twice on 2026-08-27 already (see git history for those
+passes). Rewritten a third time same day, purely for quality — tighter
+prose, less boilerplate rhythm shared word-for-word across all 5 Round
+9 drafts. No content change: still no price, still the real confirmed
+detail (Nikolai is a regular, buys the ricotta e visciole cake), still
+heritage-respectful.
 
 > Buongiorno,
 >
-> sono cliente anch'io — la vostra torta di ricotta e visciole è una
-> delle cose migliori che si mangino a Roma, e ci torno ogni volta che
-> posso. La Pasticceria Boccione è uno dei luoghi più amati e
-> riconoscibili del Ghetto di Roma, custode di una tradizione dolciaria
-> ebraica che dura da generazioni. Eppure, oggi, non ha ancora un sito
-> che la rappresenti.
+> sono un cliente, e la vostra torta di ricotta e visciole è tra le
+> poche cose per cui vale la pena fare la fila al mattino. La
+> Pasticceria Boccione è un pezzo di storia del Ghetto che tutta Roma
+> conosce, eppure online non esiste ancora.
 >
-> Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho
-> preparato una versione dimostrativa che racconta la vostra storia con
-> le vostre vere fotografie — anche quelle apparse sulla stampa — per
-> mostrarvi come potrebbe essere un sito degno del forno. La trovate
-> qui:
+> Mi chiamo Nikolai, progetto siti web, e ho provato a immaginare come
+> potrebbe essere un sito che vi rappresentasse davvero — con le vostre
+> foto, anche quelle uscite sui giornali. Lo trovate qui:
 > https://nikolaifissenko.github.io/web-design-/clients/pasticceria-boccione/
 >
-> Non c'è alcun impegno: l'ho fatto per proporvelo. Se vi piace, sarei
-> felice di parlarne insieme e completarlo per voi. Anche un vostro
-> parere sincero mi farebbe molto piacere.
+> Non c'è alcun impegno, l'ho fatto perché mi sembrava giusto che un
+> posto così l'avesse. Se vi piace, ne parliamo; altrimenti, anche solo
+> sapere cosa ne pensate mi farebbe piacere.
 >
 > Con stima,
 > Nikolai

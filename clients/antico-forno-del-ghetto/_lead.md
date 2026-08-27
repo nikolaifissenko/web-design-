@@ -61,29 +61,27 @@
 
 ## Outreach script (phone/in-person — not yet used; Claude cannot make calls)
 
-Rewritten 2026-08-27 (first pass) to a more formal, heritage-respectful
-register — see CLAUDE.md/README for why this angle changed for the
-Round 9 clients specifically. Rewritten again same day: Nikolai
-confirmed he's actually a regular customer who comes often for pizza, so
-that's now referenced genuinely (confirmed true by Nikolai directly),
-and the €500 price was dropped from the script itself.
+Rewritten twice on 2026-08-27 already (see git history for those
+passes). Rewritten a third time same day, purely for quality — tighter
+prose, less boilerplate rhythm shared word-for-word across all 5 Round
+9 drafts. No content change: still no price, still the real confirmed
+detail (Nikolai is a regular, buys pizza rossa there), still
+heritage-respectful.
 
 > Buongiorno,
 >
-> vengo spesso da voi a comprare la pizza rossa, ed è sempre uno dei
-> momenti migliori della giornata. Dal 1927 l'Antico Forno del Ghetto
-> sforna pane e pizza secondo la tradizione kosher, un punto di
-> riferimento per il quartiere da quasi cent'anni.
+> vengo spesso a comprare la pizza rossa da voi, ed è uno dei piaceri
+> semplici che mi sono rimasti di questo quartiere. Dal 1927 sfornate
+> pane e pizza secondo la tradizione, ed è un punto fermo per chiunque
+> viva o passi dal Ghetto.
 >
-> Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho
-> preparato una versione dimostrativa del vostro sito, pensata per
-> raccontare questa storia in modo semplice e moderno. La trovate qui:
+> Mi chiamo Nikolai, progetto siti web, e ho preparato una versione del
+> vostro sito che raccontasse questa storia in modo semplice e moderno:
 > https://nikolaifissenko.github.io/web-design-/clients/antico-forno-del-ghetto/
 >
-> Non c'è alcun impegno: è un progetto che vi propongo. Se vi piace,
-> sarei felice di parlarne insieme e completarlo per voi. Se avete altre
-> fotografie del forno da condividere, il sito potrebbe venire ancora
-> meglio. Un vostro parere sincero mi farebbe comunque molto piacere.
+> Non c'è alcun impegno: è un'idea che vi propongo. Se avete altre foto
+> del forno da condividere, il sito potrebbe venire ancora meglio — e in
+> ogni caso, un vostro parere sincero mi farebbe piacere.
 >
 > Con stima,
 > Nikolai

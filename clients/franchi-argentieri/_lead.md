@@ -56,34 +56,30 @@
 
 ## Outreach message (not yet sent — draft only)
 
-Rewritten 2026-08-27 (first pass) to a more formal, heritage-respectful
-register — see CLAUDE.md/README for why this angle changed for the
-Round 9 clients specifically. Rewritten again same day: Nikolai
-confirmed he's actually been to Franchi Argentieri and bought a gift
-there, so that's now referenced genuinely (not invented — confirmed
-true by Nikolai directly), and the €500 price was dropped from the
-email itself (still the going rate, just not stated up front).
+Rewritten twice on 2026-08-27 already (see git history for those
+passes). Rewritten a third time same day, purely for quality — tighter
+prose, less boilerplate rhythm shared word-for-word across all 5 Round
+9 drafts. No content change: still no price, still the real confirmed
+detail (Nikolai bought a gift there), still heritage-respectful.
 
 > Gentili Signori Franchi,
 >
-> sono stato da voi qualche tempo fa per un regalo, e ricordo ancora la
-> cura con cui mi avete seguito nella scelta — si sente, in negozio, che
-> dietro c'è una storia vera: dalla scuola orafa e argentiera che risale
-> a Luigi Valadier fino al lavoro che portate avanti oggi, restaurando
-> argenti e oggetti sacri per collezioni private e istituzioni.
+> qualche tempo fa sono venuto in negozio per un regalo, e mi è rimasta
+> impressa la cura con cui mi avete aiutato a scegliere — si sente
+> subito che dietro c'è una vera scuola, quella che parte da Luigi
+> Valadier e arriva fino a voi, tra restauri di argenti e oggetti sacri
+> per collezioni e istituzioni.
 >
-> Mi chiamo Nikolai e mi occupo di progettazione di siti web: sto
-> dedicando questo periodo a costruire, per alcune realtà storiche di
-> Roma, siti che uniscano il carattere della tradizione a una presenza
-> online moderna e curata, pensata anche per chi vi cerca dal telefono.
-> Ho preparato una versione dimostrativa per Franchi Argentieri, con le
-> vostre vere fotografie, che potete vedere qui:
+> Faccio progettazione di siti web, mi chiamo Nikolai, e ho voluto
+> provare a costruire per Franchi Argentieri un sito che raccontasse
+> questa storia con la stessa cura — moderno, semplice da guardare
+> anche dal telefono, con le vostre vere fotografie. Potete vederlo qui:
 > https://nikolaifissenko.github.io/web-design-/clients/franchi-argentieri/
 >
-> Non c'è alcun impegno da parte vostra: è un progetto che ho realizzato
-> per proporvelo. Se il risultato vi convince, sarei felice di parlarne
-> insieme e completarlo per voi. In ogni caso, un vostro parere sincero
-> mi farebbe molto piacere.
+> Non ve lo propongo per venderlo a tutti i costi: è un progetto che ho
+> fatto perché mi sembrava che lo meritaste. Se vi piace, ne parliamo
+> volentieri; altrimenti anche solo un vostro parere sarebbe già un
+> regalo per me.
 >
 > Con stima,
 > Nikolai

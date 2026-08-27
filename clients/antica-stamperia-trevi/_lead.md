@@ -63,31 +63,28 @@
 
 ## Outreach email (not yet sent — draft only; verify the email address by phone first)
 
-Rewritten 2026-08-27 (first pass) to a more formal, heritage-respectful
-register — see CLAUDE.md/README for why this angle changed for the
-Round 9 clients specifically. Rewritten again same day: Nikolai
-confirmed he's actually visited the shop in person, so that's now
-referenced genuinely (confirmed true by Nikolai directly), and the €500
-price was dropped from the email itself.
+Rewritten twice on 2026-08-27 already (see git history for those
+passes). Rewritten a third time same day, purely for quality — tighter
+prose, less boilerplate rhythm shared word-for-word across all 5 Round
+9 drafts. No content change: still no price, still the real confirmed
+detail (Nikolai visited in person), still heritage-respectful.
 
 > Gentile Sig. Franci,
 >
-> sono passato in bottega qualche tempo fa, e mi è rimasta impressa
-> l'atmosfera — i torchi, la carta, il modo in cui si respira la storia
-> lavorando lì dentro. Dal 1780 la Stamperia Trevi porta avanti, nello
-> stesso luogo a due passi dalla Fontana, un mestiere che ha attraversato
-> tre epoche della storia italiana.
+> sono passato in bottega qualche tempo fa, e ricordo ancora l'odore di
+> carta e inchiostro, i torchi, il modo in cui tutto lì dentro sembra
+> fermo nel tempo eppure vivo. Dal 1780 portate avanti un mestiere che ha
+> attraversato tre epoche della storia italiana — è raro trovare
+> qualcosa di così autentico ancora in attività.
 >
-> Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho
-> preparato una versione dimostrativa per l'Antica Stamperia Trevi,
-> pensata per raccontare la vostra storia con la stessa eleganza dei
-> vostri stampati, e per funzionare bene anche su un telefono. Potete
-> vederla qui:
+> Mi chiamo Nikolai, progetto siti web, e ho pensato che una storia come
+> la vostra meritasse una presenza online che le somigliasse — elegante
+> come i vostri stampati, semplice da consultare anche da telefono. Il
+> risultato lo trovate qui:
 > https://nikolaifissenko.github.io/web-design-/clients/antica-stamperia-trevi/
 >
-> Non c'è alcun impegno: è un progetto che vi propongo. Se il risultato
-> vi piace, sarei felice di parlarne insieme e completarlo per voi.
-> Anche solo un parere sincero mi farebbe molto piacere.
+> Non c'è alcun impegno: ve lo propongo, non ve lo impongo. Un vostro
+> parere, anche solo per cortesia, mi farebbe già molto piacere.
 >
 > Con stima,
 > Nikolai

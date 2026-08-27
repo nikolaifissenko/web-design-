@@ -42,32 +42,28 @@
 
 ## Outreach email (not yet sent — draft only)
 
-Rewritten 2026-08-27 (first pass) to a more formal, heritage-respectful
-register — see CLAUDE.md/README for why this angle changed for the
-Round 9 clients specifically. Rewritten again same day: Nikolai
-confirmed he actually owns a shirt from Camiceria Bazzocchi, so that's
-now referenced genuinely (confirmed true by Nikolai directly), and the
-€500 price was dropped from the email itself.
+Rewritten twice on 2026-08-27 already (see git history for those
+passes). Rewritten a third time same day, purely for quality — tighter
+prose, less boilerplate rhythm shared word-for-word across all 5 Round
+9 drafts. No content change: still no price, still the real confirmed
+detail (Nikolai owns a shirt from there), still heritage-respectful.
 
 > Gentile Camiceria Bazzocchi,
 >
-> ho ancora una vostra camicia nell'armadio, ed è tra quelle che porto
-> più volentieri — si sente la differenza quando qualcosa è fatto
-> davvero su misura. Dal 1908 vestite Roma con questa stessa cura
-> artigianale, quella che vi ha portato ad avere tra i vostri clienti
-> nomi come Re Farouk e Burt Lancaster.
+> ho ancora nell'armadio una vostra camicia, ed è quella che scelgo
+> quando voglio essere sicuro di come mi sta — si sente la differenza di
+> una vera su misura. Dal 1908 vestite Roma con questa cura, la stessa
+> che vi ha portato clienti come Re Farouk e Burt Lancaster.
 >
-> Mi chiamo Nikolai e mi occupo di progettazione di siti web. Ho notato
-> che il vostro sito attuale non rende pienamente giustizia a questa
-> eredità, soprattutto per chi lo consulta da telefono. Per questo ho
-> preparato una versione dimostrativa, con le vostre vere fotografie e la
-> vostra storia, per mostrarvi come potrebbe presentarsi oggi Camiceria
-> Bazzocchi online:
+> Mi chiamo Nikolai e progetto siti web. Guardando il vostro sito mi
+> sono accorto che non rende giustizia a questa storia, specialmente da
+> telefono — così ne ho costruito uno nuovo, con le vostre vere foto,
+> per farvi vedere come potrebbe essere:
 > https://nikolaifissenko.github.io/web-design-/clients/camiceria-bazzocchi/
 >
-> Non c'è alcun impegno: l'ho realizzato per proporvelo. Se vi piace,
-> sarei felice di parlarne insieme e completarlo per voi. Anche solo un
-> parere sincero sarebbe molto gradito.
+> Nessun obbligo da parte vostra. Se il risultato vi convince, sarei
+> felice di completarlo insieme a voi; se no, mi basterebbe comunque
+> sapere cosa ne pensate.
 >
 > Con stima,
 > Nikolai
