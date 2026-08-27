@@ -4,13 +4,20 @@
 - **Address:** Piazza Costaguti, 30-32, 00186 Roma (Ghetto)
 - **Phone:** 06 6880 3012
 - **Email:** none found.
-- **Current website:** none — confirmed no independent domain, only
+- **Facebook:** a page named "Antico forno del ghetto urbani" exists at
+  facebook.com/people/Antico-forno-del-ghetto-urbani/100063657098161/.
+  Facebook blocks automated fetch the same way Instagram does, so the
+  content couldn't be checked directly, this is a name/URL match, not a
+  confirmed-active read the way Boccione's Instagram was. Still the
+  best real lead on a channel here, better than phone-only.
+- **Current website:** none, confirmed no independent domain, only
   directory listings and press mentions.
 - **Sources:** Touring Club Italiano, 50 Top Pizza, Gambero Rosso
   (listing text only — full article blocked, see below), moondo.info
   (one dedicated food article, 2019), cross-checked web search for the
   Urbani family / kosher-bakery detail.
-- **Status:** not yet contacted.
+- **Status:** not yet contacted (needs Nikolai: Claude cannot message
+  Facebook Messenger or make calls).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antico-forno-del-ghetto/
 - **Response:** n/a
 - **Sold:** no
@@ -55,11 +62,12 @@
     16:00-19:00, closed Saturday, Sunday 09:00-13:30) — not
     cross-confirmed on a second source the way Boccione's were, worth a
     phone check before relying on it fully.
-  - No Instagram/Facebook account confirmed as belonging to the shop
-    itself (it appears *in* other people's posts, per 50 Top Pizza, but
-    no owned account found). Phone is the only outreach channel.
+  - Correction 2026-08-27: an earlier pass here said no Instagram or
+    Facebook account was found. A second, more targeted search turned
+    up a Facebook page matching the business name (see above), unverified
+    content-wise but a real lead on a channel, not phone only.
 
-## Outreach script (phone/in-person — not yet used; Claude cannot make calls)
+## Outreach message (Facebook Messenger primary, phone fallback — not yet sent; Claude cannot message Facebook or make calls)
 
 Rewritten a fourth time 2026-08-27: no em dashes anywhere (standing
 repo rule now, see CLAUDE.md), and the personal connection is stated

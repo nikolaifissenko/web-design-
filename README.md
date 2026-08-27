@@ -36,8 +36,8 @@ channel at all, see below):
 | `franchi-argentieri` | argentiere/orafo (artisan) | Centro storico (Navona) | phone/WhatsApp/Instagram DM (no email found) | no |
 | `camiceria-bazzocchi` | camiceria (artisan) | Centro storico (Trevi) | email (verified) | **yes** (2026-08-27) |
 | `antica-stamperia-trevi` | stamperia (artisan) | Centro storico (Trevi) | email (found on packaging photo, verify by phone first) | **yes** (2026-08-27) |
-| `pasticceria-boccione` | forno/pasticceria kosher | Centro storico (Ghetto) | phone only (no email/site found) | no |
-| `antico-forno-del-ghetto` | forno/panificio kosher | Centro storico (Ghetto) | phone only (no email/site found) | no |
+| `pasticceria-boccione` | forno/pasticceria kosher | Centro storico (Ghetto) | Instagram DM (@pasticceria.boccione) / phone | no |
+| `antico-forno-del-ghetto` | forno/panificio kosher | Centro storico (Ghetto) | Facebook Messenger / phone | no |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -469,8 +469,8 @@ each client folder for exact sourcing and per-client notes):
 
 | Business | Sector | Address | Mood | Site status found |
 |---|---|---|---|---|
-| `pasticceria-boccione` (Forno Boccione) | forno/pasticceria kosher, dal ~1770 | Via del Portico d'Ottavia 1, Ghetto | vintage | no website, phone only |
-| `antico-forno-del-ghetto` (Urbani) | forno/panificio kosher, dal 1927 | Piazza Costaguti 30-32, Ghetto | vintage | no website, phone only; also genuinely photo-poor (only 1 real photo found after checking 8+ sources) |
+| `pasticceria-boccione` (Forno Boccione) | forno/pasticceria kosher, dal ~1770 | Via del Portico d'Ottavia 1, Ghetto | vintage | no website; real Instagram found on a second pass, @pasticceria.boccione |
+| `antico-forno-del-ghetto` (Urbani) | forno/panificio kosher, dal 1927 | Piazza Costaguti 30-32, Ghetto | vintage | no website; real Facebook page found on a second pass (name match, content unverified); also genuinely photo-poor (only 1 real photo found after checking 8+ sources) |
 | `antica-stamperia-trevi` | stamperia/tipografia, dal 1780 (la più antica d'Europa) | Via dell'Umiltà 84/85, Trevi | editorial | no independent website; real email found printed on packaging in a press photo, not via search — verify by phone before relying on it |
 | `franchi-argentieri` | argenteria/oreficeria, dal 1944 | Via di Tor di Nona 60, Navona | boutique | has own site (franchiargentieri.it) but dated (jQuery 1.7.1, IE6/8 compat, circa 2010-2012); no email, phone/WhatsApp/Instagram only |
 | `camiceria-bazzocchi` | camiceria su misura, dal 1907 | Via del Tritone 141, Trevi | boutique | has own site (camiceriabazzocchi.it) but dated WordPress template; email verified |

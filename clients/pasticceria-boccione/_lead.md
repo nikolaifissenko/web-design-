@@ -4,13 +4,18 @@
 - **Address:** Via del Portico d'Ottavia, 1, 00186 Roma (Ghetto)
 - **Phone:** 06 6878637
 - **Email:** none found.
-- **Current website:** none — confirmed no independent domain, only
+- **Instagram:** @pasticceria.boccione (confirmed real: address, phone,
+  and hours on the profile match every other source; ~2,700 followers).
+  Found this on a second pass after missing it the first time around,
+  so this is now the actual contact channel, not phone only.
+- **Current website:** none, confirmed no independent domain, only
   directory listings and press coverage.
 - **Sources:** Tavole Romane, Gambero Rosso, RomaToday (with photo credit
   to Lavinia Martini), Touring Club Italiano, Luciano Pignataro Wine
-  Blog — address/phone/hours cross-confirmed across multiple
-  independent sources.
-- **Status:** not yet contacted.
+  Blog. Address/phone/hours cross-confirmed across multiple independent
+  sources.
+- **Status:** not yet contacted (needs Nikolai: Claude cannot send
+  Instagram DMs).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/pasticceria-boccione/
 - **Response:** n/a
 - **Sold:** no
@@ -47,12 +52,13 @@
     across two independent sources: Sun-Thu 8:00-19:30, Fri 8:00-15:30,
     closed Saturday — consistent with a kosher/Shabbat-observant
     business).
-  - No Instagram/Facebook found for the shop directly (it's frequently
-    featured *on* other accounts, but has no account of its own found).
-    Phone is the only outreach channel — this needs Nikolai to call or
-    visit in person; there is no DM/email path.
+  - Correction 2026-08-27: an earlier pass here said no Instagram or
+    Facebook existed for the shop. That was wrong, a second, more
+    targeted search found the real account (@pasticceria.boccione,
+    profile details match every other source). Instagram DM is the
+    actual primary channel now, phone is the fallback.
 
-## Outreach script (phone/in-person — not yet used; Claude cannot make calls)
+## Outreach message (Instagram DM primary, phone fallback — not yet sent; Claude cannot send Instagram DMs or make calls)
 
 Rewritten a fourth time 2026-08-27: no em dashes anywhere (standing
 repo rule now, see CLAUDE.md), and the personal connection is stated

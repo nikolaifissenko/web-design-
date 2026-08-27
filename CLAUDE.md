@@ -15,6 +15,22 @@ specifically also needs to read like it was actually typed by Nikolai,
 not generated — plain punctuation is part of that, not just a style
 preference.
 
+## A lead needs a real contact channel before it's considered done
+
+"No website" is not enough to call a business a finished lead. Before
+treating a candidate as ready (built or not), actually search for its
+Instagram and Facebook by name, not just whether it has a site. Phone
+only is the last resort, not the default, the same way stock photos are
+the last resort for images. This has been gotten wrong twice: once by
+skipping the Instagram/Facebook search for two businesses that turned
+out to have real accounts (found on a second pass, see
+`clients/pasticceria-boccione/_lead.md` and
+`clients/antico-forno-del-ghetto/_lead.md`), and again by not writing
+this rule down the first time it was asked for. Both failures are the
+same shape: a real instruction that didn't get saved anywhere, so it
+had to be re-litigated. Don't let that happen a third time, on this
+rule or the next one.
+
 ## Act like a professional web designer, not a form-filler
 
 A professional doesn't drop a client's branding because the source file is
