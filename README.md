@@ -446,6 +446,42 @@ listed, no longer resolves) counts as a strong lead — check with
 `find_leads.py` (Google Places API) was never actually used this way —
 requires an API key that was never set up.
 
+## Round 9 (2026-08-27) — Centro Storico leads found, not yet built
+
+Also this session: a template-wide visual polish pass (scroll-reveal,
+gallery lightbox, hero motion — see `.claude/skills/professional-web-design/`)
+and a per-client "mood" system (editorial/rustic/bold/boutique layout
+variants matched to each business's actual character, replacing the
+one-size-fits-all look) — rolled out to all 18 live demos.
+
+Sourced 5 new leads via manual search (starting from Roma Capitale's
+official Albo Botteghe Storiche / historic-shops registry), all genuinely
+in the centro storico — a neighborhood underrepresented in the current 18
+(only `antica-legatoria-del-vico` is properly centro). Added to
+`scripts/leads.csv`. Not yet built as demos — sourcing real photos per
+`branding-extraction.md` and drafting outreach is the next step for each:
+
+| Business | Sector | Address | Site status |
+|---|---|---|---|
+| Pasticceria Boccione (Forno Boccione) | forno/pasticceria kosher, dal 1770ca | Via del Portico d'Ottavia 1, Ghetto | **no website** — phone only (06 6878637) |
+| Antico Forno del Ghetto (Urbani) | forno/panificio, dal 1927 | Piazza Costaguti 30-32, Ghetto | **no website** — phone only (06 68803012) |
+| Antica Stamperia Trevi | stamperia/tipografia, dal 1780 (la più antica d'Europa) | Via dell'Umiltà 84/85, Trevi | **no independent website** — only listed on directories/associations, phone only (06 6794718) |
+| Franchi Argentieri | argenteria/oreficeria, dal 1944 | Via di Tor di Nona 60, Navona | has own site (franchiargentieri.it) but **dated** — jQuery 1.7.1, IE6/8 compat code, circa 2010-2012 build; has Instagram |
+| Camiceria Bazzocchi | camiceria su misura, dal 1907 | Via del Tritone 141, Trevi | has own site (camiceriabazzocchi.it) but **dated** WordPress template, desktop-only feel; email verified (info@camiceriabazzocchi.it) |
+
+One false positive checked and dropped: **Antica Barberia Peppino**
+(Via della Vite, Colonna) — turned out to have a genuinely modern,
+professional, mobile-responsive site (anticabarberia.it, 2023 copyright).
+Not a lead — don't reconsider without a fresh site check.
+
+Sector note: two Ghetto bakeries + a printer + a silversmith + a shirt
+maker is good diversity (no overlap with existing cappelleria/legatoria/
+corniciaio/restauro-mobili/tappezziere/fabbro roster). The two Ghetto
+forni are especially strong material — both are among the most-written-
+about historic food spots in Rome, which means real press photos should
+be findable per `branding-extraction.md` before falling back to anything
+else.
+
 ## Structure
 
 - **`template/`** — the reusable site: single page, mobile-first, sections
