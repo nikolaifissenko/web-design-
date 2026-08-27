@@ -38,7 +38,9 @@ const SITE_CONFIG = {
   theme: {
     primary: "#232120",
     accent: "#ff6600",
-    font: "'Playfair Display', serif",
+    font: "'Poppins', sans-serif",
+    headingFont: "'Space Grotesk', sans-serif",
+    mood: "bold",
   },
 
   hero: {
