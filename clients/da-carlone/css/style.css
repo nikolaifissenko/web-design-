@@ -272,6 +272,17 @@ a:focus-visible, button:focus-visible {
 
 .about-grid p { color: var(--text-light); }
 
+/* Text-only about (no real photo available for this client) —
+   collapse to a single centered column instead of leaving a blank
+   half where the hidden image would have been. */
+.about-grid:has(> img.hidden) {
+  grid-template-columns: 1fr;
+  max-width: 720px;
+  text-align: center;
+}
+.about-grid:has(> img.hidden) h2 { text-align: center; }
+.about-grid:has(> img.hidden) h2::after { left: 50%; transform: translateX(-50%); }
+
 /* Offerings (menu/services) */
 .offerings-list {
   display: grid;

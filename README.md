@@ -9,7 +9,7 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 branch `main` / root) — every push to `main` auto-deploys. Each client's
 demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 
-18 client demos built and live, none sold yet (2 more removed: Testaccio
+23 client demos built and live, none sold yet (2 more removed: Testaccio
 XIX-XXV — declined; Artigianaio Orologi — pulled since it had no contact
 channel at all, see below):
 
@@ -33,6 +33,11 @@ channel at all, see below):
 | `fratelli-anzilotti` | restauro mobili (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 | `tappezzeria-de-matthaeis` | tappezziere (artisan) | Montesacro | email (verified) | **yes** (2026-08-26) |
 | `il-fabbro-artigiano` | fabbro (artisan) | zona Sassonegro | email (verified) | **yes** (2026-08-26) |
+| `franchi-argentieri` | argentiere/orafo (artisan) | Centro storico (Navona) | phone/WhatsApp/Instagram DM (no email found) | no |
+| `camiceria-bazzocchi` | camiceria (artisan) | Centro storico (Trevi) | email (verified) | no |
+| `antica-stamperia-trevi` | stamperia (artisan) | Centro storico (Trevi) | email (found on packaging photo — verify by phone first) | no |
+| `pasticceria-boccione` | forno/pasticceria kosher | Centro storico (Ghetto) | phone only (no email/site found) | no |
+| `antico-forno-del-ghetto` | forno/panificio kosher | Centro storico (Ghetto) | phone only (no email/site found) | no |
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -446,28 +451,45 @@ listed, no longer resolves) counts as a strong lead — check with
 `find_leads.py` (Google Places API) was never actually used this way —
 requires an API key that was never set up.
 
-## Round 9 (2026-08-27) — Centro Storico leads found, not yet built
+## Round 9 (2026-08-27) — Centro Storico: 5 new demos built
 
 Also this session: a template-wide visual polish pass (scroll-reveal,
 gallery lightbox, hero motion — see `.claude/skills/professional-web-design/`)
 and a per-client "mood" system (editorial/rustic/bold/boutique layout
 variants matched to each business's actual character, replacing the
-one-size-fits-all look) — rolled out to all 18 live demos.
+one-size-fits-all look) — rolled out to all 18 clients from that point,
+then to the 5 new ones below as they were built (23 total).
 
 Sourced 5 new leads via manual search (starting from Roma Capitale's
 official Albo Botteghe Storiche / historic-shops registry), all genuinely
-in the centro storico — a neighborhood underrepresented in the current 18
-(only `antica-legatoria-del-vico` is properly centro). Added to
-`scripts/leads.csv`. Not yet built as demos — sourcing real photos per
-`branding-extraction.md` and drafting outreach is the next step for each:
+in the centro storico — a neighborhood underrepresented until now (only
+`antica-legatoria-del-vico` was properly centro before this round). All 5
+were then built as full demos (real branding/photos, see `_lead.md` in
+each client folder for exact sourcing and per-client notes):
 
-| Business | Sector | Address | Site status |
-|---|---|---|---|
-| Pasticceria Boccione (Forno Boccione) | forno/pasticceria kosher, dal 1770ca | Via del Portico d'Ottavia 1, Ghetto | **no website** — phone only (06 6878637) |
-| Antico Forno del Ghetto (Urbani) | forno/panificio, dal 1927 | Piazza Costaguti 30-32, Ghetto | **no website** — phone only (06 68803012) |
-| Antica Stamperia Trevi | stamperia/tipografia, dal 1780 (la più antica d'Europa) | Via dell'Umiltà 84/85, Trevi | **no independent website** — only listed on directories/associations, phone only (06 6794718) |
-| Franchi Argentieri | argenteria/oreficeria, dal 1944 | Via di Tor di Nona 60, Navona | has own site (franchiargentieri.it) but **dated** — jQuery 1.7.1, IE6/8 compat code, circa 2010-2012 build; has Instagram |
-| Camiceria Bazzocchi | camiceria su misura, dal 1907 | Via del Tritone 141, Trevi | has own site (camiceriabazzocchi.it) but **dated** WordPress template, desktop-only feel; email verified (info@camiceriabazzocchi.it) |
+| Business | Sector | Address | Mood | Site status found |
+|---|---|---|---|---|
+| `pasticceria-boccione` (Forno Boccione) | forno/pasticceria kosher, dal ~1770 | Via del Portico d'Ottavia 1, Ghetto | rustic | no website — phone only |
+| `antico-forno-del-ghetto` (Urbani) | forno/panificio kosher, dal 1927 | Piazza Costaguti 30-32, Ghetto | rustic | no website — phone only; also genuinely photo-poor (only 1 real photo found after checking 8+ sources) |
+| `antica-stamperia-trevi` | stamperia/tipografia, dal 1780 (la più antica d'Europa) | Via dell'Umiltà 84/85, Trevi | editorial | no independent website; real email found printed on packaging in a press photo, not via search — verify by phone before relying on it |
+| `franchi-argentieri` | argenteria/oreficeria, dal 1944 | Via di Tor di Nona 60, Navona | boutique | has own site (franchiargentieri.it) but dated (jQuery 1.7.1, IE6/8 compat, circa 2010-2012); no email, phone/WhatsApp/Instagram only |
+| `camiceria-bazzocchi` | camiceria su misura, dal 1907 | Via del Tritone 141, Trevi | boutique | has own site (camiceriabazzocchi.it) but dated WordPress template; email verified |
+
+Two of the five (Franchi Argentieri, Antica Stamperia Trevi) needed a
+logo **redesigned** from a real mark that didn't crop cleanly — a bear
+emblem fused into the wordmark, and a blurry photographed wax-seal —
+following `branding-extraction.md`'s process, not a straight crop, not
+initials. Camiceria Bazzocchi's logo *did* crop cleanly (top-hat + "B"
+portion of their wordmark). Boccione and Antico Forno del Ghetto have no
+findable logo at all — legitimate text-initials fallback for both.
+
+This round also caught and fixed a real template bug: a client with no
+real "about" photo available (`antico-forno-del-ghetto`) exposed that
+`about.image: ""` left a blank half-column gap in the default two-column
+layout. Fixed in the shared template (`template/css/style.css`, a
+`:has(> img.hidden)` rule collapsing to one centered column) and
+propagated to all 23 clients — inert for everyone else since no other
+client currently omits the about image.
 
 One false positive checked and dropped: **Antica Barberia Peppino**
 (Via della Vite, Colonna) — turned out to have a genuinely modern,
