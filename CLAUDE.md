@@ -45,8 +45,24 @@ whichever image slots still have nothing real. Say explicitly, in both
 where the real ones came from. "I used stock" is not an acceptable answer
 if the real-photo sources above were never actually checked.
 
+## Visual quality bar: "wow effect," not plain-template
+
+Real branding is necessary but not sufficient — the site itself has to
+read as professional, modern work, not an unstyled template with a photo
+dropped in. Scroll-reveal animation, a working gallery lightbox, hover/
+focus micro-interactions, an animated mobile nav, and `prefers-reduced-
+motion` support are the standing bar for every demo, applied via the
+shared `template/`. **See the `professional-web-design` skill
+(`.claude/skills/professional-web-design/SKILL.md`) before touching
+`template/` or claiming a demo is "done"** — it has the full checklist
+and, critically, the safe process for rolling a template-wide change out
+to all live clients without silently destroying per-client customizations
+(custom titles, fonts, color tweaks) the way a blind file-copy will.
+
 ## See also
 
+- `.claude/skills/professional-web-design/SKILL.md` — the visual/motion
+  quality standard and the safe template-rollout process.
 - `scripts/branding-extraction.md` — the detailed how-to: fetching around
   bot-blocks, cropping baked-in captions, when a logo needs full redesign
   vs. a straight crop.
