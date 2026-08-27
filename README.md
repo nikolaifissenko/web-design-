@@ -34,8 +34,8 @@ channel at all, see below):
 | `tappezzeria-de-matthaeis` | tappezziere (artisan) | Montesacro | email (verified) | **yes** (2026-08-26) |
 | `il-fabbro-artigiano` | fabbro (artisan) | zona Sassonegro | email (verified) | **yes** (2026-08-26) |
 | `franchi-argentieri` | argentiere/orafo (artisan) | Centro storico (Navona) | phone/WhatsApp/Instagram DM (no email found) | no |
-| `camiceria-bazzocchi` | camiceria (artisan) | Centro storico (Trevi) | email (verified) | no |
-| `antica-stamperia-trevi` | stamperia (artisan) | Centro storico (Trevi) | email (found on packaging photo — verify by phone first) | no |
+| `camiceria-bazzocchi` | camiceria (artisan) | Centro storico (Trevi) | email (verified) | **yes** (2026-08-27) |
+| `antica-stamperia-trevi` | stamperia (artisan) | Centro storico (Trevi) | email (found on packaging photo, verify by phone first) | **yes** (2026-08-27) |
 | `pasticceria-boccione` | forno/pasticceria kosher | Centro storico (Ghetto) | phone only (no email/site found) | no |
 | `antico-forno-del-ghetto` | forno/panificio kosher | Centro storico (Ghetto) | phone only (no email/site found) | no |
 
@@ -469,8 +469,8 @@ each client folder for exact sourcing and per-client notes):
 
 | Business | Sector | Address | Mood | Site status found |
 |---|---|---|---|---|
-| `pasticceria-boccione` (Forno Boccione) | forno/pasticceria kosher, dal ~1770 | Via del Portico d'Ottavia 1, Ghetto | rustic | no website — phone only |
-| `antico-forno-del-ghetto` (Urbani) | forno/panificio kosher, dal 1927 | Piazza Costaguti 30-32, Ghetto | rustic | no website — phone only; also genuinely photo-poor (only 1 real photo found after checking 8+ sources) |
+| `pasticceria-boccione` (Forno Boccione) | forno/pasticceria kosher, dal ~1770 | Via del Portico d'Ottavia 1, Ghetto | vintage | no website, phone only |
+| `antico-forno-del-ghetto` (Urbani) | forno/panificio kosher, dal 1927 | Piazza Costaguti 30-32, Ghetto | vintage | no website, phone only; also genuinely photo-poor (only 1 real photo found after checking 8+ sources) |
 | `antica-stamperia-trevi` | stamperia/tipografia, dal 1780 (la più antica d'Europa) | Via dell'Umiltà 84/85, Trevi | editorial | no independent website; real email found printed on packaging in a press photo, not via search — verify by phone before relying on it |
 | `franchi-argentieri` | argenteria/oreficeria, dal 1944 | Via di Tor di Nona 60, Navona | boutique | has own site (franchiargentieri.it) but dated (jQuery 1.7.1, IE6/8 compat, circa 2010-2012); no email, phone/WhatsApp/Instagram only |
 | `camiceria-bazzocchi` | camiceria su misura, dal 1907 | Via del Tritone 141, Trevi | boutique | has own site (camiceriabazzocchi.it) but dated WordPress template; email verified |
@@ -495,6 +495,18 @@ One false positive checked and dropped: **Antica Barberia Peppino**
 (Via della Vite, Colonna) — turned out to have a genuinely modern,
 professional, mobile-responsive site (anticabarberia.it, 2023 copyright).
 Not a lead — don't reconsider without a fresh site check.
+
+**Mood iteration on the two Ghetto clients.** Boccione and Antico Forno
+del Ghetto started on "rustic," then got their own dedicated "imperial"
+mood (Trajan-style capitals, Roman numerals, marble-plaque photo
+framing), then that was scrapped same day on feedback: Roman-imperial
+iconography doesn't fit two Jewish Ghetto institutions, and it read cold
+rather than dignified. Renamed to "vintage" and rebuilt around 1920s to
+1960s Italian shop-packaging character instead: a warm rounded display
+serif (Yeseva One), a market-placard price list with a dashed rule and a
+rounded price-tag badge, and photos framed like an old family print
+(white border, sepia toning that clears to full color on hover). Both
+clients now use "vintage."
 
 Sector note: two Ghetto bakeries + a printer + a silversmith + a shirt
 maker is good diversity (no overlap with existing cappelleria/legatoria/
