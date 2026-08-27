@@ -443,58 +443,62 @@ the same session (no usable contact channel — see note above) — it is
    renders fine locally** (see the incident logged above).
 
 **Lead-finding approach that actually worked**, vs. what's below: manual
-web search (business type + neighborhood), then verify no website /
-website is bad by fetching it, then check for a public email or
-Instagram/Facebook handle before building. A dead domain (was once
-listed, no longer resolves) counts as a strong lead — check with
-`curl`/DNS, it's arguably a worse look than never having had a site.
-`find_leads.py` (Google Places API) was never actually used this way —
-requires an API key that was never set up.
+web search (business type + neighborhood), then verify no website or
+that the website is bad by fetching it, then check for a public email
+or Instagram/Facebook handle before building. This last step is not
+optional, see CLAUDE.md, "A lead needs a real contact channel before
+it's considered done": a lead reported as done without that check
+having actually happened is not done. A dead domain (was once listed,
+no longer resolves) counts as a strong lead, check with `curl`/DNS,
+it's arguably a worse look than never having had a site. `find_leads.py`
+(Google Places API) was never actually used this way, it requires an
+API key that was never set up.
 
-## Round 9 (2026-08-27) — Centro Storico: 5 new demos built
+## Round 9 (2026-08-27): Centro Storico, 5 new demos built
 
 Also this session: a template-wide visual polish pass (scroll-reveal,
-gallery lightbox, hero motion — see `.claude/skills/professional-web-design/`)
+gallery lightbox, hero motion, see `.claude/skills/professional-web-design/`)
 and a per-client "mood" system (editorial/rustic/bold/boutique layout
 variants matched to each business's actual character, replacing the
-one-size-fits-all look) — rolled out to all 18 clients from that point,
+one-size-fits-all look), rolled out to all 18 clients from that point,
 then to the 5 new ones below as they were built (23 total).
 
 Sourced 5 new leads via manual search (starting from Roma Capitale's
-official Albo Botteghe Storiche / historic-shops registry), all genuinely
-in the centro storico — a neighborhood underrepresented until now (only
-`antica-legatoria-del-vico` was properly centro before this round). All 5
-were then built as full demos (real branding/photos, see `_lead.md` in
-each client folder for exact sourcing and per-client notes):
+official Albo Botteghe Storiche, the historic-shops registry), all
+genuinely in the centro storico, a neighborhood underrepresented until
+now (only `antica-legatoria-del-vico` was properly centro before this
+round). All 5 were then built as full demos (real branding/photos, see
+`_lead.md` in each client folder for exact sourcing and per-client
+notes):
 
 | Business | Sector | Address | Mood | Site status found |
 |---|---|---|---|---|
 | `pasticceria-boccione` (Forno Boccione) | forno/pasticceria kosher, dal ~1770 | Via del Portico d'Ottavia 1, Ghetto | vintage | no website; real Instagram found on a second pass, @pasticceria.boccione |
 | `antico-forno-del-ghetto` (Urbani) | forno/panificio kosher, dal 1927 | Piazza Costaguti 30-32, Ghetto | vintage | no website; real Facebook page found on a second pass (name match, content unverified); also genuinely photo-poor (only 1 real photo found after checking 8+ sources) |
-| `antica-stamperia-trevi` | stamperia/tipografia, dal 1780 (la più antica d'Europa) | Via dell'Umiltà 84/85, Trevi | editorial | no independent website; real email found printed on packaging in a press photo, not via search — verify by phone before relying on it |
+| `antica-stamperia-trevi` | stamperia/tipografia, dal 1780 (la più antica d'Europa) | Via dell'Umiltà 84/85, Trevi | editorial | no independent website; real email found printed on packaging in a press photo, not via search, verify by phone before relying on it |
 | `franchi-argentieri` | argenteria/oreficeria, dal 1944 | Via di Tor di Nona 60, Navona | boutique | has own site (franchiargentieri.it) but dated (jQuery 1.7.1, IE6/8 compat, circa 2010-2012); no email, phone/WhatsApp/Instagram only |
 | `camiceria-bazzocchi` | camiceria su misura, dal 1907 | Via del Tritone 141, Trevi | boutique | has own site (camiceriabazzocchi.it) but dated WordPress template; email verified |
 
 Two of the five (Franchi Argentieri, Antica Stamperia Trevi) needed a
-logo **redesigned** from a real mark that didn't crop cleanly — a bear
-emblem fused into the wordmark, and a blurry photographed wax-seal —
+logo **redesigned** from a real mark that didn't crop cleanly: a bear
+emblem fused into the wordmark, and a blurry photographed wax-seal,
 following `branding-extraction.md`'s process, not a straight crop, not
 initials. Camiceria Bazzocchi's logo *did* crop cleanly (top-hat + "B"
 portion of their wordmark). Boccione and Antico Forno del Ghetto have no
-findable logo at all — legitimate text-initials fallback for both.
+findable logo at all, a legitimate text-initials fallback for both.
 
 This round also caught and fixed a real template bug: a client with no
 real "about" photo available (`antico-forno-del-ghetto`) exposed that
 `about.image: ""` left a blank half-column gap in the default two-column
 layout. Fixed in the shared template (`template/css/style.css`, a
 `:has(> img.hidden)` rule collapsing to one centered column) and
-propagated to all 23 clients — inert for everyone else since no other
+propagated to all 23 clients, inert for everyone else since no other
 client currently omits the about image.
 
 One false positive checked and dropped: **Antica Barberia Peppino**
-(Via della Vite, Colonna) — turned out to have a genuinely modern,
+(Via della Vite, Colonna) turned out to have a genuinely modern,
 professional, mobile-responsive site (anticabarberia.it, 2023 copyright).
-Not a lead — don't reconsider without a fresh site check.
+Not a lead, don't reconsider without a fresh site check.
 
 **Mood iteration on the two Ghetto clients.** Boccione and Antico Forno
 del Ghetto started on "rustic," then got their own dedicated "imperial"
@@ -506,15 +510,27 @@ rather than dignified. Renamed to "vintage" and rebuilt around 1920s to
 serif (Yeseva One), a market-placard price list with a dashed rule and a
 rounded price-tag badge, and photos framed like an old family print
 (white border, sepia toning that clears to full color on hover). Both
-clients now use "vintage."
+clients now use "vintage." See the mood system section in
+`.claude/skills/professional-web-design/SKILL.md` for the general rule
+this produced: match the mood to the business's actual heritage, not
+just "it's old."
 
-Sector note: two Ghetto bakeries + a printer + a silversmith + a shirt
+**Channel-check correction.** Boccione and Antico Forno del Ghetto were
+first reported as phone-only. A targeted Instagram/Facebook search
+(which should have happened before calling either lead finished, see
+CLAUDE.md) found a real Instagram for Boccione (@pasticceria.boccione)
+and a real Facebook page name-matched to Antico Forno del Ghetto.
+Neither is phone-only anymore; Claude still cannot send Instagram DMs
+or Facebook messages, so outreach on those two channels is Nikolai's to
+send.
+
+Sector note: two Ghetto bakeries, a printer, a silversmith, and a shirt
 maker is good diversity (no overlap with existing cappelleria/legatoria/
 corniciaio/restauro-mobili/tappezziere/fabbro roster). The two Ghetto
-forni are especially strong material — both are among the most-written-
-about historic food spots in Rome, which means real press photos should
-be findable per `branding-extraction.md` before falling back to anything
-else.
+forni are especially strong material, both are among the
+most-written-about historic food spots in Rome, which means real press
+photos should be findable per `branding-extraction.md` before falling
+back to anything else.
 
 ## Structure
 
