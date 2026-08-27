@@ -1,21 +1,66 @@
 # Outreach message template
 
-Use after a demo site is live. Keep it short — the demo does the selling.
+Use after a demo site is live — **and verified live on the actual
+`nikolaifissenko.github.io` URL, not just the local file** (GitHub Pages
+serves from `main` only; a demo sitting on an unmerged branch will 404
+even though it renders fine locally — check the real URL with `curl` before
+sending, every time). Keep it short — the demo does the selling.
+
+**Persona (updated 2026-08-26, refined same day): professional, full stop
+— no justification clause either.** First pass: earlier drafts opened
+with "I just discovered a passion for web design, it's new to me, I hope
+to make it my job someday" — a practicing-beginner framing. Nikolai asked
+to drop that in favor of "web designer freelance... è un lavoro che
+faccio con cura, perché ci credo" — better, but still explaining/
+justifying the job, which reads a little like someone building a case
+for themselves. **Second pass, Nikolai's actual instruction: just say
+"I'm a web designer." No preamble about passion or care — a real
+professional states what he does and moves straight to the point.**
+Below is the current standard opening in both languages.
 
 ---
 
-Ciao [Owner Name],
+Buongiorno, sono Nikolai, web designer freelance qui a Roma.
 
-I put together a quick demo website for [Business Name] — no obligation,
-just wanted to show what it could look like online:
+[1-2 frasi sul problema specifico riscontrato sul loro sito attuale — es.
+non si carica da telefono, è fermo a 10 anni fa, contiene ancora testo
+segnaposto, ecc. — con un fatto concreto e verificabile, non un giudizio
+generico.]
+
+Le ho preparato gratuitamente una versione nuova, con le vostre vere foto,
+per farle vedere concretamente cosa potrei fare per [Nome Attività]:
 
 👉 [demo URL]
 
-If you like it, I can have it live on your own domain for **€500** (one-time),
-with optional hosting + monthly social media management from there.
+Nessun obbligo — se il risultato le piace, sarei felice di completarlo e
+portarlo online per voi (500€, con hosting e gestione social disponibili
+come opzione mensile se interessa). Resto a disposizione per qualsiasi
+domanda o per un parere sincero.
 
-Let me know what you think!
+Grazie mille per il suo tempo,
+Nikolai
+[telefono / Instagram]
 
+---
+
+English equivalent:
+
+Hi [Owner Name], I'm Nikolai, a freelance web designer in Rome.
+
+[1-2 sentences on the specific, verifiable problem with their current
+site.]
+
+I put together a free demo for [Business Name], with your real photos, to
+show you exactly what I could do:
+
+👉 [demo URL]
+
+No obligation — if you like it, I'd be happy to finish it and take it
+live on your own domain for **€500** (one-time), with optional hosting +
+monthly social media management from there. Happy to answer any
+questions, or just hear your honest take.
+
+Thanks for your time,
 [Your Name]
 [Your Phone / Instagram]
 
@@ -23,8 +68,10 @@ Let me know what you think!
 
 ## Notes
 
-- In Italian, swap "Ciao" → keep it casual/local; addresses in Rome respond
-  better to a personal, informal tone than a corporate one.
+- **State the role, then move on — no beginner framing, no justification
+  clause either** (see persona note above). "Sono Nikolai, web designer
+  freelance qui a Roma." Full stop, straight into the specific observation
+  about their site. Not a vague "I noticed your site could be better."
 - Lead with the live link, not a pitch — most owners will click before reading.
 - If no reply in ~4-5 days, one polite follow-up, then move on.
 - **For Instagram/Facebook DM outreach specifically: attach a screenshot of
