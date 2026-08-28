@@ -10,7 +10,7 @@
 - **Sources:** autofficinapisino.com (services, hours, contact); DEKRA revisione centri listing and Virgilio business directory (confirms Novacar Service Pisino S.R.L. name, also offers car rental per a Facebook post).
 - **Status:** outreach-sent (email sent 2026-08-26 to novacarservicepisino@gmail.com — Gmail message ID `1a03c23762875a7d`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/autofficina-pisino/
-- **Response:** no reply yet (re-checked 2026-08-28, ~56h after sending)
+- **Response:** no reply yet (re-checked 2026-08-28, ~60h after sending)
 - **Sold:** no
 - **Notes:**
   - Has a real email — outreach can go by email using `scripts/pitch_template.md`.
