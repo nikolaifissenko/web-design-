@@ -9,7 +9,7 @@
 - **Email:** info@panzirone.it (listed on the official Turismo Roma historic-shop page, unverified by reply since the domain itself is dead, so this may or may not still work; try Instagram/phone first)
 - **Sources:** Turismo Roma (official "bottega storica" registry entry, decree no. 1164/2004, the most authoritative source found: address, phone, email, Instagram, history since 1914), piatti.menu (real customer-uploaded photos), independent web search for reviews mentioning the restaurant's checkered tablecloths.
 - **Status:** demo-built, **needs a phone verification before any outreach, see below**
-- **Demo URL:** (not yet deployed this round)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/ristorante-panzirone/
 - **Sold:** no
 - **Notes:**
   - **Important open question, needs Nikolai's call before contacting anyone:** there is a second, very similarly named business, "Antica Trattoria Panzirone" (anticatrattoriapanzirone.com), listed at Piazza Navona 72, one door down from this one (73). Could be the same business under a slightly different or newer trading name, a sister operation, or an unrelated competitor that happens to share the family name. Did not use anticatrattoriapanzirone.com for any branding, photos, or copy in this build, specifically to avoid misattributing a different business's material. Recommend calling 06 6813 4054 and confirming "Ristorante Panzirone, Piazza Navona 73, dal 1914?" before sending the demo to anyone.

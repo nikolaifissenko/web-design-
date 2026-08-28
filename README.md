@@ -3,6 +3,34 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
+## Start here (2026-08-28 end of session): Monday morning action list
+
+Run `python3 scripts/pipeline_status.py` first, it's always the current
+source of truth. As of this session:
+
+- **15 demos built and live, pitch drafted, just need sending**: see
+  `DEMO BUILT, PITCH NOT SENT` in the pipeline output. Each `_lead.md`
+  has the outreach email ready (Italian, no price, no emoji, signed off
+  with 349 101 6416), just needs a final read and the send. One of the
+  15, `ristorante-panzirone`, is flagged verify by phone first (a
+  similarly-named business next door needs ruling out before contact).
+- **1 blocked, needs a decision, not a build**: `il-pastarellaro`. Likely
+  closed. Call 06 5810871 or 0658331598 to confirm before doing anything
+  else with this lead.
+- **1 dropped entirely this session**: `trattoria-der-pallaro`, turned out
+  to already have a separate, modern, current site. Not a lead, no folder
+  left in the repo.
+- **17 emails already sent** (2026-08-26/27 rounds) are in their 3-day
+  waiting window, tracked automatically by the recurring pipeline
+  check-in Routine (fires every 3 days, drafts any follow-up that comes
+  due, checks Gmail for real replies/bounces when reachable).
+- **1 bounced** (`consorti-cornici`), needs a phone call instead of email.
+- Every client folder's `_lead.md` is the single source of truth for that
+  business: address, phone, email, exactly what's real vs. stock in the
+  demo, and the outreach draft. `README.md`'s history sections below are
+  a session-by-session log, useful for context on *why* something was
+  done, not for current status, that's what the pipeline script is for.
+
 ## Status (2026-08-26)
 
 **GitHub Pages is live on this repo** (Settings → Pages → Deploy from

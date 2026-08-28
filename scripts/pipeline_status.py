@@ -46,6 +46,15 @@ def classify(slug: str, fields: dict) -> dict:
         result["bucket"] = "DEAD_CHANNEL"
         return result
 
+    if status.startswith("not built"):
+        result["bucket"] = "BLOCKED_NOT_BUILT"
+        return result
+
+    if "demo-built" in status and not DATE_RE.search(status):
+        result["bucket"] = "DEMO_READY_NOT_SENT"
+        result["verify_first"] = "phone verification" in status or "verify by phone" in status
+        return result
+
     if "not yet contacted" in status or "not sent yet" in status or "not sent yet" in response:
         result["bucket"] = "NEEDS_INITIAL_SEND"
         has_real_email = bool(email) and "none found" not in email.lower() and "no email" not in email.lower()
@@ -84,11 +93,13 @@ def main():
     print(f"Pipeline status as of {date.today().isoformat()} ({len(leads)} demos)\n")
 
     order = [
+        ("DEMO_READY_NOT_SENT", "DEMO BUILT, PITCH NOT SENT (ready, just needs the email/DM sent)"),
         ("NEEDS_INITIAL_SEND", "NEVER CONTACTED (ready to send, zero building needed)"),
         ("NEEDS_FOLLOWUP", f"FOLLOW-UP DUE (>={FOLLOWUP_DAYS} days, no reply)"),
         ("DEAD_CHANNEL", "DEAD CHANNEL (bounced, needs alt contact)"),
         ("WAITING", "WAITING (recently sent, not due yet)"),
         ("REPLIED", "REPLIED (needs a human decision/response)"),
+        ("BLOCKED_NOT_BUILT", "BLOCKED (not built yet, needs a decision first)"),
         ("SOLD", "SOLD"),
         ("UNKNOWN", "UNPARSED (check _lead.md by hand)"),
     ]
@@ -106,6 +117,9 @@ def main():
                 print(f"  - {l['slug']}  (sent {l['sent_date']}, {l['days_since']}d ago)")
             elif key == "DEAD_CHANNEL":
                 print(f"  - {l['slug']}  ({l['status_raw'][:80]})")
+            elif key == "DEMO_READY_NOT_SENT":
+                flag = "  [VERIFY BY PHONE FIRST]" if l.get("verify_first") else ""
+                print(f"  - {l['slug']}{flag}")
             else:
                 print(f"  - {l['slug']}")
         print()

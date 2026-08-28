@@ -17,7 +17,7 @@
   direttamente (home, azienda, servizi) per storia, contatti, servizi e
   foto.
 - **Status:** demo-built
-- **Demo URL:**
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-tipografia/
 - **Sold:** no
 - **Notes:**
   - Storia eccezionale per l'outreach: fondata nel 1876 come "Forzani e
