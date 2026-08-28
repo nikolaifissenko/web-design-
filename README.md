@@ -9,20 +9,18 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 branch `main` / root) — every push to `main` auto-deploys. Each client's
 demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 
-23 client demos built and live, none sold yet (2 more removed: Testaccio
+18 client demos built and live, none sold yet (7 more removed: Testaccio
 XIX-XXV — declined; Artigianaio Orologi — pulled since it had no contact
-channel at all, see below):
+channel at all; 5 more on 2026-08-28, see "Leads not being pursued" below):
 
 | Client | Sector | Neighborhood | Contact channel | Outreach sent? |
 |---|---|---|---|---|
-| `barbagianni` | bar | Pigneto | Instagram DM / phone | no |
-| `monego-pigneto` | bar | Pigneto | Instagram DM / phone | no |
+| `barbagianni` | bar | Pigneto | Instagram DM / phone | **yes** (Instagram DM, 2026-08-28) |
+| `monego-pigneto` | bar | Pigneto | Instagram DM / phone | **yes** (Instagram DM, 2026-08-28) |
 | `tinto-lavanderia` | lavanderia | — | email | **yes** (2026-08-26) |
 | `autofficina-pisino` | autofficina | Collatino | email | **yes** (2026-08-26) |
-| `tanto-pe-magna` | trattoria | Garbatella | Facebook Messenger / phone | no |
-| `da-carlone` | trattoria | Trastevere | Instagram DM / phone | no |
-| `a-testaccio-da-max` | B&B | Testaccio | WhatsApp/phone (no site at all) | no |
-| `la-casa-sugli-alberi` | B&B | Testaccio | phone only (no email/site found) | no |
+| `tanto-pe-magna` | trattoria | Garbatella | Facebook Messenger / phone | **yes** (Facebook Messenger, 2026-08-28) |
+| `da-carlone` | trattoria | Trastevere | Instagram DM / phone | **yes** (Instagram DM, 2026-08-28) |
 | `trastevereinbed` | B&B | Trastevere | email (verified) | **yes** (2026-08-26) |
 | `roma-trasteverina` | B&B | Trastevere | email (found 2026-08-26) | **yes** (2026-08-26) |
 | `una-finestra-su-monti` | B&B | Monti | email (verified) | **yes** (2026-08-26) |
@@ -33,11 +31,16 @@ channel at all, see below):
 | `fratelli-anzilotti` | restauro mobili (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 | `tappezzeria-de-matthaeis` | tappezziere (artisan) | Montesacro | email (verified) | **yes** (2026-08-26) |
 | `il-fabbro-artigiano` | fabbro (artisan) | zona Sassonegro | email (verified) | **yes** (2026-08-26) |
-| `franchi-argentieri` | argentiere/orafo (artisan) | Centro storico (Navona) | phone/WhatsApp/Instagram DM (no email found) | no |
 | `camiceria-bazzocchi` | camiceria (artisan) | Centro storico (Trevi) | email (verified) | **yes** (2026-08-27) |
 | `antica-stamperia-trevi` | stamperia (artisan) | Centro storico (Trevi) | email (found on packaging photo, verify by phone first) | **yes** (2026-08-27) |
-| `pasticceria-boccione` | forno/pasticceria kosher | Centro storico (Ghetto) | Instagram DM (@pasticceria.boccione) / phone | no |
-| `antico-forno-del-ghetto` | forno/panificio kosher | Centro storico (Ghetto) | Facebook Messenger / phone | no |
+
+**Leads not being pursued (2026-08-28, Nikolai's call, demos and lead
+files removed from the repo):**
+- `a-testaccio-da-max` — no email found
+- `la-casa-sugli-alberi` — no email found
+- `franchi-argentieri` — no email found
+- `pasticceria-boccione` — no email found
+- `antico-forno-del-ghetto` — no email found
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -413,18 +416,14 @@ the same session (no usable contact channel — see note above) — it is
 1. **Nikolai to send the 4 DM messages** (Barbagianni, Monego Pigneto,
    Da Carlone, Tanto pè Magnà) — Claude cannot send Instagram DMs.
    Screenshots + exact text are ready in each `_lead.md`.
-2. **Nikolai to call/WhatsApp the phone-only clients**: La Casa sugli
-   Alberi (landline), A Testaccio da Max (WhatsApp) — drafts ready in
-   each `_lead.md`.
 3. **Nikolai to work the 4 no-email leads found but not built** (see
    "No-email leads found, not built" above): Ombrelli Domizio,
    Gioielleria Marcelli, Gloves Alberta, Amenio Raponi. Find an
    Instagram/email or call directly — once a channel exists, a future
    session can build the demo.
-4. Real photos still wanted for Monego Pigneto, A Testaccio da Max, La
-   Casa sugli Alberi — automated routes exhausted and documented; next
-   progress needs a screenshot from Nikolai (Instagram) or from someone
-   who can load Tripadvisor.
+4. Real photos still wanted for Monego Pigneto — automated routes
+   exhausted and documented; next progress needs a screenshot from
+   Nikolai (Instagram).
 5. **Next session: a new session should re-check all 11 silent threads
    first** (`get_thread` on the Gmail message IDs in each `_lead.md`)
    before doing anything else — a reply may change what's worth building
@@ -469,68 +468,33 @@ genuinely in the centro storico, a neighborhood underrepresented until
 now (only `antica-legatoria-del-vico` was properly centro before this
 round). All 5 were then built as full demos (real branding/photos, see
 `_lead.md` in each client folder for exact sourcing and per-client
-notes):
+notes). 3 of the 5 (Pasticceria Boccione, Antico Forno del Ghetto,
+Franchi Argentieri) were dropped 2026-08-28, no email found for any of
+the three, see "Leads not being pursued" near the top of this file. The
+2 still live:
 
 | Business | Sector | Address | Mood | Site status found |
 |---|---|---|---|---|
-| `pasticceria-boccione` (Forno Boccione) | forno/pasticceria kosher, dal ~1770 | Via del Portico d'Ottavia 1, Ghetto | vintage | no website; real Instagram found on a second pass, @pasticceria.boccione |
-| `antico-forno-del-ghetto` (Urbani) | forno/panificio kosher, dal 1927 | Piazza Costaguti 30-32, Ghetto | vintage | no website; real Facebook page found on a second pass (name match, content unverified); also genuinely photo-poor (only 1 real photo found after checking 8+ sources) |
 | `antica-stamperia-trevi` | stamperia/tipografia, dal 1780 (la più antica d'Europa) | Via dell'Umiltà 84/85, Trevi | editorial | no independent website; real email found printed on packaging in a press photo, not via search, verify by phone before relying on it |
-| `franchi-argentieri` | argenteria/oreficeria, dal 1944 | Via di Tor di Nona 60, Navona | boutique | has own site (franchiargentieri.it) but dated (jQuery 1.7.1, IE6/8 compat, circa 2010-2012); no email, phone/WhatsApp/Instagram only |
 | `camiceria-bazzocchi` | camiceria su misura, dal 1907 | Via del Tritone 141, Trevi | boutique | has own site (camiceriabazzocchi.it) but dated WordPress template; email verified |
 
-Two of the five (Franchi Argentieri, Antica Stamperia Trevi) needed a
-logo **redesigned** from a real mark that didn't crop cleanly: a bear
-emblem fused into the wordmark, and a blurry photographed wax-seal,
-following `branding-extraction.md`'s process, not a straight crop, not
-initials. Camiceria Bazzocchi's logo *did* crop cleanly (top-hat + "B"
-portion of their wordmark). Boccione and Antico Forno del Ghetto have no
-findable logo at all, a legitimate text-initials fallback for both.
+Antica Stamperia Trevi needed a logo **redesigned** from a real mark
+that didn't crop cleanly (a blurry photographed wax-seal), following
+`branding-extraction.md`'s process, not a straight crop, not initials.
+Camiceria Bazzocchi's logo *did* crop cleanly (top-hat + "B" portion of
+their wordmark).
 
 This round also caught and fixed a real template bug: a client with no
-real "about" photo available (`antico-forno-del-ghetto`) exposed that
-`about.image: ""` left a blank half-column gap in the default two-column
-layout. Fixed in the shared template (`template/css/style.css`, a
-`:has(> img.hidden)` rule collapsing to one centered column) and
-propagated to all 23 clients, inert for everyone else since no other
-client currently omits the about image.
+real "about" photo available exposed that `about.image: ""` left a
+blank half-column gap in the default two-column layout. Fixed in the
+shared template (`template/css/style.css`, a `:has(> img.hidden)` rule
+collapsing to one centered column) and propagated to all clients, inert
+for everyone else since no other client currently omits the about image.
 
 One false positive checked and dropped: **Antica Barberia Peppino**
 (Via della Vite, Colonna) turned out to have a genuinely modern,
 professional, mobile-responsive site (anticabarberia.it, 2023 copyright).
 Not a lead, don't reconsider without a fresh site check.
-
-**Mood iteration on the two Ghetto clients.** Boccione and Antico Forno
-del Ghetto started on "rustic," then got their own dedicated "imperial"
-mood (Trajan-style capitals, Roman numerals, marble-plaque photo
-framing), then that was scrapped same day on feedback: Roman-imperial
-iconography doesn't fit two Jewish Ghetto institutions, and it read cold
-rather than dignified. Renamed to "vintage" and rebuilt around 1920s to
-1960s Italian shop-packaging character instead: a warm rounded display
-serif (Yeseva One), a market-placard price list with a dashed rule and a
-rounded price-tag badge, and photos framed like an old family print
-(white border, sepia toning that clears to full color on hover). Both
-clients now use "vintage." See the mood system section in
-`.claude/skills/professional-web-design/SKILL.md` for the general rule
-this produced: match the mood to the business's actual heritage, not
-just "it's old."
-
-**Channel-check correction.** Boccione and Antico Forno del Ghetto were
-first reported as phone-only. A targeted Instagram/Facebook search
-(which should have happened before calling either lead finished, see
-CLAUDE.md) found a real Instagram for Boccione (@pasticceria.boccione)
-and a real Facebook page name-matched to Antico Forno del Ghetto.
-Neither is phone-only anymore; Claude still cannot send Instagram DMs
-or Facebook messages, so outreach on those two channels is Nikolai's to
-send.
-
-Sector note: two Ghetto bakeries, a printer, a silversmith, and a shirt
-maker is good diversity (no overlap with existing cappelleria/legatoria/
-corniciaio/restauro-mobili/tappezziere/fabbro roster). The two Ghetto
-forni are especially strong material, both are among the
-most-written-about historic food spots in Rome, which means real press
-photos should be findable per `branding-extraction.md` before falling
-back to anything else.
 
 ## Structure
 

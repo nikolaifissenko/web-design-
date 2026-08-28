@@ -7,9 +7,9 @@
 - **Instagram:** https://www.instagram.com/anticatrattoriadacarlone/
 - **Facebook:** none confirmed with a direct URL
 - **Sources:** RomaToday, TrovaAperto, Tripadvisor/Yelp (address, phone, hours: Tue-Sun 12:00-23:00, closed Monday); RomaToday feature piece (family-run 20+ years, traditional Roman home cooking, carbonara/amatriciana specialties).
-- **Status:** demo-live
+- **Status:** outreach-sent (Instagram DM sent 2026-08-28 by Nikolai directly, screenshot attached)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/da-carlone/
-- **Response:** n/a — outreach not sent yet (DM/call pending, see Outreach draft below)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - No email found — outreach by phone or Instagram DM.
