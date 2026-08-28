@@ -644,6 +644,52 @@ One false positive checked and dropped: **Antica Barberia Peppino**
 professional, mobile-responsive site (anticabarberia.it, 2023 copyright).
 Not a lead, don't reconsider without a fresh site check.
 
+## Round 10 (2026-08-28): 5 trattorie sourced, 3 built, 2 held back
+
+5 leads were scaffolded this round: `trattoria-der-pallaro`,
+`il-pastarellaro`, `la-piccola-cuccagna`, `ristorante-panzirone`,
+`cantina-cantarini`. Checking each before building (per the standing
+rule of verifying, not assuming, before treating a lead as ready) turned
+up two that aren't valid leads as originally picked:
+
+- **`trattoria-der-pallaro` — dropped, false positive.** The domain
+  first found (trattoriaderpallaro.it) is dead (503), but the business
+  actually runs a different, current domain (`derpallaro.it`): a
+  genuinely modern WordPress/Divi site with online booking, recent
+  (2025) photo uploads, mobile-responsive. Same pattern as Antica
+  Barberia Peppino in Round 9 — already has a good site under a domain
+  the first search missed. Folder removed from the repo.
+- **`il-pastarellaro` — held back, not dropped.** Strong but not
+  airtight signals the historic business (Via di San Crisogono 33, dal
+  1952) is closed: near-bottom Tripadvisor ranking, most recent review
+  from 2019, a restaurant-listing site's own status marking it closed.
+  A *different-named* business ("Pastarellaro Di Severino") shows up at
+  the same address with a more recent (March 2025) listing update and a
+  different phone number — could be a rename/succession or could be
+  aggregator confusion. Scaffold kept (not deleted) but deliberately
+  **not built** — `config.js` still the unedited template, with a
+  comment pointing to `_lead.md` — pending a phone call to confirm
+  which, if either, name is currently operating there. See
+  `clients/il-pastarellaro/_lead.md` for the full reasoning and what
+  would resolve it.
+
+The remaining 3 were built as full demos, all mood `rustic` (family
+trattorie/hostarie, consistent with `da-carlone`/`tanto-pe-magna`):
+
+| Business | Address | Site status found | Real photos |
+|---|---|---|---|
+| `cantina-cantarini` | Piazza Sallustio 12 | has own site, but a 2014-era CMS build with no real mobile layout | yes — logo, hero, and all gallery/about photos pulled directly from their own site (one cross-verified via a 2019 press feature); 2 newer photos on their site rejected as likely stock (EXIF timestamp matches upload time exactly, one dish isn't even on their menu) |
+| `ristorante-panzirone` | Piazza Navona 73 | historic domain (panzirone.it) is dead; a `.shop` site claiming to be theirs reads as AI-generated/placeholder, not used for anything | yes — all 4 photos real, sourced from piatti.menu and identified by a distinctive checkered tablecloth matching independent review mentions; no real logo found anywhere, used text initials rather than guess at a redesign |
+| `la-piccola-cuccagna` | Via della Cuccagna 14 | no website ever existed; real Instagram (35K followers) and Facebook confirmed | partial — 2 real photos (their own menu board, clearly branded) used for about/gallery; hero is disclosed stock, chosen to match the real checkered tablecloth seen in the real photos, after piatti.menu's photos for this specific listing turned out to be mismatched to other restaurants (a real data-quality issue on the aggregator, confirmed by checking pixel content against the metadata tag) |
+
+`ristorante-panzirone` carries an open question worth flagging before
+outreach: a second, similarly-named business ("Antica Trattoria
+Panzirone") is listed one door down (Piazza Navona 72 vs. 73) — not
+used as a source for anything here to avoid misattributing branding,
+but worth a quick phone confirmation before sending the demo. Full
+detail in each client's `_lead.md`. No outreach drafted or sent for any
+of the 3 built demos yet this round.
+
 ## Structure
 
 - **`template/`** — the reusable site: single page, mobile-first, sections
