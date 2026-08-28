@@ -7,9 +7,9 @@
 - **Facebook:** https://www.facebook.com/146635089389434 ("Tanto Pè Magnà A Garbatella," page created 2018)
 - **Instagram:** https://www.instagram.com/tanto.pe.magna/ (handle found 2026-08-26 via web search — 396 followers, 18 posts, matches this business; logo was already sourced from this profile by Nikolai earlier, handle just wasn't recorded until now)
 - **Sources:** PagineBianche/PagineGialle (address, phone, hours), RomaToday/Groupon/Luciano Pignataro Wine Blog (family-run, traditional Roman dishes, low prices).
-- **Status:** demo-live
+- **Status:** outreach-sent (Facebook Messenger DM sent 2026-08-28 by Nikolai directly, screenshot attached)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/tanto-pe-magna/
-- **Response:** n/a — outreach not sent yet (DM/call pending, see Outreach draft below)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - No email found — outreach by phone or Facebook.

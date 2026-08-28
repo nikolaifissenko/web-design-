@@ -7,9 +7,9 @@
 - **Instagram:** https://www.instagram.com/monegopigneto/
 - **Facebook:** https://www.facebook.com/monegopigneto/
 - **Sources:** EsteticaELavoro professional listing (services), Virgilio/PagineGialle (address, hours, phone).
-- **Status:** demo-live
+- **Status:** outreach-sent (Instagram DM sent 2026-08-28 by Nikolai directly, screenshot attached)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/monego-pigneto/
-- **Response:** n/a — outreach not sent yet (DM/call pending, see Outreach draft below)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - No email found anywhere public — outreach needs to be by phone or Instagram DM.

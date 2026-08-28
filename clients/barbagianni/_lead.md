@@ -7,9 +7,9 @@
 - **Instagram:** https://www.instagram.com/barbagianni_haircuts_shaves_/
 - **Facebook:** https://www.facebook.com/61562796640435/
 - **Sources:** RomaToday and Pigneto.it articles on the shop (opened by Ali Can, Kurdish refugee); Pigneto.it business listing for address/hours.
-- **Status:** demo-live
+- **Status:** outreach-sent (Instagram DM sent 2026-08-28 by Nikolai directly, screenshot attached)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/barbagianni/
-- **Response:** n/a — outreach not sent yet (DM/call pending, see Outreach draft below)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - No email found anywhere public — outreach needs to be by phone or Instagram DM.

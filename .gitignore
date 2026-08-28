@@ -2,3 +2,4 @@ __pycache__/
 node_modules/
 .env
 scripts/leads.csv
+.claude/worktrees/

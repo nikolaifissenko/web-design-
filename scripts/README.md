@@ -7,6 +7,7 @@
 | `deploy.md` | How to push a client folder live on Cloudflare Pages or Vercel (no build step, drag-and-drop or one CLI command). |
 | `pitch_template.md` | Outreach message to send once a demo is live. |
 | `branding-extraction.md` | **Mandatory step 4 below.** How to check a lead's existing site/socials for a real logo, real brand colors, and real photos before falling back to stock. |
+| `pipeline_status.py` | Reads every `clients/*/_lead.md` and reports what needs to happen next: never-contacted leads (split into "Nikolai must send" vs. "email available"), follow-ups due (3+ days, no reply), bounced/dead channels, and recently-sent leads not due yet. Run with `python3 scripts/pipeline_status.py`. This is the first thing to check at the start of a session, before building anything new. |
 
 ## Typical workflow
 

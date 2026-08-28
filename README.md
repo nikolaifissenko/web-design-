@@ -9,20 +9,18 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 branch `main` / root) — every push to `main` auto-deploys. Each client's
 demo URL is `https://nikolaifissenko.github.io/web-design-/clients/<slug>/`.
 
-23 client demos built and live, none sold yet (2 more removed: Testaccio
+18 client demos built and live, none sold yet (7 more removed: Testaccio
 XIX-XXV — declined; Artigianaio Orologi — pulled since it had no contact
-channel at all, see below):
+channel at all; 5 more on 2026-08-28, see "Leads not being pursued" below):
 
 | Client | Sector | Neighborhood | Contact channel | Outreach sent? |
 |---|---|---|---|---|
-| `barbagianni` | bar | Pigneto | Instagram DM / phone | no |
-| `monego-pigneto` | bar | Pigneto | Instagram DM / phone | no |
+| `barbagianni` | bar | Pigneto | Instagram DM / phone | **yes** (Instagram DM, 2026-08-28) |
+| `monego-pigneto` | bar | Pigneto | Instagram DM / phone | **yes** (Instagram DM, 2026-08-28) |
 | `tinto-lavanderia` | lavanderia | — | email | **yes** (2026-08-26) |
 | `autofficina-pisino` | autofficina | Collatino | email | **yes** (2026-08-26) |
-| `tanto-pe-magna` | trattoria | Garbatella | Facebook Messenger / phone | no |
-| `da-carlone` | trattoria | Trastevere | Instagram DM / phone | no |
-| `a-testaccio-da-max` | B&B | Testaccio | WhatsApp/phone (no site at all) | no |
-| `la-casa-sugli-alberi` | B&B | Testaccio | phone only (no email/site found) | no |
+| `tanto-pe-magna` | trattoria | Garbatella | Facebook Messenger / phone | **yes** (Facebook Messenger, 2026-08-28) |
+| `da-carlone` | trattoria | Trastevere | Instagram DM / phone | **yes** (Instagram DM, 2026-08-28) |
 | `trastevereinbed` | B&B | Trastevere | email (verified) | **yes** (2026-08-26) |
 | `roma-trasteverina` | B&B | Trastevere | email (found 2026-08-26) | **yes** (2026-08-26) |
 | `una-finestra-su-monti` | B&B | Monti | email (verified) | **yes** (2026-08-26) |
@@ -33,11 +31,16 @@ channel at all, see below):
 | `fratelli-anzilotti` | restauro mobili (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 | `tappezzeria-de-matthaeis` | tappezziere (artisan) | Montesacro | email (verified) | **yes** (2026-08-26) |
 | `il-fabbro-artigiano` | fabbro (artisan) | zona Sassonegro | email (verified) | **yes** (2026-08-26) |
-| `franchi-argentieri` | argentiere/orafo (artisan) | Centro storico (Navona) | phone/WhatsApp/Instagram DM (no email found) | no |
 | `camiceria-bazzocchi` | camiceria (artisan) | Centro storico (Trevi) | email (verified) | **yes** (2026-08-27) |
 | `antica-stamperia-trevi` | stamperia (artisan) | Centro storico (Trevi) | email (found on packaging photo, verify by phone first) | **yes** (2026-08-27) |
-| `pasticceria-boccione` | forno/pasticceria kosher | Centro storico (Ghetto) | Instagram DM (@pasticceria.boccione) / phone | no |
-| `antico-forno-del-ghetto` | forno/panificio kosher | Centro storico (Ghetto) | Facebook Messenger / phone | no |
+
+**Leads not being pursued (2026-08-28, Nikolai's call, demos and lead
+files removed from the repo):**
+- `a-testaccio-da-max`: no email found
+- `la-casa-sugli-alberi`: no email found
+- `franchi-argentieri`: no email found
+- `pasticceria-boccione`: no email found
+- `antico-forno-del-ghetto`: no email found
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -339,6 +342,154 @@ directly, per his request this round:**
   street). Phone: 06 6785753. No website, no email found anywhere —
   Facebook page only (facebook.com/GlovesAlbertaRoma). A rare, dying
   trade — strong personal-story potential.
+
+**Centro storico leads found 2026-08-28** (sourced from the official Albo
+Botteghe Storiche di Roma Capitale registry, comune.roma.it: 204
+Municipio-I-and-around historic shops, only a fraction checked so far),
+real email confirmed, not yet built:
+- **Vetrate d'Arte Giuliani** (stained glass/vetrate d'arte, dal 1900),
+  Via Garibaldi 55/A, Trastevere. Site (vetrategiuliani.com) returned
+  HTTP 503 at check time, effectively down. Email: info@vetrategiuliani.com.
+  Phone: 06 5809051.
+- **Cartoleria/Tabaccheria F.lli Benincampi** (dal 1950s), Piazza
+  Navona 75. Own site (navonainfiore.com) confirmed dated/basic (cluttered,
+  unclear hierarchy, early-2010s template). Email:
+  tabaccheriabenincampi@gmail.com. Phone: 06 6861509. Prime location,
+  strong family-history angle.
+- **Roccas Cartoleria / Cartolerie Internazionali** (dal 1896), Via
+  Arenula 85. Own site (cartolerieinternazionali.it) confirmed dated/basic
+  (placeholder slider, static feel). Email: info@incartoleria.it. Phone:
+  06 68801050. Historic Roman-Jewish family business, four generations.
+- **Antica Erboristeria Romana** (dal 1752), Via di Torre Argentina 15.
+  Own site (anticaerboristeriaromana.it) confirmed severely dated (GIF
+  graphics, broken character encoding, no responsive layout). Email
+  info@anticaerboristeriaromana.it found via search snippet, not yet
+  re-confirmed on the site itself, verify by phone before relying on it,
+  same caveat as Antica Stamperia Trevi's packaging-photo email. 350
+  medicinal plants on site, one of Rome's oldest herbalists.
+- **Bottega Mortet** (laboratorio di cesellatore/engraver, dal 1890),
+  Via dei Portoghesi 18. Own site (bottegamortet.com) confirmed dated
+  (early-2000s HTML, GIF navigation, no responsive layout). Email:
+  info@bottegamortet.com (also andreamortet@gmail.com,
+  dantemortet@hotmail.it). Five generations, current owner Dante Mortet
+  is a known sculptor (the "Mano Artigiana" project), rich personal-story
+  material.
+- **Bordi Belle Arti** (colori, vernici, belle arti, art-supply shop,
+  "Bottega Storica Eccellenza"), Via dello Statuto 47-49. Site is a
+  **Blogspot blog** (bordibellearti.blogspot.com, returned HTTP 503 on
+  this check, re-verify when reachable, but a Blogspot address is itself
+  a strong bad-website signal). Email: bordi.bellearti@libero.it. Phone:
+  06 44700346.
+- **Coltelleria Daniela Prezioso** (coltelleria/chincaglieria, dal 1870),
+  Via Carlo Alberto 41-41a, Esquilino. Own site
+  (coltelleriadanielaprezioso.com) confirmed dated (basic WordPress
+  template, uninspired layout). Email info@danielaprezioso.com found via
+  a Turismo Roma listing, not yet re-confirmed directly on the site,
+  verify by phone before relying on it. Phone: 06 4465797.
+- **Libreria Tombolini** (antiquarian bookshop, dal 1874), Via Quattro
+  Novembre 146. Domain (libreriatombolini.it) does not resolve at all
+  (DNS failure), effectively no working site, same as Ombrelli Domizio's
+  broken domain. Email: libreria.tombolini@iol.it. Phone: 06 6795719.
+  30,000 titles, historic humanities/philosophy specialist.
+- **C.E.R. Tutto per la Ceramica** (ceramics supplies + school, dal 1966),
+  near the Colosseum. Site is a bare WordPress.com blog template with
+  duplicated posts, no custom branding. Email confirmed on-page:
+  cer.annamaria@gmail.com. Oldest ceramics workshop/school in Rome,
+  supplies sculptors and ceramicists.
+- **Libreria Minerva** (neighborhood bookshop, dal 1923), Piazza Fiume
+  57 (Municipio II, just outside centro storico but genuinely central).
+  Site (minervalibreria.it, redirects to shop.minervalibreria.it) is
+  **broken**: visible unrendered template code ("<!--#4DTEXT...", "Error
+  # 59"), legacy 1990s-2000s server tech. One of the worst sites found
+  so far. Email: info@minervalibreria.it.
+- **Antica Tipografia** (printer, dal 1876), Corso del Rinascimento 24,
+  a Piazza Navona. Own site (anticatipografia.it) confirmed dated/basic
+  (minimal styling, low-res images, no contemporary refinement). Email:
+  info@anticatipografia.it.
+
+**Pivoted to historic trattorie/osterie** (also on the same registry,
+Esercizi Commerciali section), much higher hit rate than scattered
+artisan trades:
+- **Trattoria Da Lucia** (dal 1938, Trastevere), Vicolo del Mattonato
+  2B. Domain (trattoriadalucia.com) does not resolve, no working site.
+  Doesn't accept card payments either, a strong low-digital-investment
+  signal. Email: dalucia1938@gmail.com. Phone: 06 5803601.
+- **Trattoria Der Pallaro** (fixed-menu Roman trattoria, Campo de' Fiori
+  area), Largo del Pallaro 15. Site (trattoriaderpallaro.it) returned
+  HTTP 503 on every check this session, re-verify when reachable.
+  Email: info@trattoriaderpallaro.com. Phone: 06 6880 1488.
+- **Il Pastarellaro**, Via di San Crisogono 33, Trastevere. No
+  independent site found anywhere. Email: ilpastarellaro@libero.it.
+  Phone: 06 5810871.
+- **Trattoria La Piccola Cuccagna**, Via della Cuccagna 14, near Piazza
+  Navona. No independent site found anywhere. Email:
+  lapiccolacuccagna@gmail.com. Phone: 06 6861920.
+- **Ristorante Panzirone** (dal 1914), Piazza Navona 73. Domain
+  (panzirone.it) does not resolve, no working site. Email
+  info@panzirone.it found via search but **the domain being dead means
+  this address may not deliver either, verify by phone before relying
+  on it**, same caution as Antica Erboristeria Romana/Coltelleria
+  Prezioso. Phone: 06 68134054.
+- **Cantina Cantarini** (Roman/Marchigiana trattoria, dal decades),
+  Piazza Sallustio 12. Own site (ristorantecantinacantarini.it)
+  confirmed dated/basic (non-functional login form, generic imagery,
+  mid-2010s layout). Email is a personal Gmail used as the business
+  contact (santinafattori1964@gmail.com), another sign of no real
+  digital presence. Phone: 06 4743341.
+
+**Checked and skipped this round** (already professional, closed/
+bankrupt, or no email found): Hostaria Da Cesare (Michelin-selected,
+modern site), Pasticceria Dagnino (site check inconclusive, JS-heavy),
+Bar Capriotti (not found/likely closed), Antica Osteria Da Giovanni
+(ambiguous match, no email), Ristorante Il CIAK (dal 1907, Trastevere,
+no site/email found, phone only, remarkable cinema-memorabilia decor,
+worth a phone-first approach later), Ristorante Da Dante (has a site,
+no email found), Bar Lo Zodiaco (bankrupt/closed since 2020), Bar del
+Fico (clearly modern, well-marketed, multiple domains), Ristorante
+George's (email address was redacted in search results, ownership
+seizure news suggests uncertain status), Ristorante Il Matriciano,
+Pizzeria Dal Bersagliere (no email found), Ristorante Da Pierluigi
+(upscale, modern site), CIN CIN BAR (modern-sounding dedicated domain,
+no email found), Antica Birreria Peroni (dal 1906, professional site).
+
+**Checked and skipped, older round** (already have a modern/professional
+site, or the only channel found is phone/social, not email, logged so
+they aren't re-searched blind): Catello D'Auria (guanti, Squarespace site,
+decent), Antica Libreria Cascianelli (Gucci Places partner, clearly
+well-presented), Leone Limentani (polished luxury e-commerce site),
+Boccanera (calzature, Testaccio, no site or email found, phone only:
+06 5756804), Ottica Spiezia (Via del Babuino, "the Pope's optician,"
+remarkable story, no site or email found, phone only: 06 3610593),
+Gallinelli Alessandro (falegnameria, Via Zara, no site or email found,
+phone only: 06 4402219), Onorati Dolciumi (Corso del Rinascimento,
+professional-enough site), Stilo Fetti (Montblanc/Parker dealer, modern
+e-commerce site), Tebro Biancheria (modern professional site), Antica
+Coltelleria Zoppo (via Merulana, Instagram-primary, @anticacoltelleria.zoppo,
+no clear standalone site/email confirmed, worth a closer look later),
+Domus (calzature/pelletteria, Via Belsiana, no independent site or
+email found), Gardino/Cravanzola (decorazioni cavalleresche, Via del
+Corso, has an institutional + e-commerce site, gardino.it, likely
+already professional, site was down/503 at check time so not fully
+confirmed either way), Barberini Stefano (pellami, Via Collina, a
+Google Business auto-page, no email confirmed), Sermoneta Enrica
+(merceria/haberdashery, Via dei Due Macelli, no site or email found,
+phone-only), Bedetti (orologi/preziosi, Piazza San Silvestro,
+authorized Rolex dealer, certainly a professional site), Ferramenta
+Sorelle Bassano (Municipio II, only a PEC certified-mail address found,
+not a normal inbox, and no site), Profumeria Bertozzini (site blocked
+automated fetch, HTTP 403, unresolved either way), Cartoleria Pantheon
+(dal 1910, Piazza Navona, site blocked automated fetch, HTTP 403, no
+email found in search, unresolved either way), Bottega del Marmoraro
+(marble plaques, Via Margutta, no site or email found, Facebook/phone
+only), Ercoli Cornici (skip, cornici category overlap already covered).
+
+**Second registry checked**: "Albo Negozi Storici di Eccellenza di
+Roma Capitale" (settembre 2025 edition, comune.roma.it) pulled and
+read. Mostly overlaps businesses already covered above (Tebro, Bordi
+Belle Arti, Camiceria Bazzocchi, Bottega Mortet, Gioielleria Lefèvre).
+One new name, Bedetti, already checked and skipped above (see list).
+Not a big additional source, worth returning to the original 204-shop
+registry's remaining ~80 unchecked Municipio-I entries instead.
 - **Amenio Raponi** (luthier/liutaio) — Via della Magliana Nuova 196.
   Phone: 06 55268600 / cell 339 8675177. Real site has an excellent
   photo portfolio (guitars, violins, mandolas, a hurdy-gurdy
@@ -413,18 +564,14 @@ the same session (no usable contact channel — see note above) — it is
 1. **Nikolai to send the 4 DM messages** (Barbagianni, Monego Pigneto,
    Da Carlone, Tanto pè Magnà) — Claude cannot send Instagram DMs.
    Screenshots + exact text are ready in each `_lead.md`.
-2. **Nikolai to call/WhatsApp the phone-only clients**: La Casa sugli
-   Alberi (landline), A Testaccio da Max (WhatsApp) — drafts ready in
-   each `_lead.md`.
 3. **Nikolai to work the 4 no-email leads found but not built** (see
    "No-email leads found, not built" above): Ombrelli Domizio,
    Gioielleria Marcelli, Gloves Alberta, Amenio Raponi. Find an
    Instagram/email or call directly — once a channel exists, a future
    session can build the demo.
-4. Real photos still wanted for Monego Pigneto, A Testaccio da Max, La
-   Casa sugli Alberi — automated routes exhausted and documented; next
-   progress needs a screenshot from Nikolai (Instagram) or from someone
-   who can load Tripadvisor.
+4. Real photos still wanted for Monego Pigneto — automated routes
+   exhausted and documented; next progress needs a screenshot from
+   Nikolai (Instagram).
 5. **Next session: a new session should re-check all 11 silent threads
    first** (`get_thread` on the Gmail message IDs in each `_lead.md`)
    before doing anything else — a reply may change what's worth building
@@ -469,68 +616,79 @@ genuinely in the centro storico, a neighborhood underrepresented until
 now (only `antica-legatoria-del-vico` was properly centro before this
 round). All 5 were then built as full demos (real branding/photos, see
 `_lead.md` in each client folder for exact sourcing and per-client
-notes):
+notes). 3 of the 5 (Pasticceria Boccione, Antico Forno del Ghetto,
+Franchi Argentieri) were dropped 2026-08-28, no email found for any of
+the three, see "Leads not being pursued" near the top of this file. The
+2 still live:
 
 | Business | Sector | Address | Mood | Site status found |
 |---|---|---|---|---|
-| `pasticceria-boccione` (Forno Boccione) | forno/pasticceria kosher, dal ~1770 | Via del Portico d'Ottavia 1, Ghetto | vintage | no website; real Instagram found on a second pass, @pasticceria.boccione |
-| `antico-forno-del-ghetto` (Urbani) | forno/panificio kosher, dal 1927 | Piazza Costaguti 30-32, Ghetto | vintage | no website; real Facebook page found on a second pass (name match, content unverified); also genuinely photo-poor (only 1 real photo found after checking 8+ sources) |
 | `antica-stamperia-trevi` | stamperia/tipografia, dal 1780 (la più antica d'Europa) | Via dell'Umiltà 84/85, Trevi | editorial | no independent website; real email found printed on packaging in a press photo, not via search, verify by phone before relying on it |
-| `franchi-argentieri` | argenteria/oreficeria, dal 1944 | Via di Tor di Nona 60, Navona | boutique | has own site (franchiargentieri.it) but dated (jQuery 1.7.1, IE6/8 compat, circa 2010-2012); no email, phone/WhatsApp/Instagram only |
 | `camiceria-bazzocchi` | camiceria su misura, dal 1907 | Via del Tritone 141, Trevi | boutique | has own site (camiceriabazzocchi.it) but dated WordPress template; email verified |
 
-Two of the five (Franchi Argentieri, Antica Stamperia Trevi) needed a
-logo **redesigned** from a real mark that didn't crop cleanly: a bear
-emblem fused into the wordmark, and a blurry photographed wax-seal,
-following `branding-extraction.md`'s process, not a straight crop, not
-initials. Camiceria Bazzocchi's logo *did* crop cleanly (top-hat + "B"
-portion of their wordmark). Boccione and Antico Forno del Ghetto have no
-findable logo at all, a legitimate text-initials fallback for both.
+Antica Stamperia Trevi needed a logo **redesigned** from a real mark
+that didn't crop cleanly (a blurry photographed wax-seal), following
+`branding-extraction.md`'s process, not a straight crop, not initials.
+Camiceria Bazzocchi's logo *did* crop cleanly (top-hat + "B" portion of
+their wordmark).
 
 This round also caught and fixed a real template bug: a client with no
-real "about" photo available (`antico-forno-del-ghetto`) exposed that
-`about.image: ""` left a blank half-column gap in the default two-column
-layout. Fixed in the shared template (`template/css/style.css`, a
-`:has(> img.hidden)` rule collapsing to one centered column) and
-propagated to all 23 clients, inert for everyone else since no other
-client currently omits the about image.
+real "about" photo available exposed that `about.image: ""` left a
+blank half-column gap in the default two-column layout. Fixed in the
+shared template (`template/css/style.css`, a `:has(> img.hidden)` rule
+collapsing to one centered column) and propagated to all clients, inert
+for everyone else since no other client currently omits the about image.
 
 One false positive checked and dropped: **Antica Barberia Peppino**
 (Via della Vite, Colonna) turned out to have a genuinely modern,
 professional, mobile-responsive site (anticabarberia.it, 2023 copyright).
 Not a lead, don't reconsider without a fresh site check.
 
-**Mood iteration on the two Ghetto clients.** Boccione and Antico Forno
-del Ghetto started on "rustic," then got their own dedicated "imperial"
-mood (Trajan-style capitals, Roman numerals, marble-plaque photo
-framing), then that was scrapped same day on feedback: Roman-imperial
-iconography doesn't fit two Jewish Ghetto institutions, and it read cold
-rather than dignified. Renamed to "vintage" and rebuilt around 1920s to
-1960s Italian shop-packaging character instead: a warm rounded display
-serif (Yeseva One), a market-placard price list with a dashed rule and a
-rounded price-tag badge, and photos framed like an old family print
-(white border, sepia toning that clears to full color on hover). Both
-clients now use "vintage." See the mood system section in
-`.claude/skills/professional-web-design/SKILL.md` for the general rule
-this produced: match the mood to the business's actual heritage, not
-just "it's old."
+## Round 10 (2026-08-28): 5 trattorie sourced, 3 built, 2 held back
 
-**Channel-check correction.** Boccione and Antico Forno del Ghetto were
-first reported as phone-only. A targeted Instagram/Facebook search
-(which should have happened before calling either lead finished, see
-CLAUDE.md) found a real Instagram for Boccione (@pasticceria.boccione)
-and a real Facebook page name-matched to Antico Forno del Ghetto.
-Neither is phone-only anymore; Claude still cannot send Instagram DMs
-or Facebook messages, so outreach on those two channels is Nikolai's to
-send.
+5 leads were scaffolded this round: `trattoria-der-pallaro`,
+`il-pastarellaro`, `la-piccola-cuccagna`, `ristorante-panzirone`,
+`cantina-cantarini`. Checking each before building (per the standing
+rule of verifying, not assuming, before treating a lead as ready) turned
+up two that aren't valid leads as originally picked:
 
-Sector note: two Ghetto bakeries, a printer, a silversmith, and a shirt
-maker is good diversity (no overlap with existing cappelleria/legatoria/
-corniciaio/restauro-mobili/tappezziere/fabbro roster). The two Ghetto
-forni are especially strong material, both are among the
-most-written-about historic food spots in Rome, which means real press
-photos should be findable per `branding-extraction.md` before falling
-back to anything else.
+- **`trattoria-der-pallaro`, dropped, false positive.** The domain
+  first found (trattoriaderpallaro.it) is dead (503), but the business
+  actually runs a different, current domain (`derpallaro.it`): a
+  genuinely modern WordPress/Divi site with online booking, recent
+  (2025) photo uploads, mobile-responsive. Same pattern as Antica
+  Barberia Peppino in Round 9, already has a good site under a domain
+  the first search missed. Folder removed from the repo.
+- **`il-pastarellaro`, held back, not dropped.** Strong but not
+  airtight signals the historic business (Via di San Crisogono 33, dal
+  1952) is closed: near-bottom Tripadvisor ranking, most recent review
+  from 2019, a restaurant-listing site's own status marking it closed.
+  A *different-named* business ("Pastarellaro Di Severino") shows up at
+  the same address with a more recent (March 2025) listing update and a
+  different phone number, which could be a rename/succession or could
+  be aggregator confusion. Scaffold kept (not deleted) but deliberately
+  **not built**: `config.js` still the unedited template, with a
+  comment pointing to `_lead.md`, pending a phone call to confirm
+  which, if either, name is currently operating there. See
+  `clients/il-pastarellaro/_lead.md` for the full reasoning and what
+  would resolve it.
+
+The remaining 3 were built as full demos, all mood `rustic` (family
+trattorie/hostarie, consistent with `da-carlone`/`tanto-pe-magna`):
+
+| Business | Address | Site status found | Real photos |
+|---|---|---|---|
+| `cantina-cantarini` | Piazza Sallustio 12 | has own site, but a 2014-era CMS build with no real mobile layout | yes: logo, hero, and all gallery/about photos pulled directly from their own site (one cross-verified via a 2019 press feature); 2 newer photos on their site rejected as likely stock (EXIF timestamp matches upload time exactly, one dish isn't even on their menu) |
+| `ristorante-panzirone` | Piazza Navona 73 | historic domain (panzirone.it) is dead; a `.shop` site claiming to be theirs reads as AI-generated/placeholder, not used for anything | yes: all 4 photos real, sourced from piatti.menu and identified by a distinctive checkered tablecloth matching independent review mentions; no real logo found anywhere, used text initials rather than guess at a redesign |
+| `la-piccola-cuccagna` | Via della Cuccagna 14 | no website ever existed; real Instagram (35K followers) and Facebook confirmed | partial: 2 real photos (their own menu board, clearly branded) used for about/gallery; hero is disclosed stock, chosen to match the real checkered tablecloth seen in the real photos, after piatti.menu's photos for this specific listing turned out to be mismatched to other restaurants (a real data-quality issue on the aggregator, confirmed by checking pixel content against the metadata tag) |
+
+`ristorante-panzirone` carries an open question worth flagging before
+outreach: a second, similarly-named business ("Antica Trattoria
+Panzirone") is listed one door down (Piazza Navona 72 vs. 73). Not
+used as a source for anything here, to avoid misattributing branding,
+but worth a quick phone confirmation before sending the demo. Full
+detail in each client's `_lead.md`. No outreach drafted or sent for any
+of the 3 built demos yet this round.
 
 ## Structure
 
