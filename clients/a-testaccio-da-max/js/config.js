@@ -21,6 +21,7 @@ const SITE_CONFIG = {
     accent: "#2f3a2a",
     font: "'Poppins', sans-serif",
     headingFont: "'Cormorant Garamond', serif",
+    mood: "boutique",
   },
 
   hero: {

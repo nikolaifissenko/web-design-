@@ -40,6 +40,7 @@ const SITE_CONFIG = {
     primary: "#8a1f1f",
     accent: "#b0a14e",
     font: "'Playfair Display', serif",
+    mood: "editorial",
   },
 
   hero: {

@@ -37,6 +37,7 @@ const SITE_CONFIG = {
     primary: "#3a9ca3",
     accent: "#242220",
     font: "'Poppins', sans-serif",
+    mood: "bold",
   },
 
   hero: {
