@@ -22,24 +22,23 @@ Below is the current standard opening in both languages.
 
 Buongiorno, sono Nikolai, web designer freelance qui a Roma.
 
-[1-2 frasi sul problema specifico riscontrato sul loro sito attuale — es.
+[1-2 frasi sul problema specifico riscontrato sul loro sito attuale. Es.
 non si carica da telefono, è fermo a 10 anni fa, contiene ancora testo
-segnaposto, ecc. — con un fatto concreto e verificabile, non un giudizio
+segnaposto, ecc. Un fatto concreto e verificabile, non un giudizio
 generico.]
 
 Le ho preparato gratuitamente una versione nuova, con le vostre vere foto,
 per farle vedere concretamente cosa potrei fare per [Nome Attività]:
 
-👉 [demo URL]
+[demo URL]
 
-Nessun obbligo — se il risultato le piace, sarei felice di completarlo e
-portarlo online per voi (500€, con hosting e gestione social disponibili
-come opzione mensile se interessa). Resto a disposizione per qualsiasi
-domanda o per un parere sincero.
+Nessun obbligo. Se il risultato le piace, ne parliamo con piacere. Resto
+a disposizione per qualsiasi domanda, anche solo per un parere sincero,
+o mi può chiamare direttamente.
 
 Grazie mille per il suo tempo,
 Nikolai
-[telefono / Instagram]
+349 101 6416
 
 ---
 
@@ -53,33 +52,38 @@ site.]
 I put together a free demo for [Business Name], with your real photos, to
 show you exactly what I could do:
 
-👉 [demo URL]
+[demo URL]
 
-No obligation — if you like it, I'd be happy to finish it and take it
-live on your own domain for **€500** (one-time), with optional hosting +
-monthly social media management from there. Happy to answer any
-questions, or just hear your honest take.
+No obligation. If you like it, happy to discuss next steps. Happy to
+answer any questions, hear your honest take, or you can just call me
+directly.
 
 Thanks for your time,
-[Your Name]
-[Your Phone / Instagram]
+Nikolai
+349 101 6416 (also WhatsApp)
 
 ---
 
 ## Notes
 
-- **State the role, then move on — no beginner framing, no justification
+- **State the role, then move on, no beginner framing, no justification
   clause either** (see persona note above). "Sono Nikolai, web designer
   freelance qui a Roma." Full stop, straight into the specific observation
   about their site. Not a vague "I noticed your site could be better."
-- Lead with the live link, not a pitch — most owners will click before reading.
+- Lead with the live link, not a pitch. Most owners will click before reading.
+- **No emoji before the link or anywhere else in the email** (updated
+  2026-08-28, Nikolai's call: he's a professional, the email should read
+  like one). Just the bare URL on its own line.
+- **Always sign off with the real phone number, 349 101 6416**, not a
+  placeholder, so the recipient can call instead of replying if that's
+  easier for them.
 - If no reply in ~4-5 days, one polite follow-up, then move on.
 - **For Instagram/Facebook DM outreach specifically: attach a screenshot of
   the demo, don't rely on a bare link.** A link alone often doesn't preview
   in a DM, so the recipient sees a paste of text and no idea what it points
   to. Screenshot the live demo (Playwright against the local `index.html`
-  works reliably in this environment — going straight at the live GitHub
+  works reliably in this environment; going straight at the live GitHub
   Pages URL can hit proxy/network issues; see any `clients/<slug>/screenshots/`
   folder for a worked example) and say explicitly in the message *"nell'immagine
-  ho fatto una demo di come potrebbe venire il sito"* before the link — the
+  ho fatto una demo di come potrebbe venire il sito"* before the link. The
   image is the pitch, the link is just for them to click through afterward.
