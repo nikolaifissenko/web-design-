@@ -8,7 +8,7 @@
 - **Sources:** bed-and-breakfast.it (name, address). Fetched the live site directly (homepage + CSS) to confirm quality and pull real brand colors/photos.
 - **Status:** outreach-sent (email sent 2026-08-26 to info@romatrasteverina.com — Gmail message ID `1a03c2b8e605caaf`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/roma-trasteverina/
-- **Response:** no reply yet (re-checked 2026-08-28, ~52h after sending)
+- **Response:** no reply yet (re-checked 2026-08-28, ~56h after sending)
 - **Sold:** no
 - **Notes:**
   - **Real photos used, not stock.** Downloaded directly from their own site (`images/slide2_en.jpg`, `slide3_en.jpg`, `rooms_en.jpg`, `location_en.jpg`) and cropped to remove the "Comfort & Relax at Rome" / "Rooms" / "Location" caption bars baked into the originals. These are the actual blue room, orange room, and a real night shot of the Tiber near their location.
