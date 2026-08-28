@@ -342,6 +342,42 @@ directly, per his request this round:**
   street). Phone: 06 6785753. No website, no email found anywhere —
   Facebook page only (facebook.com/GlovesAlbertaRoma). A rare, dying
   trade — strong personal-story potential.
+
+**Centro storico leads found 2026-08-28 (sourced from the official Albo
+Botteghe Storiche di Roma Capitale registry, comune.roma.it — 204
+Municipio-I-and-around historic shops; only a fraction checked so far),
+real email confirmed, not yet built:**
+- **Vetrate d'Arte Giuliani** (stained glass/vetrate d'arte, dal 1900) —
+  Via Garibaldi 55/A, Trastevere. Site (vetrategiuliani.com) returned
+  HTTP 503 at check time, effectively down. Email: info@vetrategiuliani.com.
+  Phone: 06 5809051.
+- **Cartoleria/Tabaccheria F.lli Benincampi** (dal 1950s) — Piazza
+  Navona 75. Own site (navonainfiore.com) confirmed dated/basic (cluttered,
+  unclear hierarchy, early-2010s template). Email:
+  tabaccheriabenincampi@gmail.com. Phone: 06 6861509. Prime location,
+  strong family-history angle.
+- **Roccas Cartoleria / Cartolerie Internazionali** (dal 1896) — Via
+  Arenula 85. Own site (cartolerieinternazionali.it) confirmed dated/basic
+  (placeholder slider, static feel). Email: info@incartoleria.it. Phone:
+  06 68801050. Historic Roman-Jewish family business, four generations.
+- **Antica Erboristeria Romana** (dal 1752) — Via di Torre Argentina 15.
+  Own site (anticaerboristeriaromana.it) confirmed severely dated (GIF
+  graphics, broken character encoding, no responsive layout). Email
+  info@anticaerboristeriaromana.it found via search snippet, not yet
+  re-confirmed on the site itself — verify by phone before relying on it,
+  same caveat as Antica Stamperia Trevi's packaging-photo email. 350
+  medicinal plants on site, one of Rome's oldest herbalists.
+
+**Checked and skipped this round** (already have a modern/professional
+site, or the only channel found is phone/social, not email — logged so
+they aren't re-searched blind): Catello D'Auria (guanti, Squarespace site,
+decent), Antica Libreria Cascianelli (Gucci Places partner, clearly
+well-presented), Leone Limentani (polished luxury e-commerce site),
+Boccanera (calzature, Testaccio — no site or email found, phone only:
+06 5756804), Ottica Spiezia (Via del Babuino — "the Pope's optician,"
+remarkable story, no site or email found, phone only: 06 3610593),
+Gallinelli Alessandro (falegnameria, Via Zara — no site or email found,
+phone only: 06 4402219).
 - **Amenio Raponi** (luthier/liutaio) — Via della Magliana Nuova 196.
   Phone: 06 55268600 / cell 339 8675177. Real site has an excellent
   photo portfolio (guitars, violins, mandolas, a hurdy-gurdy
