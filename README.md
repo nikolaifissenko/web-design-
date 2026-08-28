@@ -407,7 +407,52 @@ real email confirmed, not yet built:**
   (minimal styling, low-res images, no contemporary refinement). Email:
   info@anticatipografia.it.
 
-**Checked and skipped this round** (already have a modern/professional
+**Pivoted to historic trattorie/osterie (also on the same registry,
+Esercizi Commerciali section) — much higher hit rate than scattered
+artisan trades:**
+- **Trattoria Da Lucia** (dal 1938, Trastevere) — Vicolo del Mattonato
+  2B. Domain (trattoriadalucia.com) does not resolve — no working site.
+  Doesn't accept card payments either, a strong low-digital-investment
+  signal. Email: dalucia1938@gmail.com. Phone: 06 5803601.
+- **Trattoria Der Pallaro** (fixed-menu Roman trattoria, Campo de' Fiori
+  area) — Largo del Pallaro 15. Site (trattoriaderpallaro.it) returned
+  HTTP 503 on every check this session — re-verify when reachable.
+  Email: info@trattoriaderpallaro.com. Phone: 06 6880 1488.
+- **Il Pastarellaro** — Via di San Crisogono 33, Trastevere. No
+  independent site found anywhere. Email: ilpastarellaro@libero.it.
+  Phone: 06 5810871.
+- **Trattoria La Piccola Cuccagna** — Via della Cuccagna 14, near Piazza
+  Navona. No independent site found anywhere. Email:
+  lapiccolacuccagna@gmail.com. Phone: 06 6861920.
+- **Ristorante Panzirone** (dal 1914) — Piazza Navona 73. Domain
+  (panzirone.it) does not resolve — no working site. Email
+  info@panzirone.it found via search but **the domain being dead means
+  this address may not deliver either — verify by phone before relying
+  on it**, same caution as Antica Erboristeria Romana/Coltelleria
+  Prezioso. Phone: 06 68134054.
+- **Cantina Cantarini** (Roman/Marchigiana trattoria, dal decades) —
+  Piazza Sallustio 12. Own site (ristorantecantinacantarini.it)
+  confirmed dated/basic (non-functional login form, generic imagery,
+  mid-2010s layout). Email is a personal Gmail used as the business
+  contact (santinafattori1964@gmail.com), another no-real-digital-
+  presence signal. Phone: 06 4743341.
+
+**Checked and skipped this round** (already professional, closed/
+bankrupt, or no email found): Hostaria Da Cesare (Michelin-selected,
+modern site), Pasticceria Dagnino (site check inconclusive, JS-heavy),
+Bar Capriotti (not found/likely closed), Antica Osteria Da Giovanni
+(ambiguous match, no email), Ristorante Il CIAK (dal 1907, Trastevere —
+no site/email found, phone only, remarkable cinema-memorabilia decor,
+worth a phone-first approach later), Ristorante Da Dante (has a site,
+no email found), Bar Lo Zodiaco (bankrupt/closed since 2020), Bar del
+Fico (clearly modern, well-marketed, multiple domains), Ristorante
+George's (email address was redacted in search results, ownership
+seizure news suggests uncertain status), Ristorante Il Matriciano,
+Pizzeria Dal Bersagliere (no email found), Ristorante Da Pierluigi
+(upscale, modern site), CIN CIN BAR (modern-sounding dedicated domain,
+no email found), Antica Birreria Peroni (dal 1906, professional site).
+
+**Checked and skipped, older round** (already have a modern/professional
 site, or the only channel found is phone/social, not email — logged so
 they aren't re-searched blind): Catello D'Auria (guanti, Squarespace site,
 decent), Antica Libreria Cascianelli (Gucci Places partner, clearly
