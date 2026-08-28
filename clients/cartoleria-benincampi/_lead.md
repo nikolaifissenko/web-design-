@@ -17,7 +17,7 @@
   le pagine navonainfiore.com/the-shop e /cartoleria fetchate
   direttamente per storia, contatti e foto.
 - **Status:** demo-built
-- **Demo URL:**
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cartoleria-benincampi/
 - **Sold:** no
 - **Notes:**
   - Bottega di famiglia dai primi anni Cinquanta in Piazza Navona,

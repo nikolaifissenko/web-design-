@@ -9,7 +9,7 @@
 - **Email:** santinafattori1964@gmail.com, found printed in the footer of their own site, not invented.
 - **Sources:** their own site (address, phone, hours, email, real logo, real food photos), Touring Club Italiano and Turismo Roma (history: founded 1903 by Mariano Cantarini), camillabaresani.com (2019 feature article with a real exterior photo of the storefront in Piazza Sallustio).
 - **Status:** demo-built
-- **Demo URL:** (not yet deployed this round)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cantina-cantarini/
 - **Sold:** no
 - **Notes:**
   - Real branding used throughout, no stock. Logo: cropped directly from their own site's logo image (the engraved-fish medallion, left portion of a 400x120 wordmark). A clean crop, not a redesign, since the icon itself is already roughly square.

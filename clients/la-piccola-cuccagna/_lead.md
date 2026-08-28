@@ -9,7 +9,7 @@
 - **Email:** lapiccolacuccagna@gmail.com (confirmed across multiple independent listing sources)
 - **Sources:** Turismo Roma, restaurant aggregator listings (address/phone/email cross-confirmed across Yelp, Tripadvisor listings, Sluurpy), piatti.menu (2 real photos with visible signage, see notes), independent web search for reviews/history (Hostaria dal 1950).
 - **Status:** demo-built
-- **Demo URL:** (not yet deployed this round)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/la-piccola-cuccagna/
 - **Sold:** no
 - **Notes:**
   - No website exists (checked directly, not just assumed from a bad site). Real contact channels are Instagram (35K followers, active), Facebook, phone, and a confirmed email, so this satisfies the "real contact channel" requirement without relying on phone alone.

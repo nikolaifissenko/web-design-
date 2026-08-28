@@ -15,7 +15,7 @@
   instagram/facebook"), poi cartolerieinternazionali.it fetchato
   direttamente per storia, contatti, foto e loghi.
 - **Status:** demo-built
-- **Demo URL:**
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/roccas-cartoleria/
 - **Sold:** no
 - **Notes:**
   - **Nome:** il negozio storico si chiama "Cartoleria Roccas" (fondata

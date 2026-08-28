@@ -16,7 +16,7 @@
   fetchato direttamente (home + il-negozio) per storia, contatti, orari
   e foto.
 - **Status:** demo-built
-- **Demo URL:**
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/coltelleria-prezioso/
 - **Sold:** no
 - **Notes:**
   - Bottega storica dal 1870, iscritta nell'elenco delle Botteghe di
