@@ -391,6 +391,17 @@ real email confirmed, not yet built:**
   (DNS failure) — effectively no working site, same as Ombrelli Domizio's
   broken domain. Email: libreria.tombolini@iol.it. Phone: 06 6795719.
   30,000 titles, historic humanities/philosophy specialist.
+- **C.E.R. Tutto per la Ceramica** (ceramics supplies + school, dal 1966)
+  — near the Colosseum. Site is a bare WordPress.com blog template with
+  duplicated posts, no custom branding. Email confirmed on-page:
+  cer.annamaria@gmail.com. Oldest ceramics workshop/school in Rome,
+  supplies sculptors and ceramicists.
+- **Libreria Minerva** (neighborhood bookshop, dal 1923) — Piazza Fiume
+  57 (Municipio II, just outside centro storico but genuinely central).
+  Site (minervalibreria.it → shop.minervalibreria.it) is **broken**:
+  visible unrendered template code ("<!--#4DTEXT...", "Error # 59"),
+  legacy 1990s-2000s server tech. One of the worst sites found so far.
+  Email: info@minervalibreria.it.
 
 **Checked and skipped this round** (already have a modern/professional
 site, or the only channel found is phone/social, not email — logged so
@@ -411,14 +422,21 @@ email found), Gardino/Cravanzola (decorazioni cavalleresche, Via del
 Corso — has an institutional + e-commerce site, gardino.it, likely
 already professional, site was down/503 at check time so not fully
 confirmed either way), Barberini Stefano (pellami, Via Collina — a
-Google Business auto-page, no email confirmed).
+Google Business auto-page, no email confirmed), Sermoneta Enrica
+(merceria/haberdashery, Via dei Due Macelli — no site or email found,
+phone-only), Bedetti (orologi/preziosi, Piazza San Silvestro —
+authorized Rolex dealer, certainly a professional site), Ferramenta
+Sorelle Bassano (Municipio II, only a PEC certified-mail address found,
+not a normal inbox, and no site), Profumeria Bertozzini (site blocked
+automated fetch, HTTP 403, unresolved either way).
 
-**Also found: a second, more recent registry** — "Albo Negozi Storici di
-Eccellenza di Roma Capitale" (settembre 2025 edition,
-comune.roma.it/web-resources/cms/documents/AlboNegoziStoriciEccellenza_settembre_2025.pdf) —
-not yet pulled or checked, a good next source alongside continuing
-through the remaining ~90 unchecked Municipio-I entries in the original
-204-shop registry.
+**Second registry checked** — "Albo Negozi Storici di Eccellenza di
+Roma Capitale" (settembre 2025 edition, comune.roma.it) pulled and
+read: mostly overlaps businesses already covered above (Tebro, Bordi
+Belle Arti, Camiceria Bazzocchi, Bottega Mortet, Gioielleria Lefèvre).
+One new name, Bedetti, already checked and skipped above (see list).
+Not a big additional source — worth returning to the original 204-shop
+registry's remaining ~80 unchecked Municipio-I entries instead.
 - **Amenio Raponi** (luthier/liutaio) — Via della Magliana Nuova 196.
   Phone: 06 55268600 / cell 339 8675177. Real site has an excellent
   photo portfolio (guitars, violins, mandolas, a hurdy-gurdy
