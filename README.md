@@ -367,6 +367,19 @@ real email confirmed, not yet built:**
   re-confirmed on the site itself — verify by phone before relying on it,
   same caveat as Antica Stamperia Trevi's packaging-photo email. 350
   medicinal plants on site, one of Rome's oldest herbalists.
+- **Bottega Mortet** (laboratorio di cesellatore/engraver, dal 1890) —
+  Via dei Portoghesi 18. Own site (bottegamortet.com) confirmed dated
+  (early-2000s HTML, GIF navigation, no responsive layout). Email:
+  info@bottegamortet.com (also andreamortet@gmail.com,
+  dantemortet@hotmail.it). Five generations, current owner Dante Mortet
+  is a known sculptor (the "Mano Artigiana" project), rich personal-story
+  material.
+- **Bordi Belle Arti** (colori, vernici, belle arti — art-supply shop,
+  "Bottega Storica Eccellenza") — Via dello Statuto 47-49. Site is a
+  **Blogspot blog** (bordibellearti.blogspot.com, returned HTTP 503 on
+  this check, re-verify when reachable, but a Blogspot address is itself
+  a strong bad-website signal). Email: bordi.bellearti@libero.it. Phone:
+  06 44700346.
 
 **Checked and skipped this round** (already have a modern/professional
 site, or the only channel found is phone/social, not email — logged so
@@ -377,7 +390,18 @@ Boccanera (calzature, Testaccio — no site or email found, phone only:
 06 5756804), Ottica Spiezia (Via del Babuino — "the Pope's optician,"
 remarkable story, no site or email found, phone only: 06 3610593),
 Gallinelli Alessandro (falegnameria, Via Zara — no site or email found,
-phone only: 06 4402219).
+phone only: 06 4402219), Onorati Dolciumi (Corso del Rinascimento,
+professional-enough site), Stilo Fetti (Montblanc/Parker dealer, modern
+e-commerce site), Tebro Biancheria (modern professional site), Antica
+Coltelleria Zoppo (via Merulana — Instagram-primary, @anticacoltelleria.zoppo,
+no clear standalone site/email confirmed, worth a closer look later).
+
+**Also found: a second, more recent registry** — "Albo Negozi Storici di
+Eccellenza di Roma Capitale" (settembre 2025 edition,
+comune.roma.it/web-resources/cms/documents/AlboNegoziStoriciEccellenza_settembre_2025.pdf) —
+not yet pulled or checked, a good next source alongside continuing
+through the remaining ~90 unchecked Municipio-I entries in the original
+204-shop registry.
 - **Amenio Raponi** (luthier/liutaio) — Via della Magliana Nuova 196.
   Phone: 06 55268600 / cell 339 8675177. Real site has an excellent
   photo portfolio (guitars, violins, mandolas, a hurdy-gurdy
