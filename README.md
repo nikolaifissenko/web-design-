@@ -380,6 +380,17 @@ real email confirmed, not yet built:**
   this check, re-verify when reachable, but a Blogspot address is itself
   a strong bad-website signal). Email: bordi.bellearti@libero.it. Phone:
   06 44700346.
+- **Coltelleria Daniela Prezioso** (coltelleria/chincaglieria, dal 1870)
+  — Via Carlo Alberto 41-41a, Esquilino. Own site
+  (coltelleriadanielaprezioso.com) confirmed dated (basic WordPress
+  template, uninspired layout). Email info@danielaprezioso.com found via
+  a Turismo Roma listing, not yet re-confirmed directly on the site —
+  verify by phone before relying on it. Phone: 06 4465797.
+- **Libreria Tombolini** (antiquarian bookshop, dal 1874) — Via Quattro
+  Novembre 146. Domain (libreriatombolini.it) does not resolve at all
+  (DNS failure) — effectively no working site, same as Ombrelli Domizio's
+  broken domain. Email: libreria.tombolini@iol.it. Phone: 06 6795719.
+  30,000 titles, historic humanities/philosophy specialist.
 
 **Checked and skipped this round** (already have a modern/professional
 site, or the only channel found is phone/social, not email — logged so
@@ -394,7 +405,13 @@ phone only: 06 4402219), Onorati Dolciumi (Corso del Rinascimento,
 professional-enough site), Stilo Fetti (Montblanc/Parker dealer, modern
 e-commerce site), Tebro Biancheria (modern professional site), Antica
 Coltelleria Zoppo (via Merulana — Instagram-primary, @anticacoltelleria.zoppo,
-no clear standalone site/email confirmed, worth a closer look later).
+no clear standalone site/email confirmed, worth a closer look later),
+Domus (calzature/pelletteria, Via Belsiana — no independent site or
+email found), Gardino/Cravanzola (decorazioni cavalleresche, Via del
+Corso — has an institutional + e-commerce site, gardino.it, likely
+already professional, site was down/503 at check time so not fully
+confirmed either way), Barberini Stefano (pellami, Via Collina — a
+Google Business auto-page, no email confirmed).
 
 **Also found: a second, more recent registry** — "Albo Negozi Storici di
 Eccellenza di Roma Capitale" (settembre 2025 edition,
