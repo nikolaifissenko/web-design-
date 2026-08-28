@@ -10,7 +10,7 @@
 - **Sources:** tintolavanderia.it/contatti/ (services, address, phone, email).
 - **Status:** outreach-sent (email sent 2026-08-26 to hevelynyuliana@hotmail.com — Gmail message ID `1a03c243dbf61044`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/tinto-lavanderia/
-- **Response:** no reply yet (re-checked 2026-08-28, ~44h after sending)
+- **Response:** no reply yet (re-checked 2026-08-28, ~52h after sending)
 - **Sold:** no
 - **Notes:**
   - Has a real email — outreach can go by email using `scripts/pitch_template.md`, referencing the upgrade from their current site.
