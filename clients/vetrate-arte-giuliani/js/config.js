@@ -1,11 +1,11 @@
-// Demo per Vetrate d'Arte Giuliani — dati verificati: indirizzo,
+// Demo per Vetrate d'Arte Giuliani. Dati verificati: indirizzo,
 // telefono, email, storia (Fondazione Cologni dei Mestieri d'Arte,
 // Turismo Roma). Sito reale (vetrategiuliani.com) risultato HTTP 503
-// (irraggiungibile) a ogni verifica in questa sessione — da riverificare,
+// (irraggiungibile) a ogni verifica in questa sessione, da riverificare,
 // ma un problema serio comunque.
 // Nessun logo reale trovato (nessuna pagina con un marchio isolabile,
 // Instagram/Facebook irraggiungibili da fetch automatico come da prassi
-// consolidata) — disegnata un'icona a rosone/vetrata (PIL, non IA
+// consolidata). Disegnata un'icona a rosone/vetrata (PIL, non IA
 // generativa d'immagine) usando i colori reali presi dalle foto vere
 // del laboratorio, non una palette inventata.
 // Foto TUTTE reali, dall'intervista Fondazione Cologni dei Mestieri

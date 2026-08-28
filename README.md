@@ -36,11 +36,11 @@ channel at all; 5 more on 2026-08-28, see "Leads not being pursued" below):
 
 **Leads not being pursued (2026-08-28, Nikolai's call, demos and lead
 files removed from the repo):**
-- `a-testaccio-da-max` — no email found
-- `la-casa-sugli-alberi` — no email found
-- `franchi-argentieri` — no email found
-- `pasticceria-boccione` — no email found
-- `antico-forno-del-ghetto` — no email found
+- `a-testaccio-da-max`: no email found
+- `la-casa-sugli-alberi`: no email found
+- `franchi-argentieri`: no email found
+- `pasticceria-boccione`: no email found
+- `antico-forno-del-ghetto`: no email found
 
 Every client's `_lead.md` has ready-to-send outreach drafts (personal-story
 angle: Nikolai as a new web designer practicing, not a sales pitch) in
@@ -343,105 +343,105 @@ directly, per his request this round:**
   Facebook page only (facebook.com/GlovesAlbertaRoma). A rare, dying
   trade — strong personal-story potential.
 
-**Centro storico leads found 2026-08-28 (sourced from the official Albo
-Botteghe Storiche di Roma Capitale registry, comune.roma.it — 204
-Municipio-I-and-around historic shops; only a fraction checked so far),
-real email confirmed, not yet built:**
-- **Vetrate d'Arte Giuliani** (stained glass/vetrate d'arte, dal 1900) —
+**Centro storico leads found 2026-08-28** (sourced from the official Albo
+Botteghe Storiche di Roma Capitale registry, comune.roma.it: 204
+Municipio-I-and-around historic shops, only a fraction checked so far),
+real email confirmed, not yet built:
+- **Vetrate d'Arte Giuliani** (stained glass/vetrate d'arte, dal 1900),
   Via Garibaldi 55/A, Trastevere. Site (vetrategiuliani.com) returned
   HTTP 503 at check time, effectively down. Email: info@vetrategiuliani.com.
   Phone: 06 5809051.
-- **Cartoleria/Tabaccheria F.lli Benincampi** (dal 1950s) — Piazza
+- **Cartoleria/Tabaccheria F.lli Benincampi** (dal 1950s), Piazza
   Navona 75. Own site (navonainfiore.com) confirmed dated/basic (cluttered,
   unclear hierarchy, early-2010s template). Email:
   tabaccheriabenincampi@gmail.com. Phone: 06 6861509. Prime location,
   strong family-history angle.
-- **Roccas Cartoleria / Cartolerie Internazionali** (dal 1896) — Via
+- **Roccas Cartoleria / Cartolerie Internazionali** (dal 1896), Via
   Arenula 85. Own site (cartolerieinternazionali.it) confirmed dated/basic
   (placeholder slider, static feel). Email: info@incartoleria.it. Phone:
   06 68801050. Historic Roman-Jewish family business, four generations.
-- **Antica Erboristeria Romana** (dal 1752) — Via di Torre Argentina 15.
+- **Antica Erboristeria Romana** (dal 1752), Via di Torre Argentina 15.
   Own site (anticaerboristeriaromana.it) confirmed severely dated (GIF
   graphics, broken character encoding, no responsive layout). Email
   info@anticaerboristeriaromana.it found via search snippet, not yet
-  re-confirmed on the site itself — verify by phone before relying on it,
+  re-confirmed on the site itself, verify by phone before relying on it,
   same caveat as Antica Stamperia Trevi's packaging-photo email. 350
   medicinal plants on site, one of Rome's oldest herbalists.
-- **Bottega Mortet** (laboratorio di cesellatore/engraver, dal 1890) —
+- **Bottega Mortet** (laboratorio di cesellatore/engraver, dal 1890),
   Via dei Portoghesi 18. Own site (bottegamortet.com) confirmed dated
   (early-2000s HTML, GIF navigation, no responsive layout). Email:
   info@bottegamortet.com (also andreamortet@gmail.com,
   dantemortet@hotmail.it). Five generations, current owner Dante Mortet
   is a known sculptor (the "Mano Artigiana" project), rich personal-story
   material.
-- **Bordi Belle Arti** (colori, vernici, belle arti — art-supply shop,
-  "Bottega Storica Eccellenza") — Via dello Statuto 47-49. Site is a
+- **Bordi Belle Arti** (colori, vernici, belle arti, art-supply shop,
+  "Bottega Storica Eccellenza"), Via dello Statuto 47-49. Site is a
   **Blogspot blog** (bordibellearti.blogspot.com, returned HTTP 503 on
   this check, re-verify when reachable, but a Blogspot address is itself
   a strong bad-website signal). Email: bordi.bellearti@libero.it. Phone:
   06 44700346.
-- **Coltelleria Daniela Prezioso** (coltelleria/chincaglieria, dal 1870)
-  — Via Carlo Alberto 41-41a, Esquilino. Own site
+- **Coltelleria Daniela Prezioso** (coltelleria/chincaglieria, dal 1870),
+  Via Carlo Alberto 41-41a, Esquilino. Own site
   (coltelleriadanielaprezioso.com) confirmed dated (basic WordPress
   template, uninspired layout). Email info@danielaprezioso.com found via
-  a Turismo Roma listing, not yet re-confirmed directly on the site —
+  a Turismo Roma listing, not yet re-confirmed directly on the site,
   verify by phone before relying on it. Phone: 06 4465797.
-- **Libreria Tombolini** (antiquarian bookshop, dal 1874) — Via Quattro
+- **Libreria Tombolini** (antiquarian bookshop, dal 1874), Via Quattro
   Novembre 146. Domain (libreriatombolini.it) does not resolve at all
-  (DNS failure) — effectively no working site, same as Ombrelli Domizio's
+  (DNS failure), effectively no working site, same as Ombrelli Domizio's
   broken domain. Email: libreria.tombolini@iol.it. Phone: 06 6795719.
   30,000 titles, historic humanities/philosophy specialist.
-- **C.E.R. Tutto per la Ceramica** (ceramics supplies + school, dal 1966)
-  — near the Colosseum. Site is a bare WordPress.com blog template with
+- **C.E.R. Tutto per la Ceramica** (ceramics supplies + school, dal 1966),
+  near the Colosseum. Site is a bare WordPress.com blog template with
   duplicated posts, no custom branding. Email confirmed on-page:
   cer.annamaria@gmail.com. Oldest ceramics workshop/school in Rome,
   supplies sculptors and ceramicists.
-- **Libreria Minerva** (neighborhood bookshop, dal 1923) — Piazza Fiume
+- **Libreria Minerva** (neighborhood bookshop, dal 1923), Piazza Fiume
   57 (Municipio II, just outside centro storico but genuinely central).
-  Site (minervalibreria.it → shop.minervalibreria.it) is **broken**:
-  visible unrendered template code ("<!--#4DTEXT...", "Error # 59"),
-  legacy 1990s-2000s server tech. One of the worst sites found so far.
-  Email: info@minervalibreria.it.
-- **Antica Tipografia** (printer, dal 1876) — Corso del Rinascimento 24,
+  Site (minervalibreria.it, redirects to shop.minervalibreria.it) is
+  **broken**: visible unrendered template code ("<!--#4DTEXT...", "Error
+  # 59"), legacy 1990s-2000s server tech. One of the worst sites found
+  so far. Email: info@minervalibreria.it.
+- **Antica Tipografia** (printer, dal 1876), Corso del Rinascimento 24,
   a Piazza Navona. Own site (anticatipografia.it) confirmed dated/basic
   (minimal styling, low-res images, no contemporary refinement). Email:
   info@anticatipografia.it.
 
-**Pivoted to historic trattorie/osterie (also on the same registry,
-Esercizi Commerciali section) — much higher hit rate than scattered
-artisan trades:**
-- **Trattoria Da Lucia** (dal 1938, Trastevere) — Vicolo del Mattonato
-  2B. Domain (trattoriadalucia.com) does not resolve — no working site.
+**Pivoted to historic trattorie/osterie** (also on the same registry,
+Esercizi Commerciali section), much higher hit rate than scattered
+artisan trades:
+- **Trattoria Da Lucia** (dal 1938, Trastevere), Vicolo del Mattonato
+  2B. Domain (trattoriadalucia.com) does not resolve, no working site.
   Doesn't accept card payments either, a strong low-digital-investment
   signal. Email: dalucia1938@gmail.com. Phone: 06 5803601.
 - **Trattoria Der Pallaro** (fixed-menu Roman trattoria, Campo de' Fiori
-  area) — Largo del Pallaro 15. Site (trattoriaderpallaro.it) returned
-  HTTP 503 on every check this session — re-verify when reachable.
+  area), Largo del Pallaro 15. Site (trattoriaderpallaro.it) returned
+  HTTP 503 on every check this session, re-verify when reachable.
   Email: info@trattoriaderpallaro.com. Phone: 06 6880 1488.
-- **Il Pastarellaro** — Via di San Crisogono 33, Trastevere. No
+- **Il Pastarellaro**, Via di San Crisogono 33, Trastevere. No
   independent site found anywhere. Email: ilpastarellaro@libero.it.
   Phone: 06 5810871.
-- **Trattoria La Piccola Cuccagna** — Via della Cuccagna 14, near Piazza
+- **Trattoria La Piccola Cuccagna**, Via della Cuccagna 14, near Piazza
   Navona. No independent site found anywhere. Email:
   lapiccolacuccagna@gmail.com. Phone: 06 6861920.
-- **Ristorante Panzirone** (dal 1914) — Piazza Navona 73. Domain
-  (panzirone.it) does not resolve — no working site. Email
+- **Ristorante Panzirone** (dal 1914), Piazza Navona 73. Domain
+  (panzirone.it) does not resolve, no working site. Email
   info@panzirone.it found via search but **the domain being dead means
-  this address may not deliver either — verify by phone before relying
+  this address may not deliver either, verify by phone before relying
   on it**, same caution as Antica Erboristeria Romana/Coltelleria
   Prezioso. Phone: 06 68134054.
-- **Cantina Cantarini** (Roman/Marchigiana trattoria, dal decades) —
+- **Cantina Cantarini** (Roman/Marchigiana trattoria, dal decades),
   Piazza Sallustio 12. Own site (ristorantecantinacantarini.it)
   confirmed dated/basic (non-functional login form, generic imagery,
   mid-2010s layout). Email is a personal Gmail used as the business
-  contact (santinafattori1964@gmail.com), another no-real-digital-
-  presence signal. Phone: 06 4743341.
+  contact (santinafattori1964@gmail.com), another sign of no real
+  digital presence. Phone: 06 4743341.
 
 **Checked and skipped this round** (already professional, closed/
 bankrupt, or no email found): Hostaria Da Cesare (Michelin-selected,
 modern site), Pasticceria Dagnino (site check inconclusive, JS-heavy),
 Bar Capriotti (not found/likely closed), Antica Osteria Da Giovanni
-(ambiguous match, no email), Ristorante Il CIAK (dal 1907, Trastevere —
+(ambiguous match, no email), Ristorante Il CIAK (dal 1907, Trastevere,
 no site/email found, phone only, remarkable cinema-memorabilia decor,
 worth a phone-first approach later), Ristorante Da Dante (has a site,
 no email found), Bar Lo Zodiaco (bankrupt/closed since 2020), Bar del
@@ -453,42 +453,42 @@ Pizzeria Dal Bersagliere (no email found), Ristorante Da Pierluigi
 no email found), Antica Birreria Peroni (dal 1906, professional site).
 
 **Checked and skipped, older round** (already have a modern/professional
-site, or the only channel found is phone/social, not email — logged so
+site, or the only channel found is phone/social, not email, logged so
 they aren't re-searched blind): Catello D'Auria (guanti, Squarespace site,
 decent), Antica Libreria Cascianelli (Gucci Places partner, clearly
 well-presented), Leone Limentani (polished luxury e-commerce site),
-Boccanera (calzature, Testaccio — no site or email found, phone only:
-06 5756804), Ottica Spiezia (Via del Babuino — "the Pope's optician,"
+Boccanera (calzature, Testaccio, no site or email found, phone only:
+06 5756804), Ottica Spiezia (Via del Babuino, "the Pope's optician,"
 remarkable story, no site or email found, phone only: 06 3610593),
-Gallinelli Alessandro (falegnameria, Via Zara — no site or email found,
+Gallinelli Alessandro (falegnameria, Via Zara, no site or email found,
 phone only: 06 4402219), Onorati Dolciumi (Corso del Rinascimento,
 professional-enough site), Stilo Fetti (Montblanc/Parker dealer, modern
 e-commerce site), Tebro Biancheria (modern professional site), Antica
-Coltelleria Zoppo (via Merulana — Instagram-primary, @anticacoltelleria.zoppo,
+Coltelleria Zoppo (via Merulana, Instagram-primary, @anticacoltelleria.zoppo,
 no clear standalone site/email confirmed, worth a closer look later),
-Domus (calzature/pelletteria, Via Belsiana — no independent site or
+Domus (calzature/pelletteria, Via Belsiana, no independent site or
 email found), Gardino/Cravanzola (decorazioni cavalleresche, Via del
-Corso — has an institutional + e-commerce site, gardino.it, likely
+Corso, has an institutional + e-commerce site, gardino.it, likely
 already professional, site was down/503 at check time so not fully
-confirmed either way), Barberini Stefano (pellami, Via Collina — a
+confirmed either way), Barberini Stefano (pellami, Via Collina, a
 Google Business auto-page, no email confirmed), Sermoneta Enrica
-(merceria/haberdashery, Via dei Due Macelli — no site or email found,
-phone-only), Bedetti (orologi/preziosi, Piazza San Silvestro —
+(merceria/haberdashery, Via dei Due Macelli, no site or email found,
+phone-only), Bedetti (orologi/preziosi, Piazza San Silvestro,
 authorized Rolex dealer, certainly a professional site), Ferramenta
 Sorelle Bassano (Municipio II, only a PEC certified-mail address found,
 not a normal inbox, and no site), Profumeria Bertozzini (site blocked
 automated fetch, HTTP 403, unresolved either way), Cartoleria Pantheon
-(dal 1910, Piazza Navona — site blocked automated fetch, HTTP 403, no
+(dal 1910, Piazza Navona, site blocked automated fetch, HTTP 403, no
 email found in search, unresolved either way), Bottega del Marmoraro
-(marble plaques, Via Margutta — no site or email found, Facebook/phone
+(marble plaques, Via Margutta, no site or email found, Facebook/phone
 only), Ercoli Cornici (skip, cornici category overlap already covered).
 
-**Second registry checked** — "Albo Negozi Storici di Eccellenza di
+**Second registry checked**: "Albo Negozi Storici di Eccellenza di
 Roma Capitale" (settembre 2025 edition, comune.roma.it) pulled and
-read: mostly overlaps businesses already covered above (Tebro, Bordi
+read. Mostly overlaps businesses already covered above (Tebro, Bordi
 Belle Arti, Camiceria Bazzocchi, Bottega Mortet, Gioielleria Lefèvre).
 One new name, Bedetti, already checked and skipped above (see list).
-Not a big additional source — worth returning to the original 204-shop
+Not a big additional source, worth returning to the original 204-shop
 registry's remaining ~80 unchecked Municipio-I entries instead.
 - **Amenio Raponi** (luthier/liutaio) — Via della Magliana Nuova 196.
   Phone: 06 55268600 / cell 339 8675177. Real site has an excellent

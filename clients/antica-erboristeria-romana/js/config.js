@@ -1,14 +1,14 @@
-// Demo per Antica Erboristeria Romana — dati verificati: indirizzo,
+// Demo per Antica Erboristeria Romana. Dati verificati: indirizzo,
 // telefono, storia (Turismo Roma, comune.roma.it). Email
 // (info@anticaerboristeriaromana.it) trovata via ricerca, non
-// riconfermata direttamente sul sito — verificare telefonicamente
+// riconfermata direttamente sul sito, verificare telefonicamente
 // prima di fare affidamento su quell'indirizzo, come per Antica
 // Stamperia Trevi.
 // Sito reale (anticaerboristeriaromana.it) confermato gravemente
 // datato: grafica GIF anni 2000, encoding dei caratteri accentati
 // visibilmente rotto. NOTA: esiste anche un possibile dominio più
 // recente (anticaerboristeriaromanashop.com), bloccato da Cloudflare e
-// non verificabile in questa sessione — se rispondono segnalando quel
+// non verificabile in questa sessione. Se rispondono segnalando quel
 // sito come quello reale, è previsto, non un errore (stesso caso di
 // Testaccio XIX-XXV con due domini).
 // Logo reale (stemma araldico con due leoni, motto "IN ERBIS SALUS")

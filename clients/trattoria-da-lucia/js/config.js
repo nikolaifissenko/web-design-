@@ -1,8 +1,8 @@
-// Demo per Trattoria Da Lucia — dati verificati: indirizzo, telefono, storia
+// Demo per Trattoria Da Lucia. Dati verificati: indirizzo, telefono, storia
 // (Touring Club Italiano, Luciano Pignataro Wine Blog). Sito attuale
-// (trattoriadalucia.com) risulta MORTO — il dominio non si risolve più.
+// (trattoriadalucia.com) risulta MORTO, il dominio non si risolve più.
 // Non accetta carte di credito, altro segnale di scarsa presenza digitale.
-// Nessun logo reale trovato (piccola trattoria familiare) — logoText di
+// Nessun logo reale trovato (piccola trattoria familiare), logoText di
 // fallback, caso legittimo, non un accorciamento di comodo.
 // Foto TUTTE reali, da un articolo dedicato del Luciano Pignataro Wine
 // Blog (2019): hero/about = interno vero (pentole di rame, foto storiche

@@ -1,12 +1,12 @@
-// Demo per Bottega Mortet — dati verificati: indirizzo (Via dei
+// Demo per Bottega Mortet. Dati verificati: indirizzo (Via dei
 // Portoghesi 18), email, storia (Turismo Roma, La Voce di New York,
 // il sito storico stesso). Sito reale (bottegamortet.com) confermato
 // datato: menu di navigazione a immagini GIF, tecnologia inizio anni
 // 2000. Logo reale (MORTET_LOGO_WEB_MINI_2011.jpg) trovato sul sito
-// storico, quasi quadrato, usato direttamente come logoImage — nessuna
+// storico, quasi quadrato, usato direttamente come logoImage, nessun
 // ridisegno necessario. Colori (rosso/nero) presi dal vero logo e dal
 // sito. Foto TUTTE reali, scaricate dal sito storico stesso (basse
-// risoluzioni originali, ~170px — limite del materiale disponibile,
+// risoluzioni originali, ~170px, limite del materiale disponibile,
 // non stock): hero/gallery-3 = la mano in bronzo del progetto "Mano
 // Artigiana" di Dante Mortet, about = collage di ritratti e laboratorio,
 // gallery-1 = collage di strumenti/lavorazione a cesello, gallery-2 =
