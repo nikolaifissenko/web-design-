@@ -1,5 +1,5 @@
-// Demo per Cantina Cantarini — hanno già un sito proprio
-// (ristorantecantinacantarini.it) ma è vecchio e dell'era 2014 (CMS
+// Demo per Cantina Cantarini: hanno già un sito proprio
+// (ristorantecantinacantarini.it), ma è vecchio e dell'era 2014 (CMS
 // "paginesi.it", jQuery 1.10, nessun responsive design vero). Dati
 // verificati: indirizzo, telefono, orari dal loro stesso sito; email
 // reale trovata nel footer del loro sito (santinafattori1964@gmail.com,
@@ -7,22 +7,22 @@
 // ricerca. Storia (fondata nel 1903 da Mariano Cantarini) confermata da
 // Touring Club Italiano e Turismo Roma.
 // LOGO: reale, ritagliato dal loro sito (il pesce inciso dentro la
-// cornice, parte sinistra del logo originale 400x120 — un ritaglio
-// pulito, non serve un redesign, l'icona è già quadrata di suo):
+// cornice, parte sinistra del logo originale 400x120). Un ritaglio
+// pulito, non serve un redesign, perché l'icona è già quadrata di suo:
 // images/logo.png.
 // FOTO: tutte reali, nessuna stock, tutte estratte dal loro stesso sito
 // (cms.paginesi.it/user_img_online/2450/-1/...). hero.jpg = foto
 // stampa dell'insegna/vetrina esterna in Piazza Sallustio (trovata su
 // camillabaresani.com, articolo del 2019 sul locale). about.jpg =
-// ravioli su un piatto con il marchio "Cant Cant" visibile sul bordo —
+// ravioli su un piatto con il marchio "Cant Cant" visibile sul bordo,
 // prova che è davvero il loro piatto, non stock. gallery-1.jpg =
 // carbonara, gallery-2.jpg = fritto misto di paranza, entrambe foto
 // reali del locale (2014, basse risoluzione ma autentiche). NOTA:
 // il sito aveva anche 2 foto "food" più recenti (2023) di uno
-// spezzatino e una parmigiana di pollo — scartate: EXIF mostra
+// spezzatino e una parmigiana di pollo, scartate: EXIF mostra
 // DateTimeOriginal identico all'orario di caricamento, luce da studio
-// generica, piatti (parmigiana) che non sono nemmeno nel loro menu
-// romano-marchigiano — quasi certamente stock aggiunto al sito, non
+// generica, e piatti (parmigiana) che non sono nemmeno nel loro menu
+// romano-marchigiano. Quasi certamente stock aggiunto al sito, non
 // foto reali del locale.
 
 const SITE_CONFIG = {
@@ -99,6 +99,6 @@ const SITE_CONFIG = {
   },
 
   footer: {
-    text: "Cantina Cantarini — Osteria romana e marchigiana a Roma dal 1903.",
+    text: "Cantina Cantarini: osteria romana e marchigiana a Roma dal 1903.",
   },
 };

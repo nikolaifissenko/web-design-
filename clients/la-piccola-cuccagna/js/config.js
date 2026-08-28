@@ -1,32 +1,32 @@
-// Demo per La Piccola Cuccagna — nessun sito proprio trovato (verificato
+// Demo per La Piccola Cuccagna. Nessun sito proprio trovato (verificato
 // via ricerca mirata). Presenza social reale e consistente: Instagram
 // @piccolacuccagna (35mila follower) e Facebook facebook.com/
 // piccolacuccagna confermati via ricerca, email lapiccolacuccagna@
 // gmail.com trovata su più fonti indipendenti. Hostaria dal 1950
 // (>70 anni), a due passi da Piazza Navona.
-// LOGO: nessun logo digitale trovato. Usato logoText — non un redesign,
+// LOGO: nessun logo digitale trovato. Usato logoText, non un redesign,
 // perché non esiste alcun file/immagine sorgente da cui partire, solo
 // il nome scritto a mano sul cartello del menu (vedi sotto).
 // FOTO: Instagram/Facebook irraggiungibili da fetch automatico (SPA
 // lato client, conferma ulteriore del blocco già noto). Controllato
-// piatti.menu (aggregatore con foto "La Piccola Cuccagna Cibo") ma
+// piatti.menu (aggregatore con foto "La Piccola Cuccagna Cibo"), ma
 // SCARTATO come fonte inaffidabile per questo locale: le foto taggate
 // con quel nome mostravano chiaramente altri posti (una sala da pranzo
-// a tema nautico con timone, noodles cinesi, un pub in stile birreria)
-// — un problema di qualità dei dati sull'aggregatore stesso, non un
+// a tema nautico con timone, noodles cinesi, un pub in stile birreria).
+// Un problema di qualità dei dati sull'aggregatore stesso, non un
 // errore di scraping. Tripadvisor/Yelp/RestaurantGuru irraggiungibili
 // (403/503, blocco noto). UNICHE foto reali trovate e verificabili:
 // due scatti dello stesso menu cartaceo con l'intestazione originale
-// "Hostaria La Piccola Cuccagna dal 1950" ben leggibile — prova diretta
+// "Hostaria La Piccola Cuccagna dal 1950" ben leggibile, prova diretta
 // del nome/branding reale, tovaglia a quadretti rosso/bianco visibile.
 // about.jpg = il menu aperto sul tavolo (tovaglia a quadretti reale);
 // gallery-1.jpg = il cartello menu plastificato esposto fuori, con sullo
 // sfondo una fontana/statua in stile berniniano (coerente con la zona
-// Navona). hero.jpg = STOCK (Unsplash, Element5 Digital) — una
+// Navona). hero.jpg = STOCK (Unsplash, Element5 Digital): una
 // carbonara su tovaglia a quadretti rosso/bianco, scelta apposta per
 // coerenza visiva con la tovaglia reale vista nelle due foto sopra, ma
 // dichiaratamente non una foto del locale. Fonti stampa (RomaToday e
-// simili) cercate ma nessun articolo dedicato trovato per questo
+// simili) cercate, ma nessun articolo dedicato trovato per questo
 // specifico locale.
 
 const SITE_CONFIG = {
@@ -102,6 +102,6 @@ const SITE_CONFIG = {
   },
 
   footer: {
-    text: "La Piccola Cuccagna — Hostaria romana a Roma dal 1950.",
+    text: "La Piccola Cuccagna: hostaria romana a Roma dal 1950.",
   },
 };

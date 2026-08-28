@@ -2,7 +2,7 @@
 // Everything on the page is rendered from this one config object.
 // Leave a field empty ("" or []) to hide that section/item automatically.
 //
-// NOT BUILT (2026-08-28) — deliberately left as the unedited template.
+// NOT BUILT (2026-08-28): deliberately left as the unedited template.
 // Strong signals this business (Via di San Crisogono 33, Trastevere) is
 // closed, with a possibly-unrelated differently-named business now at
 // the same address. Do not fill this in or send outreach until that's
