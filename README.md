@@ -402,6 +402,10 @@ real email confirmed, not yet built:**
   visible unrendered template code ("<!--#4DTEXT...", "Error # 59"),
   legacy 1990s-2000s server tech. One of the worst sites found so far.
   Email: info@minervalibreria.it.
+- **Antica Tipografia** (printer, dal 1876) — Corso del Rinascimento 24,
+  a Piazza Navona. Own site (anticatipografia.it) confirmed dated/basic
+  (minimal styling, low-res images, no contemporary refinement). Email:
+  info@anticatipografia.it.
 
 **Checked and skipped this round** (already have a modern/professional
 site, or the only channel found is phone/social, not email — logged so
@@ -428,7 +432,11 @@ phone-only), Bedetti (orologi/preziosi, Piazza San Silvestro —
 authorized Rolex dealer, certainly a professional site), Ferramenta
 Sorelle Bassano (Municipio II, only a PEC certified-mail address found,
 not a normal inbox, and no site), Profumeria Bertozzini (site blocked
-automated fetch, HTTP 403, unresolved either way).
+automated fetch, HTTP 403, unresolved either way), Cartoleria Pantheon
+(dal 1910, Piazza Navona — site blocked automated fetch, HTTP 403, no
+email found in search, unresolved either way), Bottega del Marmoraro
+(marble plaques, Via Margutta — no site or email found, Facebook/phone
+only), Ercoli Cornici (skip, cornici category overlap already covered).
 
 **Second registry checked** — "Albo Negozi Storici di Eccellenza di
 Roma Capitale" (settembre 2025 edition, comune.roma.it) pulled and
