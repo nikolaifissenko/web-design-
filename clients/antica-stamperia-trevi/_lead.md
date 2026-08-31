@@ -19,7 +19,7 @@
   botteghestoricheroma.com's portfolio page (photos).
 - **Status:** outreach sent (email sent 2026-08-27 to anticastamperiatrevi@gmail.com, Gmail message ID `1a0456eadf67d0b3`). Note: this address was read off a packaging photo, not independently verified by phone — if it bounces, that confirms it needs a phone follow-up instead.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-stamperia-trevi/
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-08-31 (Gmail message ID `1a0589789d38bf96`), thread re-checked first, confirmed no reply/bounce before sending.
 - **Sold:** no
 - **Notes:**
   - **Everything on this demo is real — zero stock** — text and photos

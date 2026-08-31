@@ -16,7 +16,7 @@
   Ranieri (HTTP 202, non caricato).
 - **Status:** outreach-sent (email sent 2026-08-26 to varmricciardella@gmail.com — Gmail message ID `1a0402299dd76f83`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/il-fabbro-artigiano/ (verified live immediately before sending)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-08-31 (Gmail message ID `1a05897759bf4777`), thread re-checked first, confirmed no reply/bounce before sending.
 - **Sold:** no
 - **Notes:**
   - **Solo 1 foto reale disponibile, usata in `about`.** La vera galleria

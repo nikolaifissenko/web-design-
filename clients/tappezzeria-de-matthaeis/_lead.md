@@ -17,7 +17,7 @@
   professionale ben curato).
 - **Status:** outreach-sent (email sent 2026-08-26 to info@tappezzeriadematthaeis.it — Gmail message ID `1a040187ac7b0ae7`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/tappezzeria-de-matthaeis/ (verified live immediately before sending)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-08-31 (Gmail message ID `1a058976a3de7a4e`), thread re-checked first, confirmed no reply/bounce before sending.
 - **Sold:** no
 - **Notes:**
   - **Foto reali, EXIF-verificate** (fotocamere reali dei titolari, non

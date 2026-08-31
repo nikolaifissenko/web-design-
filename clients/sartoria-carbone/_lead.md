@@ -20,7 +20,7 @@
   listings (Lun-Sab 09:00-14:00, 15:00-20:00; Dom chiuso).
 - **Status:** outreach-sent (email sent 2026-08-26 to info@sartoriacarbone.it — Gmail message ID `1a03fe2d410d54c4`; **that first email linked to a demo URL that was 404 at send time** — the client folder existed only on an unmerged branch, GitHub Pages serves `main` only. Caught and corrected same day: merged to `main`, verified the URL actually returns 200, then sent a follow-up with the working link — Gmail message ID `1a03ff03b27d10e0`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/sartoria-carbone/ (verified live 2026-08-26)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-08-31 (Gmail message ID `1a058973f28ea592`), thread re-checked first, confirmed no reply/bounce before sending.
 - **Sold:** no
 - **Notes:**
   - **Everything on this demo is real — zero stock.** Rare case where a

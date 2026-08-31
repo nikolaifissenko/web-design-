@@ -8,7 +8,7 @@
 - **Sources:** bbromamonti.com (name, address, phone, email, real photos, real theme color — pulled directly from their own site and stylesheet).
 - **Status:** outreach-sent (email sent 2026-08-26 to info@bbromamonti.com — Gmail message ID `1a03c2448da37a88`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/una-finestra-su-monti/
-- **Response:** no reply yet (re-checked 2026-08-29, ~76h after sending)
+- **Response:** no reply yet. Follow-up sent 2026-08-31 (Gmail message ID `1a0589733ce240d8`), thread re-checked first, confirmed no reply/bounce before sending.
 - **Sold:** no
 - **Notes:**
   - **Real photos used, not stock.** Downloaded directly from their WordPress media library: a high-res Superior room shot, a Suite room detail (fresh linens/towels), a Camera Doppia interior, and a real Piazza Navona sunset photo they use themselves on their "location" section.

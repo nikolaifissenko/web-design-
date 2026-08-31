@@ -19,7 +19,7 @@
   Bottega Antica: 6.4.10 — entrambi mantenuti attivamente, non lead validi).
 - **Status:** outreach-sent (email sent 2026-08-26 to info@fratellianzilotti.it — Gmail message ID `1a0400b2061e81b1`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/fratelli-anzilotti/ (verified live before sending)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-08-31 (Gmail message ID `1a05897607bd9570`), thread re-checked first, confirmed no reply/bounce before sending.
 - **Sold:** no
 - **Notes:**
   - **Foto reali, EXIF-verificate** (fotocamera Sony reale, non stock):

@@ -14,7 +14,7 @@
   contatti/immagini/colori.
 - **Status:** outreach-sent (email sent 2026-08-26 to delvicomaurizio@gmail.com — Gmail message ID `1a03fe2deb4a8bac`; **that first email linked to a demo URL that was 404 at send time** — the client folder existed only on an unmerged branch, GitHub Pages serves `main` only. Caught and corrected same day: merged to `main`, verified the URL actually returns 200, then sent a follow-up with the working link — Gmail message ID `1a03ff0486a7a173`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-legatoria-del-vico/ (verified live 2026-08-26)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-08-31 (Gmail message ID `1a0589747e6fde33`), thread re-checked first, confirmed no reply/bounce before sending.
 - **Sold:** no
 - **Notes:**
   - **Tutte le foto sono reali**, scaricate direttamente dal loro sito —

@@ -12,7 +12,7 @@
   camiceriabazzocchi.it directly for real text, colors, logo, and photos.
 - **Status:** outreach sent (email sent 2026-08-27 to info@camiceriabazzocchi.it, Gmail message ID `1a0456ea351f6955`).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/camiceria-bazzocchi/
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-08-31 (Gmail message ID `1a058977e84f2c14`), thread re-checked first, confirmed no reply/bounce before sending.
 - **Sold:** no
 - **Notes:**
   - **Everything on this demo is real — zero stock.**

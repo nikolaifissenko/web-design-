@@ -14,7 +14,7 @@
   per contatti/immagini/colori.
 - **Status:** outreach-sent (email sent 2026-08-26 to cappellerialombardi@tiscali.it — Gmail message ID `1a0400b152349c5f`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-cappelleria-lombardi/ (verified live before sending)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-08-31 (Gmail message ID `1a058975468352d5`), thread re-checked first, confirmed no reply/bounce before sending.
 - **Sold:** no
 - **Notes:**
   - **Foto reali** — prese dal loro catalogo prodotti online (non stock
