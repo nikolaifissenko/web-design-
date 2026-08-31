@@ -17,10 +17,9 @@
   PDE (publisher distributor)'s "Facce da libreria" feature, 13 July
   2020 (pde.it), the only source anywhere that had an actual photo of
   the shop's interior.
-- **Status:** demo-built, outreach drafted below, not yet sent (awaiting
-  Nikolai's review, per CLAUDE.md).
-- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/libreria-tombolini/
-  (not live yet, branch not merged to `main`)
+- **Status:** outreach-sent (email sent 2026-08-31 to libreria.tombolini@iol.it — Gmail message ID `1a056318027bcb28`)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/libreria-tombolini/ (verified live, 200)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - **Real photo sources actually exhausted before touching stock**, per
@@ -74,13 +73,11 @@
     Roma and the original README research). Worth a quick verification
     call before relying on either if the email bounces.
 
-## Outreach email (drafted, NOT sent, needs Nikolai's review first)
+## Outreach email (sent 2026-08-31)
 
-No real personal visit to this shop has been confirmed with Nikolai, so
-this draft does not claim one. If Nikolai has actually been here, tell
-me and I'll rewrite the opening around that instead. No price mentioned,
-no em dashes, plain punctuation, tone matched to a genuinely major
-150-year heritage.
+No real personal visit to this shop was confirmed with Nikolai, so this
+draft doesn't claim one. Tone matched to a genuinely major 150-year
+heritage.
 
 > Gentile Libreria Tombolini,
 >
@@ -94,6 +91,11 @@ no em dashes, plain punctuation, tone matched to a genuinely major
 > Ho preparato una bozza di sito partendo da quello che ho trovato di
 > voi in giro, foto vere comprese. La trovate qui, senza alcun impegno:
 > https://nikolaifissenko.github.io/web-design-/clients/libreria-tombolini/
+>
+> Mi occupo anche di gestione dei social media: se in futuro vi
+> interessasse anche far crescere quanto siete visibili online, potremmo
+> parlarne con calma. Con un catalogo così specializzato, credo ci sia
+> margine per farvi conoscere da molti più appassionati.
 >
 > Se vi va di darle un'occhiata e farmi sapere cosa ne pensate, mi
 > farebbe piacere. Altrimenti nessun problema.

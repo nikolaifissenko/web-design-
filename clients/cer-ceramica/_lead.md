@@ -16,10 +16,9 @@
   Roma") -> the shop's own WordPress blog, home page and "Chi Siamo"
   page (address, real photos with real EXIF data, a real promotional
   collage image with the shop's actual logo baked in).
-- **Status:** demo-built, outreach drafted below, not yet sent (awaiting
-  Nikolai's review, per CLAUDE.md).
-- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cer-ceramica/
-  (not live yet, branch not merged to `main`)
+- **Status:** outreach-sent (email sent 2026-08-31 to cer.annamaria@gmail.com — Gmail message ID `1a056314077fe500`)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cer-ceramica/ (verified live, 200)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - **Everything on this demo is real, zero stock.** The shop's own
@@ -68,12 +67,10 @@
   - No hours found anywhere; `config.js` uses "da confermare", needs a
     phone call to confirm.
 
-## Outreach email (drafted, NOT sent, needs Nikolai's review first)
+## Outreach email (sent 2026-08-31)
 
-No real personal visit to this shop has been confirmed with Nikolai, so
-this draft does not claim one. If Nikolai has actually been here, tell
-me and I'll rewrite the opening around that instead. No price mentioned,
-no em dashes, plain punctuation.
+No real personal visit to this shop was confirmed with Nikolai, so this
+draft doesn't claim one.
 
 > Gentile C.E.R.,
 >
@@ -87,6 +84,11 @@ no em dashes, plain punctuation.
 > Ho preparato una bozza di sito partendo dalle vostre foto reali. La
 > trovate qui, senza alcun impegno:
 > https://nikolaifissenko.github.io/web-design-/clients/cer-ceramica/
+>
+> Mi occupo anche di gestione dei social media: se in futuro vi
+> interessasse anche far crescere quanto siete visibili online, oltre al
+> sito, potremmo parlarne con calma. Con una scuola così storica, credo
+> ci sia margine per farvi conoscere da molti più allievi e clienti.
 >
 > Se vi va di darle un'occhiata e farmi sapere cosa ne pensate, mi
 > farebbe piacere. Altrimenti nessun problema.

@@ -15,8 +15,9 @@
   Roma instagram/facebook"), poi coltelleriadanielaprezioso.com
   fetchato direttamente (home + il-negozio) per storia, contatti, orari
   e foto.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-08-31 to preziosodaniela1969@gmail.com — Gmail message ID `1a0563151b81b0b3`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/coltelleria-prezioso/
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - Bottega storica dal 1870, iscritta nell'elenco delle Botteghe di
@@ -40,5 +41,28 @@
   - **Orari confermati dal sito**: Lun-Ven 9:30-19:00 orario continuato,
     Sab 9:00-13:00 (pomeriggio chiuso), Dom chiuso. Usati esattamente
     nel demo, non un'ipotesi.
-  - Non ancora contattati: outreach non scritto/inviato in questa
-    sessione, solo il demo costruito.
+## Outreach email (sent 2026-08-31)
+
+> Gentile Coltelleria Prezioso,
+>
+> mi chiamo Nikolai e progetto siti web. Ho trovato la vostra bottega
+> cercando le realtà storiche dell'Esquilino, e sapere che siete attivi
+> dal 1870, con un assortimento che va dalle lame professionali ai pezzi
+> da collezione, mi ha colpito. Centocinquant'anni nello stesso mestiere
+> sono rari.
+>
+> Ho preparato una bozza di sito partendo dalle vostre foto e dal vostro
+> logo reali. La trovate qui, senza alcun impegno:
+> https://nikolaifissenko.github.io/web-design-/clients/coltelleria-prezioso/
+>
+> Mi occupo anche di gestione dei social media: visto che siete già
+> presenti su Instagram, se in futuro vi interessasse anche far crescere
+> quel lato, potremmo parlarne. Penso che una bottega con una storia e
+> un catalogo così ampio abbia il potenziale per farsi conoscere da
+> molte più persone.
+>
+> Se vi va di darle un'occhiata e farmi sapere cosa ne pensate, mi
+> farebbe piacere. Altrimenti nessun problema.
+>
+> Un saluto,
+> Nikolai

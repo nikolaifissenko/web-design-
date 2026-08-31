@@ -8,8 +8,9 @@
 - **Facebook:** https://www.facebook.com/cantina.cantarini/ (confirmed)
 - **Email:** santinafattori1964@gmail.com, found printed in the footer of their own site, not invented.
 - **Sources:** their own site (address, phone, hours, email, real logo, real food photos), Touring Club Italiano and Turismo Roma (history: founded 1903 by Mariano Cantarini), camillabaresani.com (2019 feature article with a real exterior photo of the storefront in Piazza Sallustio).
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-08-31 to santinafattori1964@gmail.com — Gmail message ID `1a0563123e5bdec7`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cantina-cantarini/
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - Real branding used throughout, no stock. Logo: cropped directly from their own site's logo image (the engraved-fish medallion, left portion of a 400x120 wordmark). A clean crop, not a redesign, since the icon itself is already roughly square.
@@ -18,6 +19,28 @@
   - Their site also had 2 higher-res "food" photos added in 2023 (a stew and a chicken parmigiana). Checked and rejected: EXIF `DateTimeOriginal` is identical to the upload timestamp (down to the minute) for both, studio-quality generic lighting, and one dish (parmigiana) isn't even on their actual Roman/Marchigian menu. Almost certainly stock the business itself added to pad the site out, not photos of their own food, so it wasn't reused.
   - No price list published anywhere online (their site has no prices, just dish names), left blank in `config.js`, same as other trattoria clients.
 
-## Outreach, not yet drafted or sent
+## Outreach email (sent 2026-08-31)
 
-This business already has a working, if dated, website with a confirmed real email, so a genuinely warm, low-pressure pitch fits well here. Draft not written yet this round, will draft in normal prose and show it before sending anything, per standing process. No message has been sent on any channel for this lead yet.
+> Gentile Cantina Cantarini,
+>
+> mi chiamo Nikolai e progetto siti web. Ho trovato il vostro ristorante
+> cercando le trattorie storiche di Roma: attivi dal 1903 in Piazza
+> Sallustio, con la stessa insegna a pesce inciso, è il tipo di storia
+> che raramente si trova ancora oggi.
+>
+> Ho notato che il vostro sito è rimasto fermo a un design di più di
+> dieci anni fa, quindi ne ho preparato una versione nuova partendo
+> dalle vostre vere foto e dai vostri colori. La trovate qui, senza
+> alcun impegno:
+> https://nikolaifissenko.github.io/web-design-/clients/cantina-cantarini/
+>
+> Mi occupo anche di gestione dei social media: se in futuro vi
+> interessasse anche farvi scoprire da più persone online, potremmo
+> parlarne. Penso che un locale con una storia così abbia il potenziale
+> di attirare molti più clienti di quanti già lo conoscono.
+>
+> Se vi va di dare un'occhiata e farmi sapere cosa ne pensate, mi
+> farebbe piacere. Altrimenti nessun problema.
+>
+> Un saluto,
+> Nikolai

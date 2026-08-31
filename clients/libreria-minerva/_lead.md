@@ -25,10 +25,9 @@
   (partner/discount listings, no real photos) -> the shop's own
   e-commerce site (real logo files found in `/miner/images/`, but only
   book-cover thumbnails otherwise, no storefront/interior photos).
-- **Status:** demo-built, outreach drafted below, not yet sent (awaiting
-  Nikolai's review, per CLAUDE.md).
-- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/libreria-minerva/
-  (not live yet, branch not merged to `main`)
+- **Status:** outreach-sent (email sent 2026-08-31 to info@minervalibreria.it — Gmail message ID `1a0563171164729e`)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/libreria-minerva/ (verified live, 200)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - **Real photo sources actually exhausted before touching stock**, per
@@ -90,12 +89,10 @@
     no specific times; `config.js` reflects that directly rather than
     inventing hours.
 
-## Outreach email (drafted, NOT sent, needs Nikolai's review first)
+## Outreach email (sent 2026-08-31)
 
-No real personal visit to this shop has been confirmed with Nikolai, so
-this draft does not claim one. If Nikolai has actually been here, tell
-me and I'll rewrite the opening around that instead. No price mentioned,
-no em dashes, plain punctuation.
+No real personal visit to this shop was confirmed with Nikolai, so this
+draft doesn't claim one.
 
 > Gentile Libreria Minerva,
 >
@@ -111,6 +108,11 @@ no em dashes, plain punctuation.
 > Ho preparato una bozza di sito partendo dal poco che sono riuscito a
 > trovare di voi in giro. La trovate qui, senza alcun impegno:
 > https://nikolaifissenko.github.io/web-design-/clients/libreria-minerva/
+>
+> Mi occupo anche di gestione dei social media: se in futuro vi
+> interessasse anche far crescere quanto siete visibili online, potremmo
+> parlarne con calma. Penso che una libreria con una storia così meriti
+> di farsi conoscere da molte più persone.
 >
 > Se vi va di darle un'occhiata e farmi sapere cosa ne pensate, mi
 > farebbe piacere. Altrimenti nessun problema.

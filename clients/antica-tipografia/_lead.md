@@ -16,8 +16,9 @@
 - **Sources:** web search, poi anticatipografia.it fetchato
   direttamente (home, azienda, servizi) per storia, contatti, servizi e
   foto.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-08-31 to info@anticatipografia.it — Gmail message ID `1a05630f56751f17`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-tipografia/
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - Storia eccezionale per l'outreach: fondata nel 1876 come "Forzani e
@@ -55,5 +56,27 @@
   - Orari non trovati pubblicamente: segnati "da confermare" nei
     giorni feriali e "Chiuso" nel weekend (ipotesi ragionevole per
     un'azienda B2B di stampa, da verificare telefonicamente).
-  - Non ancora contattati: outreach non scritto/inviato in questa
-    sessione, solo il demo costruito.
+## Outreach email (sent 2026-08-31)
+
+> Gentile Antica Tipografia,
+>
+> mi chiamo Nikolai e progetto siti web. Cercando le realtà storiche di
+> stampa a Roma sono arrivato a voi, e la vostra storia mi ha colpito:
+> dal 1876, fornitori storici del Senato, con un passato che include
+> persino la stampa della Summa Theologica premiata da Papa Leone XIII.
+> Centocinquant'anni di attività non sono cosa comune.
+>
+> Ho preparato una bozza di sito partendo dai contenuti e dalle immagini
+> reali del vostro sito attuale. La trovate qui, senza alcun impegno:
+> https://nikolaifissenko.github.io/web-design-/clients/antica-tipografia/
+>
+> Mi occupo anche di gestione dei social media: se in futuro vi
+> interessasse anche farvi conoscere da più realtà oltre a quelle che
+> già lavorano con voi, potremmo parlarne. Penso che una storia come la
+> vostra meriti di raggiungere molte più persone.
+>
+> Se vi va di darle un'occhiata e farmi sapere cosa ne pensate, mi
+> farebbe piacere. Altrimenti nessun problema.
+>
+> Un saluto,
+> Nikolai

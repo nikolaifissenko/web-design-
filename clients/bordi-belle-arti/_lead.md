@@ -19,12 +19,9 @@
   web search for founding history -> Il Cielo sopra Esquilino
   ("Botteghe storiche, Bordi: 106 anni passati nel rione", real
   press feature with a real storefront photo and family history).
-- **Status:** demo-built, outreach drafted below, not yet sent (awaiting
-  Nikolai's review, per CLAUDE.md: drafts get shown before sending,
-  never sent automatically).
-- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/bordi-belle-arti/
-  (not live yet: this branch has not been merged to `main`, which is
-  what GitHub Pages serves)
+- **Status:** outreach-sent (email sent 2026-08-31 to bordi.bellearti@libero.it — Gmail message ID `1a056310680bbe32`)
+- **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/bordi-belle-arti/ (verified live, 200)
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - **Everything on this demo is real, zero stock.** Genuinely lucky
@@ -73,12 +70,10 @@
     "da confermare" per the established convention (see
     antica-stamperia-trevi), needs a phone call to confirm.
 
-## Outreach email (drafted, NOT sent, needs Nikolai's review first)
+## Outreach email (sent 2026-08-31)
 
-No real personal visit to this shop has been confirmed with Nikolai, so
-this draft does not claim one. If Nikolai has actually been to Bordi
-Belle Arti, tell me and I'll rewrite the opening around that instead of
-this general one. No price mentioned, no em dashes, plain punctuation.
+No real personal visit to this shop was confirmed with Nikolai, so this
+draft doesn't claim one.
 
 > Gentile Bordi,
 >
@@ -93,6 +88,12 @@ this general one. No price mentioned, no em dashes, plain punctuation.
 > ho costruito una bozza di sito partendo dalle vostre foto e dai vostri
 > colori reali. La trovate qui, senza alcun impegno:
 > https://nikolaifissenko.github.io/web-design-/clients/bordi-belle-arti/
+>
+> Mi occupo anche di gestione dei social media: visto che siete già su
+> Instagram e Facebook, se in futuro vi interessasse anche far crescere
+> quel lato, potremmo parlarne con calma. Con una storia come la vostra,
+> credo ci sia il potenziale per farvi conoscere da molte più persone di
+> quante già vi conoscono.
 >
 > Se vi va di darci un'occhiata e dirmi cosa ne pensate, mi farebbe
 > piacere. Altrimenti nessun problema.

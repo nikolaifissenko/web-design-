@@ -3,27 +3,32 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-08-28 end of session): Monday morning action list
+## Start here (2026-08-31 end of session): Monday morning action list
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
 source of truth. As of this session:
 
-- **15 demos built and live, pitch drafted, just need sending**: see
-  `DEMO BUILT, PITCH NOT SENT` in the pipeline output. Each `_lead.md`
-  has the outreach email ready (Italian, no price, no emoji, signed off
-  with 349 101 6416), just needs a final read and the send. One of the
-  15, `ristorante-panzirone`, is flagged verify by phone first (a
-  similarly-named business next door needs ruling out before contact).
+- **14 of the 15 "demo built, pitch not sent" leads emailed 2026-08-31**:
+  Antica Erboristeria Romana, Antica Tipografia, Bordi Belle Arti,
+  Bottega Mortet, Cantina Cantarini, Tabaccheria Benincampi, C.E.R.
+  Ceramica, Coltelleria Prezioso, La Piccola Cuccagna, Libreria Minerva,
+  Libreria Tombolini, Roccas Cartoleria, Trattoria da Lucia, Vetrate
+  d'Arte Giuliani. All demos were verified live on `main` (curl 200) right
+  before sending. Each `_lead.md` has the exact email sent and the Gmail
+  message ID. `ristorante-panzirone`, the 15th, is still held back: needs
+  a phone call first to confirm which of two similarly-named businesses
+  one door apart on Piazza Navona is the real lead.
 - **1 blocked, needs a decision, not a build**: `il-pastarellaro`. Likely
   closed. Call 06 5810871 or 0658331598 to confirm before doing anything
   else with this lead.
 - **1 dropped entirely this session**: `trattoria-der-pallaro`, turned out
   to already have a separate, modern, current site. Not a lead, no folder
   left in the repo.
-- **17 emails already sent** (2026-08-26/27 rounds) are in their 3-day
-  waiting window, tracked automatically by the recurring pipeline
-  check-in Routine (fires every 3 days, drafts any follow-up that comes
-  due, checks Gmail for real replies/bounces when reachable).
+- **31 emails sent in total now** (17 from the 2026-08-26/27 rounds, plus
+  the 14 above from 2026-08-31). The recurring pipeline check-in Routine
+  was disabled this session per Nikolai's preference to check replies
+  manually rather than automatically — re-check Gmail threads by hand
+  when picking this back up.
 - **1 bounced** (`consorti-cornici`), needs a phone call instead of email.
 - Every client folder's `_lead.md` is the single source of truth for that
   business: address, phone, email, exactly what's real vs. stock in the

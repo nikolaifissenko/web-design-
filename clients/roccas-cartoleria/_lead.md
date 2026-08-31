@@ -14,8 +14,9 @@
 - **Sources:** web search ("Cartoleria Roccas Via Arenula
   instagram/facebook"), poi cartolerieinternazionali.it fetchato
   direttamente per storia, contatti, foto e loghi.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-08-31 to info@incartoleria.it — Gmail message ID `1a0563191d63d21a`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/roccas-cartoleria/
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - **Nome:** il negozio storico si chiama "Cartoleria Roccas" (fondata
@@ -49,5 +50,29 @@
   - Orari settimanali non trovati pubblicamente: segnati "da
     confermare" (Lun-Sab) e "Chiuso" la domenica nel demo, da
     verificare telefonicamente.
-  - Non ancora contattati: outreach non scritto/inviato in questa
-    sessione, solo il demo costruito.
+## Outreach email (sent 2026-08-31)
+
+> Gentile Cartoleria Roccas,
+>
+> mi chiamo Nikolai e progetto siti web. Ho trovato la vostra bottega
+> cercando le cartolerie storiche di Roma, e la vostra storia mi ha
+> colpito: dal 1896, quattro generazioni, un bancone del Settecento
+> ancora in uso, e persino la leggenda delle matite Roccas usate per i
+> segni sul marmo del monumento a Vittorio Emanuele. Centotrent'anni di
+> attività non sono cosa comune.
+>
+> Ho preparato una bozza di sito partendo dalle vostre foto e dal vostro
+> logo reali. La trovate qui, senza alcun impegno:
+> https://nikolaifissenko.github.io/web-design-/clients/roccas-cartoleria/
+>
+> Mi occupo anche di gestione dei social media: se in futuro vi
+> interessasse anche far crescere quanto siete visibili online, potremmo
+> parlarne con calma. Con una storia così e diecimila referenze in
+> negozio, credo ci sia margine per farvi conoscere da molte più
+> persone.
+>
+> Se vi va di darle un'occhiata e farmi sapere cosa ne pensate, mi
+> farebbe piacere. Altrimenti nessun problema.
+>
+> Un saluto,
+> Nikolai

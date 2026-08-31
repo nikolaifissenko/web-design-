@@ -16,8 +16,9 @@
 - **Sources:** web search ("Tabaccheria Benincampi Piazza Navona"), poi
   le pagine navonainfiore.com/the-shop e /cartoleria fetchate
   direttamente per storia, contatti e foto.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-08-31 to tabaccheriabenincampi@gmail.com — Gmail message ID `1a056313273c1b60`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cartoleria-benincampi/
+- **Response:** no reply yet
 - **Sold:** no
 - **Notes:**
   - Bottega di famiglia dai primi anni Cinquanta in Piazza Navona,
@@ -41,5 +42,28 @@
   - Orari non trovati pubblicamente da nessuna fonte: segnati "da
     confermare" su tutti i 7 giorni nel demo, da verificare
     telefonicamente prima di qualunque contatto.
-  - Non ancora contattati: outreach non scritto/inviato in questa
-    sessione, solo il demo costruito.
+## Outreach email (sent 2026-08-31)
+
+> Gentile Famiglia Benincampi,
+>
+> mi chiamo Nikolai e progetto siti web. Ho trovato la vostra bottega
+> cercando le attività storiche di Piazza Navona, e sapere che siete lì
+> dai primi anni Cinquanta, proprio davanti alla Fontana del Bernini,
+> ancora gestita dalla stessa famiglia, mi ha colpito.
+>
+> Ho preparato una bozza di sito partendo dalle vostre foto reali, le
+> borse in pelle lavorate a mano e il bancone dolciumi. La trovate qui,
+> senza alcun impegno:
+> https://nikolaifissenko.github.io/web-design-/clients/cartoleria-benincampi/
+>
+> Mi occupo anche di gestione dei social media: se in futuro vi
+> interessasse anche farvi scoprire da più turisti e romani che passano
+> di lì, potremmo parlarne con calma. Una posizione come la vostra, in
+> una delle piazze più visitate di Roma, ha secondo me un potenziale che
+> va oltre quello che già avete.
+>
+> Se vi va di dare un'occhiata e dirmi cosa ne pensate, mi farebbe
+> piacere. Altrimenti nessun problema.
+>
+> Un saluto,
+> Nikolai
