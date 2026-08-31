@@ -18,6 +18,12 @@ source of truth. As of this session:
   message ID. `ristorante-panzirone`, the 15th, is still held back: needs
   a phone call first to confirm which of two similarly-named businesses
   one door apart on Piazza Navona is the real lead.
+- **4 fresh leads sourced 2026-08-31, not built yet**: Cesaretti (doll
+  repair, Via Flaminia), Bertè Giocattoli (toy shop, Piazza Navona),
+  Colagiovanni (wood restoration), Morelli/Cinturini dal 1950 (watch
+  repair). See "Round 11" below for full sourcing, site status, and
+  confirmed contact channel on each. Next session: scaffold, do the
+  branding pass, build, draft outreach, show it, send.
 - **1 blocked, needs a decision, not a build**: `il-pastarellaro`. Likely
   closed. Call 06 5810871 or 0658331598 to confirm before doing anything
   else with this lead.
@@ -722,6 +728,52 @@ used as a source for anything here, to avoid misattributing branding,
 but worth a quick phone confirmation before sending the demo. Full
 detail in each client's `_lead.md`. No outreach drafted or sent for any
 of the 3 built demos yet this round.
+
+## Round 11 (2026-08-31): 4 new leads sourced for tomorrow, not built yet
+
+Pulled the current Albo Botteghe Storiche di Roma Capitale registry PDF
+(17mag24 edition, 21 pages, extracted with `pypdf` since no PDF tool was
+preinstalled in this session) and cross-checked every active artisan/
+retail entry against everything already built, sent, or logged as
+checked-and-skipped in this file. Verified each candidate below has both
+a bad/missing site (per workflow step 2) and a real contact channel
+confirmed by actually checking, not assumed, per CLAUDE.md:
+
+| Business | Sector | Address | Site status | Real contact channel |
+|---|---|---|---|---|
+| Cesaretti ("Clinica/Fabbrica delle Bambole") | doll repair/restoration, dal 1939 | Via Flaminia 58ab | own domain (cesaretti-bambole.com) returns HTTP 521, server unreachable, confirmed twice | email info@cesaretti-bambole.com (also emanuele_cesaretti@hotmail.com), found directly via search, not a directory guess |
+| Bertè Giocattoli | toy shop, dal 1933/70s (oldest toy shop in Rome, Pinocchio statue out front) | Piazza Navona 108 | no independent website found anywhere after a real search | Instagram @bertegiocattoli (2,049 followers, confirmed real) and Facebook (facebook.com/giocattoliberte), both confirmed by name, not assumed from "no site" |
+| Colagiovanni (Intaglio e Restauro Mobili) | wood carving / antique furniture restoration | Via di S. Bartolomeo de' Vaccinari 84 | no independent website found | real Facebook page (facebook.com/people/Intaglio-e-restauro-mobili-Colagiovanni/100047317012330/), confirmed active |
+| Morelli ("Cinturini dal 1950") | watch repair, straps and accessories | Via Francesco Crispi 42 | domain cinturinidal1950.it unreachable (connection failed) | email info@cinturinidal1950.it, plus Facebook (facebook.com/www.cinturinidal1950.it) |
+
+**Checked and skipped this round** (real business, but not a lead):
+- **Antica Manifattura Cappelli** (Via degli Scipioni 46, dal 1936) —
+  already has strong press/web presence (indagare.com, apritimoda.it,
+  Touring Club), celebrity clients (Madonna, Lady Gaga), clearly a
+  well-marketed business already. Not worth competing with.
+- **Alessandro Valentini Bronzista** ("I Bronzisti", moved from the
+  registry address at Via Angelo Brunetti to Via Leonina 28 in 2012) —
+  own site alessandrovalentini.it is a modern WordPress/Elementor build,
+  updated as recently as June 2025. Already professional.
+- **Gioielleria Quattrocolo** (Via della Scrofa 48, dal 1938) — own site
+  quattrocolo.com with a working contatti page, plus confirmed Facebook
+  and Instagram. Already professional.
+- **Legatoria Aldo Fefè** (Via della Stelletta 20/B) and **Lorenzale
+  Antichità** (Via dei Coronari 2-3) — both real, both with bad/no
+  websites, but the only contact found for either is a PEC address
+  (aldofefe@pec.it / lorenzale@pec.it), a certified-mail inbox that
+  often rejects normal senders, not a normal inbox. Searched specifically
+  for Instagram/Facebook by name for both, per the standing rule, and
+  found none. Same situation as `consorti-cornici`-adjacent
+  Ferramenta Sorelle Bassano earlier in this file: logged here so they
+  aren't re-searched blind, not re-attempted until a better channel
+  turns up.
+
+**Not built yet — for tomorrow.** These 4 are ready to scaffold, get a
+proper branding pass (real photos/logo per `branding-extraction.md`,
+Cesaretti especially has good press-photo material via Adnkronos/
+Turismo Roma/negozidiroma.com), and get outreach drafted and shown
+before sending, same process as every other round.
 
 ## Structure
 
