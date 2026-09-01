@@ -15,7 +15,8 @@
   Roma instagram/facebook"), poi coltelleriadanielaprezioso.com
   fetchato direttamente (home + il-negozio) per storia, contatti, orari
   e foto.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-01 to preziosodaniela1969@gmail.com, Gmail message ID `1a05c3f6890ca3fa`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/coltelleria-prezioso/
 - **Sold:** no
 - **Notes:**

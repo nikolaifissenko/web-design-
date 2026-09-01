@@ -17,8 +17,8 @@
   PDE (publisher distributor)'s "Facce da libreria" feature, 13 July
   2020 (pde.it), the only source anywhere that had an actual photo of
   the shop's interior.
-- **Status:** demo-built, outreach drafted below, not yet sent (awaiting
-  Nikolai's review, per CLAUDE.md).
+- **Status:** outreach-sent (email sent 2026-09-01 to libreria.tombolini@iol.it, Gmail message ID `1a05c3f6e7a69a4f`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/libreria-tombolini/
   (not live yet, branch not merged to `main`)
 - **Sold:** no

@@ -16,7 +16,8 @@
 - **Sources:** web search, poi anticatipografia.it fetchato
   direttamente (home, azienda, servizi) per storia, contatti, servizi e
   foto.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-01 to info@anticatipografia.it, Gmail message ID `1a05c403b047cf83`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-tipografia/
 - **Sold:** no
 - **Notes:**

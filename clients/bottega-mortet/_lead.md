@@ -6,7 +6,8 @@
 - **Email:** info@bottegamortet.com
 - **Facebook:** https://www.facebook.com/BottegaMortetdiRoma1889diDanteMorteteAndreaMortet/
 - **Current website:** bottegamortet.com. Reachable but confirmed dated: GIF-image navigation menu, early-2000s HTML, no responsive layout.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-01 to info@bottegamortet.com, Gmail message ID `1a05c3eaba619503`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/bottega-mortet/
 - **Sold:** no
 - **Notes:**

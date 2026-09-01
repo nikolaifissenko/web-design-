@@ -3,33 +3,35 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-08-28 end of session): Monday morning action list
+## Start here (2026-09-01): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. As of this session:
+source of truth. As of this update:
 
-- **15 demos built and live, pitch drafted, just need sending**: see
-  `DEMO BUILT, PITCH NOT SENT` in the pipeline output. Each `_lead.md`
-  has the outreach email ready (Italian, no price, no emoji, signed off
-  with 349 101 6416), just needs a final read and the send. One of the
-  15, `ristorante-panzirone`, is flagged verify by phone first (a
-  similarly-named business next door needs ruling out before contact).
+- **31 outreach threads open and waiting** (14 sent 2026-09-01, 13 sent
+  2026-08-26/27 with a follow-up already sent 2026-08-31, 4 DM/Messenger
+  leads sent 2026-08-28 also needing a follow-up nudge, DM channel only,
+  Claude cannot send those). Tracked automatically by the recurring
+  pipeline check-in Routine (fires every 3 days, drafts any follow-up
+  that comes due, checks Gmail for real replies/bounces when reachable).
+- **1 ready to send, held for a phone check first**: `ristorante-panzirone`.
+  Call 06 6813 4054 and confirm "Ristorante Panzirone, Piazza Navona 73,
+  dal 1914?" before sending, a similarly-named business next door needs
+  ruling out.
 - **1 blocked, needs a decision, not a build**: `il-pastarellaro`. Likely
   closed. Call 06 5810871 or 0658331598 to confirm before doing anything
   else with this lead.
-- **1 dropped entirely this session**: `trattoria-der-pallaro`, turned out
-  to already have a separate, modern, current site. Not a lead, no folder
-  left in the repo.
-- **17 emails already sent** (2026-08-26/27 rounds) are in their 3-day
-  waiting window, tracked automatically by the recurring pipeline
-  check-in Routine (fires every 3 days, drafts any follow-up that comes
-  due, checks Gmail for real replies/bounces when reachable).
+- **1 dropped entirely**: `trattoria-der-pallaro`, turned out to already
+  have a separate, modern, current site. Not a lead, no folder left in
+  the repo.
 - **1 bounced** (`consorti-cornici`), needs a phone call instead of email.
+- **0 sold so far.**
 - Every client folder's `_lead.md` is the single source of truth for that
   business: address, phone, email, exactly what's real vs. stock in the
-  demo, and the outreach draft. `README.md`'s history sections below are
-  a session-by-session log, useful for context on *why* something was
-  done, not for current status, that's what the pipeline script is for.
+  demo, and the outreach sent (with Gmail message ID). `README.md`'s
+  history sections below are a session-by-session log, useful for context
+  on *why* something was done, not for current status, that's what the
+  pipeline script is for.
 
 ## Status (2026-08-26)
 

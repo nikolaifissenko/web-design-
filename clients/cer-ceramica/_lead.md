@@ -16,8 +16,8 @@
   Roma") -> the shop's own WordPress blog, home page and "Chi Siamo"
   page (address, real photos with real EXIF data, a real promotional
   collage image with the shop's actual logo baked in).
-- **Status:** demo-built, outreach drafted below, not yet sent (awaiting
-  Nikolai's review, per CLAUDE.md).
+- **Status:** outreach-sent (email sent 2026-09-01 to cer.annamaria@gmail.com, Gmail message ID `1a05c3f773ee3594`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cer-ceramica/
   (not live yet, branch not merged to `main`)
 - **Sold:** no

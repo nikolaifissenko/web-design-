@@ -14,7 +14,8 @@
 - **Sources:** web search ("Cartoleria Roccas Via Arenula
   instagram/facebook"), poi cartolerieinternazionali.it fetchato
   direttamente per storia, contatti, foto e loghi.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-01 to info@incartoleria.it, Gmail message ID `1a05c3e2ac66150f`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/roccas-cartoleria/
 - **Sold:** no
 - **Notes:**

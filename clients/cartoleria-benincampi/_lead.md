@@ -16,7 +16,8 @@
 - **Sources:** web search ("Tabaccheria Benincampi Piazza Navona"), poi
   le pagine navonainfiore.com/the-shop e /cartoleria fetchate
   direttamente per storia, contatti e foto.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-01 to tabaccheriabenincampi@gmail.com, Gmail message ID `1a05c3e22027c779`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cartoleria-benincampi/
 - **Sold:** no
 - **Notes:**

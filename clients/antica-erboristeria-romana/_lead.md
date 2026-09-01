@@ -7,7 +7,8 @@
 - **Facebook:** https://www.facebook.com/Antica-Erboristeria-Romana-1471675236415766
 - **Current website:** anticaerboristeriaromana.it. Reachable but confirmed severely dated: GIF-era graphics, visibly broken character encoding on accented letters, no responsive layout.
 - **Flagged:** a possibly newer domain (anticaerboristeriaromanashop.com) may exist for this business. Found in search results but blocked by a Cloudflare challenge, could not verify contents or whether it's actually theirs. **If they reply pointing to that as their real site, that's expected, not a mistake**, same situation as Testaccio XIX-XXV's two domains.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-01 to info@anticaerboristeriaromana.it, Gmail message ID `1a05c3ea3cb43fad`, unconfirmed address, watch for a bounce)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-erboristeria-romana/
 - **Sold:** no
 - **Notes:**

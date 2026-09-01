@@ -6,7 +6,8 @@
 - **Email:** info@vetrategiuliani.com
 - **Facebook:** https://www.facebook.com/artedellavetrata/
 - **Current website:** vetrategiuliani.com. Returned HTTP 503 on every check this session (server error, effectively down). Worth re-verifying before outreach in case it's a temporary outage, but a serious problem either way for a business with international clients.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-01 to info@vetrategiuliani.com, Gmail message ID `1a05c3db7f4ccdca`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/vetrate-arte-giuliani/
 - **Sold:** no
 - **Notes:**

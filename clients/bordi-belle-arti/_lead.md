@@ -19,9 +19,8 @@
   web search for founding history -> Il Cielo sopra Esquilino
   ("Botteghe storiche, Bordi: 106 anni passati nel rione", real
   press feature with a real storefront photo and family history).
-- **Status:** demo-built, outreach drafted below, not yet sent (awaiting
-  Nikolai's review, per CLAUDE.md: drafts get shown before sending,
-  never sent automatically).
+- **Status:** outreach-sent (email sent 2026-09-01 to bordi.bellearti@libero.it, Gmail message ID `1a05c3f030d93ec0`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/bordi-belle-arti/
   (not live yet: this branch has not been merged to `main`, which is
   what GitHub Pages serves)

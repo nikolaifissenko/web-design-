@@ -25,8 +25,8 @@
   (partner/discount listings, no real photos) -> the shop's own
   e-commerce site (real logo files found in `/miner/images/`, but only
   book-cover thumbnails otherwise, no storefront/interior photos).
-- **Status:** demo-built, outreach drafted below, not yet sent (awaiting
-  Nikolai's review, per CLAUDE.md).
+- **Status:** outreach-sent (email sent 2026-09-01 to info@minervalibreria.it, Gmail message ID `1a05c3fe517f7ba9`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/libreria-minerva/
   (not live yet, branch not merged to `main`)
 - **Sold:** no

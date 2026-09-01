@@ -8,7 +8,8 @@
 - **Facebook:** https://www.facebook.com/cantina.cantarini/ (confirmed)
 - **Email:** santinafattori1964@gmail.com, found printed in the footer of their own site, not invented.
 - **Sources:** their own site (address, phone, hours, email, real logo, real food photos), Touring Club Italiano and Turismo Roma (history: founded 1903 by Mariano Cantarini), camillabaresani.com (2019 feature article with a real exterior photo of the storefront in Piazza Sallustio).
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-01 to santinafattori1964@gmail.com, Gmail message ID `1a05c40548e5ba61`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cantina-cantarini/
 - **Sold:** no
 - **Notes:**

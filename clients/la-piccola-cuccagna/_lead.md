@@ -8,7 +8,8 @@
 - **Facebook:** https://www.facebook.com/piccolacuccagna/ (confirmed)
 - **Email:** lapiccolacuccagna@gmail.com (confirmed across multiple independent listing sources)
 - **Sources:** Turismo Roma, restaurant aggregator listings (address/phone/email cross-confirmed across Yelp, Tripadvisor listings, Sluurpy), piatti.menu (2 real photos with visible signage, see notes), independent web search for reviews/history (Hostaria dal 1950).
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-01 to lapiccolacuccagna@gmail.com, Gmail message ID `1a05c404c8ce5e71`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/la-piccola-cuccagna/
 - **Sold:** no
 - **Notes:**
