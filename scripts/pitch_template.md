@@ -1,20 +1,20 @@
 # Outreach message template
 
-Use after a demo site is live — **and verified live on the actual
+Use after a demo site is live, **and verified live on the actual
 `nikolaifissenko.github.io` URL, not just the local file** (GitHub Pages
 serves from `main` only; a demo sitting on an unmerged branch will 404
-even though it renders fine locally — check the real URL with `curl` before
-sending, every time). Keep it short — the demo does the selling.
+even though it renders fine locally, check the real URL with `curl` before
+sending, every time). Keep it short: the demo does the selling.
 
-**Persona (updated 2026-08-26, refined same day): professional, full stop
-— no justification clause either.** First pass: earlier drafts opened
+**Persona (updated 2026-08-26, refined same day): professional, full stop,
+no justification clause either.** First pass: earlier drafts opened
 with "I just discovered a passion for web design, it's new to me, I hope
-to make it my job someday" — a practicing-beginner framing. Nikolai asked
+to make it my job someday", a practicing-beginner framing. Nikolai asked
 to drop that in favor of "web designer freelance... è un lavoro che
-faccio con cura, perché ci credo" — better, but still explaining/
+faccio con cura, perché ci credo", better, but still explaining/
 justifying the job, which reads a little like someone building a case
 for themselves. **Second pass, Nikolai's actual instruction: just say
-"I'm a web designer." No preamble about passion or care — a real
+"I'm a web designer." No preamble about passion or care: a real
 professional states what he does and moves straight to the point.**
 Below is the current standard opening in both languages.
 
