@@ -16,6 +16,7 @@ CLIENTS = ROOT / "clients"
 FOLLOWUP_DAYS = 3  # first bump due this many days after send with no reply
 
 DATE_RE = re.compile(r"sent (\d{4}-\d{2}-\d{2})")
+FOLLOWUP_DATE_RE = re.compile(r"follow-up sent (\d{4}-\d{2}-\d{2})", re.IGNORECASE)
 FIELD_RE = re.compile(r"^-\s+\*\*(\w[\w /]*):\*\*\s*(.*)$")
 
 
@@ -64,9 +65,16 @@ def classify(slug: str, fields: dict) -> dict:
     m = DATE_RE.search(status)
     if m:
         sent = datetime.strptime(m.group(1), "%Y-%m-%d").date()
+        fm = FOLLOWUP_DATE_RE.search(response)
+        followup_count = len(FOLLOWUP_DATE_RE.findall(response))
+        if fm:
+            followup_date = datetime.strptime(fm.group(1), "%Y-%m-%d").date()
+            if followup_date > sent:
+                sent = followup_date
         days = (date.today() - sent).days
         result["sent_date"] = sent
         result["days_since"] = days
+        result["followup_count"] = followup_count
         if "interested" in response or "reply" in response and "no reply" not in response:
             result["bucket"] = "REPLIED"
         elif days >= FOLLOWUP_DAYS:
@@ -114,7 +122,9 @@ def main():
                 who = "Nikolai (DM/phone only)" if l.get("needs_human") else "email available"
                 print(f"  - {l['slug']}  [{who}]")
             elif key in ("NEEDS_FOLLOWUP", "WAITING"):
-                print(f"  - {l['slug']}  (sent {l['sent_date']}, {l['days_since']}d ago)")
+                fc = l.get("followup_count", 0)
+                fc_note = f", {fc} follow-up(s) already sent" if fc else ""
+                print(f"  - {l['slug']}  (last contact {l['sent_date']}, {l['days_since']}d ago{fc_note})")
             elif key == "DEAD_CHANNEL":
                 print(f"  - {l['slug']}  ({l['status_raw'][:80]})")
             elif key == "DEMO_READY_NOT_SENT":
