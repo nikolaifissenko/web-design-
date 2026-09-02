@@ -21,6 +21,19 @@ source of truth. As of this update:
   cannot send those. Tracked automatically by the recurring pipeline
   check-in Routine (fires every 3 days, drafts any follow-up that comes
   due, checks Gmail for real replies/bounces when reachable).
+- **1 new demo built today, ready to send, draft shown to Nikolai for
+  review first**: `torrefazione-foroni` (San Giovanni, dal 1920, dead
+  domain, real confirmed email). See its `_lead.md` for the full draft.
+- **1 promising lead found but not built**: L'Antico Forno di Fontana di
+  Trevi (Via delle Muratte 8, no website anywhere, but a genuinely
+  active Instagram with 23K followers, no email found despite a real
+  search). Queued, not built, since Claude has no channel to actually
+  contact it, same situation as the other DM-only leads.
+- **1 lead ruled out after deeper checking**: Antica Macelleria Annibale
+  / Mastroddi (via di Ripetta), a historic butcher whose domain had
+  expired. Turned out the shop itself closed permanently in January
+  2026 after 138 years (confirmed via Gambero Rosso and RomaToday), not
+  just a neglected website. Correctly dropped before building anything.
 - **1 ready to send, held for a phone check first**: `ristorante-panzirone`.
   Call 06 6813 4054 and confirm "Ristorante Panzirone, Piazza Navona 73,
   dal 1914?" before sending, a similarly-named business next door needs
