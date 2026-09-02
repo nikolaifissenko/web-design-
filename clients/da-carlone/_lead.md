@@ -9,7 +9,7 @@
 - **Sources:** RomaToday, TrovaAperto, Tripadvisor/Yelp (address, phone, hours: Tue-Sun 12:00-23:00, closed Monday); RomaToday feature piece (family-run 20+ years, traditional Roman home cooking, carbonara/amatriciana specialties).
 - **Status:** outreach-sent (Instagram DM sent 2026-08-28 by Nikolai directly, screenshot attached)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/da-carlone/
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-02 by Nikolai directly (Instagram DM, per the "Follow-up nudge" draft below).
 - **Sold:** no
 - **Notes:**
   - No email found — outreach by phone or Instagram DM.

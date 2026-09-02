@@ -9,7 +9,7 @@
 - **Sources:** EsteticaELavoro professional listing (services), Virgilio/PagineGialle (address, hours, phone).
 - **Status:** outreach-sent (Instagram DM sent 2026-08-28 by Nikolai directly, screenshot attached)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/monego-pigneto/
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-02 by Nikolai directly (Instagram DM, per the "Follow-up nudge" draft below).
 - **Sold:** no
 - **Notes:**
   - No email found anywhere public — outreach needs to be by phone or Instagram DM.
