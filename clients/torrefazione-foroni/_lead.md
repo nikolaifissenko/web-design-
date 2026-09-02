@@ -20,9 +20,11 @@
   (a November 2016 blog post specifically about visiting this shop, used
   for real photos, checked image-by-image, see below) -> RomaToday for
   general confirmation of the shop's existence and address.
-- **Status:** demo-built, not yet contacted (see outreach draft below)
+- **Status:** outreach-sent (email sent 2026-09-02 to
+  torrefazionedrogheriaforoni@gmail.com, Gmail message ID `1a06091fc7b28499`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/torrefazione-foroni/
 - **Sold:** no
+- **Response:** no reply yet
 - **Notes:**
   - **Everything on this demo is real, zero stock.** Founded 1920 (date
     taken directly off the shop's own coffee packaging, see
@@ -59,7 +61,7 @@
   - Hours (Mon-Sat 8:30-13:00 / 16:30-20:00, closed Sunday) confirmed
     via independent aggregator search, consistent across sources.
 
-## Outreach email (drafted, not yet sent, showing here for review first)
+## Outreach email (sent 2026-09-02)
 
 No personal visit to this shop has been confirmed with Nikolai, so this
 draft doesn't claim one. The concrete, verifiable hook is the dead
