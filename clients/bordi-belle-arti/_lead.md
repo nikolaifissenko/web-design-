@@ -19,8 +19,15 @@
   web search for founding history -> Il Cielo sopra Esquilino
   ("Botteghe storiche, Bordi: 106 anni passati nel rione", real
   press feature with a real storefront photo and family history).
-- **Status:** outreach-sent (email sent 2026-09-01 to bordi.bellearti@libero.it, Gmail message ID `1a05c3f030d93ec0`)
-- **Response:** no reply yet
+- **Status:** email-bounced, the address is dead. Sent 2026-09-01 to
+  bordi.bellearti@libero.it (Gmail message ID `1a05c3f030d93ec0`), but it
+  hard-bounced within seconds: `550 Invalid Recipient
+  <bordi.bellearti@libero.it>`, Status 5.1.1, mailbox unavailable. The
+  email read off their own Blogspot page no longer exists.
+- **Response:** n/a, message never delivered. **Real channel needed: call
+  06 44700346** and mention the demo link directly, or ask for a working
+  email during the call. Instagram/Facebook handles are on file above as
+  a backup channel if the call doesn't work.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/bordi-belle-arti/
   (not live yet: this branch has not been merged to `main`, which is
   what GitHub Pages serves)

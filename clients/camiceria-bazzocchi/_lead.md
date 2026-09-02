@@ -10,9 +10,14 @@
 - **Sources:** found via Roma Capitale's official historic-shops registry
   (Albo Botteghe Storiche) → web search for address/contact → fetched
   camiceriabazzocchi.it directly for real text, colors, logo, and photos.
-- **Status:** outreach sent (email sent 2026-08-27 to info@camiceriabazzocchi.it, Gmail message ID `1a0456ea351f6955`).
+- **Status:** replied, not interested. Outreach sent 2026-08-27 (Gmail
+  message ID `1a0456ea351f6955`), follow-up sent 2026-08-31 (Gmail
+  message ID `1a058977e84f2c14`). They replied the same day, 2026-08-31
+  16:58, from camiceria.bazzocchi@libero.it: "Buonasera la ringrazio per
+  la proposta ma in questo momento non siamo interessati." Polite
+  decline, closed. No further contact on this lead.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/camiceria-bazzocchi/
-- **Response:** no reply yet. Follow-up sent 2026-08-31 (Gmail message ID `1a058977e84f2c14`), thread re-checked first, confirmed no reply/bounce before sending.
+- **Response:** declined 2026-08-31, see above.
 - **Sold:** no
 - **Notes:**
   - **Everything on this demo is real — zero stock.**

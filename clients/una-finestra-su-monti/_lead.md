@@ -6,9 +6,17 @@
 - **Email:** info@bbromamonti.com
 - **Current website:** bbromamonti.com — confirmed bad (eyeballed in an earlier session): static, repetitive layout; broken/dead Google+ share buttons (Google+ shut down in 2019); leftover unfinished placeholder text "You can add any HTML here" still visible on the live page.
 - **Sources:** bbromamonti.com (name, address, phone, email, real photos, real theme color — pulled directly from their own site and stylesheet).
-- **Status:** outreach-sent (email sent 2026-08-26 to info@bbromamonti.com — Gmail message ID `1a03c2448da37a88`)
+- **Status:** email-bounced, address now dead. Original sent 2026-08-26
+  to info@bbromamonti.com (Gmail message ID `1a03c2448da37a88`) went
+  through with no bounce. Follow-up sent 2026-08-31 (Gmail message ID
+  `1a0589733ce240d8`) hard-bounced within seconds: `550 5.2.0 Mittente
+  rifiutato / Sender rejected`, their mail server (mx.bbromamonti.com)
+  rejecting the sender outright, not just a full inbox. Treat the address
+  as dead going forward.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/una-finestra-su-monti/
-- **Response:** no reply yet. Follow-up sent 2026-08-31 (Gmail message ID `1a0589733ce240d8`), thread re-checked first, confirmed no reply/bounce before sending.
+- **Response:** n/a, no reply, and no further email possible.
+  **Real channel needed: call 06 4817640** and mention the demo link
+  directly, or ask for a working email during the call.
 - **Sold:** no
 - **Notes:**
   - **Real photos used, not stock.** Downloaded directly from their WordPress media library: a high-res Superior room shot, a Suite room detail (fresh linens/towels), a Camera Doppia interior, and a real Piazza Navona sunset photo they use themselves on their "location" section.

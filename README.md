@@ -3,17 +3,24 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-01): current pipeline snapshot
+## Start here (2026-09-02): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
 source of truth. As of this update:
 
-- **31 outreach threads open and waiting** (14 sent 2026-09-01, 13 sent
-  2026-08-26/27 with a follow-up already sent 2026-08-31, 4 DM/Messenger
-  leads sent 2026-08-28 also needing a follow-up nudge, DM channel only,
-  Claude cannot send those). Tracked automatically by the recurring
-  pipeline check-in Routine (fires every 3 days, drafts any follow-up
-  that comes due, checks Gmail for real replies/bounces when reachable).
+- **1 decline** (`camiceria-bazzocchi`): replied 2026-08-31, "grazie ma
+  non siamo interessati." Closed, no further contact.
+- **3 bounced, dead email addresses**, each needs a phone call instead:
+  `consorti-cornici` (06 39749127), `bordi-belle-arti` (06 44700346),
+  `una-finestra-su-monti` (06 4817640, this one bounced on the follow-up
+  only, the original send went through).
+- **27 outreach threads still open and waiting** on their normal cadence
+  (nothing due for a fresh send or follow-up as of 2026-09-02, all under
+  the 3-day follow-up threshold), plus **4 DM/Messenger leads** sent
+  2026-08-28 still needing a follow-up nudge, DM channel only, Claude
+  cannot send those. Tracked automatically by the recurring pipeline
+  check-in Routine (fires every 3 days, drafts any follow-up that comes
+  due, checks Gmail for real replies/bounces when reachable).
 - **1 ready to send, held for a phone check first**: `ristorante-panzirone`.
   Call 06 6813 4054 and confirm "Ristorante Panzirone, Piazza Navona 73,
   dal 1914?" before sending, a similarly-named business next door needs
@@ -24,7 +31,6 @@ source of truth. As of this update:
 - **1 dropped entirely**: `trattoria-der-pallaro`, turned out to already
   have a separate, modern, current site. Not a lead, no folder left in
   the repo.
-- **1 bounced** (`consorti-cornici`), needs a phone call instead of email.
 - **0 sold so far.**
 - Every client folder's `_lead.md` is the single source of truth for that
   business: address, phone, email, exactly what's real vs. stock in the
@@ -53,7 +59,7 @@ channel at all; 5 more on 2026-08-28, see "Leads not being pursued" below):
 | `da-carlone` | trattoria | Trastevere | Instagram DM / phone | **yes** (Instagram DM, 2026-08-28) |
 | `trastevereinbed` | B&B | Trastevere | email (verified) | **yes** (2026-08-26) |
 | `roma-trasteverina` | B&B | Trastevere | email (found 2026-08-26) | **yes** (2026-08-26) |
-| `una-finestra-su-monti` | B&B | Monti | email (verified) | **yes** (2026-08-26) |
+| `una-finestra-su-monti` | B&B | Monti | email — **bounced on follow-up, dead now** | attempted, undelivered |
 | `sartoria-carbone` | sartoria (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 | `antica-legatoria-del-vico` | legatoria (artisan) | Centro storico (Navona) | email (verified) | **yes** (2026-08-26) |
 | `consorti-cornici` | corniciaio (artisan) | Balduina | email — **bounced, dead address** | attempted, undelivered |
@@ -61,7 +67,7 @@ channel at all; 5 more on 2026-08-28, see "Leads not being pursued" below):
 | `fratelli-anzilotti` | restauro mobili (artisan) | Prati | email (verified) | **yes** (2026-08-26) |
 | `tappezzeria-de-matthaeis` | tappezziere (artisan) | Montesacro | email (verified) | **yes** (2026-08-26) |
 | `il-fabbro-artigiano` | fabbro (artisan) | zona Sassonegro | email (verified) | **yes** (2026-08-26) |
-| `camiceria-bazzocchi` | camiceria (artisan) | Centro storico (Trevi) | email (verified) | **yes** (2026-08-27) |
+| `camiceria-bazzocchi` | camiceria (artisan) | Centro storico (Trevi) | email (verified) | **yes, declined 2026-08-31** |
 | `antica-stamperia-trevi` | stamperia (artisan) | Centro storico (Trevi) | email (found on packaging photo, verify by phone first) | **yes** (2026-08-27) |
 
 **Leads not being pursued (2026-08-28, Nikolai's call, demos and lead
