@@ -15,9 +15,11 @@
   search cross-confirming contact details -> a RomaToday feature article
   dedicated specifically to this shop (used for real photos and history,
   not a multi-shop blog, so no risk of mixing up a different business).
-- **Status:** demo-built, not yet contacted (see outreach draft below)
+- **Status:** outreach-sent (email sent 2026-09-02 to
+  f.lliciavatta@gmail.it, Gmail message ID `1a06096f015040ed`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/salumeria-ciavatta/
 - **Sold:** no
+- **Response:** no reply yet
 - **Notes:**
   - **Everything on this demo is real, zero stock.** Founded 1956 by
     Giuseppe Ciavatta and his wife Lena Agostini, now run by their
@@ -44,7 +46,7 @@
     confermare" per the usual convention, needs a phone call to confirm.
   - No prices published anywhere, left blank in `config.js`.
 
-## Outreach email (drafted, not yet sent, showing here for review first)
+## Outreach email (sent 2026-09-02)
 
 No personal visit to this shop has been confirmed with Nikolai, so this
 draft doesn't claim one. The concrete, verifiable hook is the total
