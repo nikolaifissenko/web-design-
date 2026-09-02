@@ -75,8 +75,10 @@ def classify(slug: str, fields: dict) -> dict:
         result["sent_date"] = sent
         result["days_since"] = days
         result["followup_count"] = followup_count
-        if "interested" in response or "reply" in response and "no reply" not in response:
+        declined = "declin" in response or "not interested" in response or "non interessat" in response
+        if declined or "interested" in response or "reply" in response and "no reply" not in response:
             result["bucket"] = "REPLIED"
+            result["declined"] = declined
         elif days >= FOLLOWUP_DAYS:
             result["bucket"] = "NEEDS_FOLLOWUP"
         else:
@@ -130,6 +132,9 @@ def main():
             elif key == "DEMO_READY_NOT_SENT":
                 flag = "  [VERIFY BY PHONE FIRST]" if l.get("verify_first") else ""
                 print(f"  - {l['slug']}{flag}")
+            elif key == "REPLIED":
+                note = "  [DECLINED, no further action]" if l.get("declined") else ""
+                print(f"  - {l['slug']}{note}")
             else:
                 print(f"  - {l['slug']}")
         print()
