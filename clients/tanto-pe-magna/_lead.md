@@ -22,6 +22,20 @@
     - All sourced from piatti.menu's public listing for this restaurant (`piatti.menu/restaurants/roma-3/tanto-pe-magna-3`), not Instagram.
   - **Aesthetic refreshed twice** (per Nikolai, 2026-08-25): first pass switched off the generic template palette to a warmer terracotta/dark-brown scheme with a Fraunces serif heading font. Then Nikolai found their real Instagram logo (black hand-lettered brush script "TANTO PE MAGNA" in a white circular stamp, "GARBATELLA" / "TRATTORIA ROMANA" in small caps) — switched to match: true black/white (`#161616` / `#2b2b2b`), logo saved as `images/logo.jpg`, and a Permanent Marker heading font to echo the brush lettering. Note: this sandbox's test browser can't fetch Google Fonts (network-restricted), so the font choice is verified in code/config only — confirm it renders as expected once viewing the live URL on a normal connection.
 
+## Follow-up nudge (ready to send, new style, 2026-09-02)
+
+A first DM already went out 2026-08-28 (Facebook Messenger) with the old
+pre-persona-update draft below (still using the "practicing beginner"
+framing and stating the price outright, both superseded, see
+`pitch_template.md`). This lead is now due for a follow-up, not a full
+re-pitch, so it's a short nudge. No price, no em dashes.
+
+> Ciao! Volevo solo sapere se avete avuto modo di dare un'occhiata alla
+> demo che vi ho preparato. Mi farebbe piacere sapere cosa ne pensate.
+
+Send in the same Facebook Messenger thread as the first message (or
+Instagram DM to @tanto.pe.magna if that's easier).
+
 ## Outreach draft — personal story angle
 
 Same approach as the other 5 leads — leads with Nikolai's real story instead of a sales pitch.
@@ -37,11 +51,16 @@ Same approach as the other 5 leads — leads with Nikolai's real story instead o
 > Grazie mille,
 > Nikolai
 
-Send via Instagram DM to @tanto.pe.magna (now confirmed — this is likely the best channel, matches the pattern of the other trattorie), or Facebook Messenger to the page, or call 06 5160 7422 and follow up with a message so they have the link to click.
+**Superseded 2026-09-02**: predates the 2026-08-26 persona update (drops
+the "practicing beginner" framing) and the 2026-09-02 no-price-stated
+rule. Kept here for the record only, the DM already sent used this
+version. Do not reuse for future sends.
 
 ## Outreach draft — email version (no address confirmed yet)
 
-Ready to use if an email turns up (calling and asking, a business registry, etc).
+**Superseded 2026-09-02**, same reason as above: old persona, states the
+price. If an email address does turn up, redraft using the current
+`pitch_template.md` structure instead of reusing this.
 
 Subject: Un sito rifatto per Tanto pè Magnà (giusto per farvi vedere)
 

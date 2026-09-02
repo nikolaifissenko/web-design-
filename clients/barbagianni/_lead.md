@@ -18,7 +18,27 @@
   - ~~Photos are stock, not the real shop~~ — **2026-08-26: hero/about replaced with real photos.** Found via RomaToday's dedicated feature on Ali Can (`romatoday.it/zone/pigneto/pigneto/barbagianni-barbiere-curdo-pigneto.html`): `hero.jpg` is the shop's actual entrance (barber pole, "BARBAGIANNI" poster on the door), `about.jpg` is a real portrait of Ali Can sitting inside the shop — genuinely the person and place this whole pitch is about. Gallery images (`gallery-1/2/3.jpg`) remain stock, Free Unsplash License, no attribution required — IDs `photo-1759134248487-e8baaf31e33e` / `photo-1682989356229-a244c8903492` / `photo-1764712784236-7019d1565cb7`. Swap for real shop photos if/when the client buys.
   - **Logo and palette ARE real** — cropped from the actual @barbagianni_haircuts_shaves_ Instagram profile picture (Nikolai sent a screenshot since the page itself is login-walled to automated requests). Saved as `images/logo.jpg`. Theme switched to true black/white (`#161616` / `#2e2b28`) to match, plus an Oswald heading font to echo the logo's bold vintage-barbershop type.
 
+## Follow-up nudge (ready to send, new style, 2026-09-02)
+
+A first DM already went out 2026-08-28 with the old pre-persona-update
+draft below (still using the "practicing beginner" framing and stating
+the price outright, both superseded, see `pitch_template.md`). This
+lead is now due for a follow-up, not a full re-pitch, so it's a short
+nudge, matching the informal register already established for this
+neighborhood barbershop. No price, no em dashes.
+
+> Ciao! Volevo solo assicurarmi che aveste visto la demo che vi ho
+> preparato. Mi farebbe piacere sapere cosa ne pensate.
+
+Send via Instagram DM to @barbagianni_haircuts_shaves_, in the same
+thread as the first message.
+
 ## Outreach draft — personal story angle (recommended, per Nikolai)
+
+**Superseded 2026-09-02**: predates the 2026-08-26 persona update (drops
+the "practicing beginner" framing) and the 2026-09-02 no-price-stated
+rule. Kept here for the record only, the DM already sent used this
+version. Do not reuse for future sends.
 
 Leads with the real "new web designer chasing a passion" story instead of a sales pitch — softer ask, more likely to get a warm reply than a pure business pitch would.
 
@@ -34,6 +54,9 @@ Leads with the real "new web designer chasing a passion" story instead of a sale
 > Nikolai
 
 ## Outreach draft — business pitch angle (alternate)
+
+**Superseded 2026-09-02**, same reason as above: states the price. Not
+used, kept for the record only.
 
 Italian, informal (fits the neighborhood/shop vibe):
 

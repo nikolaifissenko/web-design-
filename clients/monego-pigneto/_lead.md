@@ -18,7 +18,26 @@
   - **2026-08-26: checked for real photos, found none usable.** Treatwell (their main listing beyond Instagram/Facebook) is a client-rendered SPA with zero static photo URLs in the raw HTML — same dead end as Instagram. Virgilio/Firmania directory pages returned only other nearby businesses' images, not verifiably theirs — didn't use them rather than risk misattributing a photo. Real fix here is the same as Instagram: ask Nikolai for a screenshot from their Instagram/Facebook to crop from by hand.
   - **Logo, palette, and tagline ARE real** — cropped from the actual @monegopigneto Instagram profile picture (Nikolai sent a screenshot since the page itself is login-walled to automated requests). Saved as `images/logo.jpg`. Tagline updated to their real one, "L'evoluzione della bellezza." Theme switched to true black/white (`#161616` / `#2b2b2b`) to match, plus a Playfair Display heading font to echo the logo's elegant script feel.
 
+## Follow-up nudge (ready to send, new style, 2026-09-02)
+
+A first DM already went out 2026-08-28 with the old pre-persona-update
+draft below (still using the "practicing beginner" framing and stating
+the price outright, both superseded, see `pitch_template.md`). This
+lead is now due for a follow-up, not a full re-pitch, so it's a short
+nudge. No price, no em dashes.
+
+> Ciao! Volevo solo assicurarmi che aveste visto la demo che vi ho
+> preparato. Mi farebbe piacere sapere cosa ne pensate.
+
+Send via Instagram DM to @monegopigneto, in the same thread as the
+first message.
+
 ## Outreach draft — personal story angle (recommended, per Nikolai)
+
+**Superseded 2026-09-02**: predates the 2026-08-26 persona update (drops
+the "practicing beginner" framing) and the 2026-09-02 no-price-stated
+rule. Kept here for the record only, the DM already sent used this
+version. Do not reuse for future sends.
 
 Same approach as Barbagianni: leads with the real "new web designer chasing a passion" story instead of a sales pitch.
 
@@ -34,6 +53,9 @@ Same approach as Barbagianni: leads with the real "new web designer chasing a pa
 > Nikolai
 
 ## Outreach draft — business pitch angle (alternate)
+
+**Superseded 2026-09-02**, same reason as above: states the price. Not
+used, kept for the record only.
 
 > Ciao! Sono passato a vedere Monego Pigneto e vi ho preparato una bozza di sito, per farvi vedere come potrebbe apparire online: https://nikolaifissenko.github.io/web-design-/clients/monego-pigneto/
 >

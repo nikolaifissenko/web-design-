@@ -19,6 +19,30 @@
   - No published prices found anywhere, left blank in `config.js`.
   - Hours (12:00-02:00 daily) come from a general review aggregator summary, not the official Turismo Roma page (which didn't list hours), worth confirming by phone along with the identity question above.
 
-## Outreach, not yet drafted or sent
+## Outreach draft (ready once the phone verification above is done, new style, 2026-09-02)
 
-Holding off on drafting outreach until the Piazza Navona 72 vs 73 naming question above is resolved. Sending a demo that turns out to be built on the wrong business's details would undercut the whole honest, low-pressure premise of this outreach. No message has been sent on any channel for this lead.
+Still holding off on actually sending until the Piazza Navona 72 vs 73
+naming question above is resolved by phone. Drafted now so it's ready
+the moment that's confirmed. No em dashes, no price, follows the current
+`pitch_template.md` structure (link right after the greeting).
+
+> Buongiorno, sono Nikolai, web designer freelance qui a Roma.
+>
+> Le ho preparato gratuitamente una versione nuova del sito di
+> Ristorante Panzirone, con le vostre vere foto:
+>
+> https://nikolaifissenko.github.io/web-design-/clients/ristorante-panzirone/
+>
+> L'ho fatto perché il vostro dominio panzirone.it non è più
+> raggiungibile, e l'unico sito che si trova online sembra scritto in
+> automatico, senza dettagli veri: per un ristorante a Piazza Navona dal
+> 1914 mi sembrava un peccato non avere una presenza online che rendesse
+> giustizia a una storia così lunga.
+>
+> Nessun obbligo. Se il risultato le piace, mi farebbe davvero piacere
+> parlarne. Resto a disposizione anche solo per un parere sincero, o mi
+> può chiamare direttamente.
+>
+> Grazie mille per il suo tempo,
+> Nikolai
+> 349 101 6416

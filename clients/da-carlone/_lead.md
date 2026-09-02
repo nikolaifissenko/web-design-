@@ -18,7 +18,26 @@
   - ~~Photos are stock, not the real trattoria~~ — **2026-08-26: replaced with real photos.** Instagram itself remains unreachable by automated fetch (confirmed again — it's a client-rendered SPA with no static photo URLs in the raw HTML, not just a 403), so instead of scraping @anticatrattoriadacarlone directly, found a dedicated editorial feature on this exact restaurant at flawless.life (`flawless.life/en/italy/rome/antica-trattoria-da-carlone`), with real Canon EOS-shot photos (EXIF-verified, not stock): `hero.jpg` = outdoor tables on Via della Luce at dusk, `about.jpg` = rigatoni being tossed in a pan, `gallery-1.jpg` = a plated cacio e pepe. Dropped `gallery-2`/`gallery-3` (only 3 real photos found, no need to pad with stock alongside them).
   - **Aesthetic refreshed** (per Nikolai, 2026-08-25): switched off the generic template palette to a deep brick-red/dark-brown scheme (`#8f2f22` / `#26201b`), a warm cream background instead of cold gray, and a Cormorant Garamond serif heading font — classic and elegant, fitting a 20+ year heritage trattoria in Trastevere.
 
+## Follow-up nudge (ready to send, new style, 2026-09-02)
+
+A first DM already went out 2026-08-28 with the old pre-persona-update
+draft below (still using the "practicing beginner" framing and stating
+the price outright, both superseded, see `pitch_template.md`). This
+lead is now due for a follow-up, not a full re-pitch, so it's a short
+nudge. No price, no em dashes.
+
+> Ciao! Volevo solo sapere se avete avuto modo di dare un'occhiata alla
+> demo che vi ho preparato. Mi farebbe piacere sapere cosa ne pensate.
+
+Send via Instagram DM to @anticatrattoriadacarlone, in the same thread
+as the first message.
+
 ## Outreach draft — personal story angle
+
+**Superseded 2026-09-02**: predates the 2026-08-26 persona update (drops
+the "practicing beginner" framing) and the 2026-09-02 no-price-stated
+rule. Kept here for the record only, the DM already sent used this
+version. Do not reuse for future sends.
 
 Same approach as the other 5 leads — leads with Nikolai's real story instead of a sales pitch.
 
@@ -37,7 +56,9 @@ Send via Instagram DM to @anticatrattoriadacarlone, or call 06 5800039 and follo
 
 ## Outreach draft — email version (no address confirmed yet)
 
-Ready to use if an email turns up (calling and asking, a business registry, etc).
+**Superseded 2026-09-02**, same reason as above: old persona, states the
+price. If an email address does turn up, redraft using the current
+`pitch_template.md` structure instead of reusing this.
 
 Subject: Un sito rifatto per Antica Trattoria da Carlone (giusto per farvi vedere)
 
