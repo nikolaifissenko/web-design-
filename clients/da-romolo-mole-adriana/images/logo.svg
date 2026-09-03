@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="50" fill="#f1e6d4"/>
+  <!-- Stylized Castel Sant'Angelo (Mole Adriana): drum fortress with
+       battlements and the small central statue on top, redrawn as a
+       simple icon-only mark from the restaurant's real burgundy
+       line-art logo (a landscape illustration too wide/detailed to
+       crop into this circular slot). Colors sampled from the real
+       logo (burgundy #7f1418) and the site's own accent tan
+       (#b9977b, used for the site's header band). -->
+  <g fill="none" stroke="#7f1418" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- ground line -->
+    <line x1="18" y1="74" x2="82" y2="74"/>
+    <!-- main drum -->
+    <path d="M28 74 V46 a22 22 0 0 1 44 0 V74"/>
+    <!-- battlements on drum rim -->
+    <path d="M28 46 h6 v-5 h5 v5 h6 v-5 h5 v5 h6 v-5 h5 v5 h6"/>
+    <!-- base plinth -->
+    <rect x="24" y="70" width="52" height="6" rx="1"/>
+    <!-- small upper cylinder -->
+    <path d="M38 46 V32 a12 12 0 0 1 24 0 v14"/>
+    <path d="M38 32 h4 v-4 h4 v4 h4 v-4 h4 v4 h4"/>
+    <!-- statue plinth + figure on top -->
+    <line x1="50" y1="24" x2="50" y2="15"/>
+    <circle cx="50" cy="11" r="4"/>
+    <!-- flanking cypress trees, echoing the real logo's trees -->
+    <path d="M17 74 V58 M17 58 c-4 0 -6 -3 -6 -6 c3 1 5 0 6 -2 c1 2 3 3 6 2 c0 3 -2 6 -6 6z"/>
+    <path d="M83 74 V58 M83 58 c-4 0 -6 -3 -6 -6 c3 1 5 0 6 -2 c1 2 3 3 6 2 c0 3 -2 6 -6 6z"/>
+  </g>
+</svg>
