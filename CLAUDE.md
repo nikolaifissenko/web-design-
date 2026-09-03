@@ -46,7 +46,9 @@ just a style preference.
   low-pressure angle this project depends on.
 - **Show the full draft in the conversation before sending anything**,
   written out as normal prose, not a bulleted/dashed summary. Nikolai
-  reviews the actual words that would be sent, not a paraphrase of them.
+  reviews the actual words that would be sent, not a paraphrase of
+  them. (Exception: an explicit "work autonomously" instruction, see
+  above, still show the sent text afterward, just don't wait on it.)
 - **Only send what there's an actual channel for.** Claude can send
   email (Gmail) directly once a draft is approved. Claude cannot send
   Instagram DMs, Facebook Messenger messages, WhatsApp messages, or make
