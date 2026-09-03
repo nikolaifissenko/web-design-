@@ -20,8 +20,8 @@
 - **Sources:** fetch diretto del loro sito (HTML, immagini, PDF del
   menù) + il badge/link dell'Associazione Negozi Storici d'Eccellenza
   presente sul sito stesso.
-- **Status:** demo-built, outreach drafted, non ancora inviato (in attesa
-  di revisione/merge su main).
+- **Status:** outreach-sent (email sent 2026-09-03 to
+  info@daromoloallamoleadriana.it, Gmail message ID `1a067e57b253cb8e`)
 - **Demo URL:**
   https://nikolaifissenko.github.io/web-design-/clients/da-romolo-mole-adriana/
   (non ancora verificato live, in attesa del merge su main).

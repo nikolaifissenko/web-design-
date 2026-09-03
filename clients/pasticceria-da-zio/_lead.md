@@ -13,7 +13,8 @@
   though its own embedded images have since gone dead on
   WordPress.com) -> Wanderlog (real customer photos re-hosted from
   review platforms, confirmed genuine, not stock).
-- **Status:** demo-built, outreach drafted, pending send.
+- **Status:** outreach-sent (email sent 2026-09-03 to
+  zioglennzio@gmail.com, Gmail message ID `1a067e5a5bbc3f87`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/pasticceria-da-zio/
   (not yet verified live, pending merge to main)
 - **Sold:** no

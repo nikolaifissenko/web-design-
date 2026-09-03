@@ -16,7 +16,8 @@
 - **Sources:** Roma Capitale historic-shops registry research pass ->
   botteghestoricheroma.com (the official historic-shops association's
   own listing, used for both the confirmed email and real photos).
-- **Status:** demo-built, outreach drafted, pending send.
+- **Status:** outreach-sent (email sent 2026-09-03 to
+  mancinicartoleria1936@gmail.com, Gmail message ID `1a067e5aceed9e32`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cartoleria-mancini/
   (not yet verified live, pending merge to main)
 - **Sold:** no

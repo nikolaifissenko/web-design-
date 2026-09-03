@@ -15,7 +15,8 @@
 - **Sources:** Roma Capitale historic-shops registry research pass ->
   independent web search confirming contact details -> Yelp (real
   customer photos of the shop and products).
-- **Status:** demo-built, outreach drafted, pending send.
+- **Status:** outreach-sent (email sent 2026-09-03 to
+  iprodottitrappisti@gmail.com, Gmail message ID `1a067e565e3169cb`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/prodotti-trappisti/
   (not yet verified live, pending merge to main)
 - **Sold:** no

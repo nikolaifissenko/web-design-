@@ -18,8 +18,8 @@
 - **Sources:** business brief provided directly, then the business's own
   site fetched page by page (home, chi-siamo, scuola-ceramica, produzione,
   restauro, contatti) for real photos, colors and the reusable logo icon.
-- **Status:** demo-built, outreach drafted, not sent (per instructions,
-  no send/commit/push this pass).
+- **Status:** outreach-sent (email sent 2026-09-03 to
+  info@terracromata.it, Gmail message ID `1a067e5b60dad6dc`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/terracromata-ceramica/
   (not yet verified live, pending merge to main)
 - **Sold:** no

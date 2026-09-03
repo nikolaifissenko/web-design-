@@ -15,7 +15,8 @@
   (fetched directly for content and real photos, EXIF-verified as
   genuine camera shots: Nikon COOLPIX P90, Nikon D90, Sony C6903, not
   stock).
-- **Status:** demo-built, outreach drafted, pending send.
+- **Status:** outreach-sent (email sent 2026-09-03 to
+  info@maurizioelora.com, Gmail message ID `1a067e58689c774f`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/maurizio-e-lora/
   (not yet verified live, pending merge to main)
 - **Sold:** no

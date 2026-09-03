@@ -14,7 +14,8 @@
 - **Sources:** Roma Capitale historic-shops registry research pass ->
   independent web search confirming contact details -> the business's
   own real (if dated) site for real interior/product photos.
-- **Status:** demo-built, outreach drafted, pending send.
+- **Status:** outreach-sent (email sent 2026-09-03 to
+  cartoeria.debiasi@gmail.com, Gmail message ID `1a067e571bb2d289`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cartolibreria-de-biasi/
   (not yet verified live, pending merge to main)
 - **Sold:** no

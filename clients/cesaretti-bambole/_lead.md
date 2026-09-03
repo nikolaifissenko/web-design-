@@ -17,8 +17,8 @@
   search confirming contact details -> RomaToday's 2011 feature on the
   shop's reopening -> negozidiroma.com, a dedicated feature on this
   specific shop, used for real photos.
-- **Status:** demo-built, outreach drafted, pending final batch of
-  research before a coordinated send (see README Round 12).
+- **Status:** outreach-sent (email sent 2026-09-03 to
+  info@cesaretti-bambole.com, Gmail message ID `1a067e5515672542`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cesaretti-bambole/
   (not yet verified live, pending merge to main)
 - **Sold:** no

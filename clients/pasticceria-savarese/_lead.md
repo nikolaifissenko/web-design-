@@ -20,7 +20,8 @@
 - **Sources:** registry research pass -> mercatoditestaccio.it (official
   banco page, fetched directly for real photos and the second email) ->
   independent web search confirming Instagram/Facebook.
-- **Status:** demo-built, outreach drafted, pending send.
+- **Status:** outreach-sent (email sent 2026-09-03 to
+  pasticceriasavarese@gmail.com, Gmail message ID `1a067e590a5bc445`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/pasticceria-savarese/
   (not yet verified live, pending merge to main)
 - **Sold:** no

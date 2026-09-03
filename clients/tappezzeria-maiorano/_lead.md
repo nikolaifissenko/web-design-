@@ -12,7 +12,8 @@
   SEO-tag-stuffed WordPress build with poor UX.
 - **Sources:** independent web search -> the business's own site
   (fetched directly for content and real photos).
-- **Status:** demo-built, outreach drafted, pending send.
+- **Status:** outreach-sent (email sent 2026-09-03 to
+  info@tappezzeriaroma.eu, Gmail message ID `1a067e5995fda0de`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/tappezzeria-maiorano/
   (not yet verified live, pending merge to main)
 - **Sold:** no

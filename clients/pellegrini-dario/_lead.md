@@ -18,7 +18,8 @@
   the business's own site (fetched directly for content and their real
   photo gallery at /galleria.html, which has 66 real photos of
   completed work).
-- **Status:** demo-built, outreach drafted, pending send.
+- **Status:** outreach-sent (email sent 2026-09-03 to
+  pellegrini.dario56@gmail.com, Gmail message ID `1a067e55ae2cf114`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/pellegrini-dario/
   (not yet verified live, pending merge to main)
 - **Sold:** no

@@ -6,10 +6,16 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 ## Start here (2026-09-02): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-03 update: 2 more demos built, verified
-live, and outreach sent** (`cappelleria-martin-brini`,
-`tipografia-aquila`) — see "Round 11" further down for full detail. As
-of the 09-02 update below:
+source of truth. **2026-09-03 update: 15 more demos built this
+session, verified live, and outreach sent for 13 of them** (2 in Round
+11, 13 in Round 12: `cappelleria-martin-brini`, `tipografia-aquila`,
+`cesaretti-bambole`, `pellegrini-dario`, `prodotti-trappisti`,
+`cartolibreria-de-biasi`, `da-romolo-mole-adriana`, `maurizio-e-lora`,
+`pasticceria-savarese`, `tappezzeria-maiorano`, `pasticceria-da-zio`,
+`cartoleria-mancini`, `terracromata-ceramica`, plus 2 DM-only leads
+built and queued for Nikolai, `osteria-da-giovanni` and
+`ristorante-da-enzo-prati`) — see "Round 11" and "Round 12" further
+down for full detail. As of the 09-02 update below:
 
 - **1 decline** (`camiceria-bazzocchi`): replied 2026-08-31, "grazie ma
   non siamo interessati." Closed, no further contact.
@@ -810,6 +816,105 @@ visiting either shop) — full text and Gmail message IDs in each
 - **Mucci Cornici d'Arte** (Stefano Mucci, frame-maker since 1926, Via
   Margutta 53) — no website found anywhere, real Instagram confirmed
   (@mucci_cornicidarte). Phone: 06 3207646.
+
+## Round 12 (2026-09-03): 13 more demos, sourced via parallel research
+
+Nikolai asked for a much bigger push in one session: "find 20
+businesses and send 20 emails and build 20 sites." Worked it with
+parallel background research agents (5 agents, ~40 candidates checked
+across the remaining Albo Botteghe Storiche registry entries plus fresh
+independent sourcing in calzoleria/ceramista/sarto/tappezziere
+categories and underused neighborhoods), each required to verify a real
+contact channel and real photo sources before returning a BUILD
+verdict, same standard as every other round. Then 8 parallel build
+agents were launched to construct demos from the vetted list.
+
+**A session-wide API rate limit hit partway through** (all 8 build
+agents failed mid-task simultaneously, "You've hit your session limit,
+resets 3:10pm UTC"). Once it cleared (confirmed by Nikolai), audited
+every partially-built client directory by hand: some agents had
+finished 1 of their 2 assigned clients before the cutoff, some had
+downloaded real photos but not yet written `config.js`, some were pure
+empty scaffolds. Finished the partial ones directly (writing `config.js`
+from the real assets the agents had already sourced) rather than
+re-running everything, and did one more round of direct photo-sourcing
+for a few clients whose agents had run out of budget before finding
+real images. Deleted 3 client folders that were still empty scaffolds
+with zero real content when the limit hit, rather than leaving broken
+placeholder demos in the repo.
+
+**13 demos completed and shipped**, 11 with a real, independently
+verified email (outreach sent by Claude directly, per Nikolai's
+standing "autonomous work includes sending" rule), 2 with only a real
+Instagram/Facebook found (queued in `_lead.md` for Nikolai to send,
+Claude has no way to send a DM):
+
+| Business | Sector | Neighborhood | Channel |
+|---|---|---|---|
+| `cesaretti-bambole` | doll restoration, dal 1939 | Flaminio | email (dead site, Cloudflare 521) |
+| `pellegrini-dario` | fabbro (blacksmith) | Rebibbia | email (dated site, real 66-photo gallery) |
+| `prodotti-trappisti` | monastery products | Appio Latino | email (dead domain, now redirects elsewhere) |
+| `cartolibreria-de-biasi` | cartoleria, dal 1940 | San Lorenzo | email (dated, non-responsive site) |
+| `da-romolo-mole-adriana` | trattoria, dal 1927 | Borgo Pio | email (dated 2014-era site) |
+| `maurizio-e-lora` | orologeria (watchmaker) | Ostiense | email (dated early-2000s site) |
+| `pasticceria-savarese` | pasticceria napoletana, dal 1961 | Testaccio | email (found during photo research, no site at all) |
+| `tappezzeria-maiorano` | tappezzeria (upholsterer), dal 1969 | Portuense | email (cluttered old WordPress) |
+| `pasticceria-da-zio` | pasticceria, dal 1918 | Testaccio | email (no site at all) |
+| `cartoleria-mancini` | cartoleria, dal 1939 | Piazza San Bernardo | email (dead domain) |
+| `terracromata-ceramica` | ceramics studio, dal 1984 | Nomentano | email (dated site) |
+| `osteria-da-giovanni` | osteria | Trastevere | Instagram/Facebook only, queued |
+| `ristorante-da-enzo-prati` | ristorante | Prati | Instagram/Facebook only, queued |
+
+**Everything real, same standard as every other round**: real photos
+sourced from each business's own site, official historic-shop
+association pages, or review-platform re-hosts (Wanderlog worked well
+as a Tripadvisor-photo-blocked-so-try-elsewhere alternative this
+round), new hand-drawn SVG logos where nothing reusable existed (colors
+pixel-sampled from real photos wherever the photo's contrast allowed
+it, honestly noted as "chosen by eye" in the two cases where it didn't:
+`pasticceria-da-zio`, `cartoleria-mancini`), no invented history or
+founding details. Full sourcing detail, exact colors, and image
+provenance in each `_lead.md`.
+
+**One logo redesign mistake caught before shipping**: the first
+`tappezzeria-maiorano` icon (a needle-and-thread motif, fine at 150px
+preview size) read as a magnifying glass once rendered at the template's
+actual 40×40 circular nav size — thin stroked circle + diagonal line
+reads as a lens+handle at that scale. Redesigned as a bold filled
+diamond/tufted-upholstery-button icon instead, which stayed legible
+small. Worth remembering for future logo work: always preview at the
+real 40×40 render size, not just a large preview.
+
+**Not built, real leads found but ruled out or queued elsewhere:**
+- **Claybase** (Tamara Cardone, ceramics studio, San Lorenzo,
+  @clay.base on Instagram, no email) — the only photo source found was
+  an Exibart feature on a multi-artist group exhibition ("CREA San
+  Lorenzo"), and the gallery photos in it aren't captioned per artist.
+  Given the Torrefazione Foroni precedent (an earlier round mistakenly
+  almost used a different business's cup photo from a shared blog),
+  this was too much misattribution risk to use. Needs a real photo from
+  Nikolai (a screenshot of the Instagram) before it can be built.
+  Address: Via dei Latini 29.
+- **D.I. Ferrari Francesco / Pelletteria PFR** (Via Federico Cesi 58,
+  Prati) — email inconsistent across sources (three different
+  addresses found, none confirmed), Instagram handle plausible but
+  unverified. Needs a manual check before outreach.
+- **Rocchi Marcello e Figli** (goldsmith since early 1900s, Via
+  Margutta 51a, moved from Venice in 1947) — strongest documented
+  history of the whole research pass, genuinely no email, PEC, or
+  social found anywhere despite a real search across four business
+  registries. Phone only: 06 3207678.
+- **D.I. Mucci Stefano** (frame-maker since 1926, Via Margutta 53,
+  carried over from a note in Round 11) — still no website, real
+  Instagram @mucci_cornicidarte confirmed. Phone: 06 3207646.
+- Several trattorie/ristoranti with real, active Instagram/Facebook but
+  no email despite a genuine search were vetted but not built this
+  round to keep the batch to a manageable size: Trattoria Memmo (Piazza
+  Cavour, FB "Trattoria Memmo dal 1930"), Trattoria Dell'Omo (Via
+  Vicenza, notable hook: their old domain now serves unrelated
+  gambling content), Sartoria "I Miei Sogni" (Pigneto, dead domain),
+  Calzolaio della Garbatella. Research already done and sourced in this
+  session's history if picked up again.
 
 ## Structure
 
