@@ -6,10 +6,10 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 ## Start here (2026-09-02): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-03 update: 2 more demos built and verified
-live** (`cappelleria-martin-brini`, `tipografia-aquila`), outreach
-drafted but **not sent yet, needs Nikolai's review first** — see "Round
-11" further down for full detail. As of the 09-02 update below:
+source of truth. **2026-09-03 update: 2 more demos built, verified
+live, and outreach sent** (`cappelleria-martin-brini`,
+`tipografia-aquila`) — see "Round 11" further down for full detail. As
+of the 09-02 update below:
 
 - **1 decline** (`camiceria-bazzocchi`): replied 2026-08-31, "grazie ma
   non siamo interessati." Closed, no further contact.
@@ -800,10 +800,11 @@ Both demos verified live on the actual `nikolaifissenko.github.io` URL
 (merged to `main`, polled until GitHub Pages served a real 200) before
 being called done, per the standing incident lesson.
 
-**Outreach drafted for both, not sent.** Per `CLAUDE.md`'s outreach
-rules, no price mentioned, no personal-visit claim invented (Nikolai
-hasn't confirmed visiting either shop), and the drafts need his review
-before anything goes out — full text in each `_lead.md`.
+**Outreach sent to both** (2026-09-03, per Nikolai's standing "when I
+say work autonomously, you finish, you send" instruction), no price
+mentioned, no personal-visit claim invented (Nikolai hasn't confirmed
+visiting either shop) — full text and Gmail message IDs in each
+`_lead.md`.
 
 **Not built, for Nikolai to work directly (no email channel found):**
 - **Mucci Cornici d'Arte** (Stefano Mucci, frame-maker since 1926, Via

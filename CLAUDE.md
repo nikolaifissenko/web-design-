@@ -17,6 +17,16 @@ just a style preference.
 
 ## Outreach: writing and sending
 
+- **When Nikolai says to work autonomously, that includes sending.**
+  (His instruction, 2026-09-03.) The "show the draft before sending"
+  rule below is for a normal session where he's present to review. When
+  he explicitly asks for autonomous work, finish the loop yourself:
+  build the demo, draft the email following the rules below (no price,
+  no invented personal connection, tone matched to the business), and
+  send it, don't stop and wait for a go-ahead that defeats the point of
+  "autonomous." Still show what was sent afterward, and never invent a
+  personal connection or a price regardless of how autonomous the
+  session is, those rules don't bend.
 - **No price in the email itself.** The going rate can come up once
   there's a real conversation; leading with "500€" in a cold message
   reads like a sales pitch, not a real designer reaching out.

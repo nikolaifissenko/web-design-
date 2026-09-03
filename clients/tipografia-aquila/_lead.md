@@ -16,9 +16,10 @@
   own real site (fetched directly, both for content and for real
   photos) -> independent web search cross-confirming the Instagram
   handle and founding story.
-- **Status:** demo-built, outreach drafted, not yet sent (see below).
+- **Status:** outreach-sent (email sent 2026-09-03 to info@tipografiaaquila.it, Gmail message ID `1a066970bf013f9f`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/tipografia-aquila/
 - **Sold:** no
+- **Response:** no reply yet
 - **Notes:**
   - **Everything on this demo is real, zero stock.** Founded 1925 in
     Pigneto by Tommaso Riccia, moved to the current Via Nola address in
@@ -54,7 +55,7 @@
     here so a future session or Nikolai knows to verify before quoting
     them to the client.
 
-## Outreach email (drafted 2026-09-03, NOT sent — needs review first)
+## Outreach email (sent 2026-09-03)
 
 No personal visit to this shop has been confirmed with Nikolai, so this
 draft doesn't claim one. The concrete, verifiable hook is that their

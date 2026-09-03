@@ -21,9 +21,10 @@
   confirming address/phone/email independently (turismoroma.it) -> the
   business's own real site, fetched directly with `curl` (WebFetch's
   tool hit a transient 503, curl got a clean 200 with the full page).
-- **Status:** demo-built, outreach drafted, not yet sent (see below).
+- **Status:** outreach-sent (email sent 2026-09-03 to lacappelleria@hotmail.it, Gmail message ID `1a06697023e7653a`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cappelleria-martin-brini/
 - **Sold:** no
+- **Response:** no reply yet
 - **Notes:**
   - **Everything on this demo is real, zero stock.** Founded 1936 near
     Porta Pia by Lina Martin as "Cappelleria Fulgor," now run by her
@@ -55,7 +56,7 @@
     (not confirmed by phone), flagged here so a future session or
     Nikolai knows to verify before quoting them to the client.
 
-## Outreach email (drafted 2026-09-03, NOT sent — needs review first)
+## Outreach email (sent 2026-09-03)
 
 No personal visit to this shop has been confirmed with Nikolai, so this
 draft doesn't claim one. The concrete, verifiable hook is that their
