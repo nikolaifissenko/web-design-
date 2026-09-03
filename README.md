@@ -6,7 +6,10 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 ## Start here (2026-09-02): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. As of this update:
+source of truth. **2026-09-03 update: 2 more demos built and verified
+live** (`cappelleria-martin-brini`, `tipografia-aquila`), outreach
+drafted but **not sent yet, needs Nikolai's review first** — see "Round
+11" further down for full detail. As of the 09-02 update below:
 
 - **1 decline** (`camiceria-bazzocchi`): replied 2026-08-31, "grazie ma
   non siamo interessati." Closed, no further contact.
@@ -748,6 +751,64 @@ used as a source for anything here, to avoid misattributing branding,
 but worth a quick phone confirmation before sending the demo. Full
 detail in each client's `_lead.md`. No outreach drafted or sent for any
 of the 3 built demos yet this round.
+
+## Round 11 (2026-09-03): 2 new demos, sourced end-to-end independently
+
+Worked the pipeline autonomously this session: checked Gmail broadly for
+any new replies across all open threads first (none, all 30 most-recent
+inbox messages were unrelated noise: job alerts, LinkedIn, etc), then
+moved to new-lead sourcing since that was the actual ask.
+
+Pulled the full Roma Capitale Albo Botteghe Storiche registry PDF
+directly (`AlboBottegheStoriche_nov2024.pdf`, `poppler-utils` wasn't
+installed in this sandbox, installed it to extract text) and read
+through the Artigiani and Esercizi Commerciali sections not yet checked
+in prior rounds, focusing on categories underused so far: calzoleria,
+oreficeria, cappelleria, legatoria, tipografia. Checked ~10 candidates
+for site quality and a real contact channel before building anything
+(the standing rule): Ottica Vecchi and Gioielleria Federici turned out
+already professional/modern, skipped as false positives; Mucci Cornici
+d'Arte (Via Margutta) has no website at all and only an Instagram DM
+channel, queued below for Nikolai rather than built; Marchionni Ugo
+Legatoria's only found contact is a PEC certified-mail address, treated
+as not a real cold-outreach channel per the same standard applied to
+Ferramenta Sorelle Bassano earlier, not built. 2 candidates cleared the
+bar and were built:
+
+| Business | Sector | Address | Mood | Site status found |
+|---|---|---|---|---|
+| `cappelleria-martin-brini` | cappelleria artigiana, dal 1936 | Via Ancona 24, Municipio II | vintage | real site is a 2006 Microsoft Word/FrontPage HTML export (windows-1252 charset, VML tags, no viewport tag at all) |
+| `tipografia-aquila` | tipografia, dal 1925 | Via Nola 2, San Giovanni | editorial | real site has no viewport meta tag, image-gallery-driven early-2010s layout |
+
+Both are **entirely real, zero stock**: real photos pulled directly from
+each business's own real site (`lacappelleria.it`'s `index_file/` asset
+folder; `tipografiaaquila.it`'s `home/` gallery), real founding stories
+(Cappelleria: founded 1936 by Lina Martin near Porta Pia, now run by
+daughter Elena, 90 years in 2026; Tipografia: founded 1925 by Tommaso
+Riccia, four generations of the same family, 101 years in 2026). Neither
+had a clean, reusable logo (Cappelleria: only auto-generated nav GIFs
+from the Word export; Tipografia: a broken/empty logo image in their own
+site's code), so per `branding-extraction.md` both got a redesigned icon
+from scratch rather than falling back to initials: a bowler-hat icon for
+the Cappelleria (colors pixel-sampled from their real hat-felt/hatband
+photos) and a spread-wing eagle icon for Tipografia Aquila (matching
+both the business's name and a real taxidermy eagle visible in their own
+shop photo, colors sampled from their real red floor mat/signage). Full
+sourcing detail, exact colors, and image provenance in each `_lead.md`.
+
+Both demos verified live on the actual `nikolaifissenko.github.io` URL
+(merged to `main`, polled until GitHub Pages served a real 200) before
+being called done, per the standing incident lesson.
+
+**Outreach drafted for both, not sent.** Per `CLAUDE.md`'s outreach
+rules, no price mentioned, no personal-visit claim invented (Nikolai
+hasn't confirmed visiting either shop), and the drafts need his review
+before anything goes out — full text in each `_lead.md`.
+
+**Not built, for Nikolai to work directly (no email channel found):**
+- **Mucci Cornici d'Arte** (Stefano Mucci, frame-maker since 1926, Via
+  Margutta 53) — no website found anywhere, real Instagram confirmed
+  (@mucci_cornicidarte). Phone: 06 3207646.
 
 ## Structure
 
