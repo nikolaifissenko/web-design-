@@ -52,3 +52,16 @@
     verificare telefonicamente.
   - Non ancora contattati: outreach non scritto/inviato in questa
     sessione, solo il demo costruito.
+
+
+## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+
+First follow-up, due per the 3-day threshold, no reply yet on the
+original send. Short one-liner, same formula as the follow-ups already
+sent to the earlier batch. Not sent, needs Nikolai's review first.
+
+> Buongiorno, le scrivo solo per sapere se ha avuto un momento per la demo che le ho preparato. Sono a disposizione per un parere sincero.
+>
+> Grazie mille,
+> Nikolai
+> 349 101 6416

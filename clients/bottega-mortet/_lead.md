@@ -16,3 +16,16 @@
   - **All photos are real**, downloaded directly from the business's own site (low original resolution, ~170px, the limit of the available material, not a stock shortcut): hero/gallery-3 = the bronze hand from the "Mano Artigiana" project, about = a real portrait/workshop collage, gallery-1 = a real tools/craftsmanship collage, gallery-2 = the historic Palazzo Scapucci building where the workshop is located.
   - Colors (deep red + black) sampled from the real logo and site.
   - Pitch drafted, not yet sent. Real demo link now available to slot in.
+
+
+## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+
+First follow-up, due per the 3-day threshold, no reply yet on the
+original send. Short one-liner, same formula as the follow-ups already
+sent to the earlier batch. Not sent, needs Nikolai's review first.
+
+> Buongiorno, le scrivo solo per sapere se ha avuto un momento per dare un'occhiata alla demo della Bottega Mortet. Resto a disposizione.
+>
+> Grazie mille,
+> Nikolai
+> 349 101 6416

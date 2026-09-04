@@ -15,11 +15,17 @@
   search cross-confirming contact details -> a RomaToday feature article
   dedicated specifically to this shop (used for real photos and history,
   not a multi-shop blog, so no risk of mixing up a different business).
-- **Status:** outreach-sent (email sent 2026-09-02 to
-  f.lliciavatta@gmail.it, Gmail message ID `1a06096f015040ed`)
+- **Status:** email-bounced, the address is dead. Sent 2026-09-02 to
+  f.lliciavatta@gmail.it (Gmail message ID `1a06096f015040ed`), but it
+  hard-bounced within 34 seconds: `550 5.1.1`, mailbox unavailable. Not
+  caught at send time, only found on the 2026-09-04 pipeline check-in,
+  it had been sitting as "no reply yet" for 2 days when it had actually
+  never been delivered at all.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/salumeria-ciavatta/
 - **Sold:** no
-- **Response:** no reply yet
+- **Response:** n/a, message never delivered. **Real channel needed:
+  call 06 6792935**, or try the confirmed Facebook page
+  (facebook.com/ciavattadal1956) if Nikolai wants to send a DM instead.
 - **Notes:**
   - **Everything on this demo is real, zero stock.** Founded 1956 by
     Giuseppe Ciavatta and his wife Lena Agostini, now run by their

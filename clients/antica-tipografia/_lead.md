@@ -58,3 +58,16 @@
     un'azienda B2B di stampa, da verificare telefonicamente).
   - Non ancora contattati: outreach non scritto/inviato in questa
     sessione, solo il demo costruito.
+
+
+## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+
+First follow-up, due per the 3-day threshold, no reply yet on the
+original send. Short one-liner, same formula as the follow-ups already
+sent to the earlier batch. Not sent, needs Nikolai's review first.
+
+> Buongiorno, volevo solo assicurarmi che la demo per l'Antica Tipografia le sia arrivata. Sono a disposizione per qualsiasi domanda.
+>
+> Grazie mille,
+> Nikolai
+> 349 101 6416

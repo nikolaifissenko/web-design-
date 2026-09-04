@@ -17,3 +17,16 @@
   - **Colors are real**, pulled directly from the live site's CSS (`#29BE0C` green family, `#454545` dark grey). Botanical green makes sense for an herbalist and wasn't invented.
   - **Photos are real where found, honestly limited elsewhere.** hero/about = a real interior photo from the business's own site (the original walnut apothecary counter and cabinets). gallery-1 = a real press photo (negozidiroma.com) of the frescoed ceiling and a real branded ceramic jar bearing the shop's own crest. Checked but couldn't get further real photos: the business's own site has only these images, Instagram/Facebook are confirmed unreachable by automated fetch, Alamy only has paywalled stock. Only 1 gallery image as a result, genuinely limited material, not corner-cutting.
   - Pitch drafted, not yet sent. Real demo link now available to slot in.
+
+
+## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+
+First follow-up, due per the 3-day threshold, no reply yet on the
+original send. Short one-liner, same formula as the follow-ups already
+sent to the earlier batch. Not sent, needs Nikolai's review first.
+
+> Buongiorno, le scrivo solo per sapere se ha avuto modo di vedere la demo che le ho preparato per l'Erboristeria. Resto a disposizione anche solo per un parere sincero.
+>
+> Grazie mille,
+> Nikolai
+> 349 101 6416

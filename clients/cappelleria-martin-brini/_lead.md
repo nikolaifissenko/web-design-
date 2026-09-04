@@ -21,10 +21,16 @@
   confirming address/phone/email independently (turismoroma.it) -> the
   business's own real site, fetched directly with `curl` (WebFetch's
   tool hit a transient 503, curl got a clean 200 with the full page).
-- **Status:** outreach-sent (email sent 2026-09-03 to lacappelleria@hotmail.it, Gmail message ID `1a06697023e7653a`)
+- **Status:** email-bounced, the address is dead. Sent 2026-09-03 to
+  lacappelleria@hotmail.it (Gmail message ID `1a06697023e7653a`), but it
+  hard-bounced within seconds: `550 5.5.0`, address not found. Confirmed
+  independently on two sources beforehand, but the address itself no
+  longer exists.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cappelleria-martin-brini/
 - **Sold:** no
-- **Response:** no reply yet
+- **Response:** n/a, message never delivered. **Real channel needed:
+  call 06 4424 9738**, no Instagram/Facebook exists for this lead
+  (already confirmed absent above), so phone is the only option left.
 - **Notes:**
   - **Everything on this demo is real, zero stock.** Founded 1936 near
     Porta Pia by Lina Martin as "Cappelleria Fulgor," now run by her

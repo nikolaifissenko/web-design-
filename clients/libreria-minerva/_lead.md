@@ -117,3 +117,16 @@ no em dashes, plain punctuation.
 >
 > Un saluto,
 > Nikolai
+
+
+## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+
+First follow-up, due per the 3-day threshold, no reply yet on the
+original send. Short one-liner, same formula as the follow-ups already
+sent to the earlier batch. Not sent, needs Nikolai's review first.
+
+> Buongiorno, le scrivo solo per sapere se ha avuto modo di vedere la demo per la Libreria Minerva. A disposizione per qualsiasi domanda.
+>
+> Grazie mille,
+> Nikolai
+> 349 101 6416

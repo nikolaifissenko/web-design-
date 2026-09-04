@@ -22,3 +22,16 @@
 ## Outreach, not yet drafted or sent
 
 This business already has a working, if dated, website with a confirmed real email, so a genuinely warm, low-pressure pitch fits well here. Draft not written yet this round, will draft in normal prose and show it before sending anything, per standing process. No message has been sent on any channel for this lead yet.
+
+
+## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+
+First follow-up, due per the 3-day threshold, no reply yet on the
+original send. Short one-liner, same formula as the follow-ups already
+sent to the earlier batch. Not sent, needs Nikolai's review first.
+
+> Buongiorno, volevo solo risentirla sulla demo che le ho preparato per Cantina Cantarini. Sono a disposizione per un parere, anche sincero.
+>
+> Grazie mille,
+> Nikolai
+> 349 101 6416

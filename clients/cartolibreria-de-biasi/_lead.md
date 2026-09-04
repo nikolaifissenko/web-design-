@@ -14,8 +14,15 @@
 - **Sources:** Roma Capitale historic-shops registry research pass ->
   independent web search confirming contact details -> the business's
   own real (if dated) site for real interior/product photos.
-- **Status:** outreach-sent (email sent 2026-09-03 to
-  cartoeria.debiasi@gmail.com, Gmail message ID `1a067e571bb2d289`)
+- **Status:** email-bounced. Sent 2026-09-03 to cartoeria.debiasi@gmail.com
+  (Gmail message ID `1a067e571bb2d289`), hard-bounced instantly: `550
+  5.1.1`, address not found. **Likely just a one-letter transcription
+  typo**, not necessarily a dead lead: the correct spelling is probably
+  `cartoleria.debiasi@gmail.com` (with the "l"), which matches the
+  business's own domain (cartolibreriadebiasi.it) and turned up in an
+  independent search on 2026-09-02 with that exact spelling. Needs
+  Nikolai's go-ahead before resending to the corrected address, same
+  content, no changes needed otherwise.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cartolibreria-de-biasi/
   (not yet verified live, pending merge to main)
 - **Sold:** no

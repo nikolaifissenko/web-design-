@@ -24,3 +24,16 @@
 ## Outreach, not yet drafted or sent
 
 Not drafted this round. Real contact channels exist (email, Instagram, Facebook, phone), so outreach is straightforward once Nikolai wants to move on it. Will draft in full prose and show it here before sending anything on any channel, per standing process.
+
+
+## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+
+First follow-up, due per the 3-day threshold, no reply yet on the
+original send. Short one-liner, same formula as the follow-ups already
+sent to the earlier batch. Not sent, needs Nikolai's review first.
+
+> Buongiorno, volevo solo risentirvi sulla demo che vi ho preparato. Resto a disposizione anche solo per un parere sincero.
+>
+> Grazie mille,
+> Nikolai
+> 349 101 6416

@@ -3,19 +3,57 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-02): current pipeline snapshot
+## Start here (2026-09-04): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-03 update: 15 more demos built this
-session, verified live, and outreach sent for 13 of them** (2 in Round
-11, 13 in Round 12: `cappelleria-martin-brini`, `tipografia-aquila`,
-`cesaretti-bambole`, `pellegrini-dario`, `prodotti-trappisti`,
-`cartolibreria-de-biasi`, `da-romolo-mole-adriana`, `maurizio-e-lora`,
-`pasticceria-savarese`, `tappezzeria-maiorano`, `pasticceria-da-zio`,
-`cartoleria-mancini`, `terracromata-ceramica`, plus 2 DM-only leads
-built and queued for Nikolai, `osteria-da-giovanni` and
-`ristorante-da-enzo-prati`) — see "Round 11" and "Round 12" further
-down for full detail. As of the 09-02 update below:
+source of truth. **2026-09-04 pipeline check-in: checked every open
+Gmail thread against the static files (43 threads), found 1 real reply
+and 4 more bounces not previously caught.**
+
+- **Real reply, needs Nikolai's decision**: `cartoleria-mancini` replied
+  25 minutes after the email went out: "ho 70 anni e sono ormai in
+  pensione" (I'm 70 and already retired). A genuine, specific decline,
+  not a form response. Not auto-replied. Worth a short warm reply
+  wishing them well, or just letting it close, Nikolai's call.
+- **4 more bounces found**, none caught at send time:
+  - `salumeria-ciavatta`: bounced within 34 seconds of sending
+    (2026-09-02), had been sitting marked "no reply yet" for 2 days when
+    it was actually never delivered. Needs a phone call (06 6792935) or
+    their confirmed Facebook page instead.
+  - `cappelleria-martin-brini`: hard-bounced, dead address. Needs a
+    phone call (06 4424 9738), no Instagram/Facebook exists.
+  - `cartolibreria-de-biasi`: bounced, but likely just a one-letter
+    typo in the address sent (`cartoeria.debiasi@` missing the "l" in
+    "cartoleria"). The correctly-spelled address was already on file
+    from independent research. Worth a resend to the corrected address.
+  - `tappezzeria-maiorano`: blocked by the recipient's spam filter, not
+    a dead mailbox. A second email is already on file for this same
+    business (antoniomajorano@yahoo.it), worth trying directly.
+- **13 leads due for their first follow-up**, drafted and added to each
+  `_lead.md`, not sent (see each lead's "Follow-up draft" section):
+  `antica-erboristeria-romana`, `antica-tipografia`, `bottega-mortet`,
+  `cantina-cantarini`, `cartoleria-benincampi`, `cer-ceramica`,
+  `coltelleria-prezioso`, `la-piccola-cuccagna`, `libreria-minerva`,
+  `libreria-tombolini`, `roccas-cartoleria`, `trattoria-da-lucia`,
+  `vetrate-arte-giuliani`.
+- **11 leads already had their one follow-up** (sent 2026-08-31) and
+  still no reply 4 days later. Per the standing house rule ("one polite
+  follow-up, then move on," see `pitch_template.md`), these do **not**
+  get a second automated nudge: `antica-cappelleria-lombardi`,
+  `antica-legatoria-del-vico`, `antica-stamperia-trevi`,
+  `autofficina-pisino`, `fratelli-anzilotti`, `il-fabbro-artigiano`,
+  `roma-trasteverina`, `sartoria-carbone`, `tappezzeria-de-matthaeis`,
+  `tinto-lavanderia`, `trastevereinbed`. Effectively cold, no action
+  needed unless Nikolai wants to try a different channel.
+- **2026-09-03 (prior session): 15 more demos built**, verified live,
+  outreach sent for 13 of them (2 in Round 11, 13 in Round 12:
+  `cappelleria-martin-brini`, `tipografia-aquila`, `cesaretti-bambole`,
+  `pellegrini-dario`, `prodotti-trappisti`, `cartolibreria-de-biasi`,
+  `da-romolo-mole-adriana`, `maurizio-e-lora`, `pasticceria-savarese`,
+  `tappezzeria-maiorano`, `pasticceria-da-zio`, `cartoleria-mancini`,
+  `terracromata-ceramica`, plus 2 DM-only leads built and queued for
+  Nikolai, `osteria-da-giovanni` and `ristorante-da-enzo-prati`), see
+  "Round 11" and "Round 12" further down for full detail.
 
 - **1 decline** (`camiceria-bazzocchi`): replied 2026-08-31, "grazie ma
   non siamo interessati." Closed, no further contact.

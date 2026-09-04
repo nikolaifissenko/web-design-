@@ -15,3 +15,16 @@
   - **No findable logo anywhere** (site down, Instagram/Facebook confirmed unreachable by automated fetch per standing note in `branding-extraction.md`). Per the standing instruction to redesign rather than fall back to initials, drew a simple stained-glass rosette icon (PIL `ImageDraw`, geometric shapes, not generative AI) using colors sampled directly from the business's own real photography (amber, deep red/maroon, teal-blue), not an invented palette.
   - **All photos are real**, sourced from a dedicated feature by Fondazione Cologni dei Mestieri d'Arte (a prestigious Italian crafts foundation, professional photography, high resolution 800×533 to 800×1200): hero = the workshop interior with finished stained glass pieces hanging, about = the artisan cutting glass at the light table, gallery-1 = a close-up detail shot of the work, gallery-2 = a finished stained-glass panel of a religious figure. Images required a `Referer` header to fetch (hotlink protection); standard `curl`/WebFetch without it returns 403.
   - Pitch drafted, not yet sent. Real demo link now available to slot in.
+
+
+## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+
+First follow-up, due per the 3-day threshold, no reply yet on the
+original send. Short one-liner, same formula as the follow-ups already
+sent to the earlier batch. Not sent, needs Nikolai's review first.
+
+> Buongiorno, le scrivo solo per assicurarmi che la demo le sia arrivata correttamente. A disposizione per qualsiasi domanda.
+>
+> Grazie mille,
+> Nikolai
+> 349 101 6416
