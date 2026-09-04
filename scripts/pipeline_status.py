@@ -79,8 +79,13 @@ def classify(slug: str, fields: dict) -> dict:
         if declined or "interested" in response or "reply" in response and "no reply" not in response:
             result["bucket"] = "REPLIED"
             result["declined"] = declined
-        elif days >= FOLLOWUP_DAYS:
+        elif days >= FOLLOWUP_DAYS and followup_count == 0:
             result["bucket"] = "NEEDS_FOLLOWUP"
+        elif days >= FOLLOWUP_DAYS and followup_count >= 1:
+            # Standing house rule (pitch_template.md): one polite
+            # follow-up, then move on. Don't keep re-flagging this lead
+            # every FOLLOWUP_DAYS forever, that reads as spam.
+            result["bucket"] = "COLD"
         else:
             result["bucket"] = "WAITING"
         return result
@@ -108,6 +113,7 @@ def main():
         ("NEEDS_FOLLOWUP", f"FOLLOW-UP DUE (>={FOLLOWUP_DAYS} days, no reply)"),
         ("DEAD_CHANNEL", "DEAD CHANNEL (bounced, needs alt contact)"),
         ("WAITING", "WAITING (recently sent, not due yet)"),
+        ("COLD", "COLD (already had its one follow-up, no reply, no further action per house rule)"),
         ("REPLIED", "REPLIED (needs a human decision/response)"),
         ("BLOCKED_NOT_BUILT", "BLOCKED (not built yet, needs a decision first)"),
         ("SOLD", "SOLD"),
@@ -123,7 +129,7 @@ def main():
             if key == "NEEDS_INITIAL_SEND":
                 who = "Nikolai (DM/phone only)" if l.get("needs_human") else "email available"
                 print(f"  - {l['slug']}  [{who}]")
-            elif key in ("NEEDS_FOLLOWUP", "WAITING"):
+            elif key in ("NEEDS_FOLLOWUP", "WAITING", "COLD"):
                 fc = l.get("followup_count", 0)
                 fc_note = f", {fc} follow-up(s) already sent" if fc else ""
                 print(f"  - {l['slug']}  (last contact {l['sent_date']}, {l['days_since']}d ago{fc_note})")
