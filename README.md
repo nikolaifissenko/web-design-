@@ -108,6 +108,22 @@ and 4 more bounces not previously caught.**
   history sections below are a session-by-session log, useful for context
   on *why* something was done, not for current status, that's what the
   pipeline script is for.
+- **2026-09-06 (Nikolai's instruction: work autonomously today, research
+  only, all outreach including today's follow-up batch goes out
+  tomorrow): 1 new demo built and verified, 1 new strong lead
+  documented but not built** (see "Round 13" below for the full research
+  log, including several sectors/candidates checked and ruled out).
+  `trattoria-memmo` (Piazza Cavour, Prati, officially recognized
+  historic shop since 1930) is demo-built, real photos, not yet
+  contacted. `bertino-argenti` (silversmith since 1974, Piazzale delle
+  Medaglie d'Oro) is fully sourced and verified, real dead domain
+  confirmed, real active Facebook/Instagram confirmed, but not built:
+  no real photo source could be reached this session (own site dead
+  domain with no DNS, Wayback Machine blocked by this environment's
+  network policy, Instagram/Facebook not fetchable per the standing
+  limitation, no press photos found). Needs either a screenshot from
+  Nikolai or a session that can actually reach web.archive.org before
+  it can be built without falling back to stock.
 
 ## Status (2026-08-26)
 
@@ -953,6 +969,81 @@ real 40×40 render size, not just a large preview.
   gambling content), Sartoria "I Miei Sogni" (Pigneto, dead domain),
   Calzolaio della Garbatella. Research already done and sourced in this
   session's history if picked up again.
+
+## Round 13 (2026-09-06): research pass, 1 new demo built
+
+Nikolai's instruction for the day: work autonomously, do research; the
+23 due follow-ups and any new outreach go out tomorrow, not today. This
+round is sourcing/verification/build only, nothing sent.
+
+**Built:** `trattoria-memmo` (Trattoria Memmo dal 1930, Piazza Cavour
+14-15, Prati). Picked up from a candidate flagged in Round 12's "not
+built" list. Officially recognized as a Roma Capitale bottega storica
+(decree 2010), founded 1930. Current "website" is a generic
+reservation-provider micro-site (eatbu.com/DISH Digital Solutions) with
+no real photos or logo, a clear bad-website signal. Real, active
+Facebook confirmed (facebook.com/TrattoriaMemmoDal1930/); no email
+independently confirmed (one candidate address read like an
+accountant's, not the restaurant's, so not used) and no real managed
+Instagram (only auto-generated location-tag pages, not a profile). All
+5 photos are real, pulled from Sluurpy's public gallery for this
+business and verified as genuine JPEGs; colors sampled pixel-by-pixel
+from those photos with PIL. No logo exists, legitimate `logoText`
+fallback ("TM"). See `clients/trattoria-memmo/_lead.md` for full
+sourcing detail. Outreach channel once contacted: Facebook message.
+
+**Sourced and verified, not built, needs Nikolai for a screenshot:**
+- **Bertino Argenti** (argenteria/silverware, family in the silver trade
+  since the 1800s, at this location since 1937, business since 1974,
+  Piazzale delle Medaglie d'Oro 34). `bertinoargenti.com` has **zero DNS
+  resolution**, confirmed with `getent hosts` (worse than a merely
+  outdated site, the domain doesn't exist anymore). Real, active
+  Facebook (1,208 likes) and Instagram (@bertinoargenti) both confirmed
+  by name search. No email found despite checking PagineGialle,
+  PagineBianche, Reteimprese. The Wayback Machine has a snapshot from
+  2025-06-18 (confirmed via the `archive.org/wayback/available` API),
+  which likely has the real product photos and logo, but this session's
+  network policy blocks `web.archive.org` entirely (`WebFetch` refuses
+  it outright, direct `curl` gets `403 Blocked by egress policy`). No
+  press coverage or photo aggregator turned up real photos either. Per
+  the standing rule (stock only after exhausting real sources, and only
+  for whichever slots still have nothing real), this isn't ready to
+  build yet: needs either a phone screenshot from Nikolai (of the
+  Instagram/Facebook profile, or of the archived site if he can reach
+  it) or a future session with Wayback access.
+
+**Checked and ruled out this round** (so this ground doesn't get
+re-covered):
+- **Pasticceria Benedetto** (Garbatella, Piazza Augusto Albini 8/9,
+  since 1987): dead domain confirmed (`pasticceriabenedettoroma.com`
+  returns HTTP 503), real Facebook confirmed, but it's a branch of
+  Pasticcerie Benedetto, a small chain based in Campania (Aversa,
+  Napoli, Monteruscello, Mercato San Severino), which puts it in the
+  lowest sector-priority tier per the existing prioritization (chains
+  last). Not built, could be revisited if the pipeline runs dry.
+- **Marini Calzature, Calzature Farinacci, Pelletteria Bussiglieri,
+  Profumeria Iacobelli**: all four are on the Associazione Botteghe
+  Storiche's own "featured" showcase page and all already have their
+  own custom-domain websites that look maintained (Marini even has an
+  active YouTube channel). Not bad-website candidates.
+- **La Bottega del Calzolaio** (Collina Fleming location): turned out
+  to be a multi-city franchise with its own blog, YouTube channel, and a
+  documented digital-marketing case study, not an independent artisan.
+  Not a lead.
+- **Gino (Luigi) Scarano**, the barber of the Quadraro (via dei Quintili
+  63, since 1947, barber to Totò and Mastroianni): confirmed via
+  RomaToday and Fanpage that he passed away and the shop is closed.
+  Dropped, same as the Antica Macelleria Annibale precedent: verify
+  before building, a dead lead isn't a bad-website lead.
+- **Stefano Carafone**, calzolaio di quartiere, Via Francesco di
+  Benedetto 141, Romanina: genuinely tiny footprint, address confirmed
+  via one neighborhood-association page, but no phone, email, or
+  Instagram/Facebook found anywhere despite a real search. Not
+  actionable without an in-person visit or directory-assistance call;
+  not built.
+- **Menabò Vino e Cucina** and **Proloco Dol** (Centocelle): both
+  already have a proper own website/multi-location presence (Proloco
+  Dol has sibling locations in Trastevere and Pinciano). Not leads.
 
 ## Structure
 
