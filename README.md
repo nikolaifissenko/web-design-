@@ -3,6 +3,40 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
+## Plan for tomorrow (2026-09-07): read this first
+
+Do these in order. Keep token usage low, no more than half the budget on
+research alone (Nikolai's standing instruction as of 2026-09-06):
+
+1. **Send today's (2026-09-06) outreach first.** 3 new demos built and
+   not yet contacted: `trattoria-memmo`, `osteria-moscatelli` (both
+   Facebook/Instagram DM only, Nikolai has to send), `i-tre-fratelli`
+   (real email confirmed, itrefratelli.garbatella@gmail.com, Claude can
+   send this one via Gmail). Draft per the outreach rules in CLAUDE.md
+   (no price, no invented personal connection, show draft before
+   sending unless told to work autonomously).
+2. **Send the 23 overdue follow-ups** listed by
+   `python3 scripts/pipeline_status.py` under FOLLOW-UP DUE, drafts
+   already sit in each `_lead.md`.
+3. **Check Gmail for new replies/bounces** since 2026-09-06, especially
+   `cesaretti-bambole` (was stuck in delivery-delay retry, not a
+   confirmed bounce yet as of yesterday).
+4. **Then resume research** using the faster method from today: fetch
+   `reteimprese.it/ristoranti/roma/zona/<neighborhood>` for
+   neighborhoods not yet covered (see Round 13 in this README for which
+   zones/sectors are already checked), triage by name, verify
+   email/Instagram/Facebook before building, real photos from Sluurpy
+   (`menu.sluurpy.it`, works reliably) with a browser user-agent.
+5. **Two leads are sourced and verified already, just need photos**,
+   don't re-research them: `bertino-argenti` (needs Nikolai's
+   screenshot of Instagram/Facebook, or Wayback Machine access this
+   environment doesn't have) and `trattoria-sora-pia` (worth retrying
+   TripAdvisor/RestaurantGuru/piatti.menu fetches, they 403/503'd
+   yesterday but that's not always consistent).
+6. **`ristorante-panzirone`** in the ready-to-send list needs a phone
+   call first to confirm identity before any outreach, per its
+   `_lead.md`.
+
 ## Start here (2026-09-04): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
