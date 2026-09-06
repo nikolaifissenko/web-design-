@@ -110,20 +110,46 @@ and 4 more bounces not previously caught.**
   pipeline script is for.
 - **2026-09-06 (Nikolai's instruction: work autonomously today, research
   only, all outreach including today's follow-up batch goes out
-  tomorrow): 1 new demo built and verified, 1 new strong lead
-  documented but not built** (see "Round 13" below for the full research
-  log, including several sectors/candidates checked and ruled out).
-  `trattoria-memmo` (Piazza Cavour, Prati, officially recognized
-  historic shop since 1930) is demo-built, real photos, not yet
-  contacted. `bertino-argenti` (silversmith since 1974, Piazzale delle
-  Medaglie d'Oro) is fully sourced and verified, real dead domain
-  confirmed, real active Facebook/Instagram confirmed, but not built:
-  no real photo source could be reached this session (own site dead
-  domain with no DNS, Wayback Machine blocked by this environment's
-  network policy, Instagram/Facebook not fetchable per the standing
-  limitation, no press photos found). Needs either a screenshot from
-  Nikolai or a session that can actually reach web.archive.org before
-  it can be built without falling back to stock.
+  tomorrow): 3 new demos built and verified, 2 more strong leads
+  documented but not built for lack of real photos** (see "Round 13"
+  below for the full research log, including several sectors/candidates
+  checked and ruled out). After Nikolai's pushback on pace ("almeno 10
+  al giorno"), switched to a faster sourcing method
+  (`reteimprese.it`'s `ristoranti/roma/zona/<neighborhood>` listing
+  pages, which return ~10-20 real businesses with address/phone per
+  fetch) instead of one name at a time, which is what produced the
+  second and third demo of the day.
+  - `trattoria-memmo` (Piazza Cavour, Prati, officially recognized
+    historic shop since 1930): demo-built, real photos, Facebook only
+    (no email, no real Instagram).
+  - `osteria-moscatelli` (Via Nomentana, Ponte Mammolo, since 1936):
+    demo-built, real photos, real Instagram and Facebook confirmed, no
+    email.
+  - `i-tre-fratelli` (Piazza Giovanni da Triora, Garbatella, since
+    1996): demo-built, real photos, **real confirmed email** on top of
+    a dead old domain and real Instagram/Facebook, the strongest lead
+    of the day, only one where email (not just DM) is the outreach
+    channel for tomorrow.
+  - `bertino-argenti` (silversmith since 1974, Piazzale delle Medaglie
+    d'Oro): fully sourced and verified, real dead domain confirmed, real
+    active Facebook/Instagram confirmed, but not built: no real photo
+    source could be reached this session (own site dead domain with no
+    DNS, Wayback Machine blocked by this environment's network policy,
+    Instagram/Facebook not fetchable per the standing limitation, no
+    press photos found). Needs either a screenshot from Nikolai or a
+    session that can actually reach web.archive.org.
+  - **Trattoria Sora Pia** (Via Aurelia 426, Aurelio, founded 1890 by a
+    16-year-old girl who became Pope Pius XII's trusted cook): fully
+    sourced and verified, real "website" is just an auto-generated
+    JustEat ordering page with a placeholder image, no real photos or
+    branding at all, confirmed real email (trattoriasorapia@gmail.com)
+    and real Facebook (facebook.com/SoraPia1890/). Not built: only one
+    real, non-placeholder photo could be sourced this session (a small
+    336x450 dish photo from Sluurpy), every other aggregator tried
+    blocked the fetch (TripAdvisor, RestaurantGuru, piatti.menu all
+    403/503). A strong candidate for the next session, needs 3-4 more
+    real photos, worth retrying the same aggregators (blocks can be
+    inconsistent) or asking Nikolai for a screenshot.
 
 ## Status (2026-08-26)
 
@@ -970,11 +996,23 @@ real 40×40 render size, not just a large preview.
   Calzolaio della Garbatella. Research already done and sourced in this
   session's history if picked up again.
 
-## Round 13 (2026-09-06): research pass, 1 new demo built
+## Round 13 (2026-09-06): research pass, 3 new demos built
 
 Nikolai's instruction for the day: work autonomously, do research; the
 23 due follow-ups and any new outreach go out tomorrow, not today. This
 round is sourcing/verification/build only, nothing sent.
+
+Nikolai pushed back partway through on pace ("non possiamo contattare 2
+posti a botta, almeno 10 al giorno"): one-name-at-a-time `WebSearch`
+was too slow. Switched to fetching
+`reteimprese.it/ristoranti/roma/zona/<neighborhood>`, which returns a
+full list of real businesses (name, address, phone) for a neighborhood
+in one call, then triaging by name for which sound like old family
+places rather than modern/chain/ethnic ones, before spending a search
+on each candidate. This is what produced the second and third demo
+below; still short of 10 demos in a day since each one that pans out
+still needs real photos sourced and downloaded, but the sourcing step
+itself is now much faster and worth reusing on the next research pass.
 
 **Built:** `trattoria-memmo` (Trattoria Memmo dal 1930, Piazza Cavour
 14-15, Prati). Picked up from a candidate flagged in Round 12's "not
@@ -991,6 +1029,31 @@ business and verified as genuine JPEGs; colors sampled pixel-by-pixel
 from those photos with PIL. No logo exists, legitimate `logoText`
 fallback ("TM"). See `clients/trattoria-memmo/_lead.md` for full
 sourcing detail. Outreach channel once contacted: Facebook message.
+
+**Built:** `osteria-moscatelli` (Osteria Moscatelli, Via Nomentana 944,
+Ponte Mammolo, since 1936). Sourced via the reteimprese Nomentano
+listing. No own website anywhere, only third-party listing pages. Real,
+active Instagram (@osteriamoscatelli, bio lists two phone numbers) and
+Facebook both confirmed by name search, no email found despite checking
+several directories. All 5 photos real, from Sluurpy's public gallery;
+colors sampled from the actual photos with PIL. No logo, legitimate
+`logoText` fallback ("OM"). One review mentioned a change of ownership,
+noted in `_lead.md`, doesn't affect the lead. Outreach channel once
+contacted: Instagram DM or Facebook message.
+
+**Built:** `i-tre-fratelli` (Ristorante I Tre Fratelli, Piazza Giovanni
+da Triora 2, Garbatella, since 1996, run by three brothers). Sourced via
+the reteimprese Ostiense listing, traced to the actual Garbatella
+location. The old website `ristoranteitrefratelli.it` has **zero DNS
+resolution** (confirmed with `getent hosts`), but this one also has a
+real, independently-confirmed email
+(itrefratelli.garbatella@gmail.com), on top of a real active Instagram
+(3,603 followers) and Facebook, both confirmed by name search. **This
+is the strongest lead of the day**: it's the only one of today's three
+builds where email, not just DM, is a real channel Claude itself can
+use tomorrow. All 5 photos real, from Sluurpy's public gallery; colors
+sampled from the actual photos. No logo, legitimate `logoText` fallback
+("TF").
 
 **Sourced and verified, not built, needs Nikolai for a screenshot:**
 - **Bertino Argenti** (argenteria/silverware, family in the silver trade
@@ -1011,9 +1074,51 @@ sourcing detail. Outreach channel once contacted: Facebook message.
   build yet: needs either a phone screenshot from Nikolai (of the
   Instagram/Facebook profile, or of the archived site if he can reach
   it) or a future session with Wayback access.
+- **Trattoria Sora Pia** (Via Aurelia 426, Aurelio; founded 1890 by Pia
+  Sacrestani, a 16-year-old who was Pope Pius XII's trusted cook, now
+  the oldest neighborhood restaurant in the area per turismoroma.it).
+  Its "own site" (`trattoria-sora-pia.it`) turned out to be a bare
+  JustEat ordering page: one generic placeholder image, no real photos,
+  no phone/email/social links, "JustEat Home" in the footer, about as
+  clear a bad-website signal as this project has found. Real email
+  confirmed (trattoriasorapia@gmail.com) and real Facebook confirmed
+  (facebook.com/SoraPia1890/). Not built: RestaurantGuru claims 333
+  photos for this business but the fetch returned `503`; TripAdvisor's
+  own `LocationPhotoDirectLink` page and piatti.menu both `403`'d.
+  Sluurpy's public gallery had only one non-placeholder photo, a small
+  336x450 dish shot, not enough on its own for a full demo. Worth
+  retrying the same aggregators next session (these blocks aren't
+  always consistent run to run) before asking Nikolai for a screenshot.
 
 **Checked and ruled out this round** (so this ground doesn't get
 re-covered):
+- **Da Brando** (Via Flaminia 532/534, Ponte Milvio) and **Il Conte Max**
+  (Via Silvestro Gherardi 90, Ostiense): both have their own maintained
+  websites (dabrando.it, ilcontemax.it) plus thousands of Facebook
+  likes/followers. Not bad-website candidates.
+- **Trattoria Da Neno** (Via Ravenna 30, Nomentano): has its own domain
+  (trattorianeno.it) and at least one source flags it as possibly
+  permanently closed, conflicting with other sources. Same as the
+  Antica Macelleria Annibale precedent: verify before building, didn't
+  chase this one down further this round.
+- **Ristorante Il Cigno** (Piazzale delle Provincie 9): turned out to be
+  a Chinese restaurant, not the traditional Roman trattoria the name
+  suggested, and one source flags it as permanently closed. Not a lead.
+- **Ada e Mario / Eredi di Mazzelli Mario** (Circonvallazione Appia 81,
+  Appio Latino, family-run for 20+ years): no independently confirmed
+  email or managed social account, only a generic Instagram "location"
+  tag page and a user-created Facebook group (not an official business
+  page). Genuinely no clean channel found despite a real search; could
+  still be built as a phone-only lead if the batch needs padding out,
+  but not built this round given the ambiguity.
+- **Cotto e Mangiato da Sergio** (Viale Antonio Ciamarra 284,
+  Alessandrino/Cinecittà): real email confirmed
+  (sergio.borrello@tin.it) and a real Instagram handle found
+  (Cottoemangiatodasergio), current site is on Altervista's free
+  hosting (same red flag as Bordi Belle Arti's Blogspot site), but the
+  site itself returned `403` on fetch so its actual state (and any
+  reusable photos) couldn't be confirmed this round. Worth a retry next
+  session, didn't have time to chase it down further today.
 - **Pasticceria Benedetto** (Garbatella, Piazza Augusto Albini 8/9,
   since 1987): dead domain confirmed (`pasticceriabenedettoroma.com`
   returns HTTP 503), real Facebook confirmed, but it's a branch of
