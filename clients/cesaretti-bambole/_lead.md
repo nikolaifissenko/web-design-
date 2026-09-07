@@ -17,8 +17,15 @@
   search confirming contact details -> RomaToday's 2011 feature on the
   shop's reopening -> negozidiroma.com, a dedicated feature on this
   specific shop, used for real photos.
-- **Status:** outreach-sent (email sent 2026-09-03 to
-  info@cesaretti-bambole.com, Gmail message ID `1a067e5515672542`)
+- **Status:** email-bounced. Sent 2026-09-03 to info@cesaretti-bambole.com
+  (Gmail message ID `1a067e5515672542`). Not a hard "address doesn't
+  exist" bounce: their mail server (behind Cloudflare) simply timed out
+  on every connection attempt over 3 days (2026-09-04, 09-05, 09-06),
+  final status `4.4.1`, "recipient server did not accept our requests
+  to connect." Reads as their mail server being down or misconfigured,
+  not necessarily a dead address. Given no Instagram/Facebook exists
+  for this lead, **phone is the only real option: 06 6790058 (or mobile
+  347 2803041)**.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cesaretti-bambole/
   (not yet verified live, pending merge to main)
 - **Sold:** no

@@ -64,3 +64,15 @@ price mentioned, no em dashes, plain punctuation, standard sign-off.
 > Grazie mille per il suo tempo,
 > Nikolai
 > 349 101 6416
+
+## Follow-up draft (ready, not sent, 2026-09-07 pipeline check-in)
+
+First follow-up, due per the 3-day threshold, no reply yet on the
+original send. Short one-liner, same formula as the follow-ups already
+sent to the earlier batch. Not sent, needs Nikolai's review first.
+
+> Buongiorno, volevo solo sapere se ha avuto modo di vedere la demo che le ho preparato per I Prodotti Trappisti. Resto a disposizione.
+>
+> Grazie mille,
+> Nikolai
+> 349 101 6416

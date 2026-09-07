@@ -3,11 +3,26 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-04): current pipeline snapshot
+## Start here (2026-09-07): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-04 pipeline check-in: checked every open
-Gmail thread against the static files (43 threads), found 1 real reply
+source of truth. **2026-09-07 pipeline check-in: re-checked all 34 open
+Gmail threads, found 1 new bounce** (`cesaretti-bambole`, their mail
+server timed out on every attempt over 3 days, final status `4.4.1`,
+reads as their server being down rather than a dead address, phone
+06 6790058 is the only real channel since no social media exists).
+Everything else unchanged since the 2026-09-04 check-in below. Drafted
+first follow-ups for 9 more leads that hit the 3-day mark today
+(`da-romolo-mole-adriana`, `maurizio-e-lora`, `pasticceria-da-zio`,
+`pasticceria-savarese`, `pellegrini-dario`, `prodotti-trappisti`,
+`terracromata-ceramica`, `tipografia-aquila`, `torrefazione-foroni`),
+added to each `_lead.md`, not sent. The 13 drafted on 09-04 are still
+sitting unsent too, now 6 days out, still waiting on a send/approve.
+
+## 2026-09-04 pipeline check-in (prior)
+
+**Checked every open Gmail thread against the static files (43
+threads), found 1 real reply
 and 4 more bounces not previously caught.**
 
 - **Real reply, needs Nikolai's decision**: `cartoleria-mancini` replied
