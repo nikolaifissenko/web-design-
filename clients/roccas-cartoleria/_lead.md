@@ -15,7 +15,7 @@
   instagram/facebook"), poi cartolerieinternazionali.it fetchato
   direttamente per storia, contatti, foto e loghi.
 - **Status:** outreach-sent (email sent 2026-09-01 to info@incartoleria.it, Gmail message ID `1a05c3e2ac66150f`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (Gmail message ID `1a07bcd62e93e560`).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/roccas-cartoleria/
 - **Sold:** no
 - **Notes:**
@@ -54,11 +54,11 @@
     sessione, solo il demo costruito.
 
 
-## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+## Follow-up sent (drafted 2026-09-04 pipeline check-in, sent 2026-09-07, Gmail message ID `1a07bcd62e93e560`)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07 as a reply on the original thread.
 
 > Buongiorno, le scrivo solo per sapere se ha avuto un momento per la demo che le ho preparato. Sono a disposizione per un parere sincero.
 >

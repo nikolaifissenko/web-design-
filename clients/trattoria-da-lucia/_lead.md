@@ -8,7 +8,7 @@
 - **Facebook:** https://www.facebook.com/trattoriadalucia1938/
 - **Current website:** trattoriadalucia.com. Domain does not resolve at all, effectively no working site. Doesn't accept card payments either (per third-party listings), another low-digital-investment signal.
 - **Status:** outreach-sent (email sent 2026-09-01 to dalucia1938@gmail.com, Gmail message ID `1a05c404309ee96e`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (Gmail message ID `1a07bccb49d5e7d3`).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/trattoria-da-lucia/
 - **Sold:** no
 - **Notes:**
@@ -19,11 +19,11 @@
   - Pitch drafted, not yet sent. Real demo link now available to slot in.
 
 
-## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+## Follow-up sent (drafted 2026-09-04 pipeline check-in, sent 2026-09-07, Gmail message ID `1a07bccb49d5e7d3`)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07 as a reply on the original thread.
 
 > Buongiorno, volevo solo risentirla sulla demo per la Trattoria da Lucia. Resto a disposizione anche solo per un parere sincero.
 >

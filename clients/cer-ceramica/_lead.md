@@ -17,7 +17,7 @@
   page (address, real photos with real EXIF data, a real promotional
   collage image with the shop's actual logo baked in).
 - **Status:** outreach-sent (email sent 2026-09-01 to cer.annamaria@gmail.com, Gmail message ID `1a05c3f773ee3594`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (Gmail message ID `1a07bc9001bea5f5`).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cer-ceramica/
   (not live yet, branch not merged to `main`)
 - **Sold:** no
@@ -95,11 +95,11 @@ no em dashes, plain punctuation.
 > Nikolai
 
 
-## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+## Follow-up sent (drafted 2026-09-04 pipeline check-in, sent 2026-09-07, Gmail message ID `1a07bc9001bea5f5`)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07 as a reply on the original thread.
 
 > Buongiorno, volevo solo sapere se ha avuto modo di vedere la demo che le ho preparato. Resto a disposizione per un parere sincero.
 >

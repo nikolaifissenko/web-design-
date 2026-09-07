@@ -15,6 +15,7 @@
   review platforms, confirmed genuine, not stock).
 - **Status:** outreach-sent (email sent 2026-09-03 to
   zioglennzio@gmail.com, Gmail message ID `1a067e5a5bbc3f87`)
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (Gmail message ID `1a07bcabe84da289`).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/pasticceria-da-zio/
   (not yet verified live, pending merge to main)
 - **Sold:** no
@@ -66,11 +67,11 @@ punctuation, standard sign-off.
 > Nikolai
 > 349 101 6416
 
-## Follow-up draft (ready, not sent, 2026-09-07 pipeline check-in)
+## Follow-up sent (drafted 2026-09-07 pipeline check-in, sent 2026-09-07, Gmail message ID `1a07bcabe84da289`)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07 as a reply on the original thread.
 
 > Buongiorno, le scrivo solo per sapere se ha avuto un momento per la demo che le ho preparato. Resto a disposizione per qualsiasi domanda.
 >

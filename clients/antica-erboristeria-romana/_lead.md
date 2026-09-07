@@ -8,7 +8,7 @@
 - **Current website:** anticaerboristeriaromana.it. Reachable but confirmed severely dated: GIF-era graphics, visibly broken character encoding on accented letters, no responsive layout.
 - **Flagged:** a possibly newer domain (anticaerboristeriaromanashop.com) may exist for this business. Found in search results but blocked by a Cloudflare challenge, could not verify contents or whether it's actually theirs. **If they reply pointing to that as their real site, that's expected, not a mistake**, same situation as Testaccio XIX-XXV's two domains.
 - **Status:** outreach-sent (email sent 2026-09-01 to info@anticaerboristeriaromana.it, Gmail message ID `1a05c3ea3cb43fad`, unconfirmed address, watch for a bounce)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (Gmail message ID `1a07bcd1ec37a882`).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-erboristeria-romana/
 - **Sold:** no
 - **Notes:**
@@ -19,11 +19,11 @@
   - Pitch drafted, not yet sent. Real demo link now available to slot in.
 
 
-## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+## Follow-up sent (drafted 2026-09-04 pipeline check-in, sent 2026-09-07, Gmail message ID `1a07bcd1ec37a882`)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07 as a reply on the original thread.
 
 > Buongiorno, le scrivo solo per sapere se ha avuto modo di vedere la demo che le ho preparato per l'Erboristeria. Resto a disposizione anche solo per un parere sincero.
 >

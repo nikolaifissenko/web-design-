@@ -7,7 +7,7 @@
 - **Facebook:** https://www.facebook.com/artedellavetrata/
 - **Current website:** vetrategiuliani.com. Returned HTTP 503 on every check this session (server error, effectively down). Worth re-verifying before outreach in case it's a temporary outage, but a serious problem either way for a business with international clients.
 - **Status:** outreach-sent (email sent 2026-09-01 to info@vetrategiuliani.com, Gmail message ID `1a05c3db7f4ccdca`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (Gmail message ID `1a07bccbeebe60e8`).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/vetrate-arte-giuliani/
 - **Sold:** no
 - **Notes:**
@@ -17,11 +17,11 @@
   - Pitch drafted, not yet sent. Real demo link now available to slot in.
 
 
-## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+## Follow-up sent (drafted 2026-09-04 pipeline check-in, sent 2026-09-07, Gmail message ID `1a07bccbeebe60e8`)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07 as a reply on the original thread.
 
 > Buongiorno, le scrivo solo per assicurarmi che la demo le sia arrivata correttamente. A disposizione per qualsiasi domanda.
 >

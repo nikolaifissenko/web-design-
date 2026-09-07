@@ -9,7 +9,7 @@
 - **Email:** lapiccolacuccagna@gmail.com (confirmed across multiple independent listing sources)
 - **Sources:** Turismo Roma, restaurant aggregator listings (address/phone/email cross-confirmed across Yelp, Tripadvisor listings, Sluurpy), piatti.menu (2 real photos with visible signage, see notes), independent web search for reviews/history (Hostaria dal 1950).
 - **Status:** outreach-sent (email sent 2026-09-01 to lapiccolacuccagna@gmail.com, Gmail message ID `1a05c404c8ce5e71`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (Gmail message ID `1a07bc9b9246cc34`).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/la-piccola-cuccagna/
 - **Sold:** no
 - **Notes:**
@@ -26,11 +26,11 @@
 Not drafted this round. Real contact channels exist (email, Instagram, Facebook, phone), so outreach is straightforward once Nikolai wants to move on it. Will draft in full prose and show it here before sending anything on any channel, per standing process.
 
 
-## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+## Follow-up sent (drafted 2026-09-04 pipeline check-in, sent 2026-09-07, Gmail message ID `1a07bc9b9246cc34`)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07 as a reply on the original thread.
 
 > Buongiorno, volevo solo risentirvi sulla demo che vi ho preparato. Resto a disposizione anche solo per un parere sincero.
 >

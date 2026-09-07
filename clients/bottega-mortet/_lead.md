@@ -7,7 +7,7 @@
 - **Facebook:** https://www.facebook.com/BottegaMortetdiRoma1889diDanteMorteteAndreaMortet/
 - **Current website:** bottegamortet.com. Reachable but confirmed dated: GIF-image navigation menu, early-2000s HTML, no responsive layout.
 - **Status:** outreach-sent (email sent 2026-09-01 to info@bottegamortet.com, Gmail message ID `1a05c3eaba619503`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (Gmail message ID `1a07bc879daea1c9`).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/bottega-mortet/
 - **Sold:** no
 - **Notes:**
@@ -18,11 +18,11 @@
   - Pitch drafted, not yet sent. Real demo link now available to slot in.
 
 
-## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+## Follow-up sent (drafted 2026-09-04 pipeline check-in, sent 2026-09-07, Gmail message ID `1a07bc879daea1c9`)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07 as a reply on the original thread.
 
 > Buongiorno, le scrivo solo per sapere se ha avuto un momento per dare un'occhiata alla demo della Bottega Mortet. Resto a disposizione.
 >
