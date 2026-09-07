@@ -17,7 +17,7 @@
   direttamente (home, azienda, servizi) per storia, contatti, servizi e
   foto.
 - **Status:** outreach-sent (email sent 2026-09-01 to info@anticatipografia.it, Gmail message ID `1a05c403b047cf83`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (see "Follow-up sent" section below for the Gmail message ID).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-tipografia/
 - **Sold:** no
 - **Notes:**
@@ -60,14 +60,16 @@
     sessione, solo il demo costruito.
 
 
-## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+## Follow-up sent (2026-09-07)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07, per Nikolai's go-ahead.
 
 > Buongiorno, volevo solo assicurarmi che la demo per l'Antica Tipografia le sia arrivata. Sono a disposizione per qualsiasi domanda.
 >
 > Grazie mille,
 > Nikolai
 > 349 101 6416
+
+Gmail message ID `1a07c89151456493`.

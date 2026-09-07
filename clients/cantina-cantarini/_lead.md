@@ -9,7 +9,7 @@
 - **Email:** santinafattori1964@gmail.com, found printed in the footer of their own site, not invented.
 - **Sources:** their own site (address, phone, hours, email, real logo, real food photos), Touring Club Italiano and Turismo Roma (history: founded 1903 by Mariano Cantarini), camillabaresani.com (2019 feature article with a real exterior photo of the storefront in Piazza Sallustio).
 - **Status:** outreach-sent (email sent 2026-09-01 to santinafattori1964@gmail.com, Gmail message ID `1a05c40548e5ba61`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (see "Follow-up sent" section below for the Gmail message ID).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cantina-cantarini/
 - **Sold:** no
 - **Notes:**
@@ -24,14 +24,16 @@
 This business already has a working, if dated, website with a confirmed real email, so a genuinely warm, low-pressure pitch fits well here. Draft not written yet this round, will draft in normal prose and show it before sending anything, per standing process. No message has been sent on any channel for this lead yet.
 
 
-## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+## Follow-up sent (2026-09-07)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07, per Nikolai's go-ahead.
 
 > Buongiorno, volevo solo risentirla sulla demo che le ho preparato per Cantina Cantarini. Sono a disposizione per un parere, anche sincero.
 >
 > Grazie mille,
 > Nikolai
 > 349 101 6416
+
+Gmail message ID `1a07c8934a687864`.

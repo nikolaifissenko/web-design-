@@ -26,7 +26,7 @@
   e-commerce site (real logo files found in `/miner/images/`, but only
   book-cover thumbnails otherwise, no storefront/interior photos).
 - **Status:** outreach-sent (email sent 2026-09-01 to info@minervalibreria.it, Gmail message ID `1a05c3fe517f7ba9`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (see "Follow-up sent" section below for the Gmail message ID).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/libreria-minerva/
   (not live yet, branch not merged to `main`)
 - **Sold:** no
@@ -119,14 +119,16 @@ no em dashes, plain punctuation.
 > Nikolai
 
 
-## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+## Follow-up sent (2026-09-07)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07, per Nikolai's go-ahead.
 
 > Buongiorno, le scrivo solo per sapere se ha avuto modo di vedere la demo per la Libreria Minerva. A disposizione per qualsiasi domanda.
 >
 > Grazie mille,
 > Nikolai
 > 349 101 6416
+
+Gmail message ID `1a07c89877e37803`.

@@ -18,7 +18,7 @@
   2020 (pde.it), the only source anywhere that had an actual photo of
   the shop's interior.
 - **Status:** outreach-sent (email sent 2026-09-01 to libreria.tombolini@iol.it, Gmail message ID `1a05c3f6e7a69a4f`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (see "Follow-up sent" section below for the Gmail message ID).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/libreria-tombolini/
   (not live yet, branch not merged to `main`)
 - **Sold:** no
@@ -102,14 +102,16 @@ no em dashes, plain punctuation, tone matched to a genuinely major
 > Nikolai
 
 
-## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+## Follow-up sent (2026-09-07)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07, per Nikolai's go-ahead.
 
 > Buongiorno, volevo solo assicurarmi che la demo per la Libreria Tombolini le sia arrivata. Resto a disposizione.
 >
 > Grazie mille,
 > Nikolai
 > 349 101 6416
+
+Gmail message ID `1a07c899a6df3f32`.

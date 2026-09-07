@@ -16,7 +16,7 @@
   fetchato direttamente (home + il-negozio) per storia, contatti, orari
   e foto.
 - **Status:** outreach-sent (email sent 2026-09-01 to preziosodaniela1969@gmail.com, Gmail message ID `1a05c3f6890ca3fa`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (see "Follow-up sent" section below for the Gmail message ID).
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/coltelleria-prezioso/
 - **Sold:** no
 - **Notes:**
@@ -45,14 +45,16 @@
     sessione, solo il demo costruito.
 
 
-## Follow-up draft (ready, not sent, 2026-09-04 pipeline check-in)
+## Follow-up sent (2026-09-07)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07, per Nikolai's go-ahead.
 
 > Buongiorno, le scrivo solo per assicurarmi che abbia ricevuto la demo per la Coltelleria. Sono a disposizione per qualsiasi domanda.
 >
 > Grazie mille,
 > Nikolai
 > 349 101 6416
+
+Gmail message ID `1a07c8969b41d293`.
