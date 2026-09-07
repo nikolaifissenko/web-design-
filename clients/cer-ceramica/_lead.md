@@ -17,7 +17,7 @@
   page (address, real photos with real EXIF data, a real promotional
   collage image with the shop's actual logo baked in).
 - **Status:** outreach-sent (email sent 2026-09-01 to cer.annamaria@gmail.com, Gmail message ID `1a05c3f773ee3594`)
-- **Response:** no reply yet. Follow-up sent 2026-09-07 (see "Follow-up sent" section below for the Gmail message ID).
+- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:12 (Gmail message ID `1a07bc9001bea5f5`) and again at 15:4x (Gmail message ID `1a07c89568ab191b`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cer-ceramica/
   (not live yet, branch not merged to `main`)
 - **Sold:** no
@@ -95,11 +95,9 @@ no em dashes, plain punctuation.
 > Nikolai
 
 
-## Follow-up sent (2026-09-07)
+## Follow-up sent, TWICE BY ACCIDENT (2026-09-07)
 
-First follow-up, due per the 3-day threshold, no reply yet on the
-original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Sent 2026-09-07, per Nikolai's go-ahead.
+First follow-up, drafted 2026-09-04, due per the 3-day threshold. Two concurrent Claude sessions both got a go-ahead from Nikolai on 2026-09-07 and each sent it independently, unaware of the other: once at 12:12 (Gmail message ID `1a07bc9001bea5f5`) and again about 3.5 hours later at 15:42 (Gmail message ID `1a07c89568ab191b`). Same text both times, no price, no em dashes. Caught during this session's end-of-day save, recorded honestly here rather than silently kept as a single clean send. No third follow-up needed.
 
 > Buongiorno, volevo solo sapere se ha avuto modo di vedere la demo che le ho preparato. Resto a disposizione per un parere sincero.
 >

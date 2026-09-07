@@ -24,7 +24,7 @@
   torrefazionedrogheriaforoni@gmail.com, Gmail message ID `1a06091fc7b28499`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/torrefazione-foroni/
 - **Sold:** no
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (Gmail message ID `1a07bcc7c46fd941`).
 - **Notes:**
   - **Everything on this demo is real, zero stock.** Founded 1920 (date
     taken directly off the shop's own coffee packaging, see
@@ -87,11 +87,11 @@ punctuation, signed off with the real phone number per standing process.
 > Nikolai
 > 349 101 6416
 
-## Follow-up draft (ready, not sent, 2026-09-07 pipeline check-in)
+## Follow-up sent (drafted 2026-09-07 pipeline check-in, sent 2026-09-07, Gmail message ID `1a07bcc7c46fd941`)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07 as a reply on the original thread.
 
 > Buongiorno, le scrivo solo per sapere se ha avuto un momento per vedere la demo. Sono a disposizione per un parere sincero, o mi può chiamare direttamente.
 >

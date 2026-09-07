@@ -15,7 +15,7 @@
   instagram/facebook"), poi cartolerieinternazionali.it fetchato
   direttamente per storia, contatti, foto e loghi.
 - **Status:** outreach-sent (email sent 2026-09-01 to info@incartoleria.it, Gmail message ID `1a05c3e2ac66150f`)
-- **Response:** no reply yet. Follow-up sent 2026-09-07 (see "Follow-up sent" section below for the Gmail message ID).
+- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:17 (Gmail message ID `1a07bcd62e93e560`) and again at 15:4x (Gmail message ID `1a07c89aa7303bc9`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/roccas-cartoleria/
 - **Sold:** no
 - **Notes:**
@@ -54,11 +54,9 @@
     sessione, solo il demo costruito.
 
 
-## Follow-up sent (2026-09-07)
+## Follow-up sent, TWICE BY ACCIDENT (2026-09-07)
 
-First follow-up, due per the 3-day threshold, no reply yet on the
-original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Sent 2026-09-07, per Nikolai's go-ahead.
+First follow-up, drafted 2026-09-04, due per the 3-day threshold. Two concurrent Claude sessions both got a go-ahead from Nikolai on 2026-09-07 and each sent it independently, unaware of the other: once at 12:17 (Gmail message ID `1a07bcd62e93e560`) and again about 3.5 hours later at 15:43 (Gmail message ID `1a07c89aa7303bc9`). Same text both times, no price, no em dashes. Caught during this session's end-of-day save, recorded honestly here rather than silently kept as a single clean send. No third follow-up needed.
 
 > Buongiorno, le scrivo solo per sapere se ha avuto un momento per la demo che le ho preparato. Sono a disposizione per un parere sincero.
 >

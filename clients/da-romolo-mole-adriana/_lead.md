@@ -22,6 +22,7 @@
   presente sul sito stesso.
 - **Status:** outreach-sent (email sent 2026-09-03 to
   info@daromoloallamoleadriana.it, Gmail message ID `1a067e57b253cb8e`)
+- **Response:** no reply yet. Follow-up sent 2026-09-07 (Gmail message ID `1a07bc97171d4f29`).
 - **Demo URL:**
   https://nikolaifissenko.github.io/web-design-/clients/da-romolo-mole-adriana/
   (non ancora verificato live, in attesa del merge su main).
@@ -87,11 +88,11 @@ standard.
 > Nikolai
 > 349 101 6416
 
-## Follow-up draft (ready, not sent, 2026-09-07 pipeline check-in)
+## Follow-up sent (drafted 2026-09-07 pipeline check-in, sent 2026-09-07, Gmail message ID `1a07bc97171d4f29`)
 
 First follow-up, due per the 3-day threshold, no reply yet on the
 original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Not sent, needs Nikolai's review first.
+sent to the earlier batch. Sent 2026-09-07 as a reply on the original thread.
 
 > Buongiorno, le scrivo solo per sapere se ha avuto modo di vedere la demo che le ho preparato per Da Romolo alla Mole Adriana. Resto a disposizione per qualsiasi domanda.
 >

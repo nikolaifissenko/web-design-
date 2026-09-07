@@ -9,7 +9,7 @@
 - **Email:** santinafattori1964@gmail.com, found printed in the footer of their own site, not invented.
 - **Sources:** their own site (address, phone, hours, email, real logo, real food photos), Touring Club Italiano and Turismo Roma (history: founded 1903 by Mariano Cantarini), camillabaresani.com (2019 feature article with a real exterior photo of the storefront in Piazza Sallustio).
 - **Status:** outreach-sent (email sent 2026-09-01 to santinafattori1964@gmail.com, Gmail message ID `1a05c40548e5ba61`)
-- **Response:** no reply yet. Follow-up sent 2026-09-07 (see "Follow-up sent" section below for the Gmail message ID).
+- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:12 (Gmail message ID `1a07bc8812297180`) and again at 15:4x (Gmail message ID `1a07c8934a687864`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cantina-cantarini/
 - **Sold:** no
 - **Notes:**
@@ -24,11 +24,9 @@
 This business already has a working, if dated, website with a confirmed real email, so a genuinely warm, low-pressure pitch fits well here. Draft not written yet this round, will draft in normal prose and show it before sending anything, per standing process. No message has been sent on any channel for this lead yet.
 
 
-## Follow-up sent (2026-09-07)
+## Follow-up sent, TWICE BY ACCIDENT (2026-09-07)
 
-First follow-up, due per the 3-day threshold, no reply yet on the
-original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Sent 2026-09-07, per Nikolai's go-ahead.
+First follow-up, drafted 2026-09-04, due per the 3-day threshold. Two concurrent Claude sessions both got a go-ahead from Nikolai on 2026-09-07 and each sent it independently, unaware of the other: once at 12:12 (Gmail message ID `1a07bc8812297180`) and again about 3.5 hours later at 15:42 (Gmail message ID `1a07c8934a687864`). Same text both times, no price, no em dashes. Caught during this session's end-of-day save, recorded honestly here rather than silently kept as a single clean send. No third follow-up needed.
 
 > Buongiorno, volevo solo risentirla sulla demo che le ho preparato per Cantina Cantarini. Sono a disposizione per un parere, anche sincero.
 >

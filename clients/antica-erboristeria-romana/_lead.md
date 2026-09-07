@@ -8,7 +8,7 @@
 - **Current website:** anticaerboristeriaromana.it. Reachable but confirmed severely dated: GIF-era graphics, visibly broken character encoding on accented letters, no responsive layout.
 - **Flagged:** a possibly newer domain (anticaerboristeriaromanashop.com) may exist for this business. Found in search results but blocked by a Cloudflare challenge, could not verify contents or whether it's actually theirs. **If they reply pointing to that as their real site, that's expected, not a mistake**, same situation as Testaccio XIX-XXV's two domains.
 - **Status:** outreach-sent (email sent 2026-09-01 to info@anticaerboristeriaromana.it, Gmail message ID `1a05c3ea3cb43fad`, unconfirmed address, watch for a bounce)
-- **Response:** no reply yet. Follow-up sent 2026-09-07 (see "Follow-up sent" section below for the Gmail message ID).
+- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:17 (Gmail message ID `1a07bcd1ec37a882`) and again at 15:4x (Gmail message ID `1a07c8903a714430`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-erboristeria-romana/
 - **Sold:** no
 - **Notes:**
@@ -19,11 +19,9 @@
   - Pitch drafted, not yet sent. Real demo link now available to slot in.
 
 
-## Follow-up sent (2026-09-07)
+## Follow-up sent, TWICE BY ACCIDENT (2026-09-07)
 
-First follow-up, due per the 3-day threshold, no reply yet on the
-original send. Short one-liner, same formula as the follow-ups already
-sent to the earlier batch. Sent 2026-09-07, per Nikolai's go-ahead.
+First follow-up, drafted 2026-09-04, due per the 3-day threshold. Two concurrent Claude sessions both got a go-ahead from Nikolai on 2026-09-07 and each sent it independently, unaware of the other: once at 12:17 (Gmail message ID `1a07bcd1ec37a882`) and again about 3.5 hours later at 15:42 (Gmail message ID `1a07c8903a714430`). Same text both times, no price, no em dashes. Caught during this session's end-of-day save, recorded honestly here rather than silently kept as a single clean send. No third follow-up needed.
 
 > Buongiorno, le scrivo solo per sapere se ha avuto modo di vedere la demo che le ho preparato per l'Erboristeria. Resto a disposizione anche solo per un parere sincero.
 >
