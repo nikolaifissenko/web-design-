@@ -5,7 +5,7 @@
 - **Phone:** 06 39751259 / 393 9345646 (mobile)
 - **Email:** anticaorologeriaroma@libero.it (real, confirmed directly on their own site; also info@anticaorologeriaroma.it listed)
 - **Current website:** anticaorologeriaroma.it. Reachable, real, but dated: basic Bootstrap theme, copyright footer stuck at "2015-2023", marketing banners with baked-in stock-photo text.
-- **Status:** demo-built, ready to send by email
+- **Status:** outreach-sent (email sent 2026-09-08 to anticaorologeriaroma@libero.it, Gmail message ID `1a081747310de7cf`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-orologeria-tribunale/
 - **Sold:** no
 - **Notes:**
@@ -15,7 +15,7 @@
   - **Colori NON estratti dal sito**: l'unico colore reale nel loro CSS (`#1ABC9C`, turchese) è il default del tema Bootstrap "Flat UI" usato, non una scelta di branding deliberata (nessun'altra traccia altrove). Scelti a mano nero + oro per l'estetica classica da orologeria, dichiarato onestamente in `js/config.js`.
   - **Orari reali**, confermati sul loro sito (Lun-Ven 10:00-18:00, Sab 9:00-13:00 su appuntamento).
 
-## Outreach draft: email (ready to send, real dated site, no price stated)
+## Outreach sent: email (2026-09-08, real dated site, no price stated)
 
 Real business with an actual (if dated) website, so the pitch acknowledges
 what exists and offers the upgrade rather than pretending nothing's there.

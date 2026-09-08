@@ -5,7 +5,7 @@
 - **Phone:** 06 44340585 / 338 8842977 (mobile, used as WhatsApp in demo)
 - **Email:** isellaidal1902@gmail.com (real, confirmed directly on their own site's footer)
 - **Current website:** isellai.it. Reachable, real, but dated: basic WordPress theme, generic stock catalog photography (not real shop photos), no responsive polish by current standards.
-- **Status:** demo-built, ready to send by email
+- **Status:** outreach-sent (email sent 2026-09-08 to isellaidal1902@gmail.com, Gmail message ID `1a08174689029752`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/isellai-dal-1902/
 - **Sold:** no
 - **Notes:**
@@ -15,7 +15,7 @@
   - **Nessuna foto reale utilizzabile**: le immagini sul loro stesso sito (valigie in aeroporto, set da spiaggia su sfondo marino, fila di trolley in studio) sono chiaramente stock generico da catalogo fornitori, non foto del laboratorio reale. Usate foto stock oneste al loro posto, scelte con cura (licenza Unsplash, nessun marchio di terzi leggibile). Vedi commento in cima a `js/config.js` per i credit fotografici esatti.
   - **Orari NON confermati**: nessun orario trovato sul sito, quelli nel demo sono plausibili ma da verificare per telefono prima di pubblicare se il cliente compra.
 
-## Outreach draft: email (ready to send, real dated site, no price stated)
+## Outreach sent: email (2026-09-08, real dated site, no price stated)
 
 Real business with an actual (if dated) website, so the pitch acknowledges
 what exists and offers the upgrade rather than pretending nothing's there.

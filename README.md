@@ -6,7 +6,22 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 ## Start here (2026-09-08): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-08, same session: Round 13, 2 new demos built**
+source of truth. **2026-09-08, later the same day: Round 14, 2 more demos
+built and emailed** (`isellai-dal-1902`, `antica-orologeria-tribunale`),
+per Nikolai's request to specifically find leads with a real active email
+this time rather than IG/FB-only ones. Both leads already had their own
+(dated) website with a real email listed on it, found via direct fetch,
+not just a third-party directory. Both emails sent same day, working
+autonomously per Nikolai's go-ahead: `isellaidal1902@gmail.com` (Gmail
+message ID `1a08174689029752`) and `anticaorologeriaroma@libero.it`
+(Gmail message ID `1a081747310de7cf`). Neither business's own photos were
+usable (iSellai's were generic supplier catalog stock; Antica Orologeria's
+banners were stock with baked-in ad text), so both use honest stock for
+hero/about, each documented in its `js/config.js`. Antica Orologeria did
+have one genuinely real photo (an actual watch listing from their own
+current inventory), used in its gallery.
+
+**2026-09-08, same session, earlier: Round 13, 2 new demos built**
 (`trattoria-memmo`, `calzolaio-garbatella`). Started from a pipeline
 check-in that found nothing left for Claude to act on alone (every open
 lead needed a phone call, a DM, or a decision only Nikolai can make, see
