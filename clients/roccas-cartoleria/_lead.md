@@ -15,7 +15,7 @@
   instagram/facebook"), poi cartolerieinternazionali.it fetchato
   direttamente per storia, contatti, foto e loghi.
 - **Status:** outreach-sent (email sent 2026-09-01 to info@incartoleria.it, Gmail message ID `1a05c3e2ac66150f`)
-- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:17 (Gmail message ID `1a07bcd62e93e560`) and again at 15:4x (Gmail message ID `1a07c89aa7303bc9`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
+- **Response:** no reply yet. **Follow-up sent 2026-09-07, twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:17 (Gmail message ID `1a07bcd62e93e560`) and again at 15:4x (Gmail message ID `1a07c89aa7303bc9`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/roccas-cartoleria/
 - **Sold:** no
 - **Notes:**

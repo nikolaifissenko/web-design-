@@ -7,7 +7,7 @@
 - **Facebook:** https://www.facebook.com/artedellavetrata/
 - **Current website:** vetrategiuliani.com. Returned HTTP 503 on every check this session (server error, effectively down). Worth re-verifying before outreach in case it's a temporary outage, but a serious problem either way for a business with international clients.
 - **Status:** outreach-sent (email sent 2026-09-01 to info@vetrategiuliani.com, Gmail message ID `1a05c3db7f4ccdca`)
-- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:16 (Gmail message ID `1a07bccbeebe60e8`) and again at 15:4x (Gmail message ID `1a07c89cc580a44b`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
+- **Response:** no reply yet. **Follow-up sent 2026-09-07, twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:16 (Gmail message ID `1a07bccbeebe60e8`) and again at 15:4x (Gmail message ID `1a07c89cc580a44b`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/vetrate-arte-giuliani/
 - **Sold:** no
 - **Notes:**

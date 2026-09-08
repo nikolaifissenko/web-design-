@@ -17,7 +17,7 @@
   le pagine navonainfiore.com/the-shop e /cartoleria fetchate
   direttamente per storia, contatti e foto.
 - **Status:** outreach-sent (email sent 2026-09-01 to tabaccheriabenincampi@gmail.com, Gmail message ID `1a05c3e22027c779`)
-- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:12 (Gmail message ID `1a07bc8bc84ea6dd`) and again at 15:4x (Gmail message ID `1a07c8947fdd0d0b`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
+- **Response:** no reply yet. **Follow-up sent 2026-09-07, twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:12 (Gmail message ID `1a07bc8bc84ea6dd`) and again at 15:4x (Gmail message ID `1a07c8947fdd0d0b`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cartoleria-benincampi/
 - **Sold:** no
 - **Notes:**

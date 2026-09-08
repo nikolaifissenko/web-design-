@@ -17,7 +17,7 @@
   direttamente (home, azienda, servizi) per storia, contatti, servizi e
   foto.
 - **Status:** outreach-sent (email sent 2026-09-01 to info@anticatipografia.it, Gmail message ID `1a05c403b047cf83`)
-- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:12 (Gmail message ID `1a07bc86feb0ae62`) and again at 15:4x (Gmail message ID `1a07c89151456493`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
+- **Response:** no reply yet. **Follow-up sent 2026-09-07, twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:12 (Gmail message ID `1a07bc86feb0ae62`) and again at 15:4x (Gmail message ID `1a07c89151456493`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-tipografia/
 - **Sold:** no
 - **Notes:**

@@ -17,7 +17,7 @@
   page (address, real photos with real EXIF data, a real promotional
   collage image with the shop's actual logo baked in).
 - **Status:** outreach-sent (email sent 2026-09-01 to cer.annamaria@gmail.com, Gmail message ID `1a05c3f773ee3594`)
-- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:12 (Gmail message ID `1a07bc9001bea5f5`) and again at 15:4x (Gmail message ID `1a07c89568ab191b`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
+- **Response:** no reply yet. **Follow-up sent 2026-09-07, twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:12 (Gmail message ID `1a07bc9001bea5f5`) and again at 15:4x (Gmail message ID `1a07c89568ab191b`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cer-ceramica/
   (not live yet, branch not merged to `main`)
 - **Sold:** no

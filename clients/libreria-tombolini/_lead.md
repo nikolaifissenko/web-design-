@@ -18,7 +18,7 @@
   2020 (pde.it), the only source anywhere that had an actual photo of
   the shop's interior.
 - **Status:** outreach-sent (email sent 2026-09-01 to libreria.tombolini@iol.it, Gmail message ID `1a05c3f6e7a69a4f`)
-- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:14 (Gmail message ID `1a07bca4c7540f83`) and again at 15:4x (Gmail message ID `1a07c899a6df3f32`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
+- **Response:** no reply yet. **Follow-up sent 2026-09-07, twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:14 (Gmail message ID `1a07bca4c7540f83`) and again at 15:4x (Gmail message ID `1a07c899a6df3f32`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/libreria-tombolini/
   (not live yet, branch not merged to `main`)
 - **Sold:** no

@@ -3,10 +3,26 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-07): current pipeline snapshot
+## Start here (2026-09-08): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-07 pipeline check-in: re-checked all 34 open
+source of truth. **2026-09-08: fixed a `pipeline_status.py` parsing bug**
+introduced by the 2026-09-07 duplicate-send merge resolution. That
+commit rewrote the `Response:` line on the 13 duplicate-sent leads to
+"Follow-up sent twice by accident" with no `YYYY-MM-DD` date in that
+line, and the script only counts a follow-up as sent if it finds a
+dated "follow-up sent" match inside the `Response:` field. Result: the
+script was showing all 13 as `FOLLOW-UP DUE` again (as if never
+followed up), when they'd actually each been followed up twice the
+day before. Fixed by adding the date back into each line
+("Follow-up sent 2026-09-07, twice by accident, ..."), no change to
+the substance of what's recorded. Verified: those 13 now correctly
+show as `WAITING`, not `FOLLOW-UP DUE`. Worth remembering for any
+future manual edit to a `Response:` line: keep the
+`Follow-up sent YYYY-MM-DD` phrase intact, the script's regex depends
+on it literally.
+
+**2026-09-07 pipeline check-in: re-checked all 34 open
 Gmail threads, found 1 new bounce** (`cesaretti-bambole`, their mail
 server timed out on every attempt over 3 days, final status `4.4.1`,
 reads as their server being down rather than a dead address, phone

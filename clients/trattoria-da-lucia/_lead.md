@@ -8,7 +8,7 @@
 - **Facebook:** https://www.facebook.com/trattoriadalucia1938/
 - **Current website:** trattoriadalucia.com. Domain does not resolve at all, effectively no working site. Doesn't accept card payments either (per third-party listings), another low-digital-investment signal.
 - **Status:** outreach-sent (email sent 2026-09-01 to dalucia1938@gmail.com, Gmail message ID `1a05c404309ee96e`)
-- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:16 (Gmail message ID `1a07bccb49d5e7d3`) and again at 15:4x (Gmail message ID `1a07c89bca60f767`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
+- **Response:** no reply yet. **Follow-up sent 2026-09-07, twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:16 (Gmail message ID `1a07bccb49d5e7d3`) and again at 15:4x (Gmail message ID `1a07c89bca60f767`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/trattoria-da-lucia/
 - **Sold:** no
 - **Notes:**
