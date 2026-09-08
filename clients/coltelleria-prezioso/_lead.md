@@ -16,7 +16,7 @@
   fetchato direttamente (home + il-negozio) per storia, contatti, orari
   e foto.
 - **Status:** outreach-sent (email sent 2026-09-01 to preziosodaniela1969@gmail.com, Gmail message ID `1a05c3f6890ca3fa`)
-- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:13 (Gmail message ID `1a07bc93db1554e2`) and again at 15:4x (Gmail message ID `1a07c8969b41d293`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
+- **Response:** no reply yet. **Follow-up sent 2026-09-07, twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:13 (Gmail message ID `1a07bc93db1554e2`) and again at 15:4x (Gmail message ID `1a07c8969b41d293`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/coltelleria-prezioso/
 - **Sold:** no
 - **Notes:**

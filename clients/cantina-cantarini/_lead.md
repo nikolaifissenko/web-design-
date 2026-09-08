@@ -9,7 +9,7 @@
 - **Email:** santinafattori1964@gmail.com, found printed in the footer of their own site, not invented.
 - **Sources:** their own site (address, phone, hours, email, real logo, real food photos), Touring Club Italiano and Turismo Roma (history: founded 1903 by Mariano Cantarini), camillabaresani.com (2019 feature article with a real exterior photo of the storefront in Piazza Sallustio).
 - **Status:** outreach-sent (email sent 2026-09-01 to santinafattori1964@gmail.com, Gmail message ID `1a05c40548e5ba61`)
-- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:12 (Gmail message ID `1a07bc8812297180`) and again at 15:4x (Gmail message ID `1a07c8934a687864`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
+- **Response:** no reply yet. **Follow-up sent 2026-09-07, twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:12 (Gmail message ID `1a07bc8812297180`) and again at 15:4x (Gmail message ID `1a07c8934a687864`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cantina-cantarini/
 - **Sold:** no
 - **Notes:**

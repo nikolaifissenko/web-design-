@@ -3,10 +3,67 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-07): current pipeline snapshot
+## Start here (2026-09-08): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-07 pipeline check-in: re-checked all 34 open
+source of truth. **2026-09-08, same session: Round 13, 2 new demos built**
+(`trattoria-memmo`, `calzolaio-garbatella`). Started from a pipeline
+check-in that found nothing left for Claude to act on alone (every open
+lead needed a phone call, a DM, or a decision only Nikolai can make, see
+the correction above): Nikolai confirmed sourcing a new round rather than
+idling. Both new leads have a real, confirmed Facebook/Instagram channel
+but no email found anywhere despite a genuine search, so both are
+demo-built + DM draft in `_lead.md`, queued for Nikolai to send (same
+situation as `osteria-da-giovanni`/`ristorante-da-enzo-prati`).
+
+- `trattoria-memmo` (Piazza Cavour 14/15, Prati, dal 1930, Negozio Storico):
+  real menu and prices sourced from a structured PDF on piatti.menu (data
+  checked against the phone/address on file, trustworthy). **No real photos
+  used**: the photo gallery on that same piatti.menu page turned out to be
+  cross-contaminated with other businesses' photos (a Chinese restaurant's
+  storefront, another restaurant's branded plate showed up in the candidate
+  set), the exact misattribution risk CLAUDE.md warns about from the
+  Torrefazione Foroni incident, so every photo from that source was
+  discarded on principle, not just the obviously wrong ones. Yelp/TheFork/
+  restaurantguru all blocked (403/503), Facebook confirmed unreachable by
+  automated fetch again. Used honest, carefully-chosen stock instead (no
+  third-party branding visible in frame), documented in `js/config.js` and
+  `_lead.md`.
+- `calzolaio-garbatella` (Via Padre Reginaldo Giuliani 42, Garbatella):
+  real Instagram (@calzolaio_della_garbatella) and Facebook confirmed, no
+  website, no email, no press coverage found. Same honest-stock approach
+  for photos (rejected several candidates for showing a different shop's
+  signage, one was literally a Hong Kong shoe-repair storefront).
+
+**3 other leads researched this round but not built**, real channel
+confirmed but no usable real photo material found anywhere (own site,
+press, piatti.menu, Yelp/TheFork all checked and came up empty or
+untrustworthy): `mucci-cornici-arte` (D.I. Mucci Stefano, frame maker dal
+1926, Via Margutta 53, IG @mucci_cornicidarte, phone 06 3207646),
+`trattoria-dellomo` (Via Vicenza 18, dal 1964, IG @trattoriadellomo + FB,
+phone 06 490411), `sartoria-i-miei-sogni` (Pigneto, FB confirmed, old
+domain mmneisogni.it now dead). All three need either a real photo
+found some other way or Nikolai's own screenshot before building. Carried
+over from a prior session's queued notes, still not built for the same
+reason.
+
+**Pipeline bug fixed earlier the same day**: fixed a `pipeline_status.py` parsing bug
+introduced by the 2026-09-07 duplicate-send merge resolution. That
+commit rewrote the `Response:` line on the 13 duplicate-sent leads to
+"Follow-up sent twice by accident" with no `YYYY-MM-DD` date in that
+line, and the script only counts a follow-up as sent if it finds a
+dated "follow-up sent" match inside the `Response:` field. Result: the
+script was showing all 13 as `FOLLOW-UP DUE` again (as if never
+followed up), when they'd actually each been followed up twice the
+day before. Fixed by adding the date back into each line
+("Follow-up sent 2026-09-07, twice by accident, ..."), no change to
+the substance of what's recorded. Verified: those 13 now correctly
+show as `WAITING`, not `FOLLOW-UP DUE`. Worth remembering for any
+future manual edit to a `Response:` line: keep the
+`Follow-up sent YYYY-MM-DD` phrase intact, the script's regex depends
+on it literally.
+
+**2026-09-07 pipeline check-in: re-checked all 34 open
 Gmail threads, found 1 new bounce** (`cesaretti-bambole`, their mail
 server timed out on every attempt over 3 days, final status `4.4.1`,
 reads as their server being down rather than a dead address, phone

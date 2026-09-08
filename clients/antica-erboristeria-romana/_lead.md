@@ -8,7 +8,7 @@
 - **Current website:** anticaerboristeriaromana.it. Reachable but confirmed severely dated: GIF-era graphics, visibly broken character encoding on accented letters, no responsive layout.
 - **Flagged:** a possibly newer domain (anticaerboristeriaromanashop.com) may exist for this business. Found in search results but blocked by a Cloudflare challenge, could not verify contents or whether it's actually theirs. **If they reply pointing to that as their real site, that's expected, not a mistake**, same situation as Testaccio XIX-XXV's two domains.
 - **Status:** outreach-sent (email sent 2026-09-01 to info@anticaerboristeriaromana.it, Gmail message ID `1a05c3ea3cb43fad`, unconfirmed address, watch for a bounce)
-- **Response:** no reply yet. **Follow-up sent twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:17 (Gmail message ID `1a07bcd1ec37a882`) and again at 15:4x (Gmail message ID `1a07c8903a714430`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
+- **Response:** no reply yet. **Follow-up sent 2026-09-07, twice by accident**, two concurrent Claude sessions each got a go-ahead and sent the same follow-up: 12:17 (Gmail message ID `1a07bcd1ec37a882`) and again at 15:4x (Gmail message ID `1a07c8903a714430`), same text both times. Not caught until this session's own end-of-day save. No further action needed, but don't send a third one.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-erboristeria-romana/
 - **Sold:** no
 - **Notes:**
