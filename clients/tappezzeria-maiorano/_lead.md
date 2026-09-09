@@ -12,15 +12,14 @@
   SEO-tag-stuffed WordPress build with poor UX.
 - **Sources:** independent web search -> the business's own site
   (fetched directly for content and real photos).
-- **Status:** email-bounced. Sent 2026-09-03 to info@tappezzeriaroma.eu
-  (Gmail message ID `1a067e5995fda0de`), blocked instantly: `550 5.7.1`,
-  blocked by the recipient's spam filter, not a dead mailbox. **A second
-  email is already on file for this exact lead**:
-  antoniomajorano@yahoo.it, found on their own site. Worth trying that
-  one directly rather than treating this as a dead end, needs Nikolai's
-  go-ahead.
+- **Status:** outreach-sent (first attempt 2026-09-03 to
+  info@tappezzeriaroma.eu, Gmail message ID `1a067e5995fda0de`, blocked
+  instantly: `550 5.7.1`, blocked by the recipient's spam filter, not a
+  dead mailbox. Resent 2026-09-09 to the second address on file,
+  antoniomajorano@yahoo.it, per Nikolai's go-ahead, Gmail message ID
+  `1a0864de389288d4`, same content, no changes)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/tappezzeria-maiorano/
-  (not yet verified live, pending merge to main)
+  (verified live 2026-09-09)
 - **Sold:** no
 - **Notes:**
   - **Everything on this demo is real, zero stock.** Founded 1969 by

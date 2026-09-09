@@ -18,13 +18,12 @@
   own listing, used for both the confirmed email and real photos).
 - **Status:** outreach-sent (email sent 2026-09-03 to
   mancinicartoleria1936@gmail.com, Gmail message ID `1a067e5aceed9e32`)
-- **Response:** **real reply received 2026-09-03, 25 minutes after
-  sending**: "ho 70 anni e sono ormai in pensione" (I'm 70 and already
+- **Response:** real reply received 2026-09-03, 25 minutes after
+  sending: "ho 70 anni e sono ormai in pensione" (I'm 70 and already
   retired). A genuine, human, specific decline, the owner is retiring,
-  not a generic brush-off. No further outreach makes sense here. Needs
-  Nikolai's call on whether to reply (e.g. a brief, warm "capisco
-  perfettamente, le auguro una buona pensione") or just let it close
-  silently. Not auto-replied, per standing process.
+  not a generic brush-off. Closed warmly 2026-09-09 per Nikolai's call:
+  a short reply wishing them a good retirement, Gmail message ID
+  `1a0864e1e88dc09a`. No further outreach, lead closed.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cartoleria-mancini/
   (not yet verified live, pending merge to main)
 - **Sold:** no
