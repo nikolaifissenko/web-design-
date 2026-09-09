@@ -5,7 +5,7 @@
 - **Phone:** 06 68134625
 - **Email:** dittafrancescopaolucci@gmail.com (real, confirmed directly on their own site's contact page and on Turismo Roma's official listing)
 - **Current website:** falegnameriaromacentro.it. Reachable, real, but unfinished: the logo file loaded on the site is literally named "LOGOPROVA-1.png" ("trial logo"), a generic "bricolage e fai da te" placeholder never replaced with a real one, confirmed by opening the file itself.
-- **Status:** outreach-sent (email sent 2026-09-09 to dittafrancescopaolucci@gmail.com)
+- **Status:** outreach-sent (email sent 2026-09-09 to dittafrancescopaolucci@gmail.com, Gmail message ID `1a0861be980c1776`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/paolucci-falegnameria/
 - **Sold:** no
 - **Notes:**

@@ -3,10 +3,34 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-08): current pipeline snapshot
+## Start here (2026-09-09): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-08, later the same day: Round 14, 2 more demos
+source of truth. **2026-09-09: Round 15, 2 more demos built and emailed**
+(`bertoletti-1882`, `paolucci-falegnameria`), from Nikolai's "send emails
+to new businesses, work by yourself" request. The 5 demos already sitting
+in "built, pitch not sent" were all checked first and ruled out: every
+one of them is Instagram/Facebook-DM-only or needs a phone check first,
+no email channel Claude can send, so this round went out and sourced 2
+fresh leads specifically with a real published email, same approach as
+Round 14. Both found via Turismo Roma's official "botteghe storiche"
+registry, then verified by fetching their own (dated) sites directly.
+`bertoletti-1882` (Via Vittoria, pellicceria dal 1882, the oldest fur
+house in Rome, 4th generation) had rich real material: a logo already
+pre-cropped square by them, a real accent color from their CSS, and real
+editorial/product photos on their own site, only the hero background
+needed honest stock (their own photos weren't wide/clean enough for
+that slot). `paolucci-falegnameria` (Via di Montoro, falegnameria dal
+1936, 3rd generation) had a genuinely unfinished site (its logo file is
+literally named "trial logo" and was never replaced), but a "locali"
+subpage with real, unused photos of the actual workshop, so no stock was
+needed there at all once the home page's generic stock photos were
+correctly discarded. Both emails sent same day, working autonomously per
+the standing rule: `bertolettipelliccerie@gmail.com` (Gmail message ID
+`1a0861bbca4e1070`) and `dittafrancescopaolucci@gmail.com` (Gmail message
+ID `1a0861be980c1776`).
+
+**2026-09-08, later the same day: Round 14, 2 more demos
 built and emailed** (`isellai-dal-1902`, `antica-orologeria-tribunale`),
 per Nikolai's request to specifically find leads with a real active email
 this time rather than IG/FB-only ones. Both leads already had their own
