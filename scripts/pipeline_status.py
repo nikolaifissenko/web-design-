@@ -21,13 +21,31 @@ FIELD_RE = re.compile(r"^-\s+\*\*(\w[\w /]*):\*\*\s*(.*)$")
 
 
 def parse_lead(path: Path) -> dict:
+    # Top-level fields (Status, Response, ...) sometimes wrap onto indented
+    # continuation lines, e.g. a long bounce/resend explanation. Fold those
+    # continuation lines back into the field's value so a date or keyword
+    # sitting on line 2 of a field isn't invisible to the regexes below.
+    # A continuation line is: non-blank, indented, and not itself a new
+    # "- **Field:**" line or a nested "- " sub-bullet (those belong to
+    # Notes and shouldn't get glued together).
     text = path.read_text(encoding="utf-8")
     fields = {}
-    for line in text.splitlines():
-        m = FIELD_RE.match(line.strip())
+    current_key = None
+    for raw_line in text.splitlines():
+        stripped = raw_line.strip()
+        m = FIELD_RE.match(stripped)
         if m:
             key = m.group(1).strip().lower()
-            fields.setdefault(key, m.group(2).strip())
+            if key not in fields:
+                fields[key] = m.group(2).strip()
+                current_key = key
+            else:
+                current_key = None
+            continue
+        if current_key and raw_line.startswith(" ") and stripped and not stripped.startswith("-"):
+            fields[current_key] = (fields[current_key] + " " + stripped).strip()
+        else:
+            current_key = None
     return fields
 
 
@@ -43,9 +61,16 @@ def classify(slug: str, fields: dict) -> dict:
         result["bucket"] = "SOLD"
         return result
 
-    if "bounced" in status:
-        result["bucket"] = "DEAD_CHANNEL"
-        return result
+    if "bounced" in status or "blocked" in status:
+        # A first attempt bouncing/blocking isn't dead if a resend to a
+        # fixed/alternate address is documented afterward in the same
+        # field. Only treat as DEAD_CHANNEL if there's no "resent"
+        # mention after the last bounce/block keyword.
+        last_bad = max(status.rfind("bounced"), status.rfind("blocked"))
+        resent_at = status.rfind("resent")
+        if not (resent_at != -1 and resent_at > last_bad):
+            result["bucket"] = "DEAD_CHANNEL"
+            return result
 
     if status.startswith("not built"):
         result["bucket"] = "BLOCKED_NOT_BUILT"
