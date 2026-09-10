@@ -3,10 +3,33 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-09): current pipeline snapshot
+## Start here (2026-09-10): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-09: Round 15, 2 more demos built and emailed**
+source of truth. **2026-09-10, Round 16: 1 new demo built and emailed**
+(`trevi-profumo`, niche perfumery near the Fontana di Trevi, dal 1919,
+sourced independently outside the historic-shops registry). Its current
+site has almost every image broken and a TLS config so outdated it
+refuses modern browsers (confirmed directly with curl). Real email
+confirmed on their own site, real photos pulled from their own
+uploads folder, real official logo used as-is. Also fixed a real
+pipeline-script bug found while running today's check-in first: the
+parser only ever read the first line of a multi-line Status/Response
+field, so 2 leads with a documented successful resend
+(`cartolibreria-de-biasi`, `tappezzeria-maiorano`) were falling into
+UNPARSED. Fixed the parser, then caught a regression it introduced
+(the fuller text tripped the bounce classifier even after a
+successful resend) and fixed that too. Both leads now correctly show
+as WAITING. No other candidate business found today had both a bad
+site and a real first-party email; several were skipped rather than
+built (Ferramenta Sorelle Bassano: only a PEC email, not a normal
+contact address; Enoteca Costantini and Il Cigno: sites were fine or
+unreachable to verify, not clearly bad; Ottica La Barbera 1837: no
+email found).
+
+## 2026-09-09 pipeline check-in (prior)
+
+**Round 15, 2 more demos built and emailed**
 (`bertoletti-1882`, `paolucci-falegnameria`), from Nikolai's "send emails
 to new businesses, work by yourself" request. The 5 demos already sitting
 in "built, pitch not sent" were all checked first and ruled out: every

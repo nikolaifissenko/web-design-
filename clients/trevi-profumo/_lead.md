@@ -23,7 +23,8 @@
   directly (working around the TLS issue with `curl --tlsv1.0`) for real
   contact info, history text, colors, logo, and photos.
 - **Status:** outreach-sent (email sent 2026-09-10 to
-  info@treviprofumo.com, Gmail message ID PENDING_FILL)
+  info@treviprofumo.com, Gmail message ID `1a08a33a06c7652b`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/trevi-profumo/
 - **Sold:** no
 - **Notes:**
