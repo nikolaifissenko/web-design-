@@ -1,5 +1,9 @@
 # Working on this repo
 
+## North Star
+
+Stated directly by Nikolai, 2026-09-11: retire at 45, reach a net worth of $50,000,000, be with Giulia, live in Blera, on a boat, or wherever life leads, freedom is the actual point. Be able to remodel Giulia's house if she wants it, and take care of her. He is committed to this, and every project, this lead-gen work included, is meant to serve it. Full statement also carried in `nikolaifissenko/Nikolai-Life-`.
+
 This is a lead-gen tool: free demo sites for real Rome businesses, used to
 land paying clients. Every demo is a sample of Nikolai's actual design
 work. Treat it that way, not as a placeholder exercise.
