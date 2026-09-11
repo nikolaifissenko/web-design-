@@ -3,10 +3,35 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-10): current pipeline snapshot
+## Start here (2026-09-11): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-10, Round 16: 1 new demo built and emailed**
+source of truth. **2026-09-11, Round 17: 1 new demo built and emailed**
+(`franchi-argentieri`, goldsmith/silversmith restoration workshop on Via
+di Tor di Nona, dal 1944, a real three-generation founder story: a
+10-year-old apprentice in 1944 who took over in 1968 and passed the
+craft to his sons). Their site is jQuery 1.7.1/Superfish-era and lists
+no email anywhere on it, only phone/fax. Real email confirmed
+identically on three independent sources (the official Associazione
+Botteghe Storiche di Roma page, Paginebianche, Virgilio Aziende), same
+registry-sourced-email standard already used for `cartoleria-mancini`,
+`bertoletti-1882`, and `paolucci-falegnameria`. Real photos from two
+sources: genuine jewelry product shots from their own site's slider,
+plus a real craftsman-at-work photo and workshop pieces from the
+official historic-shops registry page. Real logo redesigned as a clean
+icon-only mark for the circular avatar slot (the real wordmark's bear
+icon overlaps the lettering with no clean crop line), same red
+sampled pixel-by-pixel from the original, same animal, not invented.
+Mood: editorial, a clean fit for a heritage artisan with a strong
+founder story per the skill's own guidance. Pipeline check-in the same
+morning found nothing else urgent (no new replies, no new bounces; 2
+leads newly hit the 3-day follow-up mark, left for the dedicated
+pipeline check-in routine to draft since that routine's rule requires
+showing follow-up drafts before sending, not this one).
+
+## 2026-09-10 pipeline check-in and Round 16 (prior)
+
+**2026-09-10, Round 16: 1 new demo built and emailed**
 (`trevi-profumo`, niche perfumery near the Fontana di Trevi, dal 1919,
 sourced independently outside the historic-shops registry). Its current
 site has almost every image broken and a TLS config so outdated it

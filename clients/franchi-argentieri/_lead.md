@@ -27,7 +27,7 @@
   the official Associazione Botteghe Storiche di Roma page (for history
   text, workshop photos, and the email confirmation).
 - **Status:** outreach-sent (email sent 2026-09-11 to
-  franchiargentieriroma@yahoo.it, Gmail message ID PENDING_SEND)
+  franchiargentieriroma@yahoo.it, Gmail message ID `1a08f5a425cdfddf`)
 - **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/franchi-argentieri/
 - **Sold:** no
