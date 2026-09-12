@@ -3,10 +3,33 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-11): current pipeline snapshot
+## Start here (2026-09-12): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-11, Round 17: 1 new demo built and emailed**
+source of truth. **2026-09-12, Round 18: 1 new demo built and emailed**
+(`ercoli-cornici`, frame-maker and gilder on Corso Vittorio Emanuele II,
+dal 1936, a branch of the family's Via Arenula shop active since the
+late 1800s, 33 years woman-led under Paola Ercoli, a "Maestri
+dell'Artigianato" award winner). Real email confirmed directly on
+their own site (a `mailto:` link in the header). Real photos all
+pulled from their own site: two wide interior shots, the real shop
+window, a wall of frame samples, moulding shelves, and a genuine award-
+ceremony photo of Paola Ercoli that independently corroborates the
+company history. One decorative homepage photo was deliberately
+discarded because it turned out to depict an unrelated hat shop
+("Cappelleria Pratesi"), not this business, the exact
+photo-misattribution trap CLAUDE.md warns about. No usable real logo
+existed (the only file found was low-resolution and visibly cropped in
+the source itself), so a clean double-frame icon was designed instead
+of falling back to initials, using the gold sampled from that same
+file. Mood: editorial. Pipeline check-in the same morning found
+nothing urgent (no new replies, no new bounces beyond the already-
+documented ones; 6 leads now sit in the 3-day follow-up window, left
+for the dedicated pipeline check-in routine to draft).
+
+## 2026-09-11 pipeline check-in and Round 17 (prior)
+
+**2026-09-11, Round 17: 1 new demo built and emailed**
 (`franchi-argentieri`, goldsmith/silversmith restoration workshop on Via
 di Tor di Nona, dal 1944, a real three-generation founder story: a
 10-year-old apprentice in 1944 who took over in 1968 and passed the

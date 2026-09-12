@@ -18,7 +18,7 @@
   (ercolicornici.it and its /azienda and /galleria subpages), fetched
   directly for real history text and real photos.
 - **Status:** outreach-sent (email sent 2026-09-12 to
-  paolaercoli@me.com, Gmail message ID PENDING_SEND)
+  paolaercoli@me.com, Gmail message ID `1a09479c9775e24a`)
 - **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/ercoli-cornici/
 - **Sold:** no
