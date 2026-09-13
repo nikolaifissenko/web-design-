@@ -21,7 +21,7 @@
   (liuterialascala.it and its costruzione/restauri/riparazioni
   subpages), fetched directly for real history text and real photos.
 - **Status:** outreach-sent (email sent 2026-09-13 to
-  info@liuterialascala.it, Gmail message ID PENDING_SEND)
+  info@liuterialascala.it, Gmail message ID `1a099a226feeab66`)
 - **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/liuteria-la-scala/
 - **Sold:** no

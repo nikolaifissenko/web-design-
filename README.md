@@ -3,10 +3,32 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-12): current pipeline snapshot
+## Start here (2026-09-13): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-12, Round 18: 1 new demo built and emailed**
+source of truth. **2026-09-13, Round 19: 1 new demo built and emailed**
+(`liuteria-la-scala`, luthier workshop on Via Braccianese, dal 1996,
+official Gibson Service Center for Rome and central Italy since 2012,
+run by Maestro Francesco Lascala who apprenticed under a named luthier
+starting in 1979). Their current site is static early-2000s HTML whose
+own footer still reads "1996-2018," meaning it hasn't been meaningfully
+updated in years. Real email confirmed directly on their own site.
+Real photos all pulled from their own site, self-watermarked "Liuteria
+La Scala": violin carving and restoration close-ups, and a real custom
+snakeskin-finish electric guitar ("Black Eden"). Real logo used as-is
+with a straight crop this time, a genuine change of pace from recent
+rounds: the icon badge is cleanly self-contained and separate from the
+wordmark, no redesign needed (first careless crop attempt caught a
+stray decorative dash bleeding in from the wordmark side, fixed by
+finding the exact pixel bounding box of the black square before
+cropping). Mood: editorial. Pipeline check-in the same morning found
+nothing urgent (no new replies, no new bounces; 7 leads now sit in the
+3-day follow-up window, left for the dedicated pipeline check-in
+routine to draft).
+
+## 2026-09-12 pipeline check-in and Round 18 (prior)
+
+**2026-09-12, Round 18: 1 new demo built and emailed**
 (`ercoli-cornici`, frame-maker and gilder on Corso Vittorio Emanuele II,
 dal 1936, a branch of the family's Via Arenula shop active since the
 late 1800s, 33 years woman-led under Paola Ercoli, a "Maestri
