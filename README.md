@@ -3,10 +3,31 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-13): current pipeline snapshot
+## Start here (2026-09-14): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-13, Round 19: 1 new demo built and emailed**
+source of truth. **2026-09-14, Round 20: 1 new demo built and emailed**
+(`legatoria-rumori`, artisanal bookbinder on Viale XXI Aprile, dal 1961,
+founded by Renato Rumori and now run by his son Paolo). Their current
+site is a generic early-2020s WordPress theme that does nothing to
+showcase a genuinely rich real photo archive scattered across the
+site. Real email confirmed directly on their own site. Real photos all
+pulled from their own site: a sepia hand-sewing shot (sepia is native
+to their own original photo, not a filter applied here), real restored
+antique volumes with visible gold tooling, the real storefront, and
+real client bookbinding/print work. No clean logo crop existed this
+time (the real mark's wordmark overlaps its book icon), so a clean
+icon-only open-book mark was designed instead, using the same sampled
+red. First use of the **vintage** mood in a while: founded 1961,
+squarely inside the mood's intended 1920s-60s Italian shop window,
+genuinely a better fit than defaulting to editorial again. Pipeline
+check-in the same morning found nothing urgent (no new replies, no new
+bounces; 8 leads now sit in the 3-day follow-up window, left for the
+dedicated pipeline check-in routine to draft).
+
+## 2026-09-13 pipeline check-in and Round 19 (prior)
+
+**2026-09-13, Round 19: 1 new demo built and emailed**
 (`liuteria-la-scala`, luthier workshop on Via Braccianese, dal 1996,
 official Gibson Service Center for Rome and central Italy since 2012,
 run by Maestro Francesco Lascala who apprenticed under a named luthier

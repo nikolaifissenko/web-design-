@@ -17,7 +17,7 @@
   history page), fetched directly for real history text and real
   photos.
 - **Status:** outreach-sent (email sent 2026-09-14 to
-  legatoriarumori@gmail.com, Gmail message ID PENDING_SEND)
+  legatoriarumori@gmail.com, Gmail message ID `1a09ec7223103300`)
 - **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/legatoria-rumori/
 - **Sold:** no
