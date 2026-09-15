@@ -14,7 +14,7 @@
   (paganinitessuti.com), fetched directly for real history text, the
   real logo, and real product photos.
 - **Status:** outreach-sent (email sent 2026-09-15 to
-  info@paganinitessuti.it, Gmail message ID PENDING_SEND)
+  info@paganinitessuti.it, Gmail message ID `1a0a3ec64a053370`)
 - **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/paganini-tessuti/
 - **Sold:** no

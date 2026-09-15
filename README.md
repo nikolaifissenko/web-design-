@@ -3,10 +3,30 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-14): current pipeline snapshot
+## Start here (2026-09-15): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-14, Round 20: 1 new demo built and emailed**
+source of truth. **2026-09-15, Round 21: 1 new demo built and emailed**
+(`paganini-tessuti`, fabric/curtain/rug shop on Via Aracoeli near
+Piazza Venezia, dal 1948, founded by Giovanni Paganini, ten real
+shopfront windows). Their current site is a rough WordPress/WooCommerce
+catalog template. Real email confirmed directly on their own site.
+Real photos: a genuine historic black-and-white storefront photo with
+the original signage, and real product photos of Persian rugs and a
+cushion actually sold in-store, all from their own site's product
+catalog, not generic stock. Their real logo turned out to have no icon
+at all, a pure text wordmark, so honest text initials were used
+instead of inventing a mark with no basis in their real identity, a
+different and simpler case than the last few leads' logo redesigns.
+Mood: boutique (a curated retailer, not an artisan workshop, so a
+deliberate break from defaulting to editorial again). Pipeline
+check-in the same morning found nothing urgent (no new replies, no new
+bounces; 9 leads now sit in the 3-day follow-up window, left for the
+dedicated pipeline check-in routine to draft).
+
+## 2026-09-14 pipeline check-in and Round 20 (prior)
+
+**2026-09-14, Round 20: 1 new demo built and emailed**
 (`legatoria-rumori`, artisanal bookbinder on Viale XXI Aprile, dal 1961,
 founded by Renato Rumori and now run by his son Paolo). Their current
 site is a generic early-2020s WordPress theme that does nothing to
