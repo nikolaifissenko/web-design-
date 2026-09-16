@@ -17,7 +17,9 @@
 - **Sources:** web search -> Turismo Roma's official listing (address,
   email) -> independent press features (thekeytorome.it,
   abitarearoma.it) for history and real photos of this exact business.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-16 to
+  info@antica-cappelleria.it, Gmail message ID `1a0a9f7c71875a30`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-manifattura-cappelli/
 - **Sold:** no
 - **Notes:**
@@ -61,7 +63,7 @@
     correctly gain `.in-view` on scroll. Gallery lightbox opens on
     click.
 
-## Outreach email (not yet sent, draft below)
+## Outreach email (sent 2026-09-16)
 
 No personal visit to this shop confirmed with Nikolai, so this draft
 doesn't claim one. The concrete, verifiable hook: their old website is
@@ -69,3 +71,23 @@ now a dead 404, no working site exists at all, paired with genuine
 warmth for a business Patrizia Fabri is trying to keep alive and even
 turn into a small museum of hat-making history. No price mentioned, no
 em dashes, plain punctuation.
+
+> Buongiorno, sono Nikolai, web designer freelance qui a Roma.
+>
+> Le ho preparato gratuitamente una versione nuova del sito di Antica
+> Manifattura Cappelli, con le vostre vere foto:
+>
+> https://nikolaifissenko.github.io/web-design-/clients/antica-manifattura-cappelli/
+>
+> L'ho fatto perché il vostro sito non è più raggiungibile online, e
+> per la piú antica manifattura di cappelli di Roma, con una storia che
+> parte dal 1936, mi sembrava un peccato non avere una vetrina che la
+> raccontasse.
+>
+> Nessun obbligo. Se il risultato le piace, mi farebbe davvero piacere
+> parlarne. Resto a disposizione anche solo per un parere sincero, o mi
+> può chiamare direttamente.
+>
+> Grazie mille per il suo tempo,
+> Nikolai
+> 349 101 6416
