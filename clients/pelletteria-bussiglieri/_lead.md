@@ -27,7 +27,9 @@
   the business's own site (pelletteriabussiglieri.it), fetched directly
   (with a browser User-Agent + Referer, since a bare `curl` got a 503
   first) for real history text, real photos, and real CSS colors.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-16 to
+  pelletteriabussiglieri@gmail.com, Gmail message ID `1a0a9e25a5bc57e3`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/pelletteria-bussiglieri/
 - **Sold:** no
 - **Notes:**
@@ -86,11 +88,36 @@
     Gallery lightbox opens on click. Mobile nav toggle opens/closes
     correctly at 390px width.
 
-## Outreach email (not yet sent, draft below)
+## Outreach email (sent 2026-09-16)
 
 No personal visit to this shop confirmed with Nikolai, so this draft
 doesn't claim one. The concrete, verifiable hook is the page-builder
 markup literally showing as broken text on their live site, paired
 with the genuinely rare thing worth showing off: 100+ years on one of
 Rome's most prestigious streets. No price mentioned, no em dashes,
-plain punctuation, follows the current `pitch_template.md` structure.
+plain punctuation, follows the current `pitch_template.md` structure
+(link right after the greeting). Sent per Nikolai's explicit "write
+and send" request, shown in the conversation before sending, per the
+standing autonomous-send rule.
+
+> Buongiorno, sono Nikolai, web designer freelance qui a Roma.
+>
+> Le ho preparato gratuitamente una versione nuova del sito di
+> Pelletteria Bussiglieri, con le vostre vere foto:
+>
+> https://nikolaifissenko.github.io/web-design-/clients/pelletteria-bussiglieri/
+>
+> L'ho fatto perché il vostro sito attuale ha alcuni problemi tecnici
+> piuttosto evidenti (parti di codice che compaiono come testo invece
+> di essere visualizzate correttamente, e ogni tanto va in errore), e
+> per una bottega che è su Via della Conciliazione dal 1920, a due
+> passi da San Pietro, mi sembrava un peccato non avere una vetrina
+> online all'altezza di una storia così lunga.
+>
+> Nessun obbligo. Se il risultato le piace, mi farebbe davvero piacere
+> parlarne. Resto a disposizione anche solo per un parere sincero, o mi
+> può chiamare direttamente.
+>
+> Grazie mille per il suo tempo,
+> Nikolai
+> 349 101 6416

@@ -6,7 +6,36 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 ## Start here (2026-09-16): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-16, Round 22: 1 new demo built and emailed**
+source of truth. **2026-09-16, Round 23: 1 new demo built and emailed**
+(`pelletteria-bussiglieri`, family leather goods shop on Via della
+Conciliazione, dal 1920, fourth generation, steps from St. Peter's).
+Sourced from the Associazione Botteghe Storiche Roma member directory
+(category Pelletterie), cross-checked against the business's own site
+since the association page lists no addresses. Their current site
+(WordPress 5.0.27, untouched since a 2019 copyright stamp) is
+genuinely broken, not just dated: the Tatsu page-builder shortcodes
+render as raw unparsed text on both the home page and "Chi siamo," and
+the site returns HTTP 503 intermittently. Real email confirmed
+directly on their own site's Contatti section
+(pelletteriabussiglieri@gmail.com); Instagram and Facebook also
+confirmed via links on their own site before building, per the
+standing "real contact channel" rule. Real photos all pulled from
+their own site: the lit-up shopfront at dusk, the real wooden counter
+with its brass nameplate and two inset vintage photos, two interior
+shots of the glass display cases, a real belt product photo, and an
+unwatermarked period photo of Via della Conciliazione hosted on their
+own site (a different candidate vintage photo was discarded for
+carrying a visible "Raccolta Roma Sparita" archive watermark). No
+standalone logo existed anywhere, so a circular "B" monogram was
+designed using colors sampled from their own real belt photo and their
+site's own CSS gold. Mood: boutique (curated multi-brand retailer, not
+a solo artisan workshop). Sent per Nikolai's explicit "find, build,
+and send" request this round, working autonomously per the standing
+rule; draft shown in the session before sending.
+
+## 2026-09-16 (earlier the same day): Round 22 (prior)
+
+**Round 22: 1 new demo built and emailed**
 (`bottega-colletti`, metal restoration/silvering/gilding workshop on
 Borgo Vittorio near St. Peter's, dal 1920, celebrated its 100th
 anniversary in 2020, run by Riccardo Colletti). Clients include church
