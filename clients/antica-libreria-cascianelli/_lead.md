@@ -30,7 +30,9 @@
 - **Sources:** independent web search -> press coverage (roma.com,
   rocaille.it) describing and photographing the same shop, cross-checked
   against Turismo Roma and directory listings for the address/contacts.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-16 to
+  libreriacascianelli@gmail.com, Gmail message ID `1a0a9f4386a4d795`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-libreria-cascianelli/
 - **Sold:** no
 - **Notes:**
@@ -84,7 +86,7 @@
     correctly gain `.in-view` on scroll. Gallery lightbox opens on
     click.
 
-## Outreach email (not yet sent, draft below)
+## Outreach email (sent 2026-09-16)
 
 No personal visit to this shop confirmed with Nikolai, so this draft
 doesn't claim one. Deliberately does not assert their current site is
@@ -93,3 +95,22 @@ can't see it, not that a real customer can't, so criticizing it would
 be an unverified claim. Instead the pitch leans entirely on the
 positive: a free demo built around their own real story and photos, no
 obligation. No price mentioned, no em dashes, plain punctuation.
+
+> Buongiorno, sono Nikolai, web designer freelance qui a Roma.
+>
+> Le ho preparato gratuitamente una versione nuova del sito della
+> Libreria Cascianelli, con le vostre vere foto:
+>
+> https://nikolaifissenko.github.io/web-design-/clients/antica-libreria-cascianelli/
+>
+> L'ho fatto perché siete una delle librerie più affascinanti di Roma,
+> con una storia che parte dal 1835 e una collezione che merita davvero
+> una vetrina online curata quanto il negozio stesso.
+>
+> Nessun obbligo. Se il risultato le piace, mi farebbe davvero piacere
+> parlarne. Resto a disposizione anche solo per un parere sincero, o mi
+> può chiamare direttamente.
+>
+> Grazie mille per il suo tempo,
+> Nikolai
+> 349 101 6416
