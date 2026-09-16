@@ -3,10 +3,31 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-15): current pipeline snapshot
+## Start here (2026-09-16): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-15, Round 21: 1 new demo built and emailed**
+source of truth. **2026-09-16, Round 22: 1 new demo built and emailed**
+(`bottega-colletti`, metal restoration/silvering/gilding workshop on
+Borgo Vittorio near St. Peter's, dal 1920, celebrated its 100th
+anniversary in 2020, run by Riccardo Colletti). Clients include church
+sacred-art restoration and the Reggimento Corazzieri, the Italian
+President's ceremonial guard. Their current site is functional but
+visually plain for a business with this history and clientele. Real
+email confirmed directly on their own site. Real photos all from their
+own site: a craftsman at work by the original enamel shop sign, two
+generations of the family under that same sign, a real Corazzieri
+ceremonial helmet and sword being restored, and hands polishing an
+antique silver teapot. Real logo used as-is this time: a genuinely
+clean circular seal, no redesign needed, unlike the last few leads.
+Mood: editorial, a strong fit for a century-plus restorer with a
+named-craftsman founder story. Pipeline check-in the same morning
+found nothing urgent (no new replies, no new bounces; 10 leads now sit
+in the 3-day follow-up window, left for the dedicated pipeline
+check-in routine to draft).
+
+## 2026-09-15 pipeline check-in and Round 21 (prior)
+
+**2026-09-15, Round 21: 1 new demo built and emailed**
 (`paganini-tessuti`, fabric/curtain/rug shop on Via Aracoeli near
 Piazza Venezia, dal 1948, founded by Giovanni Paganini, ten real
 shopfront windows). Their current site is a rough WordPress/WooCommerce

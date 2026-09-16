@@ -15,7 +15,7 @@
   (bottegacolletti.it), fetched directly for real history text, the
   real logo, and real workshop photos.
 - **Status:** outreach-sent (email sent 2026-09-16 to
-  info@bottegacolletti.it, Gmail message ID PENDING_SEND)
+  info@bottegacolletti.it, Gmail message ID `1a0a912a91a5cd4d`)
 - **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/bottega-colletti/
 - **Sold:** no
