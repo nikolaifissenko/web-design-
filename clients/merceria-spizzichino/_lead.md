@@ -18,7 +18,9 @@
   "Roma, viaggio nelle mercerie storiche: a tu per tu con Marcello
   Spizzichino") for history -> multiple independent directories,
   cross-checked, for the confirmed email.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-16 to
+  marspiz@tiscali.it, Gmail message ID `1a0aa00feb42554b`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/merceria-spizzichino/
 - **Sold:** no
 - **Notes:**
@@ -68,7 +70,7 @@
     correctly gain `.in-view` on scroll. Gallery lightbox opens on
     click.
 
-## Outreach email (not yet sent, draft below)
+## Outreach email (sent 2026-09-16)
 
 No personal visit to this shop confirmed with Nikolai, so this draft
 doesn't claim one. The concrete, verifiable hook: no website exists at
@@ -79,3 +81,22 @@ the demo uses stock photography (documented above), the email doesn't
 claim "your real photos", unlike the other leads this round; it simply
 doesn't mention photo sourcing at all, which is honest by omission
 rather than a false claim.
+
+> Buongiorno, sono Nikolai, web designer freelance qui a Roma.
+>
+> Le ho preparato gratuitamente una versione nuova del sito di
+> Merceria Spizzichino:
+>
+> https://nikolaifissenko.github.io/web-design-/clients/merceria-spizzichino/
+>
+> L'ho fatto perché non avete un sito online, e per una merceria nello
+> stesso locale dal 1923, sempre nella stessa famiglia, mi sembrava un
+> peccato non avere almeno una vetrina che lo raccontasse.
+>
+> Nessun obbligo. Se il risultato le piace, mi farebbe davvero piacere
+> parlarne. Resto a disposizione anche solo per un parere sincero, o mi
+> può chiamare direttamente.
+>
+> Grazie mille per il suo tempo,
+> Nikolai
+> 349 101 6416
