@@ -6,7 +6,70 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 ## Start here (2026-09-16): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-16, Round 23: 1 new demo built and emailed**
+source of truth. **2026-09-16, Round 24: 5 new demos built and
+emailed**, per Nikolai's request to find and send at least 5 more:
+
+- `antica-libreria-cascianelli` (antiquarian bookshop/wunderkammer
+  behind Piazza Navona, dal 1909, building itself an 1835 ecclesiastical
+  tailor). Their own site is blocked behind an anti-bot check that
+  resisted every fetch attempt this session (curl, WebFetch, headless
+  Chromium, even the Wayback Machine was blocked by this sandbox's own
+  egress policy), so real photos came from an independent press
+  feature (roma.com) on the same shop instead. Since that block only
+  proves automated tools can't see the site, not that real visitors
+  can't, the outreach email doesn't claim the site is bad, it leans
+  entirely on the positive (the shop's own remarkable story: Onassis,
+  Greta Garbo, a Gucci campaign shot there). No real logo to check
+  (same block), so a book-icon monogram was designed from colors
+  sampled off the real press photos.
+- `antica-manifattura-cappelli` (Rome's oldest hat-making workshop,
+  Via degli Scipioni, dal 1936, run by Patrizia Fabri since 2003).
+  Their old site is a dead 404, no working site exists. Real photos
+  from two independent press features (thekeytorome.it,
+  abitarearoma.it) covering this exact workshop. No logo existed, so a
+  fedora icon was designed from the real sampled felt/wood colors.
+  Mood: vintage.
+- `leonardo-severini-restauro` (painting conservator trained at
+  Florence's Opificio delle Pietre Dure, works with soprintendenze,
+  churches and private collectors). His site is a dated 2015-era
+  WordPress build. All photos real, pulled from his own site's
+  documented restoration projects (a Tamara de Lempicka piece, a "San
+  Giorgio e il Drago," a before/after Madonna panel); two clearly
+  generic decorative stock images on the same site (a sepia Vitruvian
+  Man, an old telephone) were correctly excluded as not specific to
+  his work. No logo existed, but his own site had a real name/color
+  strip, sampled for a designed palette icon.
+- `merceria-spizzichino` (family haberdashery on Via Alessandria,
+  unchanged address since 1 October 1923, run by Marcello Spizzichino,
+  described in press as the last of this family in the trade). No
+  website exists, no Instagram/Facebook found despite a real check, and
+  the one dedicated press feature (larotta.it) returned HTTP 503 on
+  every attempt. **This is the one demo this round built with honest
+  stock**, documented plainly in `config.js` and `_lead.md`: every real
+  source was actually checked and came up empty, the legitimate case
+  for stock per the standing rule. `logoText` used too, no real
+  material anywhere to adapt into an icon.
+- `antica-vetreria-monte-del-gallo` (artisan glazier/mirror-maker near
+  Roma San Pietro, Rodolfo Di Curzio, 40+ years). Their current site is
+  genuine SEO spam: dozens of near-duplicate pages share one bloated,
+  keyword-stuffed title. Photos are a documented mix: a few real ones
+  (a genuine broken-window emergency-repair job, the real etched
+  shopfront signage, a real pet-door installation shot) plus two
+  supplier catalog images their own site already uses for mirrors/
+  glass-cutting, explicitly labeled as catalog, not workshop-specific.
+  Logo is a real straight crop of the dome icon from their own logo
+  file, no redesign needed, a rare clean case this round.
+
+All 5 verified live on `main` before sending (GitHub Pages serves
+`main` only; this session merged its working branch into `main` after
+each build, matching the deploy process every prior round has used).
+Each `_lead.md` documents sourcing in full. Working autonomously per
+the standing "when Nikolai says work autonomously, that includes
+sending" rule, each draft shown in the session before sending.
+
+## 2026-09-16, earlier the same day: Round 23 (prior)
+
+**Round 23: 1 new demo built and emailed**
 (`pelletteria-bussiglieri`, family leather goods shop on Via della
 Conciliazione, dal 1920, fourth generation, steps from St. Peter's).
 Sourced from the Associazione Botteghe Storiche Roma member directory

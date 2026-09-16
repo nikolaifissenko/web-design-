@@ -24,7 +24,9 @@
   fetched directly (with a browser User-Agent, since a first attempt
   without one got blocked) for real history text, real photos, and the
   real logo file.
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-16 to
+  rodolfodicurzio@tiscali.it, Gmail message ID `1a0aa05d71ed48d1`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-vetreria-monte-del-gallo/
 - **Sold:** no
 - **Notes:**
@@ -76,7 +78,7 @@
     click. WhatsApp floating button present and correctly linked (a
     real mobile number was found for this one, unlike most leads).
 
-## Outreach email (not yet sent, draft below)
+## Outreach email (sent 2026-09-16)
 
 No personal visit to this shop confirmed with Nikolai, so this draft
 doesn't claim one. The concrete, verifiable hook: dozens of pages on
@@ -87,3 +89,23 @@ punctuation. Given the demo mixes real and catalog photos (documented
 above), the email says "con alcune vostre vere foto" (some of your real
 photos) rather than the usual "con le vostre vere foto," to stay
 accurate.
+
+> Buongiorno, sono Nikolai, web designer freelance qui a Roma.
+>
+> Le ho preparato gratuitamente una versione nuova del sito di Antica
+> Vetreria Monte del Gallo, con alcune vostre vere foto:
+>
+> https://nikolaifissenko.github.io/web-design-/clients/antica-vetreria-monte-del-gallo/
+>
+> L'ho fatto perché il vostro sito attuale ripete lo stesso lunghissimo
+> titolo su decine di pagine quasi identiche, ed è pensato più per i
+> motori di ricerca che per chi lo visita, mentre 40 anni di esperienza
+> come la vostra meriterebbero una vetrina online più curata.
+>
+> Nessun obbligo. Se il risultato le piace, mi farebbe davvero piacere
+> parlarne. Resto a disposizione anche solo per un parere sincero, o mi
+> può chiamare direttamente.
+>
+> Grazie mille per il suo tempo,
+> Nikolai
+> 349 101 6416
