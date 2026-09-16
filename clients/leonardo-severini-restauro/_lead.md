@@ -18,7 +18,9 @@
 - **Sources:** web search -> his own site (leonardoseverini.it),
   fetched directly for CV text, real photos, and real brand colors
   (a logo strip image in the footer, `footer2.jpg`).
-- **Status:** demo-built
+- **Status:** outreach-sent (email sent 2026-09-16 to
+  leonardoseverini@gmail.com, Gmail message ID `1a0a9fc7d93b3bbb`)
+- **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/leonardo-severini-restauro/
 - **Sold:** no
 - **Notes:**
@@ -67,7 +69,7 @@
     element is correctly hidden along with the rest of that section, so
     it never needs to reveal). Gallery lightbox opens on click.
 
-## Outreach email (not yet sent, draft below)
+## Outreach email (sent 2026-09-16)
 
 No personal visit to this shop confirmed with Nikolai, so this draft
 doesn't claim one. The concrete, verifiable hook: his current site's
@@ -75,3 +77,23 @@ doesn't claim one. The concrete, verifiable hook: his current site's
 and credentials (Opificio delle Pietre Dure), paired with genuine
 respect for that expertise. No price mentioned, no em dashes, plain
 punctuation.
+
+> Buongiorno, sono Nikolai, web designer freelance qui a Roma.
+>
+> Le ho preparato gratuitamente una versione nuova del suo sito, con le
+> sue vere foto di restauro:
+>
+> https://nikolaifissenko.github.io/web-design-/clients/leonardo-severini-restauro/
+>
+> L'ho fatto perché il suo sito attuale è fermo al 2015, e con una
+> formazione come la sua, all'Opificio delle Pietre Dure di Firenze, e
+> lavori così belli da mostrare, mi sembrava un peccato non avere una
+> vetrina online che li facesse risaltare.
+>
+> Nessun obbligo. Se il risultato le piace, mi farebbe davvero piacere
+> parlarne. Resto a disposizione anche solo per un parere sincero, o mi
+> può chiamare direttamente.
+>
+> Grazie mille per il suo tempo,
+> Nikolai
+> 349 101 6416
