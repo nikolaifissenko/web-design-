@@ -29,7 +29,7 @@
   page dedicated to this studio, fetched directly for real history
   text, real photos, and the email confirmation.
 - **Status:** outreach-sent (email sent 2026-09-17 to
-  tizianaluxardo@gmail.com, Gmail message ID PENDING_SEND)
+  tizianaluxardo@gmail.com, Gmail message ID `1a0ae3b8867c33eb`)
 - **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/studio-luxardo/
 - **Sold:** no

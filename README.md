@@ -3,10 +3,33 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-16): current pipeline snapshot
+## Start here (2026-09-17): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-16, Round 24: 5 new demos built and
+source of truth. **2026-09-17, Round 25: 1 new demo built and emailed**
+(`studio-luxardo`, historic Rome wedding/portrait photography studio,
+60+ years active, member of the Associazione Botteghe Storiche di
+Roma, sourced from that registry's own member directory). Their real
+site (luxardomuseum.it) is a client-rendered React/Vite single-page
+app that returned an empty shell to every fetch attempt this session
+(curl, WebFetch, headless Chromium), the same category of block
+CLAUDE.md already documents for Instagram. Following the same honest
+approach Round 24 used earlier for a different lead with an identical
+block, the outreach doesn't claim the site is bad, it leans on the
+studio's real history and its own real, self-watermarked wedding
+photography instead. Real email confirmed on the official registry
+page (same source type already accepted for `franchi-argentieri` and
+others). No usable logo file exists anywhere (only a low-resolution
+watermark baked into the photos themselves), so honest text initials
+were used rather than guessing at a redesign from an indecipherable
+source. Mood: boutique, a deliberate change from the artisan-workshop
+editorial mood used for several recent leads. Pipeline check-in the
+same morning found nothing urgent (no new replies, no new bounces
+beyond the already-documented Trevi Profumo autoresponder).
+
+## 2026-09-16, Round 24 (prior)
+
+**2026-09-16, Round 24: 5 new demos built and
 emailed**, per Nikolai's request to find and send at least 5 more:
 
 - `antica-libreria-cascianelli` (antiquarian bookshop/wunderkammer
