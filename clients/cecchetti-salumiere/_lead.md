@@ -15,7 +15,7 @@
   (cecchettiilsalumiere.com and its "Chi siamo" page), fetched
   directly for real history text and real photos.
 - **Status:** outreach-sent (email sent 2026-09-17 to
-  ilsalumiere1@hotmail.it)
+  ilsalumiere1@hotmail.it, Gmail message ID `1a0aed16d7397c48`)
 - **Response:** no reply yet.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cecchetti-salumiere/
 - **Sold:** no

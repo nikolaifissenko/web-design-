@@ -6,17 +6,74 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 ## Start here (2026-09-17): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-17, later the same day, Round 26: 1 more
-demo built and emailed** (`sartoria-al-corso`, bespoke tailoring
-atelier at Piazza del Parlamento, founded 2001 by Elio, joined by his
-son Marco since 2011). Current site is a plain 2018-vintage WordPress
-build. Real email confirmed directly on their own site. Real photos
-all from their own site: a bespoke formalwear flat-lay, the real
-storefront, a bespoke shirt with their own woven label, coats and a
-tuxedo in the workshop. Real logo (a hand-drawn storefront
-illustration) adapted with a scale-down and margin rather than a tight
-crop, to avoid clipping its "ROMA" text, no redesign needed. Mood:
-editorial, the skill's own literal example case for a heritage tailor.
+source of truth. **2026-09-17, later the same day, Round 27: follow-ups
+sent to all 11 leads due for one, plus 5 more new demos built and
+emailed:**
+
+- Follow-up emails sent to all 11 leads sitting in the FOLLOW-UP DUE
+  bucket (`antica-orologeria-tribunale`, `bertoletti-1882`,
+  `cartolibreria-de-biasi`, `ercoli-cornici`, `franchi-argentieri`,
+  `isellai-dal-1902`, `legatoria-rumori`, `liuteria-la-scala`,
+  `paolucci-falegnameria`, `tappezzeria-maiorano`, `trevi-profumo`),
+  correctly threaded via Gmail reply, matching each lead's original
+  register. Found and fixed a real gap in `pipeline_status.py`'s data
+  model while recording these: 6 older `_lead.md` files predate the
+  discrete `**Response:**` field convention and had no field at all
+  for follow-up tracking to write into, fixed with a targeted line-
+  insertion rather than a blind regex replace.
+- 5 new demos built and emailed, each avoiding every trade already
+  used in the 70+ existing clients:
+  - `cecchetti-salumiere` (delicatessen, Colli Albani, dal 1950).
+    Current site confirmed dated (WordPress 4.9.26, 2017/2018-era
+    build) via direct technical inspection. Real photos from their own
+    site's uploads. No icon in the real logo (pure cursive wordmark),
+    honest text initial used.
+  - `bassetti-tessuti` (fabric wholesaler for high fashion/theater/
+    film, Piazza Venezia, dal 1953). Their own site currently returns
+    a literal WordPress database error, confirmed live via curl, the
+    strongest possible "no working site" case this project has found.
+    Real photos and history from the official Associazione Botteghe
+    Storiche di Roma registry page instead.
+  - `biscottificio-innocenti` (artisan biscuit bakery, Trastevere,
+    family-run since WWII). No real website exists, only a free
+    wordpress.com blog with zero photos. Real photos sourced from a
+    food/travel blog's own visit (anamericaninrome.com), the
+    "food/business blogs" source category CLAUDE.md explicitly allows.
+  - `lar-paralumi` (handmade lampshade workshop, dal 1938, grandfather
+    started after years making Bulgari jewelry cases). Their site
+    (paralumi.it) was genuinely unreachable by every automated tool
+    tried (curl, headless Chromium), same category as `studio-luxardo`
+    earlier, so the outreach doesn't claim the site is bad. Real
+    photos from press coverage (abitarearoma.it).
+  - `falconieri-carrozzeria` (family auto body shop, Trionfale, dal
+    1947, third generation). No website exists at all. Real photos and
+    three-generation history from the official Associazione Botteghe
+    Storiche di Roma registry page. First use of the **bold** mood this
+    round, a clean fit for an auto shop rather than defaulting to
+    editorial.
+  - Multiple candidates researched and **deliberately dropped** before
+    building: several optician/pasta-shop leads that looked promising
+    from search snippets turned out, on direct technical inspection
+    (WordPress/Elementor generator tags), to have been modernized
+    recently and weren't genuinely dated; a cemetery photo-ceramics
+    business was dropped on ethical grounds (real deceased customers'
+    portraits are not appropriate material for a marketing demo).
+  - All 5 smoke-tested with Playwright (scroll-reveal, lightbox,
+    mobile nav), merged to `main`, and polled live before sending.
+
+## 2026-09-17, Round 26 (prior, earlier the same day)
+
+**Round 26: 1 more demo built and emailed** (`sartoria-al-corso`,
+bespoke tailoring atelier at Piazza del Parlamento, founded 2001 by
+Elio, joined by his son Marco since 2011). Current site is a plain
+2018-vintage WordPress build. Real email confirmed directly on their
+own site. Real photos all from their own site: a bespoke formalwear
+flat-lay, the real storefront, a bespoke shirt with their own woven
+label, coats and a tuxedo in the workshop. Real logo (a hand-drawn
+storefront illustration) adapted with a scale-down and margin rather
+than a tight crop, to avoid clipping its "ROMA" text, no redesign
+needed. Mood: editorial, the skill's own literal example case for a
+heritage tailor.
 
 ## 2026-09-17, Round 25 (prior, earlier the same day)
 

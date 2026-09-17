@@ -17,7 +17,7 @@
   to press coverage (abitarearoma.it, "A spasso per Roma"), which had
   a full photo set from an actual visit to the workshop.
 - **Status:** outreach-sent (email sent 2026-09-17 to
-  info@paralumi.it)
+  info@paralumi.it, Gmail message ID `1a0aed1898d4058d`)
 - **Response:** no reply yet.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/lar-paralumi/
 - **Sold:** no

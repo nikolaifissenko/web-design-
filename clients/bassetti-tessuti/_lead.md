@@ -17,7 +17,7 @@
   contact info, and real photos, since the business's own site is
   currently down.
 - **Status:** outreach-sent (email sent 2026-09-17 to
-  info@fratellibassetti.com)
+  info@fratellibassetti.com, Gmail message ID `1a0aed177fef091f`)
 - **Response:** no reply yet.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/bassetti-tessuti/
 - **Sold:** no

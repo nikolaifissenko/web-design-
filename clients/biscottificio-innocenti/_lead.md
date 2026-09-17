@@ -22,7 +22,7 @@
   "An American in Rome"), which had a full photo set from an actual
   visit to the shop.
 - **Status:** outreach-sent (email sent 2026-09-17 to
-  biscottificioinnocenti@gmail.com)
+  biscottificioinnocenti@gmail.com, Gmail message ID `1a0aed17e3d69a20`)
 - **Response:** no reply yet.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/biscottificio-innocenti/
 - **Sold:** no
