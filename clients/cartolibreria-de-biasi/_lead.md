@@ -20,6 +20,7 @@
   transcription typo. Resent 2026-09-09 to the corrected spelling,
   cartoleria.debiasi@gmail.com, per Nikolai's go-ahead, Gmail message ID
   `1a0864e00d6c9ac5`, same content, no changes)
+- **Response:** no reply yet. Follow-up sent 2026-09-17 (Gmail message ID `1a0aeb763b73a6d3`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cartolibreria-de-biasi/
   (verified live 2026-09-09)
 - **Sold:** no

@@ -28,7 +28,7 @@
   text, workshop photos, and the email confirmation).
 - **Status:** outreach-sent (email sent 2026-09-11 to
   franchiargentieriroma@yahoo.it, Gmail message ID `1a08f5a425cdfddf`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-17 (Gmail message ID `1a0aeb780f7eef2b`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/franchi-argentieri/
 - **Sold:** no
 - **Notes:**

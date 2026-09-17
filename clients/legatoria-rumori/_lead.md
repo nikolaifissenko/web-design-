@@ -18,7 +18,7 @@
   photos.
 - **Status:** outreach-sent (email sent 2026-09-14 to
   legatoriarumori@gmail.com, Gmail message ID `1a09ec7223103300`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-17 (Gmail message ID `1a0aeb79aa7a8e22`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/legatoria-rumori/
 - **Sold:** no
 - **Notes:**

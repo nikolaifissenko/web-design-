@@ -6,6 +6,7 @@
 - **Email:** anticaorologeriaroma@libero.it (real, confirmed directly on their own site; also info@anticaorologeriaroma.it listed)
 - **Current website:** anticaorologeriaroma.it. Reachable, real, but dated: basic Bootstrap theme, copyright footer stuck at "2015-2023", marketing banners with baked-in stock-photo text.
 - **Status:** outreach-sent (email sent 2026-09-08 to anticaorologeriaroma@libero.it, Gmail message ID `1a081747310de7cf`)
+- **Response:** no reply yet. Follow-up sent 2026-09-17 (Gmail message ID `1a0aeb74884fd2b8`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-orologeria-tribunale/
 - **Sold:** no
 - **Notes:**

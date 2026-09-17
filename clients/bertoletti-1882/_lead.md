@@ -6,6 +6,7 @@
 - **Email:** bertolettipelliccerie@gmail.com (real, confirmed directly on their own site's contact page)
 - **Current website:** bertolettipelliccerie.it. Reachable, real, but dated: basic WordPress theme from around 2013-2016, not updated since, no responsive polish by current standards.
 - **Status:** outreach-sent (email sent 2026-09-09 to bertolettipelliccerie@gmail.com, Gmail message ID `1a0861bbca4e1070`)
+- **Response:** no reply yet. Follow-up sent 2026-09-17 (Gmail message ID `1a0aeb7597a9a9d5`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/bertoletti-1882/
 - **Sold:** no
 - **Notes:**

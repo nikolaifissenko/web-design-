@@ -22,7 +22,7 @@
   subpages), fetched directly for real history text and real photos.
 - **Status:** outreach-sent (email sent 2026-09-13 to
   info@liuterialascala.it, Gmail message ID `1a099a226feeab66`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-17 (Gmail message ID `1a0aeb7ab76a9c52`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/liuteria-la-scala/
 - **Sold:** no
 - **Notes:**

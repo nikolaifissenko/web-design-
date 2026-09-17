@@ -18,6 +18,7 @@
   dead mailbox. Resent 2026-09-09 to the second address on file,
   antoniomajorano@yahoo.it, per Nikolai's go-ahead, Gmail message ID
   `1a0864de389288d4`, same content, no changes)
+- **Response:** no reply yet. Follow-up sent 2026-09-17 (Gmail message ID `1a0aeb7c4ee15320`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/tappezzeria-maiorano/
   (verified live 2026-09-09)
 - **Sold:** no

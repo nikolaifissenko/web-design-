@@ -6,6 +6,7 @@
 - **Email:** isellaidal1902@gmail.com (real, confirmed directly on their own site's footer)
 - **Current website:** isellai.it. Reachable, real, but dated: basic WordPress theme, generic stock catalog photography (not real shop photos), no responsive polish by current standards.
 - **Status:** outreach-sent (email sent 2026-09-08 to isellaidal1902@gmail.com, Gmail message ID `1a08174689029752`)
+- **Response:** no reply yet. Follow-up sent 2026-09-17 (Gmail message ID `1a0aeb78d2b76a8a`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/isellai-dal-1902/
 - **Sold:** no
 - **Notes:**

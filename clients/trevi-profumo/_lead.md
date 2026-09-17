@@ -24,7 +24,7 @@
   contact info, history text, colors, logo, and photos.
 - **Status:** outreach-sent (email sent 2026-09-10 to
   info@treviprofumo.com, Gmail message ID `1a08a33a06c7652b`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-17 (Gmail message ID `1a0aeb7d32045f38`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/trevi-profumo/
 - **Sold:** no
 - **Notes:**
