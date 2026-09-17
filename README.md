@@ -6,7 +6,21 @@ demo, sell it for €500 + optional monthly hosting/social retainer.
 ## Start here (2026-09-17): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-17, Round 25: 1 new demo built and emailed**
+source of truth. **2026-09-17, later the same day, Round 26: 1 more
+demo built and emailed** (`sartoria-al-corso`, bespoke tailoring
+atelier at Piazza del Parlamento, founded 2001 by Elio, joined by his
+son Marco since 2011). Current site is a plain 2018-vintage WordPress
+build. Real email confirmed directly on their own site. Real photos
+all from their own site: a bespoke formalwear flat-lay, the real
+storefront, a bespoke shirt with their own woven label, coats and a
+tuxedo in the workshop. Real logo (a hand-drawn storefront
+illustration) adapted with a scale-down and margin rather than a tight
+crop, to avoid clipping its "ROMA" text, no redesign needed. Mood:
+editorial, the skill's own literal example case for a heritage tailor.
+
+## 2026-09-17, Round 25 (prior, earlier the same day)
+
+**Round 25: 1 new demo built and emailed**
 (`studio-luxardo`, historic Rome wedding/portrait photography studio,
 60+ years active, member of the Associazione Botteghe Storiche di
 Roma, sourced from that registry's own member directory). Their real
