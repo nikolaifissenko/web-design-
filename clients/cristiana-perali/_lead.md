@@ -21,7 +21,7 @@
   real logo, and real product photos. Cross-checked against the
   Unioncamere official historic-businesses registry for the email.
 - **Status:** outreach-sent (email sent 2026-09-18 to
-  info@cristianaperali.it, Gmail message ID `PENDING`)
+  info@cristianaperali.it, Gmail message ID `1a0b3e48d19d2b6c`)
 - **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cristiana-perali/
 - **Sold:** no

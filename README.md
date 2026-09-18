@@ -3,10 +3,47 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-17): current pipeline snapshot
+## Start here (2026-09-18): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-17, later the same day, Round 27: follow-ups
+source of truth. **2026-09-18, Round 28: 1 follow-up sent, 1 new demo
+built and emailed.**
+
+- Follow-up sent to `paganini-tessuti` (3 days, no reply yet).
+- Checked the 5 leads sitting in "demo built, pitch not sent"
+  (`calzolaio-garbatella`, `osteria-da-giovanni`,
+  `ristorante-da-enzo-prati`, `ristorante-panzirone`,
+  `trattoria-memmo`): all 5 are correctly gated on a channel Claude
+  cannot use (Instagram/Facebook DM only, no email exists for any of
+  them), and `ristorante-panzirone` additionally needs a phone call
+  from Nikolai to resolve a same-name-different-address ambiguity
+  before anyone sends anything. Nothing to action there, left as-is.
+- 1 new demo: `cristiana-perali` (goldsmith/jewelry designer, Via dei
+  Banchi Vecchi, dal 1907, three generations: Carlo -> Paolo ->
+  Cristiana, work shown at international runway shows and
+  exhibitions). Current site confirmed dated via direct technical
+  inspection (WordPress 5.9.17 / WooCommerce 6.3.1, several versions
+  behind). Real product photography from their own site (a gold
+  theatrical-mask ring on Roman travertine steps, a jeweled gold cuff,
+  a Maya-warrior pendant, a pearl bracelet, sapphire earrings). Real
+  logo (a clean "CP" monogram with a genuine separation from the
+  wordmark) cropped precisely rather than redesigned.
+- Several other candidates researched and dropped this round after
+  direct technical inspection (checking the actual generator/CMS
+  version rather than trusting a generic "looks dated" summary)
+  showed they were modern, recently-rebuilt sites: two opticians, a
+  pasta shop, two florists, a religious-articles shop, a uniform
+  tailor, and a shirt-maker all turned out to be running current
+  WordPress/Elementor/Next.js builds, not the dated sites their search
+  snippets suggested. A tobacconist with a confirmed-dead domain
+  (`tabacchitulliotollis.it` no longer resolves in DNS) was also
+  dropped for today, since no single-source email for it could be
+  independently corroborated from a primary source, and this round's
+  explicit priority was a verified real email over volume.
+
+## 2026-09-17, Round 27 (prior)
+
+**Round 27: follow-ups
 sent to all 11 leads due for one, plus 5 more new demos built and
 emailed:**
 
