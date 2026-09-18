@@ -15,7 +15,7 @@
   real logo, and real product photos.
 - **Status:** outreach-sent (email sent 2026-09-15 to
   info@paganinitessuti.it, Gmail message ID `1a0a3ec64a053370`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-18 (Gmail message ID `1a0b3dc262cf2e9a`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/paganini-tessuti/
 - **Sold:** no
 - **Notes:**
