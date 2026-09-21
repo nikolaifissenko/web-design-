@@ -16,7 +16,7 @@
   text, the real logo, and real product photos.
 - **Status:** outreach-sent (email sent 2026-09-17 to
   info@sartoria-al-corso.roma.it, Gmail message ID `1a0ae5e20fb80e67`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-21 (Gmail message ID `1a0c2cdb86dbf9ad`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/sartoria-al-corso/
 - **Sold:** no
 - **Notes:**

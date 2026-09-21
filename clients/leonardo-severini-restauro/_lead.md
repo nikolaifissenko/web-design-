@@ -20,7 +20,7 @@
   (a logo strip image in the footer, `footer2.jpg`).
 - **Status:** outreach-sent (email sent 2026-09-16 to
   leonardoseverini@gmail.com, Gmail message ID `1a0a9fc7d93b3bbb`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-21 (Gmail message ID `1a0c2cd66edba673`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/leonardo-severini-restauro/
 - **Sold:** no
 - **Notes:**

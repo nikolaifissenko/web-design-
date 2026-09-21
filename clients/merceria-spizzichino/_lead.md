@@ -20,7 +20,7 @@
   cross-checked, for the confirmed email.
 - **Status:** outreach-sent (email sent 2026-09-16 to
   marspiz@tiscali.it, Gmail message ID `1a0aa00feb42554b`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-21 (Gmail message ID `1a0c2cd7fe8ced2b`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/merceria-spizzichino/
 - **Sold:** no
 - **Notes:**

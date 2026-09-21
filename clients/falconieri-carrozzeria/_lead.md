@@ -15,7 +15,7 @@
   contact info, and real photos.
 - **Status:** outreach-sent (email sent 2026-09-17 to
   carrozzeriaferfa@gmail.com, Gmail message ID `1a0aed192be7c180`)
-- **Response:** no reply yet.
+- **Response:** no reply yet. Follow-up sent 2026-09-21 (Gmail message ID `1a0c2cd38f2444d6`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/falconieri-carrozzeria/
 - **Sold:** no
 - **Notes:**

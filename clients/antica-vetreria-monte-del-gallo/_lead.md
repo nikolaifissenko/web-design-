@@ -26,7 +26,7 @@
   real logo file.
 - **Status:** outreach-sent (email sent 2026-09-16 to
   rodolfodicurzio@tiscali.it, Gmail message ID `1a0aa05d71ed48d1`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-21 (Gmail message ID `1a0c2cca89bb9fcc`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-vetreria-monte-del-gallo/
 - **Sold:** no
 - **Notes:**

@@ -16,7 +16,7 @@
   real logo, and real workshop photos.
 - **Status:** outreach-sent (email sent 2026-09-16 to
   info@bottegacolletti.it, Gmail message ID `1a0a912a91a5cd4d`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-21 (Gmail message ID `1a0c2ccf264b55a1`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/bottega-colletti/
 - **Sold:** no
 - **Notes:**

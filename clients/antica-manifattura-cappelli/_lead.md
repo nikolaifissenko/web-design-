@@ -19,7 +19,7 @@
   abitarearoma.it) for history and real photos of this exact business.
 - **Status:** outreach-sent (email sent 2026-09-16 to
   info@antica-cappelleria.it, Gmail message ID `1a0a9f7c71875a30`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-21 (Gmail message ID `1a0c2cc94296a567`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/antica-manifattura-cappelli/
 - **Sold:** no
 - **Notes:**

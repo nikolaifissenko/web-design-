@@ -29,7 +29,7 @@
   first) for real history text, real photos, and real CSS colors.
 - **Status:** outreach-sent (email sent 2026-09-16 to
   pelletteriabussiglieri@gmail.com, Gmail message ID `1a0a9e25a5bc57e3`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-21 (Gmail message ID `1a0c2cda1ea42971`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/pelletteria-bussiglieri/
 - **Sold:** no
 - **Notes:**

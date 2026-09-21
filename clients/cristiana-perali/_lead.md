@@ -22,7 +22,7 @@
   Unioncamere official historic-businesses registry for the email.
 - **Status:** outreach-sent (email sent 2026-09-18 to
   info@cristianaperali.it, Gmail message ID `1a0b3e48d19d2b6c`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-21 (Gmail message ID `1a0c2cd243cf803f`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cristiana-perali/
 - **Sold:** no
 - **Notes:**
