@@ -23,7 +23,7 @@
   automated tool (own site dead, social blocked, no press coverage
   found).
 - **Status:** outreach-sent (email sent 2026-09-21 to
-  bernibarbara@hotmail.it, Gmail message ID `PENDING`)
+  bernibarbara@hotmail.it, Gmail message ID `1a0c2d7fea322881`)
 - **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/bottega-della-sedia/
 - **Sold:** no

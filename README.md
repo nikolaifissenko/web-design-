@@ -3,11 +3,55 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-18): current pipeline snapshot
+## Start here (2026-09-21): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-18, Round 28: 1 follow-up sent, 1 new demo
-built and emailed.**
+source of truth. **2026-09-21, Round 29: 15 follow-ups sent, 1 new demo
+built and emailed.** (Saturday and Sunday's daily routine fired but was
+deliberately held per Nikolai's explicit "next round on Monday"; only
+the pipeline check-in ran those two days, confirming no urgent replies
+or bounces either day.)
+
+- Follow-ups sent to all 15 leads sitting in the FOLLOW-UP DUE bucket
+  (`antica-libreria-cascianelli`, `antica-manifattura-cappelli`,
+  `antica-vetreria-monte-del-gallo`, `bassetti-tessuti`,
+  `biscottificio-innocenti`, `bottega-colletti`, `cecchetti-salumiere`,
+  `cristiana-perali`, `falconieri-carrozzeria`, `lar-paralumi`,
+  `leonardo-severini-restauro`, `merceria-spizzichino`,
+  `pelletteria-bussiglieri`, `sartoria-al-corso`, `studio-luxardo`),
+  after confirming via Gmail thread checks that none had a real reply
+  or bounce beyond the already-known Trevi Profumo autoresponder.
+- 1 new demo: `bottega-della-sedia` (Barbara Berni, chair caning/
+  furniture restoration, Vicolo della Torretta near Piazza di Spagna).
+  Her own domain is confirmed dead (DNS doesn't resolve at all), and
+  no founding year or family history could be found anywhere, so none
+  is claimed. Real email cross-confirmed across three independent
+  directories, matching the real owner's name. **No real photos of
+  this specific shop exist anywhere reachable** (dead site, Facebook/
+  Instagram blocked as always, no press coverage found), so this is
+  the legitimate honest-stock case per CLAUDE.md: used real photographs
+  of the actual craft (chair caning in progress, a finished cane
+  pattern, a Vall'Ombrosa straw seat) from Wikimedia Commons under a
+  free license, a more honest middle ground than generic stock-model
+  photography, clearly declared as not depicting this specific shop.
+  Mood: rustic. Text-initial logo ("BS"), no real mark exists.
+- Several other candidates researched and dropped this round: a
+  200-year chocolate shop (Moriondo & Gariglio, dal 1850, confirmed
+  dead domain) and a 1935 grocery (Alimentari/Pizzicheria Ruggeri,
+  also a dead/parked domain) both had to be dropped despite great
+  stories, because no email for either could be independently
+  cross-verified beyond a single source, same standard applied to
+  `tabacchitulliotollis.it` last round. An auto-parts shop (Gambelli)
+  was dropped after its registry listing's address/trade didn't match
+  the only reachable site under the same family name, the same kind
+  of same-name-different-business risk documented for
+  `ristorante-panzirone`. A religious-souvenir shop and an antique-
+  furniture restorer both turned out to have modern e-commerce sites
+  on direct inspection.
+
+## 2026-09-18, Round 28 (prior)
+
+**Round 28: 1 follow-up sent, 1 new demo built and emailed.**
 
 - Follow-up sent to `paganini-tessuti` (3 days, no reply yet).
 - Checked the 5 leads sitting in "demo built, pitch not sent"
