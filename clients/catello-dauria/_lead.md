@@ -21,7 +21,7 @@
   (catellodauria.it), fetched directly for real history text and real
   photos.
 - **Status:** outreach-sent (email sent 2026-09-22 to
-  info@catellodauria.it, Gmail message ID `PENDING`)
+  info@catellodauria.it, Gmail message ID `1a0c7f9b57896910`)
 - **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/catello-dauria/
 - **Sold:** no

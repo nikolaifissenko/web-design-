@@ -3,10 +3,40 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-21): current pipeline snapshot
+## Start here (2026-09-22): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-21, Round 29: 15 follow-ups sent, 1 new demo
+source of truth. **2026-09-22, Round 30: 1 real decline recorded, 1 new
+demo built and emailed.**
+
+- **Real reply, flagged clearly**: `biscottificio-innocenti` replied
+  with a polite decline ("La ringraziamo, ma non siamo interessati.",
+  signed Manuela) on the same day her follow-up went out. Marked
+  DECLINED, no further outreach.
+- 1 new demo: `catello-dauria` (glove maker, Via dei Due Macelli near
+  Piazza di Spagna, dal 1894, three generations: Catello -> his sons
+  in 1940 -> today's descendants). Their site is a functioning
+  Squarespace e-commerce shop, not dead or badly dated, so the
+  outreach is honest about that: it doesn't claim a technical
+  problem, it leans on the real mismatch between a genuinely gorgeous
+  historic shop interior (chandeliers, gilded mirrors) and a site
+  that buries that behind product-catalog shots. One photo found on
+  their own site was deliberately discarded (a flat-lay showing other
+  brands' products with visible third-party logos, not their own
+  craft). Mood: editorial. Text-initial logo ("CD"), no clean mark
+  exists anywhere.
+- Several other candidates researched and dropped: a knife-sharpening
+  shop (Zoppo, dal 1871) had only Facebook, no email. A mosaic
+  workshop (Buccolieri) turned out to run a current WordPress 7.1
+  site on direct inspection. A 1672 pharmacy (Antica Farmacia Reale)
+  had no findable email anywhere. A bar/restaurant with a 1952
+  Pantheon-view pedigree was skipped for being effectively a
+  restaurant (already an overrepresented category) with a likely
+  well-funded modern site.
+
+## 2026-09-21, Round 29 (prior)
+
+**Round 29: 15 follow-ups sent, 1 new demo
 built and emailed.** (Saturday and Sunday's daily routine fired but was
 deliberately held per Nikolai's explicit "next round on Monday"; only
 the pipeline check-in ran those two days, confirming no urgent replies
