@@ -21,9 +21,13 @@
   order, fell back to a food/business blog (anamericaninrome.com,
   "An American in Rome"), which had a full photo set from an actual
   visit to the shop.
-- **Status:** outreach-sent (email sent 2026-09-17 to
+- **Status:** DECLINED, no further action (email sent 2026-09-17 to
   biscottificioinnocenti@gmail.com, Gmail message ID `1a0aed17e3d69a20`)
-- **Response:** no reply yet. Follow-up sent 2026-09-21 (Gmail message ID `1a0c2ccddf26df86`)
+- **Response:** real reply received 2026-09-21 from Manuela (Biscottificio
+  Innocenti): "Gentilissimo, La ringraziamo, ma non siamo interessati."
+  A polite decline, not a bounce or autoresponder. Follow-up had been
+  sent earlier the same day (Gmail message ID `1a0c2ccddf26df86`),
+  crossed with her reply. No further outreach to this lead.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/biscottificio-innocenti/
 - **Sold:** no
 - **Notes:**
