@@ -3,10 +3,38 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-22): current pipeline snapshot
+## Start here (2026-09-23): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-22, Round 30: 1 real decline recorded, 1 new
+source of truth. **2026-09-23, Round 31: 1 real decline recorded, 1 new
+demo built and emailed.**
+
+- **Real reply, flagged clearly**: `cristiana-perali` replied with a
+  polite decline ("la ringrazio, ma non siamo interessati.", signed CP)
+  the day after her follow-up went out. Marked DECLINED, no further
+  outreach.
+- 1 new demo: `fratelli-paiano` (Chiusure Lampo Fratelli Paiano,
+  zippers/haberdashery, Via Montebuono 18/A, Trieste Salario, dal 1951,
+  officially recognized historic bottega, owner Antonio Paiano known
+  locally as "il re delle cerniere di Roma"). Real email found directly
+  on their own Contatti page, confirmed via curl (today's explicit
+  priority: a first-party email, not a directory guess). Their own site
+  is confirmed dal vivo to use 100% generic Unsplash stock photography
+  (the image paths literally say "unsplash"), so the outreach is honest
+  about that specific gap rather than claiming a broken site. No real
+  photos of this specific shop exist anywhere checked (own site is
+  stock-only, no press coverage, review aggregators don't cover this
+  category, Facebook exists but is the standing unreachable-by-fetch
+  case, no Instagram found), so honest well-documented Unsplash stock
+  was used instead, picked to match their actual trade (zippers,
+  ribbons, buttons, haberdashery drawers) rather than generic filler,
+  and one candidate hero photo was cropped to remove a different real
+  shop's own tag visible in the original. Mood: vintage. Text-initial
+  logo ("FP"), no real mark exists anywhere.
+
+## 2026-09-22, Round 30 (prior)
+
+**Round 30: 1 real decline recorded, 1 new
 demo built and emailed.**
 
 - **Real reply, flagged clearly**: `biscottificio-innocenti` replied

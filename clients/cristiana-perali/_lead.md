@@ -20,9 +20,13 @@
   (cristianaperali.it), fetched directly for real history text, the
   real logo, and real product photos. Cross-checked against the
   Unioncamere official historic-businesses registry for the email.
-- **Status:** outreach-sent (email sent 2026-09-18 to
+- **Status:** DECLINED, no further action (email sent 2026-09-18 to
   info@cristianaperali.it, Gmail message ID `1a0b3e48d19d2b6c`)
-- **Response:** no reply yet. Follow-up sent 2026-09-21 (Gmail message ID `1a0c2cd243cf803f`)
+- **Response:** real reply received 2026-09-22 from Cristiana Perali:
+  "Buongiorno, la ringrazio, ma non siamo interessati. Saluti CP." A
+  polite decline, not a bounce. Follow-up had been sent 2026-09-21
+  (Gmail message ID `1a0c2cd243cf803f`), crossed with her reply. No
+  further outreach to this lead.
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/cristiana-perali/
 - **Sold:** no
 - **Notes:**
