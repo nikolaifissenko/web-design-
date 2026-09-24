@@ -24,7 +24,7 @@
   found).
 - **Status:** outreach-sent (email sent 2026-09-21 to
   bernibarbara@hotmail.it, Gmail message ID `1a0c2d7fea322881`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-24 (Gmail message ID `1a0d23f72f816187`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/bottega-della-sedia/
 - **Sold:** no
 - **Notes:**
