@@ -3,10 +3,36 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-23): current pipeline snapshot
+## Start here (2026-09-24): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-23, Round 31: 1 real decline recorded, 1 new
+source of truth. **2026-09-24, Round 32: 1 follow-up sent, 1 new demo
+built and emailed.**
+
+- Follow-up sent to `bottega-della-sedia` (only lead in the FOLLOW-UP
+  DUE bucket today, 3 days since initial contact, no reply).
+- 1 new demo: `ottica-la-barbera` (Ottica La Barbera 1837, Via Cassia
+  925, founded in Naples 1837, once official supplier to the Royal
+  House). Real email found directly on their own Contatti page,
+  confirmed via curl. **Important disambiguation case**: this historic
+  name currently trades under two separate addresses/entities (Via
+  Cassia 925, used here, vs. Via Barberini 74, a different location
+  with its own contacts). Real, verified photos of the actual shop
+  (storefront, interior) were found via an independent press feature,
+  but they belong to the Via Barberini address, so they were
+  deliberately NOT used here to avoid misattributing a different
+  location's photos to the one being contacted (same category of risk
+  as the earlier `ristorante-panzirone` address ambiguity). A real,
+  high-quality gold circular "LB" monogram logo WAS used, confirmed
+  directly on the Via Cassia site itself. For photos, honest
+  well-documented Unsplash stock was used instead, screened individually
+  for third-party branding (one candidate showing visible "JINS"
+  branding and RMB price tags was caught and discarded). Mood:
+  editorial.
+
+## 2026-09-23, Round 31 (prior)
+
+**Round 31: 1 real decline recorded, 1 new
 demo built and emailed.**
 
 - **Real reply, flagged clearly**: `cristiana-perali` replied with a
