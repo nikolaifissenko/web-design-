@@ -22,7 +22,7 @@
   photos.
 - **Status:** outreach-sent (email sent 2026-09-22 to
   info@catellodauria.it, Gmail message ID `1a0c7f9b57896910`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-25 (Gmail message ID `1a0d765a96e5fe00`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/catello-dauria/
 - **Sold:** no
 - **Notes:**
