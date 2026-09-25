@@ -3,10 +3,38 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-24): current pipeline snapshot
+## Start here (2026-09-25): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-24, Round 32: 1 follow-up sent, 1 new demo
+source of truth. **2026-09-25, Round 33: 1 follow-up sent, 1 new demo
+built and emailed.**
+
+- Follow-up sent to `catello-dauria` (only lead in the FOLLOW-UP DUE
+  bucket today, 3 days since initial contact, no reply).
+- 1 new demo: `eufemi-stampe-antiche` (antique prints and maps, Via
+  Francesco Crispi 93 near Piazza di Spagna, three real documented
+  generations: grandfather started selling prints in 1959, father
+  continued from 1971, Massimo Eufemi opened the current shop in 2003).
+  Real email found directly in the text of their own Contatti page,
+  confirmed via curl. **Two leads dropped along the way for being the
+  wrong city or the wrong quality bar**: a beautiful three-generation
+  woodworking bottega (Bottega Ebanista, Morocutti family) turned out
+  to be based in Paluzza (Udine), not Rome, caught before any further
+  work; a Rome cabinet-restoration business (RoMa Restauro) had a dead
+  old domain but its current live site (romarestaurosrl.com) turned out
+  to be a modern WordPress 7.1 build, disqualifying it on the "bad
+  website" requirement. For Eufemi, all four photos are real, pulled
+  directly from the business's own site's upload folder with original
+  camera filenames and EXIF data (Xiaomi Mi 9T Pro) proving they're
+  genuine, not stock: the real shop storefront, and three real antique
+  prints/maps they sell. The real logo is a connected cursive wordmark
+  with no separable icon to crop, so text initials were used, but in
+  colors sampled pixel-by-pixel from the real logo file. Mood:
+  editorial.
+
+## 2026-09-24, Round 32 (prior)
+
+**Round 32: 1 follow-up sent, 1 new demo
 built and emailed.**
 
 - Follow-up sent to `bottega-della-sedia` (only lead in the FOLLOW-UP
