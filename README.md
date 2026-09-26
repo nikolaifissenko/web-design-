@@ -3,10 +3,30 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-25): current pipeline snapshot
+## Start here (2026-09-26): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-25, Round 33: 1 follow-up sent, 1 new demo
+source of truth. **2026-09-26, Round 34: 1 follow-up sent, 1 new demo
+built and emailed.**
+
+- Follow-up sent to `fratelli-paiano` (only lead in the FOLLOW-UP DUE
+  bucket today, 3 days since initial contact, no reply).
+- 1 new demo: `studio-cassio` (Studio Cassio - Arte del Mosaico, Via
+  Urbana 98-98a, Rione Monti). Real, two-generation documented history:
+  Lorenzo Cassio was director of the Vatican Mosaic Studio in the early
+  20th century, his son Fabrizio opened the current laboratory in 1947.
+  Real email found directly in the text of their own Contatti page,
+  confirmed via curl. Everything on this demo is real: all three
+  photos (a classical sea-creature mosaic, a mosaic floor detail, a
+  Van Gogh "Starry Night" mosaic reinterpretation) were pulled directly
+  from the business's own site's "Civil Art" portfolio, and the real
+  logo has a genuinely separable icon (a cluster of red mosaic
+  tesserae) that was cropped cleanly, same pattern as `cristiana-perali`'s
+  monogram case. Mood: editorial.
+
+## 2026-09-25, Round 33 (prior)
+
+**Round 33: 1 follow-up sent, 1 new demo
 built and emailed.**
 
 - Follow-up sent to `catello-dauria` (only lead in the FOLLOW-UP DUE
