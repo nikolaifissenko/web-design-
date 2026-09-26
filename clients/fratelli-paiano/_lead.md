@@ -26,7 +26,7 @@
   per the standing technical block.
 - **Status:** outreach-sent (email sent 2026-09-23 to
   fratellipaiano@gmail.com, Gmail message ID `1a0cd1f3bf2af912`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-26 (Gmail message ID `1a0dc8c20c03be5c`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/fratelli-paiano/
 - **Sold:** no
 - **Notes:**
