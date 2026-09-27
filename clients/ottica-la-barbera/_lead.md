@@ -43,7 +43,7 @@
   not usable/found for this specific location.
 - **Status:** outreach-sent (email sent 2026-09-24 to
   info@otticalabarbera1837.it, Gmail message ID `1a0d24874ff8d056`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-27 (Gmail message ID `1a0e1b2ed9884409`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/ottica-la-barbera/
 - **Sold:** no
 - **Notes:**
