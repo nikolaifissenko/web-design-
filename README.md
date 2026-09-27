@@ -3,10 +3,43 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-26): current pipeline snapshot
+## Start here (2026-09-27): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-26, Round 34: 1 follow-up sent, 1 new demo
+source of truth. **2026-09-27, Round 35: 1 follow-up sent, 1 new demo
+built and emailed.**
+
+- Follow-up sent to `ottica-la-barbera` (only lead in the FOLLOW-UP DUE
+  bucket today, 3 days since initial contact, no reply).
+- 1 new demo: `pianoforti-papi` (piano sales/restoration/tuning, Via
+  Crescenzio 99/B, Prati, dal 1870, four generations: Giacomo opened
+  the workshop in 1870, his son Luigi tuned pianos for concert pianists
+  including Arturo Benedetti Michelangeli). Real email found directly
+  on their own site, confirmed via curl. All three photos are real,
+  pulled from their own site: the showroom, an interior shot with their
+  own real branding, and a piano-mechanism detail. One candidate photo
+  was caught and discarded for showing a visible third-party brand
+  ("PETROF") on a piano they sell/service. The real logo's treble-clef
+  element is only a faint background watermark with no clean separable
+  icon, so text initials were used in colors sampled from the real
+  logo. Mood: editorial. **Self-caught overreach**: the sent outreach
+  email says "suo nonno Luigi," presuming today's specific recipient is
+  Luigi's literal grandson, which the source only supports as "four
+  generations," not an exact chain: flagged honestly in `_lead.md` as a
+  phrasing lesson rather than corrected retroactively (the email was
+  already sent).
+- **Process note**: Pillow and Playwright were both found missing from
+  the Python environment mid-round (an apparent environment refresh)
+  and had to be reinstalled; separately, local `main` turned out to be
+  8 commits behind origin/main despite the previous round's `git
+  checkout main`, so this round's first commit briefly landed only on
+  the task branch before being reconciled onto `main` and pushed to
+  both. Worth checking `git status`/`git log` rather than assuming a
+  prior round's branch checkout held across a session gap.
+
+## 2026-09-26, Round 34 (prior)
+
+**Round 34: 1 follow-up sent, 1 new demo
 built and emailed.**
 
 - Follow-up sent to `fratelli-paiano` (only lead in the FOLLOW-UP DUE
