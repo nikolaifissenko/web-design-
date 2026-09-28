@@ -3,10 +3,34 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-27): current pipeline snapshot
+## Start here (2026-09-28): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-27, Round 35: 1 follow-up sent, 1 new demo
+source of truth. **2026-09-28, Round 36: 1 follow-up sent, 1 new demo
+built and emailed.**
+
+- Follow-up sent to `eufemi-stampe-antiche` (only lead in the
+  FOLLOW-UP DUE bucket today, 3 days since initial contact, no reply).
+- 1 new demo: `centro-restauro-tappeti` (Centro Lavaggio e Restauro
+  Tappeti di Esmail Yaghobi, Via Nomentana 215, hand-washing and
+  restoration of Persian/oriental rugs). Real email found directly in
+  the schema.org LocalBusiness markup on their own Contatti page,
+  confirmed via curl. **Caught and dropped an unverifiable claim**: a
+  web-search summary suggested "5 generations" of family tradition,
+  but that phrase doesn't appear anywhere on the business's own site
+  (checked directly), so it was left out rather than repeated as fact;
+  the demo only claims what their own site actually says (founder
+  Esmail Yaghobi, no generational count). All three photos are real,
+  pulled from their own site: a real rug close-up, a real photo of the
+  owner hand-restoring a rug's fringe, and a real repair-in-progress
+  shot. The real logo has a genuinely separable icon (a rolled-rug
+  scroll illustration) cropped cleanly out of a larger promotional
+  banner. Mood: rustic (no documented founding story to support an
+  "historic institution" framing).
+
+## 2026-09-27, Round 35 (prior)
+
+**Round 35: 1 follow-up sent, 1 new demo
 built and emailed.**
 
 - Follow-up sent to `ottica-la-barbera` (only lead in the FOLLOW-UP DUE
