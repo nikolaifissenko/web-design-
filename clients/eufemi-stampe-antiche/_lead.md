@@ -20,7 +20,7 @@
   history text, and real photos (their own site's own media uploads).
 - **Status:** outreach-sent (email sent 2026-09-25 to
   massimo.eufemi@libero.it, Gmail message ID `1a0d76c9bd9e4f74`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-28 (Gmail message ID `1a0e6d962d261dd4`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/eufemi-stampe-antiche/
 - **Sold:** no
 - **Notes:**
