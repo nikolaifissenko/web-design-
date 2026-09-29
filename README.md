@@ -3,10 +3,34 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-28): current pipeline snapshot
+## Start here (2026-09-29): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-28, Round 36: 1 follow-up sent, 1 new demo
+source of truth. **2026-09-29, Round 37: 1 follow-up sent, 1 new demo
+built and emailed.**
+
+- Follow-up sent to `studio-cassio` (only lead in the FOLLOW-UP DUE
+  bucket today, 3 days since initial contact, no reply).
+- 1 new demo: `romana-neon` (illuminated signage, Via del Mandrione
+  105, founded 1956 as an artisan workshop, with a real in-house
+  "soffieria neon" glass-bending workshop still hand-bending neon
+  tubes today). Real email found directly on their own Contatti page,
+  confirmed via curl. All three photos are real, pulled from their own
+  site's product category pages: a sign mid-installation, a real shot
+  inside their own workshop showing a hand-bent neon sign lit up with
+  tools visible, and a real LED pharmacy cross photographed on a Rome
+  street. **Several candidate photos deliberately discarded**: real
+  jobs Romana Neon made, but for identifiable third-party brands
+  (Poste Italiane, Kenzo Paris, Febalcasa) prominent in the shot,
+  avoided to prevent ambiguity about whose site this demo is actually
+  for. The real logo is a pure wordmark with no separable icon, so
+  text initials were used in colors sampled from the real logo. Mood:
+  bold (no family-founder story to support an editorial-heritage
+  framing, since it's a company rather than a named family business).
+
+## 2026-09-28, Round 36 (prior)
+
+**Round 36: 1 follow-up sent, 1 new demo
 built and emailed.**
 
 - Follow-up sent to `eufemi-stampe-antiche` (only lead in the
