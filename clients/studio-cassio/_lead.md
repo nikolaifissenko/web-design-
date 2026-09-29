@@ -18,7 +18,7 @@
   logo, and real photos from their own "Civil Art" portfolio page.
 - **Status:** outreach-sent (email sent 2026-09-26 to
   st.cassio@gmail.com, Gmail message ID `1a0dc91eb909985e`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-29 (Gmail message ID `1a0ebff6a94f8e9a`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/studio-cassio/
 - **Sold:** no
 - **Notes:**
