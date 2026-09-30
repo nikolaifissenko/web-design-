@@ -19,7 +19,7 @@
   history text, the real logo, and real photos from their own site.
 - **Status:** outreach-sent (email sent 2026-09-27 to
   info@pianofortipapi.it, Gmail message ID `1a0e1b82abdb244c`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-09-30 (Gmail message ID `1a0f1285cd2943f4`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/pianoforti-papi/
 - **Sold:** no
 - **Notes:**

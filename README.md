@@ -3,11 +3,43 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-29): current pipeline snapshot
+## Start here (2026-09-30): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-29, Round 37: 1 follow-up sent, 1 new demo
-built and emailed.**
+source of truth. **2026-09-30, Round 38: 1 follow-up sent, 1 new demo
+built and emailed, 2 candidate leads dropped.**
+
+- Follow-up sent to `pianoforti-papi` (only lead in the FOLLOW-UP DUE
+  bucket today, no reply since initial contact).
+- 1 new demo: `comandini` (religious articles, abbigliamento sacro and
+  souvenir, Borgo Pio 151, steps from St. Peter's, dal 1962). Real
+  email and phone found directly on their own homepage, confirmed via
+  curl. **No founder name is used**: an initial "Romano Comandini"
+  hypothesis from research could not be confirmed in the business's
+  own text and was dropped rather than risk an unverified generational
+  claim (the same lesson already logged for `pianoforti-papi`'s "suo
+  nonno Luigi"). Product photos on their own CDN could not be
+  confidently verified as genuinely theirs (read as likely generic
+  stock), so this demo uses honest, clearly disclosed Unsplash stock
+  instead, screened for third-party brands and for religious-tradition
+  mismatch (an Orthodox-church candle photo was found and rejected,
+  since Comandini is a Roman Catholic shop). The real logo is a pure
+  wordmark with no separable icon, and pixel-sampling confirmed it's
+  genuinely monochrome (pure black/white, no color at all), so text
+  initials are used: black taken from the real logo, gold chosen as a
+  complementary accent matching the shop's real liturgical gold
+  merchandise, not sampled from the logo since it has none. Mood:
+  editorial (60+ years of continuous history in a symbolically
+  significant location).
+- 2 candidate leads found and dropped today for failing the
+  first-party-contact bar: `Salustri` (only a JS-obfuscated email that
+  neither curl nor WebFetch could resolve) and `Turella Adriana` (site
+  unreachable on repeated fetches).
+
+## 2026-09-29, Round 37 (prior)
+
+**2026-09-29, Round 37: 1 follow-up sent, 1 new demo built and
+emailed.**
 
 - Follow-up sent to `studio-cassio` (only lead in the FOLLOW-UP DUE
   bucket today, 3 days since initial contact, no reply).
