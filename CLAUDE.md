@@ -17,16 +17,26 @@ just a style preference.
 
 ## Outreach: writing and sending
 
-- **When Nikolai says to work autonomously, that includes sending.**
-  (His instruction, 2026-09-03.) The "show the draft before sending"
-  rule below is for a normal session where he's present to review. When
-  he explicitly asks for autonomous work, finish the loop yourself:
-  build the demo, draft the email following the rules below (no price,
-  no invented personal connection, tone matched to the business), and
-  send it, don't stop and wait for a go-ahead that defeats the point of
-  "autonomous." Still show what was sent afterward, and never invent a
-  personal connection or a price regardless of how autonomous the
-  session is, those rules don't bend.
+- **Daily modus operandi (Nikolai's instruction, 2026-10-01, supersedes
+  the 2026-09-03 note below for the recurring daily routine):** at the
+  start of each day's work, before building or sending anything, tell
+  Nikolai the plan, which business(es) are about to be pitched and why,
+  any pipeline follow-ups due, then ask for his go-ahead. Do not build,
+  draft, or send before that go-ahead is given. Once he gives it,
+  complete the whole job yourself end to end without further
+  check-ins: build the demo, write the email per the rules below (no
+  price, no invented personal connection, tone matched to the
+  business), send it, update the lead docs, commit and push, then tell
+  him when it's done. Don't ask again mid-task, and don't stop short of
+  "done" either, once approved the loop runs to completion.
+- **2026-09-03 note (now scoped by the rule above):** "when Nikolai
+  says to work autonomously, that includes sending" still holds for the
+  execution phase after go-ahead, i.e. once approved, finish the loop
+  yourself rather than pausing again to show a draft. It no longer
+  means skipping the plan-then-go-ahead step itself for the daily
+  routine; that step is required every day per the rule above. Never
+  invent a personal connection or a price regardless of how autonomous
+  the session is, those rules don't bend.
 - **No price in the email itself.** The going rate can come up once
   there's a real conversation; leading with "500€" in a cold message
   reads like a sales pitch, not a real designer reaching out.
