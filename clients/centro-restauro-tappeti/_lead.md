@@ -19,7 +19,7 @@
 - **Status:** outreach-sent (email sent 2026-09-28 to
   info@centrolavaggioerestaurotappeti.it, Gmail message ID
   `1a0e6dfc787f3a23`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-10-01 (Gmail message ID `1a0f64bdd701101f`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/centro-restauro-tappeti/
 - **Sold:** no
 - **Notes:**

@@ -3,11 +3,46 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-09-30): current pipeline snapshot
+## Start here (2026-10-01): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-09-30, Round 38: 1 follow-up sent, 1 new demo
-built and emailed, 2 candidate leads dropped.**
+source of truth. **2026-10-01, Round 39: 1 follow-up sent, 1 new demo
+built and emailed, 1 candidate lead dropped.** Checked the "DEMO BUILT,
+PITCH NOT SENT" bucket first per today's instructions: all 5 entries
+there are correctly held (4 are Instagram/Facebook-only with drafts
+left for Nikolai to send himself, 1 needs a phone verification before
+any outreach), nothing was actually stuck or missed.
+
+- Follow-up sent to `centro-restauro-tappeti` (only lead in the
+  FOLLOW-UP DUE bucket today, 3 days since initial contact, no reply).
+- 1 new demo: `massoni` (Massoni & Massoni, gioielleria e argenteria,
+  Via Margutta 54/A, dal 1790, seven generations of the same family).
+  Real email and phone found directly on their own Contatti page,
+  confirmed via curl. Their own Contatti page itself renders a
+  "404"/"VERSIONE TESTING" error state while still showing the real
+  footer, a concrete sign of neglected maintenance, on a site still
+  running jQuery 1.9.1 (2013). **Photos required careful third-party-
+  brand screening**: this business's core trade is vintage/estate
+  jewelry, so most of their own real photos (including the entire
+  homepage hero slider) are of pieces signed by other famous maisons
+  (Bulgari, Van Cleef & Arpels), explicitly labelled as such in the
+  site's own alt text. All of those were avoided per CLAUDE.md's
+  third-party-brand rule; the three photos used (a gold/diamond
+  bracelet, a pearl necklace, a sapphire ring) carry no third-party
+  signature, checked visually piece by piece. The real logo has a
+  genuine separable icon (a red wax-seal with an "M" monogram), cropped
+  cleanly, no redesign needed. Mood: editorial (236 years of
+  continuous, documented history across seven generations).
+- 1 candidate lead found and dropped today: Emiliozzi (Sanitaria/
+  Ortopedia dal 1904, Via Tomacelli). Real email confirmed, but the
+  live site turned out to be a well-maintained, actively-updated
+  WooCommerce store with no signs of neglect, so it doesn't fit this
+  project's premise (bad or missing website) and no demo was built.
+
+## 2026-09-30, Round 38 (prior)
+
+**2026-09-30, Round 38: 1 follow-up sent, 1 new demo built and
+emailed, 2 candidate leads dropped.**
 
 - Follow-up sent to `pianoforti-papi` (only lead in the FOLLOW-UP DUE
   bucket today, no reply since initial contact).
