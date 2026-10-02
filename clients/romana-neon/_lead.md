@@ -23,7 +23,7 @@
   category pages.
 - **Status:** outreach-sent (email sent 2026-09-29 to
   info@romananeon.com, Gmail message ID `1a0ec0630dd7a1a5`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-10-02 (Gmail message ID `1a0fcf324c6092f5`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/romana-neon/
 - **Sold:** no
 - **Notes:**

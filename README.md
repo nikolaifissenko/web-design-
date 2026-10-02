@@ -3,18 +3,47 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-10-01): current pipeline snapshot
+## Start here (2026-10-02): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-10-01, Round 39: 1 follow-up sent, 1 new demo
-built and emailed, 1 candidate lead dropped.** Checked the "DEMO BUILT,
-PITCH NOT SENT" bucket first per today's instructions: all 5 entries
-there are correctly held (4 are Instagram/Facebook-only with drafts
-left for Nikolai to send himself, 1 needs a phone verification before
-any outreach), nothing was actually stuck or missed.
+source of truth. **2026-10-02, Round 40: 1 follow-up sent, 1 new demo
+built and emailed.** New standing process starting today: per Nikolai's
+instruction, the daily routine now states the plan (who's being
+pitched, why, what follow-ups are due) and waits for his explicit
+go-ahead before building or sending anything; see the updated
+"Outreach: writing and sending" section in `CLAUDE.md`.
+
+- Follow-up sent to `romana-neon` (only lead in the FOLLOW-UP DUE
+  bucket today, 3 days since initial contact, no reply).
+- 1 new demo: `desanctis-1890` (ceramiche artigianali italiane, Via
+  della Scrofa 90, dal 1890, 136 years, same family). Real email and
+  phone found directly on their own Contatti page, confirmed via curl.
+  The site runs a modern WordPress/WooCommerce/Elementor stack but is
+  concretely unfinished: literal "Lorem ipsum" placeholder text live
+  in a real FAQ section, and a fake "Flat 50% OFF, Hurry up before the
+  stock ends" dummy promo banner, both verified directly in the HTML.
+  A different case from `emiliozzi` (dropped 2026-10-01 for being
+  genuinely well-maintained): same modern framework, but this one was
+  never actually finished. All three photos are real, from their own
+  product catalog (a Ricco Deruta plate, a Caltagirone ceramic head, a
+  hand-painted "Pizza" plate). The real logo is a pure white wordmark
+  with no separable icon and no color of its own, so text initials
+  ("DS") are used with accent colors sampled pixel-by-pixel from a real
+  product photo instead, the same honest approach used for
+  `comandini`'s gold accent. Mood: editorial (136 years of continuous,
+  documented family history).
+
+## 2026-10-01, Round 39 (prior)
+
+**2026-10-01, Round 39: 1 follow-up sent, 1 new demo built and
+emailed, 1 candidate lead dropped.** Checked the "DEMO BUILT, PITCH NOT
+SENT" bucket first per that day's instructions: all 5 entries there
+were correctly held (4 are Instagram/Facebook-only with drafts left
+for Nikolai to send himself, 1 needs a phone verification before any
+outreach), nothing was actually stuck or missed.
 
 - Follow-up sent to `centro-restauro-tappeti` (only lead in the
-  FOLLOW-UP DUE bucket today, 3 days since initial contact, no reply).
+  FOLLOW-UP DUE bucket that day, 3 days since initial contact, no reply).
 - 1 new demo: `massoni` (Massoni & Massoni, gioielleria e argenteria,
   Via Margutta 54/A, dal 1790, seven generations of the same family).
   Real email and phone found directly on their own Contatti page,
