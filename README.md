@@ -3,15 +3,26 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-10-02): current pipeline snapshot
+## Start here (2026-10-05): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-10-02, Round 40: 1 follow-up sent, 1 new demo
-built and emailed.** New standing process starting today: per Nikolai's
-instruction, the daily routine now states the plan (who's being
-pitched, why, what follow-ups are due) and waits for his explicit
-go-ahead before building or sending anything; see the updated
-"Outreach: writing and sending" section in `CLAUDE.md`.
+source of truth. **2026-10-05, Round 41: 2 follow-ups sent (comandini,
+massoni), 1 new demo built and emailed: `stilo-fetti`** (penne
+stilografiche, Via degli Orfani 82, dal 1893, a due passi dal
+Pantheon). Real email/phone confirmed in their own page text. Site has
+16 live `dummy.png` placeholders, concrete evidence of neglect despite
+a modern PrestaShop stack. Photos use their own exclusive "I 7 Re di
+Roma" pen collection to avoid the third-party-brand names on most of
+their catalog (they're an official Montblanc/Parker/etc. dealer).
+Logo is a real separable ink-blot icon; accent colors sampled from a
+real product photo since the logo itself is monochrome. Two other
+candidates (Lisio Tessuti, Terracina Store) dropped: dead/parked
+domains.
+
+## 2026-10-02, Round 40 (prior)
+
+**2026-10-02, Round 40: 1 follow-up sent, 1 new demo built and
+emailed.**
 
 - Follow-up sent to `romana-neon` (only lead in the FOLLOW-UP DUE
   bucket today, 3 days since initial contact, no reply).

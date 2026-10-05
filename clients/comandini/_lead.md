@@ -23,7 +23,7 @@
   history text.
 - **Status:** outreach-sent (email sent 2026-09-30 to info@comandini.it,
   Gmail message ID `1a0f1365e53ad8c1`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-10-05 (Gmail message ID `1a10ae50a99c63c8`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/comandini/
 - **Sold:** no
 - **Two other candidate leads tried and dropped today:**

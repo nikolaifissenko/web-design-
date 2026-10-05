@@ -26,7 +26,7 @@
   text, logo, and real product photos from their own "Acquista" page.
 - **Status:** outreach-sent (email sent 2026-10-01 to
   massoni.info@gmail.com, Gmail message ID `1a0f651812ddd320`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-10-05 (Gmail message ID `1a10ae50cacf8906`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/massoni/
 - **Sold:** no
 - **One other candidate lead checked and dropped today:** Emiliozzi
