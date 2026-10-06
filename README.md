@@ -3,21 +3,35 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-10-05): current pipeline snapshot
+## Start here (2026-10-06): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-10-05, Round 41: 2 follow-ups sent (comandini,
-massoni), 1 new demo built and emailed: `stilo-fetti`** (penne
-stilografiche, Via degli Orfani 82, dal 1893, a due passi dal
-Pantheon). Real email/phone confirmed in their own page text. Site has
-16 live `dummy.png` placeholders, concrete evidence of neglect despite
-a modern PrestaShop stack. Photos use their own exclusive "I 7 Re di
-Roma" pen collection to avoid the third-party-brand names on most of
-their catalog (they're an official Montblanc/Parker/etc. dealer).
-Logo is a real separable ink-blot icon; accent colors sampled from a
-real product photo since the logo itself is monochrome. Two other
-candidates (Lisio Tessuti, Terracina Store) dropped: dead/parked
-domains.
+source of truth. **2026-10-06, Round 42: 1 follow-up sent
+(desanctis-1890), 1 new demo built and emailed: `troncarelli`**
+(Antica Cappelleria Troncarelli, hats, near Piazza Navona, dal 1857,
+169 years, five generations). Real email/phone confirmed, real broken
+Instagram-feed error verified in their HTML. Hero photo is a genuine
+historic shot of the owners (Fulvio and Andrea Troncarelli) found on
+their own site, cropped to exclude a third-party brand sign in the
+background (they're an official Borsalino/Stetson/etc. dealer, same
+pattern as `massoni`/`stilo-fetti`); the other two slots are honest
+disclosed Unsplash stock since their own product photos read as
+generic stock. Logo has real color this time (not monochrome), so
+accent colors are sampled directly from it.
+
+## 2026-10-05, Round 41 (prior)
+
+**2026-10-05, Round 41: 2 follow-ups sent (comandini, massoni), 1 new
+demo built and emailed: `stilo-fetti`** (penne stilografiche, Via
+degli Orfani 82, dal 1893, a due passi dal Pantheon). Real email/phone
+confirmed in their own page text. Site has 16 live `dummy.png`
+placeholders, concrete evidence of neglect despite a modern PrestaShop
+stack. Photos use their own exclusive "I 7 Re di Roma" pen collection
+to avoid the third-party-brand names on most of their catalog (they're
+an official Montblanc/Parker/etc. dealer). Logo is a real separable
+ink-blot icon; accent colors sampled from a real product photo since
+the logo itself is monochrome. Two other candidates (Lisio Tessuti,
+Terracina Store) dropped: dead/parked domains.
 
 ## 2026-10-02, Round 40 (prior)
 

@@ -31,7 +31,7 @@
   history text, logo, and real product photos from their own catalog.
 - **Status:** outreach-sent (email sent 2026-10-02 to
   info@desanctis1890.com, Gmail message ID `1a0fcf5c46e3af1d`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-10-06 (Gmail message ID `1a1100e697361ede`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/desanctis-1890/
 - **Sold:** no
 - **Notes:**
