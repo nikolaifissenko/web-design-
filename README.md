@@ -3,11 +3,29 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-10-06): current pipeline snapshot
+## Start here (2026-10-07): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-10-06, Round 42: 1 follow-up sent
-(desanctis-1890), 1 new demo built and emailed: `troncarelli`**
+source of truth. **2026-10-07, Round 43: no follow-ups due, 1 new demo
+built and emailed: `buccone`** (Enoteca Buccone, Via di Ripetta, a wine
+shop since 1969 in a building that was a Cavalcabò family carriage
+house, then an osteria). Real email found in a hidden contact-form
+field on their own site. Their site is a genuinely 2005-era table-
+layout HTML page (EXIF-dated), far more extreme than other "dated"
+leads. Real photos of the owners, the interior, and an antique cash
+register. Logo is a decorative wordmark GIF with no separable icon;
+text initials "EB" used in colors sampled from it. Four other
+candidates dropped: two dead domains (Ferranti, Bottega del
+Soldatino), one bare hosting placeholder (Gardino), one no-owned-site
+(Bruno Valentino), and one already well-maintained (Poggi, updated
+this month). Also starting work on a larger backlog: sourcing ~100
+candidate businesses for future rounds (see below), per Nikolai's
+request.
+
+## 2026-10-06, Round 42 (prior)
+
+**2026-10-06, Round 42: 1 follow-up sent (desanctis-1890), 1 new demo
+built and emailed: `troncarelli`**
 (Antica Cappelleria Troncarelli, hats, near Piazza Navona, dal 1857,
 169 years, five generations). Real email/phone confirmed, real broken
 Instagram-feed error verified in their HTML. Hero photo is a genuine
