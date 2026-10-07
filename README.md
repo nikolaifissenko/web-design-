@@ -18,9 +18,11 @@ text initials "EB" used in colors sampled from it. Four other
 candidates dropped: two dead domains (Ferranti, Bottega del
 Soldatino), one bare hosting placeholder (Gardino), one no-owned-site
 (Bruno Valentino), and one already well-maintained (Poggi, updated
-this month). Also starting work on a larger backlog: sourcing ~100
-candidate businesses for future rounds (see below), per Nikolai's
-request.
+this month). Also built a sourcing backlog of 91 new candidate
+businesses for future rounds, per Nikolai's request, see
+`leads_backlog.md` (pick 1-2 from there per day and verify before
+building, same as always, it's a sourcing list not pre-verified
+leads).
 
 ## 2026-10-06, Round 42 (prior)
 
