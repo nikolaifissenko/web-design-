@@ -31,7 +31,7 @@ other round.
    site, build it. If not, mark it below (dead domain / no email /
    well-maintained / duplicate) so the next round doesn't retry it.
 
-## Candidates (91)
+## Candidates (90)
 
 ### Food & drink
 - Angelo Feroci (macelleria) — Via della Maddalena, 15
@@ -67,7 +67,6 @@ other round.
 - Tabaccheria Albanesi — Via Sistina, 108
 - Tabaccheria Giovenchi — Via del Moro, 39
 - Trattoria Giggetto Al Portico D'Ottavia — Via del Portico d'Ottavia, 21/A
-- Trimani Vinai dal 1821 — Via Goito, 20
 - Vendita generi alimentari Santi Zeno — Via Giacinto Carini, 27-29
 
 ### Jewelry, silver & watches
@@ -187,4 +186,5 @@ Cartoleria Mancini Nives, Cartolerie Internazionali Roccas
 Coltelleria Prezioso, Fabbrica di Bambole Cesaretti
 (`cesaretti-bambole`), Franchi Argentieri (same family/address as
 "Laboratorio di Argenteria Franchi Adolfo"), Massoni, Salumeria F.lli
-Ciavatta (`salumeria-ciavatta`), Vetrate d'arte Giuliani.
+Ciavatta (`salumeria-ciavatta`), Vetrate d'arte Giuliani, Trimani Vinai
+(built 2026-10-08).

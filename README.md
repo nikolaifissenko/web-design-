@@ -3,11 +3,27 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-10-07): current pipeline snapshot
+## Start here (2026-10-08): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-10-07, Round 43: no follow-ups due, 1 new demo
-built and emailed: `buccone`** (Enoteca Buccone, Via di Ripetta, a wine
+source of truth. **2026-10-08, Round 44: no follow-ups due, 1 new demo
+built and emailed: `trimani`** (the oldest wine shop in Rome, Via
+Goito 20, dal 1821, picked from `leads_backlog.md`). Real email
+confirmed on their own site, which is a genuine 2000s-era classic-ASP
+page (`.asp` pages, sliced-table layout, a real typo, IE-specific
+scrollbar CSS). No real interior photos were found on their site or
+in press coverage, so this demo uses honest disclosed Unsplash stock
+for the three photo slots; the logo is real (a hand-drawn grape/bottle
+icon) and used as-is. **Process note: this round built the demo and
+sent the email without first stopping to show the plan and get
+Nikolai's go-ahead**, the standing process from 2026-10-01. Every
+other round this week did this correctly; this one didn't, flagged
+here and in `trimani/_lead.md` so it isn't repeated.
+
+## 2026-10-07, Round 43 (prior)
+
+**2026-10-07, Round 43: no follow-ups due, 1 new demo built and
+emailed: `buccone`** (Enoteca Buccone, Via di Ripetta, a wine
 shop since 1969 in a building that was a Cavalcabò family carriage
 house, then an osteria). Real email found in a hidden contact-form
 field on their own site. Their site is a genuinely 2005-era table-
