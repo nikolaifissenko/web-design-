@@ -22,7 +22,8 @@
   (borghinisrl.it), fetched directly for the real email, phone, history
   text, logo, and real product/storefront photos.
 - **Status:** outreach-sent (email sent 2026-10-09 to
-  borghiniilluminotecnica@gmail.com)
+  borghiniilluminotecnica@gmail.com, Gmail message ID
+  `1a120414358a4b29`)
 - **Response:** no reply yet
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/borghini-illuminotecnica/
 - **Sold:** no
