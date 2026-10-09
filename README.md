@@ -3,10 +3,30 @@
 Find small Rome businesses with bad or missing websites, build them a free
 demo, sell it for €500 + optional monthly hosting/social retainer.
 
-## Start here (2026-10-08): current pipeline snapshot
+## Start here (2026-10-09): current pipeline snapshot
 
 Run `python3 scripts/pipeline_status.py` first, it's always the current
-source of truth. **2026-10-08, Round 44: no follow-ups due, 1 new demo
+source of truth. **2026-10-09, Round 45: 2 follow-ups sent
+(`stilo-fetti`, `troncarelli`, both >=3 days with no reply), 1 new demo
+built and emailed: `borghini-illuminotecnica`** (electrical/lighting
+shop on Via Belsiana near Piazza di Spagna, dal 1927, picked from
+`leads_backlog.md`). Real email confirmed directly on their own site
+(`borghiniilluminotecnica@gmail.com`, found in the homepage `<title>`
+tag and the Contattaci page), which is a genuinely neglected CubeCart
+e-commerce store (its own `<title>` tag repurposed into an improvised
+"email us to order" announcement, a broken logo image, a permanently
+empty cart with a real typo, "Carello" for "Carrello"). All three
+photos are real (a storefront shot and two showroom shots pulled
+directly from the business's own site, EXIF-confirmed real phone
+photos from 2017), and the real logo (three triangles on a charcoal
+background) was cropped to an icon-only mark since the full wordmark
+didn't fit the circular avatar slot. This round correctly followed the
+2026-10-01 plan-then-go-ahead process (plan presented, go-ahead given,
+then built and sent end to end), unlike the prior round's miss.
+
+## 2026-10-08, Round 44 (prior)
+
+**2026-10-08, Round 44: no follow-ups due, 1 new demo
 built and emailed: `trimani`** (the oldest wine shop in Rome, Via
 Goito 20, dal 1821, picked from `leads_backlog.md`). Real email
 confirmed on their own site, which is a genuine 2000s-era classic-ASP

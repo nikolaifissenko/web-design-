@@ -94,20 +94,25 @@ other round.
 - Antica Cartotecnica — Piazza Dei Caprettari, 61
 - Antiquariato Lorenzale — Via dei Coronari, 2
 - Antiquariato Valligiano — Via Giulia, 193
-- Arredamenti Albanesi — Viale Regina Margherita, 85
-- Borghini Illuminotecnica (lighting) — Via Belsiana, 87-89
-- Cartografica Visceglia (maps, 1929) — Via Francesco Domenico Guerrazzi, 15
 - Colori ferramenta di Ceccarelli Stefano — Piazza Sallustio, 13-15
 - Creazioni Domus — Via Belsiana, 52
 - Elettricità Lauteri — Corso Vittorio Emanuele II, 265
+  (only a Facebook page found so far, no email; worth a retry)
 - Fonderia Lefèvre (foundry) — Via del Pellegrino, 99
+  (own site adolfolefevre.it returns 403 to curl/WebFetch even with
+  browser headers, not confirmed as a dead domain, worth a retry with
+  a different approach)
 - Galleria d'arte Benucci — Via del Babuino, 150
-- Grammaroli Marmi dal 1906 — Via dei Reti, 21
+  (only a directory-sourced Gmail address found, not confirmed on a
+  site of their own; needs a first-party check)
 - Laboratorio cornici Palla e Reginelli — Via di Ripetta, 152
 - Laboratorio di Restauro Colagiovanni — Via di San Bartolomeo de' Vaccinari, 84
 - Laboratorio idraulica F.lli Mariani — Via Rasella, 154
 - Materiali Edili Confalone dal 1949 — Via Sarsina, 219
+  (no website/email found yet, phone only)
 - Modellismo e Giocattoli RoCri — Via Bari, 2
+  (only a directory-sourced Gmail address found, their own site
+  rocrimodellismo.com not checked directly yet)
 - Ripetta Design — Via di Ripetta, 152
 - Vincioni Marmi — Via Tiburtina, 171
 
@@ -154,7 +159,17 @@ other round.
   ortopedia), Poggi Belle Arti (dal 1825, images uploaded this
   month), TEBRO Biancheria (professional agency-built site, no email
   found anyway), Bedetti (Rolex authorized dealer, actively updated,
-  also heavy third-party-brand photo risk).
+  also heavy third-party-brand photo risk), Cartografica Visceglia
+  (real PrestaShop e-commerce site, info@visceglia.it confirmed
+  first-party but the site itself is a functioning modern store),
+  Gioielleria Quattrocolo (quattrocolo.com is an actively maintained
+  WooCommerce store with 2025 product uploads), Calzature Farinacci
+  (farinacci.it is a real PrestaShop store on a purchased theme,
+  info@farinacci.it confirmed first-party but not a neglected site),
+  Grammaroli Marmi (grammarolimarmi.com is modern WordPress 6.6.1 +
+  Elementor, recently built), Arredamenti Albanesi
+  (albanesiarredamenti.it is modern WordPress 7.1.2, actively
+  maintained).
 - **Obviously not a fit:** Spazio Etoile - Maison Louis Vuitton (a
   luxury-brand flagship store, not a small independent business).
 - **Worth a retry, not a dead end:** Laboratorio di restauro Pavia
@@ -187,4 +202,4 @@ Coltelleria Prezioso, Fabbrica di Bambole Cesaretti
 (`cesaretti-bambole`), Franchi Argentieri (same family/address as
 "Laboratorio di Argenteria Franchi Adolfo"), Massoni, Salumeria F.lli
 Ciavatta (`salumeria-ciavatta`), Vetrate d'arte Giuliani, Trimani Vinai
-(built 2026-10-08).
+(built 2026-10-08), Borghini Illuminotecnica (built 2026-10-09).

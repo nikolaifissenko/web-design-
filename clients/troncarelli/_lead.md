@@ -23,7 +23,8 @@
   first domain, full text came through on the redirect target).
 - **Status:** outreach-sent (email sent 2026-10-06 to
   info@troncarelli.it, Gmail message ID `1a11011e18af7cb5`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-10-09 (Gmail message
+  ID `1a1203608b2fe25e`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/troncarelli/
 - **Sold:** no
 - **Notes:**

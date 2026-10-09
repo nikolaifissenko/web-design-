@@ -22,7 +22,8 @@
   text, logo, and real product photos from their own catalog.
 - **Status:** outreach-sent (email sent 2026-10-05 to
   info@stilofetti.it, Gmail message ID `1a10ae6bcbafd234`)
-- **Response:** no reply yet
+- **Response:** no reply yet. Follow-up sent 2026-10-09 (Gmail message
+  ID `1a1203600efb050e`)
 - **Demo URL:** https://nikolaifissenko.github.io/web-design-/clients/stilo-fetti/
 - **Sold:** no
 - **Two other candidates checked and dropped before this one:** Lisio
